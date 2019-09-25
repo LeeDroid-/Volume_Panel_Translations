@@ -1,0 +1,44 @@
+Key Features:
+* An Android 9/10 inspired Volume Control Panel.
+* Choose Media or Ring as the default button response.
+* Start collapsed or expanded.
+* Left or Right handed mode.
+* Custom vertical position.
+* Custom panel timeout.
+* Hide the alarm volume panel.
+* Force close system dialogs.
+* Custom background, slider & icon colours.
+* Option to exclude from certain applications.
+* Volume streams: Cast, Media, Ring, Call & Alarm.
+* Bluetooth volume control.
+* Quick Settings Pull-down Tiles.
+* Pinned Launcher Shortcuts (Oreo+)
+
+Quick Access Icons (in the panel):
+* Instant access to alarm clock & alarm status.
+* Instantly mute media or casting streams.
+* Switch between speaker/earpiece when in call.
+* Toggle between Ring, Vibrate or do Not Disturb (Silent).
+
+Additional Quick Settings Pull Down Tiles:
+* Mute Media.
+*Toggle Ring Mode.
+* Launch Volume Panel.
+
+Pinned Launcher Shortcuts (Oreo+):
+* Mute Media.
+* Toggle Ring Mode.
+* Launch Volume Panel.
+
+PLEASE NOTE: Button Mapping apps such as Button Mapper or Bixby Button Remapper may interfere if volume button customisation is enabled.
+
+Limitations: Cannot display over the lockscreen or system pulldown & cannot detect 1st long press, a second click is required.
+
+Required Permissions:
+* Accessibility - Detect volume key presses & excluded applications.
+* Notification Listener Access - Detect audio casting & toggle Do Not Disturb.
+* Overlay Permissions - Show the panel as a system overlay.
+
+volume panel does not collect or share any personal information, nor does it have any of the permissions required to do so.
+
+KeyWords: Volume Control, System Volume Panel, Volume Buttons, Mute Media, Ring Mode, Cast Volume, Android Pie, Android 10, Android Pie, Zen, DND
