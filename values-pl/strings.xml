@@ -19,13 +19,13 @@
         \n\u2022 Detect when excluded applications are being used.
         \n\nNo other keys are captured &amp; only the presence of excluded applications is detected, no content.
         \n\nSome devices may require a reboot to start the service.</string>
-    <string name="need_dnd">Do Not Disturb Permissions Required</string>
+    <string name="need_dnd">Wymagane Uprawnienia Do Trybu Nieprzeszkadzać</string>
     <string name="no">Nie</string>
     <string name="vol_timeout">Panel Timeout</string>
     <string name="yes">Tak</string>
     <string name="notification_listener">Volume Panel Notification Listener</string>
     <string name="apply">Zastosuj</string>
-    <string name="perms"><u>Permissions Required</u>
+    <string name="perms"><u>Wymagane Uprawnienia</u>
         \n\nIn order to override the system volume panel, several permissions are required.
         \n\nI will now show you a screen detailing those permissions with a button to enable them.
         \n\nOnce the permission is enabled, please press back to return to the app.</string>
@@ -33,10 +33,10 @@
         \n\n\u2022 Detect active Casting or Streaming.
         \n\u2022 Modify Do Not Disturb Settings.
         \n\nNo notification content is captured.</string>
-    <string name="grant">Grant Permission</string>
+    <string name="grant">Przyznaj Uprawnienia</string>
     <string name="not_found">Activity not found, please navigate to Settings and grant manually</string>
     <string name="exclude_applications">Exclude Applications</string>
-    <string name="icon_colour">Icon Colour</string>
+    <string name="icon_colour">Kolor Ikon</string>
     <string name="background_colour">Background Colour</string>
     <string name="slider_colour">Slider colour</string>
     <string name="_3s">3s</string>
@@ -47,7 +47,7 @@
     <string name="position_left">Left Handed</string>
     <string name="dark_mode">Tryb Ciemny</string>
     <string name="enable_volume_panel">Włącz Panel Głośności</string>
-    <string name="select_apps">Select Applications</string>
+    <string name="select_apps">Wybierz Aplikacje</string>
     <string name="loading_apps">Loading Applications</string>
     <string name="done">Zrobione</string>
     <string name="exclude_applications_sum">Volume panel will not open in these applications.</string>
@@ -70,7 +70,7 @@
     <string name="oops_error">Oops.. It looks like something went wrong and Volume Panel crashed, please hit \"SEND REPORT\" below to let me know.</string>
     <string name="latest">Please make sure you are using the latest version.</string>
     <string name="send_report">Wyślij Report</string>
-    <string name="add_shortcut">Add Launcher Shortcut</string>
+    <string name="add_shortcut">Dodaj Skrót do Launchera</string>
     <string name="launch">Pokaż Panel Głośności</string>
     <string name="disable_acc">PLEASE DISABLE THE ACCESSIBILITY SERVICE.</string>
     <string name="ver_pos">Vertical Position</string>
