@@ -3,7 +3,7 @@
     <string name="notification_policy_message">Volume Panel requires the ability to modify notification &amp; DND settings, as we cannot request this permission in the normal fashion so you will need to enable it manually.
         \n\nClick proceed &amp; you will be taken to the relevant screen.\n</string>
     <string name="proceed">Proceed</string>
-    <string name="app_name">Volume Panel</string>
+    <string name="app_name">Panel Głośności</string>
     <string name="volumeui">Volume UI</string>
     <string name="current_shot">Currently set to %1$d seconds</string>
     <string name="overlay_needed"><u>System Overlay</u>
@@ -11,8 +11,8 @@
     <string name="failed_window_add">Failed to add window, please open the app and make sure Screen Overlay permissions have been granted</string>
     <string name="cp_head">Tap CENTER to confirm</string>
     <string name="transparency">Transparency</string>
-    <string name="disable">Disable</string>
-    <string name="cancel">Cancel</string>
+    <string name="disable">Zamknij</string>
+    <string name="cancel">Anuluj</string>
     <string name="press_back">Once complete, press back to return to the app.</string>
     <string name="accessibility_description"><u>Accessibility Access</u>
         \n\n\u2022 Detect Volume +/- key presses.
@@ -20,11 +20,11 @@
         \n\nNo other keys are captured &amp; only the presence of excluded applications is detected, no content.
         \n\nSome devices may require a reboot to start the service.</string>
     <string name="need_dnd">Do Not Disturb Permissions Required</string>
-    <string name="no">No</string>
+    <string name="no">Nie</string>
     <string name="vol_timeout">Panel Timeout</string>
-    <string name="yes">Yes</string>
+    <string name="yes">Tak</string>
     <string name="notification_listener">Volume Panel Notification Listener</string>
-    <string name="apply">Apply</string>
+    <string name="apply">Zastosuj</string>
     <string name="perms"><u>Permissions Required</u>
         \n\nIn order to override the system volume panel, several permissions are required.
         \n\nI will now show you a screen detailing those permissions with a button to enable them.
@@ -41,19 +41,19 @@
     <string name="slider_colour">Slider colour</string>
     <string name="_3s">3s</string>
     <string name="panel_timeout">Panel Timeout</string>
-    <string name="show_alarm_panel">Show Alarm Panel</string>
-    <string name="default_to_ring_volume">Default To Ring Volume</string>
+    <string name="show_alarm_panel">Pokaż Panel Alarmu</string>
+    <string name="default_to_ring_volume">Domyślny Dźwięk Głośności</string>
     <string name="start_collapsed">Start Collapsed</string>
     <string name="position_left">Left Handed</string>
-    <string name="dark_mode">Dark Mode</string>
-    <string name="enable_volume_panel">Enable Volume Panel</string>
+    <string name="dark_mode">Tryb Ciemny</string>
+    <string name="enable_volume_panel">Włącz Panel Głośności</string>
     <string name="select_apps">Select Applications</string>
     <string name="loading_apps">Loading Applications</string>
-    <string name="done">Done</string>
+    <string name="done">Zrobione</string>
     <string name="exclude_applications_sum">Volume panel will not open in these applications.</string>
     <string name="timeout">%1$ds</string>
     <string name="about">
-        <![CDATA[<b>Volume Panel:</b>
+        <![CDATA[<b>Panel Głośności:</b>
         <br/>\u2022A flexible replacement for your system volume controls.
         <br/><br/><b>Designed &amp; Developed By:</b>
         <br/>\u2022 Lee Bailey (AKA @LeeDrOiD)
@@ -62,16 +62,16 @@
         <br/>\u2022 Ereza for Custom Activity On Crash.
         <br/>\u2022 D-Max for Spots Dialog.
         <br/><br/>Feel free to contact me directly &amp; don\'t forget to leave a review &#128512;]]></string>
-    <string name="about_title">About</string>
-    <string name="email_feedback">Email Feedback</string>
-    <string name="close">Close</string>
-    <string name="rate_app">Rate App</string>
+    <string name="about_title">Informacje</string>
+    <string name="email_feedback">Emailowe Zgłaszanie Błędów</string>
+    <string name="close">Zamknij</string>
+    <string name="rate_app">Oceń Aplikację</string>
     <string name="disabling">This app was not installed from Google Play &amp; will soon be disabled.</string>
     <string name="oops_error">Oops.. It looks like something went wrong and Volume Panel crashed, please hit \"SEND REPORT\" below to let me know.</string>
     <string name="latest">Please make sure you are using the latest version.</string>
-    <string name="send_report">Send Report</string>
+    <string name="send_report">Wyślij Report</string>
     <string name="add_shortcut">Add Launcher Shortcut</string>
-    <string name="launch">Show Volume Panel</string>
+    <string name="launch">Pokaż Panel Głośności</string>
     <string name="disable_acc">PLEASE DISABLE THE ACCESSIBILITY SERVICE.</string>
     <string name="ver_pos">Vertical Position</string>
     <string name="ver_pos_sum">From the top of the screen</string>
@@ -83,11 +83,11 @@
     <br/><br/>None of the services in Volume Panel are battery intensive, but disabling optimisation will improve reliability.
     <br/><br/>Click \"Close\" to run optimised or click \"Action Now\" followed by \"All Apps\" then disable Battery Optimisation for Volume Panel.]]></string>
     <string name="action">Action Now</string>
-    <string name="mute_media">Mute Media</string>
-    <string name="vibrate">Vibrate</string>
-    <string name="ring">Ring</string>
-    <string name="silent">Silent</string>
-    <string name="ring_mode">Ring Mode</string>
+    <string name="mute_media">Wycisz Media</string>
+    <string name="vibrate">Wibracja</string>
+    <string name="ring">Dzwonek</string>
+    <string name="silent">Cichy</string>
+    <string name="ring_mode">Tryb Dzwonka</string>
     <string name="force_close">Force Close Dialogs</string>
     <string name="mapper">Possible Interference</string>
     <string name="mapper_sum">Click here for more information</string>
@@ -95,5 +95,5 @@
         \n\nButton Remappers use accessibility services to detect button clicks.
         \n\nOther accessibility services capturing/customising volume button clicks will interfere with Volume Panels ability to intercept the volume buttons.
         \n\nPlease consider disabling volume button customisation for those apps.</string>
-    <string name="dismiss">Dismiss</string>
+    <string name="dismiss">Odrzuć</string>
 </resources>
