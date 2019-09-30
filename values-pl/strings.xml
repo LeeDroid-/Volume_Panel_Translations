@@ -21,7 +21,7 @@
         \n\nNiektóre urządzenia mogą wymagać ponownego uruchomienia, aby uruchomić usługę.</string>
     <string name="need_dnd">Wymagane Uprawnienia Do Trybu Nieprzeszkadzać</string>
     <string name="no">Nie</string>
-    <string name="vol_timeout">Limit Czasu Panelu</string>
+    <string name="vol_timeout">Limit Czasu Panela</string>
     <string name="yes">Tak</string>
     <string name="notification_listener">Wyświetlanie Powiadomień Panelu Głośności</string>
     <string name="apply">Zastosuj</string>
@@ -54,7 +54,7 @@
     <string name="timeout">%1$ds</string>
     <string name="O Aplikacji">
         <![CDATA[<b>Panel Głośności:</b>
-        <br/>\u2022A Elastyczna wymiana kontrolek głośności systemu.
+        <br/>\u2022 Elastyczna wymiana kontrolek głośności systemu.
         <br/><br/><b>Designed &amp; Developed By:</b>
         <br/>\u2022 Lee Bailey (AKA @LeeDrOiD)
         <br/> Dodatkowe Podziękowania:
@@ -63,7 +63,7 @@
         <br/>\u2022 D-Max for Spots Dialog.
         <br/><br/>Skontaktuj się ze mną bezpośrednio &amp; Nie zapomnij zostawić opinii &#128512;]]></string>
     <string name="about_title">Informacje</string>
-    <string name="email_feedback">Emailowe Zgłaszanie Błędów</string>
+    <string name="email_feedback">Zgłaszanie Błędów</string>
     <string name="close">Zamknij</string>
     <string name="rate_app">Oceń Aplikację</string>
     <string name="disabling">Ta aplikacja nie została zainstalowana z Google Play &amp; wkrótce zostanie wyłączona.</string>
@@ -88,7 +88,7 @@
     <string name="ring">Dzwonek</string>
     <string name="silent">Cichy</string>
     <string name="ring_mode">Tryb Dzwonka</string>
-    <string name="force_close">Wymuś zamknięcie okien dialogowych</string>
+    <string name="force_close">Wymuś Zamknięcie Okien Dialogowych</string>
     <string name="mapper">Możliwe Zakłócenia</string>
     <string name="mapper_sum">Kliknij tutaj po więcej informacji</string>
     <string name="mapper_detail">Możliwe, że wykryliśmy aplikację Mapowania przycisków..
