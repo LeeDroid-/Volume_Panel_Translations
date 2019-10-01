@@ -61,6 +61,8 @@
         <br/>\u2022 The creators of App Into.
         <br/>\u2022 Ereza for Custom Activity On Crash.
         <br/>\u2022 D-Max for Spots Dialog.
+        <br/>Translations By:
+        <br/>Linar10 - Polish
         <br/><br/>Feel free to contact me directly &amp; don\'t forget to leave a review &#128512;]]></string>
     <string name="about_title">About</string>
     <string name="email_feedback">Email Feedback</string>
@@ -94,6 +96,9 @@
     <string name="mapper_detail">We may have detected a Button Remapping application.
         \n\nButton Remappers use accessibility services to detect button clicks.
         \n\nOther accessibility services capturing/customising volume button clicks will interfere with Volume Panels ability to intercept the volume buttons.
-        \n\nPlease consider disabling volume button customisation for those apps.</string>
+        \n\nPlease consider disabling volume button customisation for those apps.
+        \n\nAlternatively, enable the launcher shortcut and open it with a remap!</string>
     <string name="dismiss">Dismiss</string>
+    <string name="show_notif">Show Notification Panel</string>
+    <string name="notif_panel"><![CDATA[Not all devices support splitting Notification & Ring volume.<br/><br/>If both steams change together, this is due to your system configuration and nothing to do with Volume Panel.]]></string>
 </resources>

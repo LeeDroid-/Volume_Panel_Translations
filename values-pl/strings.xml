@@ -52,7 +52,7 @@
     <string name="done">Zrobione</string>
     <string name="exclude_applications_sum">Panel głośności nie otworzy się w tych aplikacjach.</string>
     <string name="timeout">%1$ds</string>
-    <string name="O Aplikacji">
+    <string name="about">
         <![CDATA[<b>Panel Głośności:</b>
         <br/>\u2022 Elastyczna wymiana kontrolek głośności systemu.
         <br/><br/><b>Designed &amp; Developed By:</b>
@@ -61,6 +61,8 @@
         <br/>\u2022 The creators of App Into.
         <br/>\u2022 Ereza for Custom Activity On Crash.
         <br/>\u2022 D-Max for Spots Dialog.
+        <br/>Translations By:
+        <br/>Linar10 - Polish
         <br/><br/>Skontaktuj się ze mną bezpośrednio &amp; Nie zapomnij zostawić opinii &#128512;]]></string>
     <string name="about_title">Informacje</string>
     <string name="email_feedback">Zgłaszanie Błędów</string>
@@ -94,6 +96,10 @@
     <string name="mapper_detail">Możliwe, że wykryliśmy aplikację Mapowania przycisków..
         \n\n Mapowacze przycisków używają usług ułatwień dostępu do wykrywania kliknięć przycisków
         \n\nInne usługi ułatwień dostępu przechwytujące / dostosowujące kliknięcia przycisków głośności będą zakłócać zdolność Panela Głośności do przechwytywania przycisków głośności.
-        \n\nProszę rozważyć wyłączenie dostosowywania przycisku głośności dla tych aplikacji.</string>
+        \n\nProszę rozważyć wyłączenie dostosowywania przycisku głośności dla tych aplikacji.
+        \n\nAlternatywnie, włącz skrót do launchera i otwórz go za pomocą remapu!</string>
     <string name="dismiss">Odrzuć</string>
+    <string name="notif_panel"><![CDATA[Not all devices support splitting Notification & Ring volume.<br/><br/>If both steams change together, this is due to your system configuration and nothing to do with Volume Panel.]]></string>
+    <string name="show_notif">Show Notification Panel</string>
+    <string name="enable_volume_panel">Volume Button Override</string>
 </resources>
