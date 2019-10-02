@@ -100,5 +100,5 @@
         \n\nAlternatively, enable the launcher shortcut and open it with a remap!</string>
     <string name="dismiss">Dismiss</string>
     <string name="show_notif">Show Notification Panel</string>
-    <string name="notif_panel"><![CDATA[Not all devices support splitting Notification & Ring volume.<br/><br/>If both steams change together, this is due to your system configuration and nothing to do with Volume Panel.]]></string>
+    <string name="notif_panel"><![CDATA[Not all devices support splitting Notification & Ring volume.<br/><br/>If both streams change together, this is due to your system configuration and nothing to do with Volume Panel.]]></string>
 </resources>
