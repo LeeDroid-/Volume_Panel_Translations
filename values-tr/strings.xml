@@ -1,0 +1,105 @@
+<resources>
+    <string name="additonal_perms_req">Ek İzin Gerekli</string>
+    <string name="notification_policy_message">Volume Panel, bildirim &amp; DND ayarlarını değiştirme yeteneğini gerektirir, çünkü bu izni normal şekilde talep edemiyoruz, bu nedenle elle etkinleştirmeniz gerekir.
+        \n\nDevam et\'e tıkladığınızda ilgili ekrana yönlendirilirsiniz.\n</string>
+    <string name="proceed">Devam et</string>
+    <string name="app_name">Volume Panel</string>
+    <string name="volumeui">Ses Arayüzü</string>
+    <string name="current_shot">Şu anda %1$d saniyeye ayarlı</string>
+    <string name="overlay_needed"><u>Sistem Yerleşimi</u>
+        \n\nBu izin Volume Panel\'i diğer uygulamaların üzerinde görüntülemek için gerekmektedir.</string>
+    <string name="failed_window_add">Pencere eklenemedi, lütfen uygulamayı açın ve Ekran Yerleşimi izinlerinin verildiğinden emin olun</string>
+    <string name="cp_head">Onaylamak için ORTAYA dokun</string>
+    <string name="transparency">Şeffaflık</string>
+    <string name="disable">Devre dışı bırak</string>
+    <string name="cancel">İptal</string>
+    <string name="press_back">Tamamlandığında, uygulamaya geri dönmek için geriye basın.</string>
+    <string name="accessibility_description"><u>Erişilebilirlik Erişimi</u>
+        \n\n\u2022 Ses açma kısma tuşlarına basmayı algılama.
+        \n\u2022 Hariç tutulan uygulamaların ne zaman kullanıldığını algılama.
+        \n\nBaşka hiçbir tuşa basılmaz ve yalnızca hariç tutulan uygulamaların varlığı algılanır.
+        \n\nBazı cihazların hizmeti başlatmak için yeniden başlatılması gerekebilir.</string>
+    <string name="need_dnd">Rahats8z Etmeyin İzni Gerekli</string>
+    <string name="no">Hayır</string>
+    <string name="vol_timeout">Panel Zaman Aşımı</string>
+    <string name="yes">Evet</string>
+    <string name="notification_listener">Volume Panel Bildirim Dinleyici</string>
+    <string name="apply">Uygula</string>
+    <string name="perms"><u>İzinler Gerekli</u>
+        \n\nSistem ses panelini geçersiz kılmak için çeşitli izinler gerekir.
+        \n\nŞimdi bunları etkinleştirmek için bir düğme ile bu izinleri detaylandıran bir ekran göstereceğim.
+        \n\nİzin etkinleştirildiğinde, uygulamaya geri dönmek için lütfen geriye basın.</string>
+    <string name="notif_access"><u>Bildirim Erişimi</u>
+        \n\n\u2022 Etkin Yayın ve Akışı algılama.
+        \n\u2022 Rahatsız Etmeyin Ayarlarını değiştirme.
+        \n\nHiçbir bildirim içeriği yakalanamadı.</string>
+    <string name="grant">İzin Ver</string>
+    <string name="not_found">Etkinlik bulunamadı, lütfen Ayarlar\'a gidin ve elle izin verin</string>
+    <string name="exclude_applications">Uygulamaları Hariç Tut</string>
+    <string name="icon_colour">Simge Rengi</string>
+    <string name="background_colour">Arka Plan Rengi</string>
+    <string name="slider_colour">Kaydırıcı rengi</string>
+    <string name="_3s">3s</string>
+    <string name="panel_timeout">Panel Zaman Aşımı</string>
+    <string name="show_alarm_panel">Alarm Panelini Göster</string>
+    <string name="default_to_ring_volume">Varsayılan Olarak Zil Sesi</string>
+    <string name="start_collapsed">Daraltılmış Başlat</string>
+    <string name="position_left">Sol El</string>
+    <string name="dark_mode">Koyu Mod</string>
+    <string name="enable_volume_panel">Volume Panel\'i Etkinleştir</string>
+    <string name="select_apps">Uygulamaları Seç</string>
+    <string name="loading_apps">Uygulamalar Yükleniyor</string>
+    <string name="done">Bitti</string>
+    <string name="exclude_applications_sum">Bu uygulamalarda volume panel açılmaz.</string>
+    <string name="timeout">%1$ds</string>
+    <string name="about">
+        <![CDATA[<b>Volume Panel:</b>
+        <br/>\u2022Sistem ses kontrolleriniz için esnek bir değiştirme.
+        <br/><br/><b>Tasarlayan &amp; Geliştiren:</b>
+        <br/>\u2022 Lee Bailey (AKA @LeeDrOiD)
+        <br/> Ekstra Teşekkürler:
+        <br/>\u2022 App Into\'yu yapanlara.
+        <br/>\u2022 Özel Çökme Etkinliği için Ereza\'ya.
+        <br/>\u2022 Spots Dialog için D-Max\'e.
+        <br/>Çeviriler:
+        <br/>Linar10 - Lehçe
+        <br/>Fatih Fırıncı - Türkçe
+        <br/><br/>Doğrudan benimle temas kurmaktan çekinmeyin &amp; bir inceleme bırakmayı unutmayın &#128512;]]></string>
+    <string name="about_title">Hakkında</string>
+    <string name="email_feedback">Geri Bildirim Gönder</string>
+    <string name="close">Kapat</string>
+    <string name="rate_app">Uygulamayı Oyla</string>
+    <string name="disabling">Bu uygulama Google Play\'den yüklenmedi &amp; yakında devre dışı bırakılacak.</string>
+    <string name="oops_error">Olamaz.. Bir şeyler ters gitti ve Volume Panel çöktü, lütfen bana bildirmek için aşağıdaki \"RAPOR GÖNDER"\'e basın.</string>
+    <string name="latest">Lütfen en son sürümü kullandığınızdan emin olun.</string>
+    <string name="send_report">Rapor Gönder</string>
+    <string name="add_shortcut">Başlatıcı Kısayolu Ekle</string>
+    <string name="launch">Volume Panel\'i Göster</string>
+    <string name="disable_acc">LÜTFEN ERİŞİLEBİLİRLİK HİZMETİNİ DEVRE DIŞI BIRAKIN.</string>
+    <string name="ver_pos">Dikey Konum</string>
+    <string name="ver_pos_sum">Ekranın üstünden</string>
+    <string name="ver_pos_val">%1$d%%</string>
+    <string name="_50">50\%</string>
+    <string name="play_sound">Sesli Değişiklikler</string>
+    <string name="alert">Optimizasyon Uyarısı</string>
+    <string name="bat_opt"><![CDATA[<b>Volume Panel sistem tarafından optimize ediliyor &amp; arka planda sonlandırılabilir</b>.
+    <br/><br/>Volume Panel\'deki hizmetlerin hiçbiri pili yoğun kullanmaz, ancak optimizasyonu devre dışı bırakmak güvenilirliği artıracaktır.
+    <br/><br/>Optimize edilmiş çalıştırmak için \"Kapat\"ı tıklayın veya \"Şimdi Yap\"ı tıklayarak \"Tüm Uygulamalar\"a gidip Volume Panel için Pil Optimizasyonunu devre dışı bırakın.]]></string>
+    <string name="action">Şimdi Yap</string>
+    <string name="mute_media">Medyayı Kıs</string>
+    <string name="vibrate">Titreşim</string>
+    <string name="ring">Zil Sesi</string>
+    <string name="silent">Sessiz</string>
+    <string name="ring_mode">Zil Modu</string>
+    <string name="force_close">Kapatma Pencerelerini Zorla</string>
+    <string name="mapper">Olası Girişim</string>
+    <string name="mapper_sum">Daha fazla bilgi için buraya tıklayın</string>
+    <string name="mapper_detail">Button Remapping uygulaması tespit etmiş olabiliriz.
+        \n\nButton Remapper\'lar, düğme tıklamalarını tespit etmek için erişilebilirlik hizmetlerini kullanır.
+        \n\nSes düğmesi tıklamalarını yakalayan/kişiselleştiren diğer erişilebilirlik hizmetleri, ses panellerini engelleme özelliği ile ses panellerini etkiler.
+        \n\nLütfen bu uygulamalar için ses düğmesi özelleştirmesini devre dışı bırakmayı düşünün.
+        \n\nAlternatif olarak, başlatıcı kısayolunu etkinleştirin ve bir remap ile açın!</string>
+    <string name="dismiss">Kapat</string>
+    <string name="show_notif">Bildirim Panelini Göster</string>
+    <string name="notif_panel"><![CDATA[Tüm cihazlar, Bildirim & Zil sesinin bölünmesini desteklemez.<br/><br/>Her iki akış birlikte değişirse, bunun nedeni sistem yapılandırmanızdır ve Volume Panel ile ilgisi yoktur.]]></string>
+</resources>
