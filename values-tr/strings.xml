@@ -38,14 +38,14 @@
     <string name="exclude_applications">Uygulamaları Hariç Tut</string>
     <string name="icon_colour">Simge Rengi</string>
     <string name="background_colour">Arka Plan Rengi</string>
-    <string name="slider_colour">Kaydırıcı rengi</string>
+    <string name="slider_colour">Kaydırıcı Rengi</string>
     <string name="_3s">3s</string>
     <string name="panel_timeout">Panel Zaman Aşımı</string>
     <string name="show_alarm_panel">Alarm Panelini Göster</string>
     <string name="default_to_ring_volume">Varsayılan Olarak Zil Sesi</string>
     <string name="start_collapsed">Daraltılmış Başlat</string>
     <string name="position_left">Sol El</string>
-    <string name="dark_mode">Koyu Mod</string>
+    <string name="dark_mode">Karanlık Mod</string>
     <string name="enable_volume_panel">Volume Panel\'i Etkinleştir</string>
     <string name="select_apps">Uygulamaları Seç</string>
     <string name="loading_apps">Uygulamalar Yükleniyor</string>
