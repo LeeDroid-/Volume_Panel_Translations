@@ -3,7 +3,7 @@
     <string name="notification_policy_message">Panel głośności wymaga modyfikacji powiadomienia &amp; Ustawienia DND, ponieważ nie możemy poprosić o to pozwolenie w normalny sposób, więc musisz włączyć je ręcznie.
         \n\nClick proceed &amp; zostaniesz przeniesiony do odpowiedniego ekranu..\n</string>
     <string name="proceed">Kontynuować</string>
-    <string name="app_name">Panel Głośności</string>
+    <string name="app_name">Volume Panel</string>
     <string name="volumeui">UI Głośności</string>
     <string name="current_shot">Aktualne ustawienie to %1$d sekund</string>
     <string name="overlay_needed"><u>Nakładka Systemowa</u>
