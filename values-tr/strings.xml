@@ -18,8 +18,8 @@
         \n\n\u2022 Ses açma kısma tuşlarına basmayı algılama.
         \n\u2022 Hariç tutulan uygulamaların ne zaman kullanıldığını algılama.
         \n\nBaşka hiçbir tuşa basılmaz ve yalnızca hariç tutulan uygulamaların varlığı algılanır.
-        \n\nBazı cihazların hizmeti başlatmak için yeniden başlatılması gerekebilir.</string>
-    <string name="need_dnd">Rahats8z Etmeyin İzni Gerekli</string>
+        \n\nHizmeti başlatmak için bazı cihazların yeniden başlatılması gerekebilir.</string>
+    <string name="need_dnd">Rahatsız Etmeyin İzni Gerekli</string>
     <string name="no">Hayır</string>
     <string name="vol_timeout">Panel Zaman Aşımı</string>
     <string name="yes">Evet</string>
@@ -32,20 +32,20 @@
     <string name="notif_access"><u>Bildirim Erişimi</u>
         \n\n\u2022 Etkin Yayın ve Akışı algılama.
         \n\u2022 Rahatsız Etmeyin Ayarlarını değiştirme.
-        \n\nHiçbir bildirim içeriği yakalanamadı.</string>
+        \n\nHiçbir bildirim içeriği yakalanmaz.</string>
     <string name="grant">İzin Ver</string>
     <string name="not_found">Etkinlik bulunamadı, lütfen Ayarlar\'a gidin ve elle izin verin</string>
     <string name="exclude_applications">Uygulamaları Hariç Tut</string>
     <string name="icon_colour">Simge Rengi</string>
     <string name="background_colour">Arka Plan Rengi</string>
-    <string name="slider_colour">Kaydırıcı rengi</string>
+    <string name="slider_colour">Kaydırıcı Rengi</string>
     <string name="_3s">3s</string>
     <string name="panel_timeout">Panel Zaman Aşımı</string>
     <string name="show_alarm_panel">Alarm Panelini Göster</string>
     <string name="default_to_ring_volume">Varsayılan Olarak Zil Sesi</string>
     <string name="start_collapsed">Daraltılmış Başlat</string>
     <string name="position_left">Sol El</string>
-    <string name="dark_mode">Koyu Mod</string>
+    <string name="dark_mode">Karanlık Mod</string>
     <string name="enable_volume_panel">Volume Panel\'i Etkinleştir</string>
     <string name="select_apps">Uygulamaları Seç</string>
     <string name="loading_apps">Uygulamalar Yükleniyor</string>
@@ -91,7 +91,7 @@
     <string name="ring">Zil Sesi</string>
     <string name="silent">Sessiz</string>
     <string name="ring_mode">Zil Modu</string>
-    <string name="force_close">Kapatma Pencerelerini Zorla</string>
+    <string name="force_close">Pencereleri Kapatmaya Zorla</string>
     <string name="mapper">Olası Girişim</string>
     <string name="mapper_sum">Daha fazla bilgi için buraya tıklayın</string>
     <string name="mapper_detail">Button Remapping uygulaması tespit etmiş olabiliriz.
