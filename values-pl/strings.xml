@@ -3,7 +3,7 @@
     <string name="notification_policy_message">Panel głośności wymaga modyfikacji powiadomienia &amp; Ustawienia DND, ponieważ nie możemy poprosić o to pozwolenie w normalny sposób, więc musisz włączyć je ręcznie.
         \n\nClick proceed &amp; zostaniesz przeniesiony do odpowiedniego ekranu..\n</string>
     <string name="proceed">Kontynuować</string>
-    <string name="app_name">Panel Głośności</string>
+    <string name="app_name">Volume Panel</string>
     <string name="volumeui">UI Głośności</string>
     <string name="current_shot">Aktualne ustawienie to %1$d sekund</string>
     <string name="overlay_needed"><u>Nakładka Systemowa</u>
@@ -43,13 +43,13 @@
     <string name="panel_timeout">Limit Czasu Panela</string>
     <string name="show_alarm_panel">Pokaż Panel Alarmu</string>
     <string name="default_to_ring_volume">Domyślny Dźwięk Głośności</string>
-    <string name="start_collapsed">Rozpocznij Zwinięcie</string>
-    <string name="position_left">Leworęczny</string>
+    <string name="start_collapsed">Rozpocznij Zwinięty</string>
+    <string name="position_left">Po Lewej Stronie</string>
     <string name="dark_mode">Tryb Ciemny</string>
     <string name="enable_volume_panel">Włącz Panel Głośności</string>
     <string name="select_apps">Wybierz Aplikacje</string>
     <string name="loading_apps">Ładowanie Aplikacji</string>
-    <string name="done">Zrobione</string>
+    <string name="done">Gotowe</string>
     <string name="exclude_applications_sum">Panel głośności nie otworzy się w tych aplikacjach.</string>
     <string name="timeout">%1$ds</string>
     <string name="about">
@@ -75,7 +75,7 @@
     <string name="add_shortcut">Dodaj Skrót do Launchera</string>
     <string name="launch">Pokaż Panel Głośności</string>
     <string name="disable_acc"> PROSZĘ WYŁĄCZYĆ USŁUGĘ DOSTĘPNOŚCI.</string>
-    <string name="ver_pos">Pozycja Pionowa</string>
+    <string name="ver_pos">Pozycja w Pionie</string>
     <string name="ver_pos_sum">Z góry ekranu</string>
     <string name="ver_pos_val">%1$d%%</string>
     <string name="_50">50\%</string>
@@ -99,7 +99,7 @@
         \n\nProszę rozważyć wyłączenie dostosowywania przycisku głośności dla tych aplikacji.
         \n\nAlternatywnie, włącz skrót do launchera i otwórz go za pomocą remapu!</string>
     <string name="dismiss">Odrzuć</string>
-    <string name="notif_panel"><![CDATA[Not all devices support splitting Notification & Ring volume.<br/><br/>If both steams change together, this is due to your system configuration and nothing to do with Volume Panel.]]></string>
-    <string name="show_notif">Show Notification Panel</string>
-    <string name="enable_volume_panel">Volume Button Override</string>
+    <string name="notif_panel"><![CDATA[Nie wszystkie urządzenia obsługują dzielenie głośności & powiadomień i dzwonków.<br/><br/>If both steams change together, this is due to your system configuration and nothing to do with Volume Panel.]]></string>
+    <string name="show_notif">Pokaż Panel Powiadomień</string>
+    <string name="enable_volume_panel">Zastąp Przycisk Głośności</string>
 </resources>
