@@ -102,4 +102,5 @@
     <string name="dismiss">Kapat</string>
     <string name="show_notif">Bildirim Panelini Göster</string>
     <string name="notif_panel"><![CDATA[Tüm cihazlar, Bildirim & Zil sesinin bölünmesini desteklemez.<br/><br/>Her iki akış birlikte değişirse, bunun nedeni sistem yapılandırmanızdır ve Volume Panel ile ilgisi yoktur.]]></string>
+    <string name="enable_blacklist">Enable App Exclusions</string>
 </resources>

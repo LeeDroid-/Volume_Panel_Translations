@@ -17,7 +17,7 @@
     <string name="accessibility_description"><u>Dostęp do Ułatwień Dostępu </u>
         \n\n\u2022 Wykryj naciśnięcia klawiszy +/-.
         \n\u2022 Wykryj, kiedy używane są wykluczone aplikacje.
-        \n\nŻadne inne klucze nie są przechwytywane &amp; wykrywana jest tylko obecność wykluczonych aplikacji, brak treści.
+        \n\nŻadne inne klucze nie są przechwytywane.
         \n\nNiektóre urządzenia mogą wymagać ponownego uruchomienia, aby uruchomić usługę.</string>
     <string name="need_dnd">Wymagane Uprawnienia Do Trybu Nieprzeszkadzać</string>
     <string name="no">Nie</string>
@@ -46,7 +46,6 @@
     <string name="start_collapsed">Rozpocznij Zwinięty</string>
     <string name="position_left">Po Lewej Stronie</string>
     <string name="dark_mode">Tryb Ciemny</string>
-    <string name="enable_volume_panel">Włącz Panel Głośności</string>
     <string name="select_apps">Wybierz Aplikacje</string>
     <string name="loading_apps">Ładowanie Aplikacji</string>
     <string name="done">Gotowe</string>
@@ -102,4 +101,5 @@
     <string name="notif_panel"><![CDATA[Nie wszystkie urządzenia obsługują dzielenie głośności & powiadomień i dzwonków.<br/><br/>If both steams change together, this is due to your system configuration and nothing to do with Volume Panel.]]></string>
     <string name="show_notif">Pokaż Panel Powiadomień</string>
     <string name="enable_volume_panel">Zastąp Przycisk Głośności</string>
+    <string name="enable_blacklist">Enable App Exclusions</string>
 </resources>

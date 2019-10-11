@@ -17,7 +17,7 @@
     <string name="accessibility_description"><u>Accessibility Access</u>
         \n\n\u2022 Detect Volume +/- key presses.
         \n\u2022 Detect when excluded applications are being used.
-        \n\nNo other keys are captured &amp; only the presence of excluded applications is detected, no content.
+        \n\nNo other keys are captured.
         \n\nSome devices may require a reboot to start the service.</string>
     <string name="need_dnd">Do Not Disturb Permissions Required</string>
     <string name="no">No</string>
@@ -46,7 +46,7 @@
     <string name="start_collapsed">Start Collapsed</string>
     <string name="position_left">Left Handed</string>
     <string name="dark_mode">Dark Mode</string>
-    <string name="enable_volume_panel">Enable Volume Panel</string>
+    <string name="enable_volume_panel">Volume Button Override</string>
     <string name="select_apps">Select Applications</string>
     <string name="loading_apps">Loading Applications</string>
     <string name="done">Done</string>
@@ -63,6 +63,7 @@
         <br/>\u2022 D-Max for Spots Dialog.
         <br/>Translations By:
         <br/>Linar10 - Polish
+        <br/>Fatih Firinci - Turkish
         <br/><br/>Feel free to contact me directly &amp; don\'t forget to leave a review &#128512;]]></string>
     <string name="about_title">About</string>
     <string name="email_feedback">Email Feedback</string>
@@ -72,7 +73,7 @@
     <string name="oops_error">Oops.. It looks like something went wrong and Volume Panel crashed, please hit \"SEND REPORT\" below to let me know.</string>
     <string name="latest">Please make sure you are using the latest version.</string>
     <string name="send_report">Send Report</string>
-    <string name="add_shortcut">Add Launcher Shortcut</string>
+    <string name="add_shortcut">Enable Launcher Shortcut</string>
     <string name="launch">Show Volume Panel</string>
     <string name="disable_acc">PLEASE DISABLE THE ACCESSIBILITY SERVICE.</string>
     <string name="ver_pos">Vertical Position</string>
@@ -94,11 +95,12 @@
     <string name="mapper">Possible Interference</string>
     <string name="mapper_sum">Click here for more information</string>
     <string name="mapper_detail">We may have detected a Button Remapping application.
-        \n\nButton Remappers use accessibility services to detect button clicks.
+        \n\nButton Re-mappers use accessibility services to detect button clicks.
         \n\nOther accessibility services capturing/customising volume button clicks will interfere with Volume Panels ability to intercept the volume buttons.
         \n\nPlease consider disabling volume button customisation for those apps.
         \n\nAlternatively, enable the launcher shortcut and open it with a remap!</string>
     <string name="dismiss">Dismiss</string>
     <string name="show_notif">Show Notification Panel</string>
-    <string name="notif_panel"><![CDATA[Not all devices support splitting Notification & Ring volume.<br/><br/>If both streams change together, this is due to your system configuration and nothing to do with Volume Panel.]]></string>
+    <string name="notif_panel"><![CDATA[Not all devices support splitting Notification & Ring volume.<br/><br/>If both sliders change together, this is due to your system configuration and nothing to do with Volume Panel.]]></string>
+    <string name="enable_blacklist">Enable App Exclusions</string>
 </resources>
