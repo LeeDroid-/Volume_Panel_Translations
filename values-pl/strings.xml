@@ -102,4 +102,9 @@
     <string name="show_notif">Pokaż Panel Powiadomień</string>
     <string name="enable_volume_panel">Zastąp Przycisk Głośności</string>
     <string name="enable_blacklist">Enable App Exclusions</string>
+    <string name="usage_access"><u>Usage Access</u>
+        \n\nThis permission allows us to detect the application currently in use &amp; check if you have excluded it.
+        \n\nIf you wish to run without excluding applications, feel free to skip this permission.
+        \n\n</string>
+    <string name="excluded">Volume Panel: Application Excluded</string>
 </resources>

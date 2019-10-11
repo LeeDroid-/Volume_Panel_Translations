@@ -103,4 +103,9 @@
     <string name="show_notif">Bildirim Panelini Göster</string>
     <string name="notif_panel"><![CDATA[Tüm cihazlar, Bildirim & Zil sesinin bölünmesini desteklemez.<br/><br/>Her iki akış birlikte değişirse, bunun nedeni sistem yapılandırmanızdır ve Volume Panel ile ilgisi yoktur.]]></string>
     <string name="enable_blacklist">Enable App Exclusions</string>
+    <string name="excluded">Volume Panel: Application Excluded</string>
+    <string name="usage_access"><u>Usage Access</u>
+        \n\nThis permission allows us to detect the application currently in use &amp; check if you have excluded it.
+        \n\nIf you wish to run without excluding applications, feel free to skip this permission.
+        \n\n</string>
 </resources>
