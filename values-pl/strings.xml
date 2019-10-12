@@ -4,7 +4,7 @@
         \n\nClick proceed &amp; zostaniesz przeniesiony do odpowiedniego ekranu..\n</string>
     <string name="proceed">Kontynuować</string>
     <string name="app_name">Volume Panel</string>
-    <string name="volumeui">UI Głośności</string>
+    <string name="volumeui">Volume UI</string>
     <string name="current_shot">Aktualne ustawienie to %1$d sekund</string>
     <string name="overlay_needed"><u>Nakładka Systemowa</u>
         \n\nTo uprawnienie jest wymagane, abyśmy mogli wyświetlać Panel Głośności w innych aplikacjach.</string>
@@ -101,10 +101,10 @@
     <string name="notif_panel"><![CDATA[Nie wszystkie urządzenia obsługują dzielenie głośności & powiadomień i dzwonków.<br/><br/>If both steams change together, this is due to your system configuration and nothing to do with Volume Panel.]]></string>
     <string name="show_notif">Pokaż Panel Powiadomień</string>
     <string name="enable_volume_panel">Zastąp Przycisk Głośności</string>
-    <string name="enable_blacklist">Enable App Exclusions</string>
-    <string name="usage_access"><u>Usage Access</u>
-        \n\nThis permission allows us to detect the application currently in use &amp; check if you have excluded it.
-        \n\nIf you wish to run without excluding applications, feel free to skip this permission.
+    <string name="enable_blacklist">Włącz Wykluczenia aplikacji</string>
+    <string name="usage_access"><u>Dostęp do Użytkowania</u>
+        \n\nTo uprawnienie pozwala nam wykryć aktualnie używaną aplikację &amp; sprawdź, czy to wykluczyłeś.
+        \n\n Jeśli chcesz uruchomić bez wykluczania aplikacji, możesz pominąć to uprawnienie.
         \n\n</string>
-    <string name="excluded">Volume Panel: Application Excluded</string>
+    <string name="excluded">Volume Panel: Aplikacja Wykluczona</string>
 </resources>
