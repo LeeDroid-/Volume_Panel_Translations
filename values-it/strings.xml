@@ -15,8 +15,7 @@
     <string name="cancel">Cancel</string>
     <string name="press_back">Once complete, press back to return to the app.</string>
     <string name="accessibility_description"><u>Accessibility Access</u>
-        \n\n\u2022 Detect Volume +/- key presses.
-        \n\u2022 Detect when excluded applications are being used.
+        \n\nThis permission allows us to detect volume +\\- key presses.
         \n\nNo other keys are captured.
         \n\nSome devices may require a reboot to start the service.</string>
     <string name="need_dnd">Do Not Disturb Permissions Required</string>
@@ -27,12 +26,12 @@
     <string name="apply">Apply</string>
     <string name="perms"><u>Permissions Required</u>
         \n\nIn order to override the system volume panel, several permissions are required.
-        \n\nI will now show you a screen detailing those permissions with a button to enable them.
-        \n\nOnce the permission is enabled, please press back to return to the app.</string>
+        \n\nWe will now show you several screens detailing those permissions, their usage &amp; a button to enable them.
+        \n\n</string>
     <string name="notif_access"><u>Notification Access</u>
-        \n\n\u2022 Detect active Casting or Streaming.
-        \n\u2022 Modify Do Not Disturb Settings.
-        \n\nNo notification content is captured.</string>
+        \n\nThis permission allows us to detect active Casting or Streaming &amp; to modify Do Not Disturb Settings.
+        \n\nNo notification content is captured.
+        \n\n</string>
     <string name="grant">Grant Permission</string>
     <string name="not_found">Activity not found, please navigate to Settings and grant manually</string>
     <string name="exclude_applications">Exclude Applications</string>
@@ -103,4 +102,9 @@
     <string name="show_notif">Show Notification Panel</string>
     <string name="notif_panel"><![CDATA[Not all devices support splitting Notification & Ring volume.<br/><br/>If both sliders change together, this is due to your system configuration and nothing to do with Volume Panel.]]></string>
     <string name="enable_blacklist">Enable App Exclusions</string>
+    <string name="usage_access"><u>Usage Access</u>
+        \n\nThis permission allows us to detect the application currently in use &amp; check if you have excluded it.
+        \n\nIf you wish to run without excluding applications, feel free to skip this permission.
+        \n\n</string>
+    <string name="excluded">Volume Panel: Application Excluded</string>
 </resources>
