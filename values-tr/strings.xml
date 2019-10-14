@@ -17,7 +17,7 @@
     <string name="accessibility_description"><u>Erişilebilirlik Erişimi</u>
         \n\n\u2022 Ses açma kısma tuşlarına basmayı algılama.
         \n\u2022 Hariç tutulan uygulamaların ne zaman kullanıldığını algılama.
-        \n\nBaşka hiçbir tuşa basılmaz ve yalnızca hariç tutulan uygulamaların varlığı algılanır.
+        \n\nBaşka hiçbir tuşa basılmaz.
         \n\nHizmeti başlatmak için bazı cihazların yeniden başlatılması gerekebilir.</string>
     <string name="need_dnd">Rahatsız Etmeyin İzni Gerekli</string>
     <string name="no">Hayır</string>
@@ -46,7 +46,7 @@
     <string name="start_collapsed">Daraltılmış Başlat</string>
     <string name="position_left">Sol El</string>
     <string name="dark_mode">Karanlık Mod</string>
-    <string name="enable_volume_panel">Volume Panel\'i Etkinleştir</string>
+    <string name="enable_volume_panel">Ses Tuşunu Geçersiz Kıl</string>
     <string name="select_apps">Uygulamaları Seç</string>
     <string name="loading_apps">Uygulamalar Yükleniyor</string>
     <string name="done">Bitti</string>
@@ -73,7 +73,7 @@
     <string name="oops_error">Olamaz.. Bir şeyler ters gitti ve Volume Panel çöktü, lütfen bana bildirmek için aşağıdaki \"RAPOR GÖNDER"\'e basın.</string>
     <string name="latest">Lütfen en son sürümü kullandığınızdan emin olun.</string>
     <string name="send_report">Rapor Gönder</string>
-    <string name="add_shortcut">Başlatıcı Kısayolu Ekle</string>
+    <string name="add_shortcut">Başlatıcı Kısayolunu Etkinleştir</string>
     <string name="launch">Volume Panel\'i Göster</string>
     <string name="disable_acc">LÜTFEN ERİŞİLEBİLİRLİK HİZMETİNİ DEVRE DIŞI BIRAKIN.</string>
     <string name="ver_pos">Dikey Konum</string>
@@ -94,18 +94,18 @@
     <string name="force_close">Pencereleri Kapatmaya Zorla</string>
     <string name="mapper">Olası Girişim</string>
     <string name="mapper_sum">Daha fazla bilgi için buraya tıklayın</string>
-    <string name="mapper_detail">Button Remapping uygulaması tespit etmiş olabiliriz.
-        \n\nButton Remapper\'lar, düğme tıklamalarını tespit etmek için erişilebilirlik hizmetlerini kullanır.
-        \n\nSes düğmesi tıklamalarını yakalayan/kişiselleştiren diğer erişilebilirlik hizmetleri, ses panellerini engelleme özelliği ile ses panellerini etkiler.
-        \n\nLütfen bu uygulamalar için ses düğmesi özelleştirmesini devre dışı bırakmayı düşünün.
-        \n\nAlternatif olarak, başlatıcı kısayolunu etkinleştirin ve bir remap ile açın!</string>
+    <string name="mapper_detail">Tuş Değiştirici tespit etmiş olabiliriz.
+        \n\nTuş Değiştiriciler, tuş tıklamalarını algılamak için erişilebilirlik hizmetlerini kullanır.
+        \n\nSes tuşu tıklamalarını yakalayan/kişiselleştiren diğer erişilebilirlik hizmetleri, ses panellerini engelleme özelliği ile ses panellerini etkiler.
+        \n\nLütfen bu uygulamalar için ses tuşu özelleştirmesini devre dışı bırakmayı düşünün.
+        \n\nAlternatif olarak, başlatıcı kısayolunu etkinleştirin ve bir tuş değiştirici ile açın!</string>
     <string name="dismiss">Kapat</string>
     <string name="show_notif">Bildirim Panelini Göster</string>
     <string name="notif_panel"><![CDATA[Tüm cihazlar, Bildirim & Zil sesinin bölünmesini desteklemez.<br/><br/>Her iki akış birlikte değişirse, bunun nedeni sistem yapılandırmanızdır ve Volume Panel ile ilgisi yoktur.]]></string>
-    <string name="enable_blacklist">Enable App Exclusions</string>
-    <string name="excluded">Volume Panel: Application Excluded</string>
-    <string name="usage_access"><u>Usage Access</u>
-        \n\nThis permission allows us to detect the application currently in use &amp; check if you have excluded it.
-        \n\nIf you wish to run without excluding applications, feel free to skip this permission.
+    <string name="enable_blacklist">Uygulama Hariç Tutmayı Etkinleştir</string>
+    <string name="excluded">Volume Panel: Uygulama Hariç Tutuldu</string>
+    <string name="usage_access"><u>Kullanım Erişimi</u>
+        \n\nBu izin, o anda kullanmakta olduğunuz uygulamayı tespit etmemizi &amp; hariç tutup tutmadığınızı kontrol etmemizi sağlar.
+        \n\nUygulamaları hariç tutmadan çalıştırmak isterseniz, bu izni atlamaktan çekinmeyin.
         \n\n</string>
 </resources>
