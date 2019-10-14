@@ -107,4 +107,9 @@
         \n\n Jeśli chcesz uruchomić bez wykluczania aplikacji, możesz pominąć to uprawnienie.
         \n\n</string>
     <string name="excluded">Volume Panel: Aplikacja Wykluczona</string>
+    <string name="do_not_kill">Force Keep Services Alive</string>
+    <string name="do_not_kill_desc">Only use this option if volume panel keeps stopping.
+        \n\nSome devices are too aggressive when freeing up memory and kill important services, applications with Admin rights are rarely killed.
+        \n\nEnabling basic Admin rights for Volume Panel will keep our services alive.
+        \n\nYou will have to disable this option if you ever need to uninstall the app.</string>
 </resources>
