@@ -109,8 +109,8 @@
         \n\nUygulamaları hariç tutmadan çalıştırmak isterseniz, bu izni atlamaktan çekinmeyin.
         \n\n</string>
     <string name="do_not_kill">Force Keep Services Alive</string>
-    <string name="do_not_kill_desc">Only use this option if volume panel keeps stopping.
-        \n\nSome devices are too aggressive when freeing up memory and kill important services, applications with Admin rights are rarely killed.
-        \n\nEnabling basic Admin rights for Volume Panel will keep our services alive.
-        \n\nYou will have to disable this option if you ever need to uninstall the app.</string>
+    <string name="do_not_kill_desc"><![CDATA[<b>Only use this option if volume panel keeps stopping.</b>
+        <br/><br/>Some devices are too aggressive when freeing up memory and kill important services, applications with Admin rights are rarely killed.
+        <br/><br/>Enabling basic Admin rights for Volume Panel will keep our services alive.
+        <br/><br/>You will have to disable this option if you ever need to uninstall the app.]]></string>
 </resources>

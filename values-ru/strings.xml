@@ -57,7 +57,7 @@
         <br/><br/><b>Designed &amp; Developed By:</b>
         <br/>\u2022 Lee Bailey (AKA @LeeDrOiD)
         <br/> Additional Thanks:
-        <br/>\u2022 The creators of App Into.
+        <br/>\u2022 The creators of App Intro.
         <br/>\u2022 Ereza for Custom Activity On Crash.
         <br/>\u2022 D-Max for Spots Dialog.
         <br/>Translations By:
@@ -103,8 +103,13 @@
     <string name="notif_panel"><![CDATA[Not all devices support splitting Notification & Ring volume.<br/><br/>If both sliders change together, this is due to your system configuration and nothing to do with Volume Panel.]]></string>
     <string name="enable_blacklist">Enable App Exclusions</string>
     <string name="usage_access"><u>Usage Access</u>
-        \n\nThis permission allows us to detect the application currently in use &amp; check if you have excluded it.
+        \n\nThis permission allows us to detect the application currently in use via package usage stats &amp; check if you have excluded it.
         \n\nIf you wish to run without excluding applications, feel free to skip this permission.
         \n\n</string>
     <string name="excluded">Volume Panel: Application Excluded</string>
+    <string name="do_not_kill">Force Keep Services Alive</string>
+    <string name="do_not_kill_desc"><![CDATA[<b>Only use this option if volume panel keeps stopping.</b>
+        <br/><br/>Some devices are too aggressive when freeing up memory and kill important services, applications with Admin rights are rarely killed.
+        <br/><br/>Enabling basic Admin rights for Volume Panel will keep our services alive.
+        <br/><br/>You will have to disable this option if you ever need to uninstall the app.]]></string>
 </resources>
