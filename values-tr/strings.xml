@@ -106,11 +106,11 @@
     <string name="excluded">Volume Panel: Uygulama Hariç Tutuldu</string>
     <string name="usage_access"><u>Kullanım Erişimi</u>
         \n\nBu izin, o anda kullanmakta olduğunuz uygulamayı tespit etmemizi &amp; hariç tutup tutmadığınızı kontrol etmemizi sağlar.
-        \n\nUygulamaları hariç tutmadan çalıştırmak isterseniz, bu izni atlamaktan çekinmeyin.
+        \n\nUygulamaları hariç tutmadan çalıştırmak istiyorsanız, bu izni atlamaktan çekinmeyin.
         \n\n</string>
-    <string name="do_not_kill">Force Keep Services Alive</string>
-    <string name="do_not_kill_desc"><![CDATA[<b>Only use this option if volume panel keeps stopping.</b>
-        <br/><br/>Some devices are too aggressive when freeing up memory and kill important services, applications with Admin rights are rarely killed.
-        <br/><br/>Enabling basic Admin rights for Volume Panel will keep our services alive.
-        <br/><br/>You will have to disable this option if you ever need to uninstall the app.]]></string>
+    <string name="do_not_kill">Hizmetleri Çalışır Tutmaya Zorla</string>
+    <string name="do_not_kill_desc"><![CDATA[<b>Bu seçeneği yalnızca ses panelinin durmaya devam etmesi durumunda kullanın.</b>
+        <br/><br/>Bazı cihazlar belleği boşaltırken ve önemli hizmetleri sonlandırırken çok agresiftir, Yönetici haklarına sahip uygulamalar nadiren sonlandırılır.
+        <br/><br/>Volume Panel için temel Yönetici haklarını etkinleştirmek, hizmetlerimizi çalışır tutacaktır.
+        <br/><br/>Uygulamayı kaldırmanız gerekirse, bu seçeneği devre dışı bırakmanız gerekecektir.]]></string>
 </resources>
