@@ -107,9 +107,9 @@
         \n\n Jeśli chcesz uruchomić bez wykluczania aplikacji, możesz pominąć to uprawnienie.
         \n\n</string>
     <string name="excluded">Volume Panel: Aplikacja Wykluczona</string>
-    <string name="do_not_kill">Force Keep Services Alive</string>
-    <string name="do_not_kill_desc"><![CDATA[<b>Only use this option if volume panel keeps stopping.</b>
-        <br/><br/>Some devices are too aggressive when freeing up memory and kill important services, applications with Admin rights are rarely killed.
-        <br/><br/>Enabling basic Admin rights for Volume Panel will keep our services alive.
-        <br/><br/>You will have to disable this option if you ever need to uninstall the app.]]></string>
+    <string name="do_not_kill">Wymuś Utrzymanie Usług w Tle</string>
+    <string name="do_not_kill_desc"><![CDATA[<b>Tej opcji należy używać tylko wtedy, gdy panel głośności nadal się zatrzymuje.</b>
+        <br/><br/>Niektóre urządzenia są zbyt agresywne, gdy zwalniają pamięć i zabijają ważne usługi, aplikacje z prawami administratora rzadko są zabijane..
+        <br/><br/>Włączenie podstawowych praw administratora w Panelu Głośności utrzyma usługę aktywną.
+        <br/><br/>Będziesz musiał wyłączyć tę opcję, jeśli kiedykolwiek będziesz musiał odinstalować aplikację.]]></string>
 </resources>
