@@ -112,9 +112,9 @@
         <br/><br/>Niektóre urządzenia są zbyt agresywne, gdy zwalniają pamięć i zabijają ważne usługi, aplikacje z prawami administratora rzadko są zabijane..
         <br/><br/>Włączenie podstawowych praw administratora w Panelu Głośności utrzyma usługę aktywną.
         <br/><br/>Będziesz musiał wyłączyć tę opcję, jeśli kiedykolwiek będziesz musiał odinstalować aplikację.]]></string>
-    <string name="launch_opts"><u>Launch Options</u></string>
-    <string name="design"><u>Design</u></string>
-    <string name="advanced"><u>Advanced</u></string>
-    <string name="alerts"><u>Alerts</u></string>
-    <string name="behaviour"><u>Behaviour</u></string>
+    <string name="launch_opts"><u>Opcje Aktywacji</u></string>
+    <string name="design"><u>Wygląd</u></string>
+    <string name="advanced"><u>Zaawansowane</u></string>
+    <string name="alerts"><u>Alerty</u></string>
+    <string name="behaviour"><u>Zachowanie</u></string>
 </resources>
