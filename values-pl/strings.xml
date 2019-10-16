@@ -117,4 +117,5 @@
     <string name="advanced"><u>Zaawansowane</u></string>
     <string name="alerts"><u>Alerty</u></string>
     <string name="behaviour"><u>Zachowanie</u></string>
+    <string name="invert_buttons">Przyciski Swap</string>
 </resources>
