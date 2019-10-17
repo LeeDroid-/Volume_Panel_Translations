@@ -113,10 +113,10 @@
         <br/><br/>Bazı cihazlar belleği boşaltırken ve önemli hizmetleri sonlandırırken çok agresiftir, Yönetici haklarına sahip uygulamalar nadiren sonlandırılır.
         <br/><br/>Volume Panel için temel Yönetici haklarını etkinleştirmek, hizmetlerimizi çalışır tutacaktır.
         <br/><br/>Uygulamayı kaldırmanız gerekirse, bu seçeneği devre dışı bırakmanız gerekecektir.]]></string>
-    <string name="launch_opts"><u>Başlatma ayarları</u></string>
-    <string name="design"><u>Dizayn</u></string>
-    <string name="advanced"><u>Ileri</u></string>
+    <string name="launch_opts"><u>Başlatma Seçenekleri</u></string>
+    <string name="design"><u>Tasarım</u></string>
+    <string name="advanced"><u>Gelişmiş</u></string>
     <string name="alerts"><u>Uyarılar</u></string>
     <string name="behaviour"><u>Davranış</u></string>
-    <string name="invert_buttons">Takas Düğmeler</string>
+    <string name="invert_buttons">Tuşların Yönünü Değiştir</string>
 </resources>
