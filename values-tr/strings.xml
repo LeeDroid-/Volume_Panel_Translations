@@ -119,4 +119,6 @@
     <string name="alerts"><u>Uyarılar</u></string>
     <string name="behaviour"><u>Davranış</u></string>
     <string name="invert_buttons">Tuşları Ters Çevir</string>
+    <string name="position_left_land">Yatay Modda Solak</string>
+    <string name="silent_dnd">Use Native Silent Mode</string>
 </resources>

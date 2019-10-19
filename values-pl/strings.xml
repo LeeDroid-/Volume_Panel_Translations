@@ -117,5 +117,7 @@
     <string name="advanced"><u>Zaawansowane</u></string>
     <string name="alerts"><u>Alerty</u></string>
     <string name="behaviour"><u>Zachowanie</u></string>
-    <string name="invert_buttons">Przyciski Swap</string>
+    <string name="invert_buttons">Invert Volume Buttons</string>
+    <string name="position_left_land">Left Handed In Landscape</string>
+    <string name="silent_dnd">Use Classic Silent Mode</string>
 </resources>
