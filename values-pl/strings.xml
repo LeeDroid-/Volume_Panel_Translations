@@ -11,7 +11,6 @@
     <string name="failed_window_add">Nie udało się dodać okna, otwórz aplikację i upewnij się, że uprawnienia do nakładki ekranu zostały przyznane</string>
     <string name="cp_head">Dotknij CENTRUM, aby potwierdzić</string>
     <string name="transparency">Przeźroczystość</string>
-    <string name="disable">Zamknij</string>
     <string name="cancel">Anuluj</string>
     <string name="press_back">Po zakończeniu naciśnij przycisk Wstecz, aby wrócić do aplikacji.</string>
     <string name="accessibility_description"><u>Dostęp do Ułatwień Dostępu </u>
@@ -119,5 +118,9 @@
     <string name="behaviour"><u>Zachowanie</u></string>
     <string name="invert_buttons">Odróć Przyciski Głośności</string>
     <string name="position_left_land">Po Lewej Stronie w Poziomie</string>
-    <string name="silent_dnd">Użyj Klasycznego Trybu Cichego</string>
+    <string name="killed">The Volume Panel accessibility service has been stopped or removed by the system.
+        \n\nIf this was not intentional, please try the \"Force Keep Services Alive\" option in the app and ensure battery optimisation is disabled for Volume Panel.</string>
+    <string name="screen_shot">Show Screenshot Button</string>
+    <string name="reenable">Re-Enable</string>
+    <string name="hide_settings">Hide Settings Shortcut</string>
 </resources>

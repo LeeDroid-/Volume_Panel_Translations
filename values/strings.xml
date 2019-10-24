@@ -11,7 +11,6 @@
     <string name="failed_window_add">Failed to add window, please open the app and make sure Screen Overlay permissions have been granted</string>
     <string name="cp_head">Tap CENTER to confirm</string>
     <string name="transparency">Transparency</string>
-    <string name="disable">Disable</string>
     <string name="cancel">Cancel</string>
     <string name="press_back">Once complete, press back to return to the app.</string>
     <string name="accessibility_description"><u>Accessibility Access</u>
@@ -83,7 +82,8 @@
     <string name="alert">Optimisation Alert</string>
     <string name="bat_opt"><![CDATA[<b>Volume Panel is being optimised by the system &amp; may be killed in the background</b>.
     <br/><br/>None of the services in Volume Panel are battery intensive, but disabling optimisation will improve reliability.
-    <br/><br/>Click \"Close\" to run optimised or click \"Action Now\" followed by \"All Apps\" then disable Battery Optimisation for Volume Panel.]]></string>
+    <br/><br/>Click \"Close\" to run optimised or click \"Action Now\" followed by \"All Apps\" then disable Battery Optimisation for Volume Panel.
+    <br/><br/>If you find that the service is still being killed by the system, try enabling the "Force Keep Services Alive" Option.]]></string>
     <string name="action">Action Now</string>
     <string name="mute_media">Mute Media</string>
     <string name="vibrate">Vibrate</string>
@@ -119,5 +119,9 @@
     <string name="behaviour"><u>Behaviour</u></string>
     <string name="invert_buttons">Invert Volume Buttons</string>
     <string name="position_left_land">Left Handed In Landscape</string>
-    <string name="silent_dnd">Use Classic Silent Mode</string>
+    <string name="killed">The Volume Panel accessibility service has been stopped or removed by the system.
+        \n\nIf this was not intentional, please try the \"Force Keep Services Alive\" option in the app and ensure battery optimisation is disabled for Volume Panel.</string>
+    <string name="reenable">Re-Enable</string>
+    <string name="hide_settings">Hide Settings Shortcut</string>
+    <string name="screen_shot">Show Screenshot Button</string>
 </resources>

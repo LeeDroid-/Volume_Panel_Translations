@@ -11,7 +11,6 @@
     <string name="failed_window_add">Pencere eklenemedi, lütfen uygulamayı açın ve Ekran Yerleşimi izinlerinin verildiğinden emin olun</string>
     <string name="cp_head">Onaylamak için ORTAYA dokun</string>
     <string name="transparency">Şeffaflık</string>
-    <string name="disable">Devre dışı bırak</string>
     <string name="cancel">İptal</string>
     <string name="press_back">Tamamlandığında, uygulamaya geri dönmek için geriye basın.</string>
     <string name="accessibility_description"><u>Erişilebilirlik Erişimi</u>
@@ -120,5 +119,9 @@
     <string name="behaviour"><u>Davranış</u></string>
     <string name="invert_buttons">Ses Tuşlarını Ters Çevir</string>
     <string name="position_left_land">Yatay Modda Solak</string>
-    <string name="silent_dnd">Use Native Silent Mode</string>
+    <string name="killed">The Volume Panel accessibility service has been stopped or removed by the system.
+        \n\nIf this was not intentional, please try the \"Force Keep Services Alive\" option in the app and ensure battery optimisation is disabled for Volume Panel.</string>
+    <string name="screen_shot">Show Screenshot Button</string>
+    <string name="reenable">Re-Enable</string>
+    <string name="hide_settings">Hide Settings Shortcut</string>
 </resources>
