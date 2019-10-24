@@ -119,9 +119,9 @@
     <string name="behaviour"><u>Davranış</u></string>
     <string name="invert_buttons">Ses Tuşlarını Ters Çevir</string>
     <string name="position_left_land">Yatay Modda Solak</string>
-    <string name="killed">The Volume Panel accessibility service has been stopped or removed by the system.
-        \n\nIf this was not intentional, please try the \"Force Keep Services Alive\" option in the app and ensure battery optimisation is disabled for Volume Panel.</string>
-    <string name="screen_shot">Show Screenshot Button</string>
-    <string name="reenable">Re-Enable</string>
-    <string name="hide_settings">Hide Settings Shortcut</string>
+    <string name="killed">Volume Panel erişilebilirlik hizmeti sistem tarafından durduruldu veya kaldırıldı.
+        \n\nBu kasıtlı değilse, lütfen uygulamadaki \"Hizmetleri Çalışır Tutmaya Zorla\" seçeneğini deneyin ve Volume Panel için pil optimizasyonunun devre dışı bırakıldığından emin olun.</string>
+    <string name="screen_shot">Ekran Görüntüsü Düğmesini Göster</string>
+    <string name="reenable">Yeniden Etkinleştir</string>
+    <string name="hide_settings">Ayarlar Kısayolunu Gizle</string>
 </resources>
