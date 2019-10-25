@@ -124,4 +124,5 @@
     <string name="screen_shot">Ekran Görüntüsü Düğmesini Göster</string>
     <string name="reenable">Yeniden Etkinleştir</string>
     <string name="hide_settings">Ayarlar Kısayolunu Gizle</string>
+    <string name="layout">Layout</string>
 </resources>

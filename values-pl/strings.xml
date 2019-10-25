@@ -123,4 +123,5 @@
     <string name="screen_shot">Show Screenshot Button</string>
     <string name="reenable">Re-Enable</string>
     <string name="hide_settings">Hide Settings Shortcut</string>
+    <string name="layout">Layout</string>
 </resources>
