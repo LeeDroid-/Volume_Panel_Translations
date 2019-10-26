@@ -124,5 +124,9 @@
     <string name="screen_shot">Ekran Görüntüsü Düğmesini Göster</string>
     <string name="reenable">Yeniden Etkinleştir</string>
     <string name="hide_settings">Ayarlar Kısayolunu Gizle</string>
-    <string name="layout">Layout</string>
+    <string name="layout"><u>Düzen</u></string>
+    <string name="trigger">Trigger</string>
+    <string name="floating_trigger">Swipe Up/Down Trigger</string>
+    <string name="trigger_cat"><u>Trigger</u></string>
+    <string name="trigger_colour">Trigger Colour</string>
 </resources>

@@ -124,5 +124,9 @@
     <string name="reenable">Re-Enable</string>
     <string name="hide_settings">Hide Settings Shortcut</string>
     <string name="screen_shot">Show Screenshot Button</string>
-    <string name="layout">Layout</string>
+    <string name="layout"><u>Layout</u></string>
+    <string name="trigger">Trigger</string>
+    <string name="floating_trigger">Swipe Up/Down Trigger</string>
+    <string name="trigger_cat"><u>Trigger</u></string>
+    <string name="trigger_colour">Trigger Colour</string>
 </resources>
