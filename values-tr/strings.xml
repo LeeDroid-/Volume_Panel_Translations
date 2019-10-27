@@ -125,8 +125,8 @@
     <string name="reenable">Yeniden Etkinleştir</string>
     <string name="hide_settings">Ayarlar Kısayolunu Gizle</string>
     <string name="layout"><u>Düzen</u></string>
-    <string name="trigger">Trigger</string>
-    <string name="floating_trigger">Swipe Up/Down Trigger</string>
-    <string name="trigger_cat"><u>Trigger</u></string>
-    <string name="trigger_colour">Trigger Colour</string>
+    <string name="trigger">Tetikleyici</string>
+    <string name="floating_trigger">Yukarı/Aşağı Kaydırarak Tetikle</string>
+    <string name="trigger_cat"><u>Tetikleyici</u></string>
+    <string name="trigger_colour">Tetikleyici Rengi</string>
 </resources>
