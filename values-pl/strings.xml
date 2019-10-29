@@ -120,12 +120,12 @@
     <string name="position_left_land">Po Lewej Stronie w Poziomie</string>
     <string name="killed">Usługa dostępu do panelu głośności została zatrzymana lub usunięta przez system.
         \Jeśli nie było to celowe, wypróbuj opcję \"Force Keep Services Alive\" w aplikacji i upewnij się, że optymalizacja baterii jest wyłączona dla panelu głośności.</string>
-    <string name="screen_shot">Pokaż Zrzut Ekranowy Przycisk</string>
-    <string name="reenable">Włączyć</string>
-    <string name="hide_settings">Hstawień Skrywania Skrót </string>
+    <string name="screen_shot">Pokaż Przycisk Zrzutu Ekranu</string>
+    <string name="reenable">Włącz ponownie</string>
+    <string name="hide_settings">Ukryj Skrót Ustawień</string>
     <string name="layout"><u>Rozmieszczenie</u></string>
-    <string name="trigger">Trigger</string>
-    <string name="floating_trigger">Swipe Up/Down Trigger</string>
-    <string name="trigger_cat"><u>Trigger</u></string>
-    <string name="trigger_colour">Trigger Colour</string>
+    <string name="trigger">Wyzwalacz</string>
+    <string name="floating_trigger">Swypnięcie Wyzwalacza Góra/Dół</string>
+    <string name="trigger_cat"><u>Wyzwalaczr</u></string>
+    <string name="trigger_colour">Kolor Wyzwalacza</string>
 </resources>
