@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="additonal_perms_req">Necesitas permisos adicionales</string>
+    <string name="notification_policy_message">El Panel de volumen necesita modificar la configuración de las  notificaciones y de No molestar, ya que no podemos solicitar este permiso de la forma tradicional, deberás habilitarlo manualmente.
+        \n\nPresiona en Continuar y se te llevará a la pantalla correspondiente.\n</string>
+    <string name="proceed">Proceder</string>
+    <string name="app_name">Volume Panel</string>
+    <string name="volumeui">Panel de sistema</string>
+    <string name="current_shot">Actualmente establecido en %1$d segundos</string>
+    <string name="overlay_needed"><u>Superposición del sistema</u>
+	    \n\nEste permiso es necesario para mostrar el Panel de Volumen sobre otras aplicaciones.</string>
+    <string name="failed_window_add">No se ha podido agregar la ventana, por favor, abre la aplicación y asegúrate de que los permisos de la Pantalla de Superposición han sido concedidos.</string>
+    <string name="cp_head">Pulsa en el CENTRO para confirmar</string>
+    <string name="transparency">Transparencia</string>
+    <string name="cancel">Cancelar</string>
+    <string name="press_back">Una vez completado, presiona atrás para volver a la aplicación.</string>
+    <string name="accessibility_description"><u>Acceso de Accesibilidad</u>
+        \n\nEste permiso permite detectar las pulsaciones de las teclas de volumen.
+        \n\nNo se registran otras teclas.
+        \n\nAlgunos dispositivos pueden requerir un reinicio para iniciar el servicio.</string>
+    <string name="need_dnd">Permisos requeridos modo no molestar </string>
+    <string name="no">No</string>
+    <string name="vol_timeout">Tiempo de espera del panel</string>
+    <string name="yes">Si</string>
+    <string name="notification_listener">Receptor de notificaciones del panel de volumen</string>
+    <string name="apply">Aplicar</string>
+    <string name="perms"><u>Se necesitan permisos</u>
+        \Para poder anular el panel de volumen del sistema, se necesitan varios permisos. 
+        \Ahora te mostraré varias pantallas detallando esos permisos, su uso y un botón para habilitarlos.
+		\n\n</string>
+    <string name="notif_access"><u>Acceso a las notificaciones</u>
+        \n\nEste permiso nos permite detectar las transmisión activa, para modificar la configuración de No molestar.
+        \n\nNo se captura ningún contenido de las notificaciones.
+        \n\n</string>
+    <string name="grant">Conceder permiso</string>
+    <string name="not_found">No se detecta ninguna actividad, por favor, ve a los Ajustes y concede los permisos manualmente </string>
+    <string name="exclude_applications">Excluir aplicaciones</string>
+    <string name="icon_colour">Color del icono</string>
+    <string name="background_colour">Color de fondo</string>
+    <string name="slider_colour">Color del deslizador</string>
+    <string name="_3s">3s</string>
+    <string name="panel_timeout">Tiempo de espera del panel</string>
+    <string name="show_alarm_panel">Mostrar panel de alarma</string>
+    <string name="default_to_ring_volume">Volumen de timbre predeterminado</string>
+    <string name="start_collapsed">Iniciar contraído</string>
+    <string name="position_left">Posición izquierda</string>
+    <string name="dark_mode">Modo oscuro</string>
+    <string name="enable_volume_panel">Habilitar panel de volumen</string>
+    <string name="select_apps">Seleccionar aplicaciones</string>
+    <string name="loading_apps">Cargando aplicaciones</string>
+    <string name="done">Hecho</string>
+    <string name="exclude_applications_sum">El panel de volumen no se abrirá en estas aplicaciones.</string>
+    <string name="timeout">%1$ds</string>
+    <string name="about">
+      <![CDATA[<b>Panel de volumen:</b> 
+      <br/>\u2022Un reemplazo flexible para los controles de volumen de tu sistema. 
+	  <br/><br/><b>Diseñado y desarrollado por:</b>     
+	  <br/>\\2022 Lee Bailey (alias @LeeDrOiD) 
+	  <br/> Additional Thanks:
+      <br/>\u2022 The creators of App Intro.
+      <br/>\u2022 Ereza for Custom Activity On Crash.
+      <br/>\u2022 D-Max for Spots Dialog.
+      <br/>Translations By:
+      <br/>Linar10 - Polish
+      <br/>Fatih Firinci - Turkish	  
+      <br/><br/><No dudes en contactarme directamente y no olvides de dejarme un comentario &#128512;]]></string>
+    <string name="about_title">Acerca de</string>
+    <string name="email_feedback">Enviar comentarios</string>
+    <string name="close">Cerrar</string>
+    <string name="rate_app">Valora la aplicación</string>
+    <string name="disabling">Esta aplicación no fue instalada desde Google Play, pronto será deshabilitada.</string>
+    <string name="oops_error">Vaya.. parece que algo ha salido mal, el panel de volumen se ha cerrado, por favor, pulsa en \"ENVIAR INFORME\" para hacermelo saber.</string>
+    <string name="latest">Por favor, asegúrate de que estás utilizando la última versión.</string>
+    <string name="send_report">Enviar informe</string>
+    <string name="add_shortcut">Habilitar acceso directo en el Launcher</string>
+    <string name="launch">Mostrar panel de volumen</string>
+    <string name="disable_acc">POR FAVOR, DESACTIVA EL SERVICIO DE ACCESIBILIDAD.</string>
+    <string name="ver_pos">Posición vertical</string>
+    <string name="ver_pos_sum">Desde la parte superior de la pantalla</string>
+    <string name="ver_pos_val">%1$d%%</string>
+    <string name="_50">50\%</string>
+    <string name="play_sound">Cambios audibles</string>
+    <string name="alert">Alerta de optimización</string>
+    <string name="bat_opt"><![CDATA[<b>El panel de volumen está siendo optimizado por el sistema y puede ser desactivado en segundo plano.</b>.
+        <br/><br/>Ninguno de los servicios del panel de volumen son de uso intensivo de batería, pero la deshabilitación de la optimización mejorará la estabilidad.
+        <br/><br/>Presiona \"Cerrar\" para ejecutar optimizado o \"Ejecutar Ahora\" seguido de \"Todas las aplicaciones\" y luego desactiva " Optimización de la batería para el panel de volumen.
+        <br/><br/>Si detectas que el servicio sigue siendo interrumpido por el sistema, intenta habilitar la opción "Forzar mantener servicios activos".]]></string>
+    <string name="action">Actuar ahora</string>
+    <string name="mute_media">Silenciar medios</string>
+    <string name="vibrate">Vibración</string>
+    <string name="ring">Timbre</string>
+    <string name="silent">Silencio</string>
+    <string name="ring_mode">Modo de timbre</string>
+    <string name="force_close">Forzar cierre de diálogos</string>
+    <string name="mapper">Posible interferencia</string>
+    <string name="mapper_sum">Presiona aquí para más información</string>
+    <string name="mapper_detail">Es posible que se haya detectado una aplicación de mapeado de botones
+        \n\nLos mapeadores de botones utilizan servicios de accesibilidad para detectar las pulsaciones de los botones.
+        \n\nOtros servicios de accesibilidad que capturan y personalizan las pulsaciones de los botones de volumen interfieren con la capacidad de los paneles de volumen de esta aplicación para captar los botones de volumen.
+        \n\nConsidera la posibilidad de desactivar la personalización de los botones de volumen para esas aplicaciones.
+        \n\nAlternativamente, habilita el acceso directo del launcher y ábrelo con una asignación a traves de una aplicación de mapeado de botones</string>
+    <string name="dismiss">Rechazar</string>
+    <string name="show_notif">Mostrar panel de notificaciones</string>
+    <string name="notif_panel"><![CDATA[No todos los dispositivos admiten la división del volumen de las notificaciones y del timbre.<br/><br/>Si ambos deslizadores cambian juntos, esto se debe a la configuración de tu sistema y no tiene nada que ver con el Panel de volumen..]]></string>
+    <string name="enable_blacklist">Habilitar la exclusión de aplicaciones</string>
+    <string name="usage_access"><u>Acceso de uso</u>
+        \n\nEste permiso nos permite detectar la aplicación actualmente en uso a través de las estadísticas de uso de paquetes, verifica si la ha excluido.
+        \n\nSi quieres ejecutar sin excluir aplicaciones, no dudes en omitir este permiso.
+        \n\n</string>
+    <string name="excluded">Panel de volumen: Aplicación excluida</string>
+    <string name="do_not_kill">Forzar mantener servicios activos</string>
+    <string name="do_not_kill_desc"><![CDATA[<b>Utiliza esta opción sólo si el panel de volumen sigue sin funcionar.</b>
+        <br/><br/>Algunos dispositivos son demasiado agresivos cuando liberan memoria y eliminan servicios importantes, las aplicaciones con derechos de administrador rara vez se eliminan.
+        <br/><br/>Habilitar los derechos básicos de Administrador para el Panel de Volumen mantendrá al servicio activo.
+        <br/><br/>You will have to disable this option if you ever need to uninstall the app.]]></string>
+    <string name="launch_opts"><u>Opciones</u></string>
+    <string name="design"><u>Diseño</u></string>
+    <string name="advanced"><u>Avanzado</u></string>
+    <string name="alerts"><u>Alertas</u></string>
+    <string name="behaviour"><u>Comportamiento</u></string>
+    <string name="invert_buttons">Invertir botones de volumen</string>
+    <string name="position_left_land">Posición izquierda en modo horizontal</string>
+    <string name="killed">El servicio de accesibilidad del panel de volumen ha sido detenido o eliminado por el sistema.
+        \n\nSi no ha sido intencionado, por favor, prueba la opción "Forzar mantener servicios activos" en la aplicación y asegúrate de que la optimización de la batería está desactivada en el Panel de Volumen..</string>
+    <string name="reenable">Habilitar de nuevo</string>
+    <string name="hide_settings">Ocultar acceso directo a los ajustes</string>
+    <string name="screen_shot">Mostrar botón de captura de pantalla</string>
+    <string name="layout"><u>Disposición</u></string>
+    <string name="floating_trigger">Activador flotante</string>
+    <string name="trigger_cat"><u>Activador</u></string>
+    <string name="trigger_colour">Color del activador</string>
+    <string name="rate_it"><![CDATA[<p style="text-align:center"><b>Disfrutando del Panel de Volumen?</b>
+        <br/><br/>Por favor, deja tu opinión en el Play Store
+        <br/><br/>\u2b50\u2b50\u2b50\u2b50\u2b50</p>]]></string>
+    <string name="disable">Deshabilitar</string>
+    <string name="pro">Eliminar publicidad - ¡Vamos Pro!</string>
+</resources>

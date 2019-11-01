@@ -11,6 +11,7 @@
     <string name="failed_window_add">Nie udało się dodać okna, otwórz aplikację i upewnij się, że uprawnienia do nakładki ekranu zostały przyznane</string>
     <string name="cp_head">Dotknij CENTRUM, aby potwierdzić</string>
     <string name="transparency">Przeźroczystość</string>
+    <string name="disable">Zamknij</string>
     <string name="cancel">Anuluj</string>
     <string name="press_back">Po zakończeniu naciśnij przycisk Wstecz, aby wrócić do aplikacji.</string>
     <string name="accessibility_description"><u>Dostęp do Ułatwień Dostępu </u>
@@ -124,8 +125,10 @@
     <string name="reenable">Włącz ponownie</string>
     <string name="hide_settings">Ukryj Skrót Ustawień</string>
     <string name="layout"><u>Rozmieszczenie</u></string>
-    <string name="trigger">Wyzwalacz</string>
     <string name="floating_trigger">Swypnięcie Wyzwalacza Góra/Dół</string>
     <string name="trigger_cat"><u>Wyzwalacz</u></string>
     <string name="trigger_colour">Kolor Wyzwalacza</string>
+    <string name="rate_it"><![CDATA[<p style="text-align:center"><b>Enjoying Volume Panel?</b>
+        <br/><br/>Please leave a review in the play store!
+        <br/><br/>\u2b50\u2b50\u2b50\u2b50\u2b50</p>]]></string>
 </resources>
