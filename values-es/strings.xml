@@ -29,7 +29,7 @@
         \Ahora te mostraré varias pantallas detallando esos permisos, su uso y un botón para habilitarlos.
 		\n\n</string>
     <string name="notif_access"><u>Acceso a las notificaciones</u>
-        \n\nEste permiso nos permite detectar las transmisión activa, para modificar la configuración de No molestar.
+        \n\nEste permiso nos permite detectar la transmisión activa y modificar los ajustes de No molestar.
         \n\nNo se captura ningún contenido de las notificaciones.
         \n\n</string>
     <string name="grant">Conceder permiso</string>
@@ -52,15 +52,15 @@
     <string name="exclude_applications_sum">El panel de volumen no se abrirá en estas aplicaciones.</string>
     <string name="timeout">%1$ds</string>
     <string name="about">
-      <![CDATA[<b>Panel de volumen:</b> 
+      <![CDATA[<b>Volume Panel:</b> 
       <br/>\u2022Un reemplazo flexible para los controles de volumen de tu sistema. 
 	  <br/><br/><b>Diseñado y desarrollado por:</b>     
 	  <br/>\\2022 Lee Bailey (alias @LeeDrOiD) 
-	  <br/> Additional Thanks:
+	  <br/> Agradecimientos especiales:
       <br/>\u2022 The creators of App Intro.
       <br/>\u2022 Ereza for Custom Activity On Crash.
       <br/>\u2022 D-Max for Spots Dialog.
-      <br/>Translations By:
+      <br/>Traducciones por:
       <br/>Linar10 - Polish
       <br/>Fatih Firinci - Turkish	  
       <br/><br/><No dudes en contactarme directamente y no olvides de dejarme un comentario &#128512;]]></string>
@@ -81,16 +81,16 @@
     <string name="_50">50\%</string>
     <string name="play_sound">Cambios audibles</string>
     <string name="alert">Alerta de optimización</string>
-    <string name="bat_opt"><![CDATA[<b>El panel de volumen está siendo optimizado por el sistema y puede ser desactivado en segundo plano.</b>.
-        <br/><br/>Ninguno de los servicios del panel de volumen son de uso intensivo de batería, pero la deshabilitación de la optimización mejorará la estabilidad.
-        <br/><br/>Presiona \"Cerrar\" para ejecutar optimizado o \"Ejecutar Ahora\" seguido de \"Todas las aplicaciones\" y luego desactiva " Optimización de la batería para el panel de volumen.
+    <string name="bat_opt"><![CDATA[<b>El panel de volumen está siendo optimizado por el sistema y puede ser deshabilitado en segundo plano</b>.
+        <br/><br/>Ninguno de los servicios del panel de volumen son de uso intensivo para la batería, pero la deshabilitación de la optimización mejorará la estabilidad.
+        <br/><br/>Presiona \"Cerrar\" para ejecutar optimizado o \"Actuar Ahora\" seguido de \"Todas las aplicaciones\" y luego desactiva " Optimización de la batería para el panel de volumen.
         <br/><br/>Si detectas que el servicio sigue siendo interrumpido por el sistema, intenta habilitar la opción "Forzar mantener servicios activos".]]></string>
     <string name="action">Actuar ahora</string>
     <string name="mute_media">Silenciar medios</string>
     <string name="vibrate">Vibración</string>
-    <string name="ring">Timbre</string>
-    <string name="silent">Silencio</string>
-    <string name="ring_mode">Modo de timbre</string>
+    <string name="ring">Sonido</string>
+    <string name="silent">Silenciar</string>
+    <string name="ring_mode">Modo de sonido</string>
     <string name="force_close">Forzar cierre de diálogos</string>
     <string name="mapper">Posible interferencia</string>
     <string name="mapper_sum">Presiona aquí para más información</string>
@@ -112,7 +112,7 @@
     <string name="do_not_kill_desc"><![CDATA[<b>Utiliza esta opción sólo si el panel de volumen sigue sin funcionar.</b>
         <br/><br/>Algunos dispositivos son demasiado agresivos cuando liberan memoria y eliminan servicios importantes, las aplicaciones con derechos de administrador rara vez se eliminan.
         <br/><br/>Habilitar los derechos básicos de Administrador para el Panel de Volumen mantendrá al servicio activo.
-        <br/><br/>You will have to disable this option if you ever need to uninstall the app.]]></string>
+        <br/><br/>Tendrás que desactivar esta opción si alguna vez necesitas desinstalar la aplicación.]]></string>
     <string name="launch_opts"><u>Opciones</u></string>
     <string name="design"><u>Diseño</u></string>
     <string name="advanced"><u>Avanzado</u></string>
@@ -129,9 +129,11 @@
     <string name="floating_trigger">Activador flotante</string>
     <string name="trigger_cat"><u>Activador</u></string>
     <string name="trigger_colour">Color del activador</string>
-    <string name="rate_it"><![CDATA[<p style="text-align:center"><b>Disfrutando del Panel de Volumen?</b>
-        <br/><br/>Por favor, deja tu opinión en el Play Store
+        <string name="rate_it"><![CDATA[<p style="text-align:center"><b>Disfrutando de Volume Panel?</b>
+        <br/><br/>Por favor, deja tu valoración en Play Store
         <br/><br/>\u2b50\u2b50\u2b50\u2b50\u2b50</p>]]></string>
     <string name="disable">Deshabilitar</string>
-    <string name="pro">Eliminar publicidad - ¡Vamos Pro!</string>
+    <string name="pro">Upgrade To Volume Panel Pro!</string>
+    <string name="pro_only">Only Available In Volume Panel Pro</string>
+    <string name="pro_un">Remove Advertising &amp; Unlock All Features.</string>
 </resources>

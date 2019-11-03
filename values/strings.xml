@@ -86,7 +86,7 @@
     <br/><br/>Click \"Close\" to run optimised or click \"Action Now\" followed by \"All Apps\" then disable Battery Optimisation for Volume Panel.
     <br/><br/>If you find that the service is still being killed by the system, try enabling the "Force Keep Services Alive" Option.]]></string>
     <string name="action">Action Now</string>
-    <string name="pro">Remove Advertising - Go Pro!</string>
+    <string name="pro">Upgrade To Volume Panel Pro!</string>
     <string name="mute_media">Mute Media</string>
     <string name="vibrate">Vibrate</string>
     <string name="ring">Ring</string>
@@ -133,4 +133,6 @@
     <string name="rate_it"><![CDATA[<p style="text-align:center"><b>Enjoying Volume Panel?</b>
         <br/><br/>Please leave a review in the play store!
         <br/><br/>\u2b50\u2b50\u2b50\u2b50\u2b50</p>]]></string>
+    <string name="pro_only">Only Available In Volume Panel Pro</string>
+    <string name="pro_un">Remove Advertising &amp; Unlock All Features.</string>
 </resources>
