@@ -135,4 +135,5 @@
     <string name="pro">Upgrade To Volume Panel Pro!</string>
     <string name="pro_only">Only Available In Volume Panel Pro</string>
     <string name="pro_un">Remove Advertising &amp; Unlock All Features.</string>
+    <string name="suspend">Suspend</string>
 </resources>

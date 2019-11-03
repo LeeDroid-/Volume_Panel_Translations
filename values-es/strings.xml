@@ -129,11 +129,12 @@
     <string name="floating_trigger">Activador flotante</string>
     <string name="trigger_cat"><u>Activador</u></string>
     <string name="trigger_colour">Color del activador</string>
-        <string name="rate_it"><![CDATA[<p style="text-align:center"><b>Disfrutando de Volume Panel?</b>
+        <string name="rate_it"><![CDATA[<p style="text-align:center"><b>¿Disfrutando de Volume Panel?</b>
         <br/><br/>Por favor, deja tu valoración en Play Store
         <br/><br/>\u2b50\u2b50\u2b50\u2b50\u2b50</p>]]></string>
     <string name="disable">Deshabilitar</string>
-    <string name="pro">Upgrade To Volume Panel Pro!</string>
-    <string name="pro_only">Only Available In Volume Panel Pro</string>
-    <string name="pro_un">Remove Advertising &amp; Unlock All Features.</string>
+    <string name="pro">¡Actualiza a Volume Panel Pro!</string>
+    <string name="pro_only">Sólo disponible en Volume Panel Pro</string>
+    <string name="pro_un">Elimina la publicidad y desbloquea todas las funciones.</string>
+    <string name="suspend">Suspender</string>
 </resources>
