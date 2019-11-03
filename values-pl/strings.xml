@@ -128,10 +128,10 @@
     <string name="floating_trigger">Swypnięcie Wyzwalacza Góra/Dół</string>
     <string name="trigger_cat"><u>Wyzwalacz</u></string>
     <string name="trigger_colour">Kolor Wyzwalacza</string>
-    <string name="rate_it"><![CDATA[<p style="text-align:center"><b>Enjoying Volume Panel?</b>
-        <br/><br/>Please leave a review in the play store!
+    <string name="rate_it"><![CDATA[<p style="text-align:center"><b>Cieszysz się Panelem Głośności?</b>
+        <br/><br/>Proszę zostawić opinię w Sklepie Play!
         <br/><br/>\u2b50\u2b50\u2b50\u2b50\u2b50</p>]]></string>
-    <string name="pro">Upgrade To Volume Panel Pro!</string>
-    <string name="pro_only">Only Available In Volume Panel Pro</string>
-    <string name="pro_un">Remove Advertising &amp; Unlock All Features.</string>
+    <string name="pro">Uaktualnij Do Volume Panel Pro!</string>
+    <string name="pro_only">Dostępne Tylko w Volume Panel Pro</string>
+    <string name="pro_un">Usuń Reklamy &amp; Odblokuj Wszystkie Funkcje.</string>
 </resources>
