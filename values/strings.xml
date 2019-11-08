@@ -137,4 +137,5 @@
     <string name="pro_un">Remove Advertising &amp; Unlock All Features.</string>
     <string name="suspend">Suspend</string>
     <string name="hide_nav">Hide Nav Bar</string>
+    <string name="hide_full">Invisible In Full Screen</string>
 </resources>
