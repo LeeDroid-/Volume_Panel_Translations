@@ -135,4 +135,5 @@
     <string name="pro_only">Dostępne Tylko w Volume Panel Pro</string>
     <string name="pro_un">Usuń Reklamy &amp; Odblokuj Wszystkie Funkcje.</string>
     <string name="suspend">Suspend</string>
+    <string name="hide_nav">Hide Nav Bar</string>
 </resources>

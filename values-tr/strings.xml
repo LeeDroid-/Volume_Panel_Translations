@@ -129,11 +129,12 @@
     <string name="floating_trigger">Yukarı/Aşağı Kaydırarak Tetikle</string>
     <string name="trigger_cat"><u>Tetikleyici</u></string>
     <string name="trigger_colour">Tetikleyici Rengi</string>
-    <string name="rate_it"><![CDATA[<p style="text-align:center"><b>Volume Panel'i beğendiniz mi?</b>
-        <br/><br/>Lütfen play store'da bir inceleme bırakın!
+    <string name="rate_it"><![CDATA[<p style="text-align:center"><b>Volume Panel\'i beğendiniz mi?</b>
+        <br/><br/>Lütfen play store\'da bir inceleme bırakın!
         <br/><br/>\u2b50\u2b50\u2b50\u2b50\u2b50</p>]]></string>
     <string name="pro">Volume Panel Pro'ya Yükselt!</string>
     <string name="pro_only">Yalnızca Volume Panel Pro'da Kullanılabilir</string>
     <string name="pro_un">Reklamları Kaldır &amp; Tüm Özelliklerin Kilidini Aç.</string>
     <string name="suspend">Askıya Al</string>
+    <string name="hide_nav">Hide Nav Bar</string>
 </resources>

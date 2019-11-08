@@ -25,8 +25,8 @@
     <string name="notification_listener">Receptor de notificaciones del panel de volumen</string>
     <string name="apply">Aplicar</string>
     <string name="perms"><u>Se necesitan permisos</u>
-        \Para poder anular el panel de volumen del sistema, se necesitan varios permisos. 
-        \Ahora te mostraré varias pantallas detallando esos permisos, su uso y un botón para habilitarlos.
+        \n\nPara poder anular el panel de volumen del sistema, se necesitan varios permisos. 
+        \n\nAhora te mostraré varias pantallas detallando esos permisos, su uso y un botón para habilitarlos.
 		\n\n</string>
     <string name="notif_access"><u>Acceso a las notificaciones</u>
         \n\nEste permiso nos permite detectar la transmisión activa y modificar los ajustes de No molestar.
@@ -55,7 +55,7 @@
       <![CDATA[<b>Volume Panel:</b> 
       <br/>\u2022Un reemplazo flexible para los controles de volumen de tu sistema. 
 	  <br/><br/><b>Diseñado y desarrollado por:</b>     
-	  <br/>\\2022 Lee Bailey (alias @LeeDrOiD) 
+	  <br/>\u2022 Lee Bailey (alias @LeeDrOiD) 
 	  <br/> Agradecimientos especiales:
       <br/>\u2022 The creators of App Intro.
       <br/>\u2022 Ereza for Custom Activity On Crash.
@@ -101,7 +101,7 @@
         \n\nAlternativamente, habilita el acceso directo del launcher y ábrelo con una asignación a traves de una aplicación de mapeado de botones</string>
     <string name="dismiss">Rechazar</string>
     <string name="show_notif">Mostrar panel de notificaciones</string>
-    <string name="notif_panel"><![CDATA[No todos los dispositivos admiten la división del volumen de las notificaciones y del timbre.<br/><br/>Si ambos deslizadores cambian juntos, esto se debe a la configuración de tu sistema y no tiene nada que ver con el Panel de volumen..]]></string>
+    <string name="notif_panel"><![CDATA[No todos los dispositivos admiten la división del volumen de las notificaciones y del timbre.<br/><br/>Si ambos deslizadores cambian juntos, esto se debe a la configuración de tu sistema y no tiene nada que ver con el Panel de volumen.]]></string>
     <string name="enable_blacklist">Habilitar la exclusión de aplicaciones</string>
     <string name="usage_access"><u>Acceso de uso</u>
         \n\nEste permiso nos permite detectar la aplicación actualmente en uso a través de las estadísticas de uso de paquetes, verifica si la ha excluido.
@@ -129,7 +129,7 @@
     <string name="floating_trigger">Activador flotante</string>
     <string name="trigger_cat"><u>Activador</u></string>
     <string name="trigger_colour">Color del activador</string>
-        <string name="rate_it"><![CDATA[<p style="text-align:center"><b>¿Disfrutando de Volume Panel?</b>
+    <string name="rate_it"><![CDATA[<p style="text-align:center"><b>¿Disfrutando de Volume Panel?</b>
         <br/><br/>Por favor, deja tu valoración en Play Store
         <br/><br/>\u2b50\u2b50\u2b50\u2b50\u2b50</p>]]></string>
     <string name="disable">Deshabilitar</string>
@@ -137,4 +137,5 @@
     <string name="pro_only">Sólo disponible en Volume Panel Pro</string>
     <string name="pro_un">Elimina la publicidad y desbloquea todas las funciones.</string>
     <string name="suspend">Suspender</string>
+    <string name="hide_nav">Hide Nav Bar</string>
 </resources>
