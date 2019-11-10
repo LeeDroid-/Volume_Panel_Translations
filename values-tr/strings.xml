@@ -136,6 +136,6 @@
     <string name="pro_only">Yalnızca Volume Panel Pro\'da Kullanılabilir</string>
     <string name="pro_un">Reklamları Kaldır &amp; Tüm Özelliklerin Kilidini Aç.</string>
     <string name="suspend">Askıya Al</string>
-    <string name="hide_nav">Hide Nav Bar</string>
-    <string name="hide_full">Invisible In Full Screen</string>
+    <string name="hide_nav">Gezinti Çubuğunu Gizle</string>
+    <string name="hide_full">Tam Ekranda Gösterme</string>
 </resources>
