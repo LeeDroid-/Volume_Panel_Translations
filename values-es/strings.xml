@@ -28,10 +28,6 @@
         \n\nPara poder anular el panel de volumen del sistema, se necesitan varios permisos. 
         \n\nAhora te mostraré varias pantallas detallando esos permisos, su uso y un botón para habilitarlos.
 		\n\n</string>
-    <string name="notif_access"><u>Acceso a las notificaciones</u>
-        \n\nEste permiso nos permite detectar la transmisión activa y modificar los ajustes de No molestar.
-        \n\nNo se captura ningún contenido de las notificaciones.
-        \n\n</string>
     <string name="grant">Conceder permiso</string>
     <string name="not_found">No se detecta ninguna actividad, por favor, ve a los Ajustes y concede los permisos manualmente </string>
     <string name="exclude_applications">Excluir aplicaciones</string>
@@ -137,6 +133,18 @@
     <string name="pro_only">Sólo disponible en Volume Panel Pro</string>
     <string name="pro_un">Elimina la publicidad y desbloquea todas las funciones.</string>
     <string name="suspend">Suspender</string>
-    <string name="hide_nav">Hide Nav Bar</string>
-    <string name="hide_full">Invisible In Full Screen</string>
+    <string name="hide_nav">Ocultar barra de navegación</string>
+    <string name="hide_full">Invisible a pantalla completa</string>
+    <string name="dnd_access"><u>Do Not Disturb Access</u>
+        \n\nThis permission allows us to modify Do Not Disturb Settings.
+        \n\n</string>
+    <string name="cast">Control Cast Volume</string>
+    <string name="notif_access"><u>Notification Access</u>
+        \n\n\u2022 This permission allows us to detect active Casting or Streaming.
+        \n\u2022 If you wish to run without controlling cast streams, feel free to skip this permission.
+        \n\nNo notification content is captured.
+        \n\n</string>
+    <string name="margin">Panel Margin</string>
+    <string name="margin_sum">From the edge of the screen</string>
+    <string name="disable_notif">PLEASE DISABLE NOTIFICATION ACCESS</string>
 </resources>

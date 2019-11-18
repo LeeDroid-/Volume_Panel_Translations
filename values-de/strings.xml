@@ -28,10 +28,6 @@
         \n\nIn order to override the system volume panel, several permissions are required.
         \n\nWe will now show you several screens detailing those permissions, their usage &amp; a button to enable them.
         \n\n</string>
-    <string name="notif_access"><u>Notification Access</u>
-        \n\nThis permission allows us to detect active Casting or Streaming &amp; to modify Do Not Disturb Settings.
-        \n\nNo notification content is captured.
-        \n\n</string>
     <string name="grant">Grant Permission</string>
     <string name="not_found">Activity not found, please navigate to Settings and grant manually</string>
     <string name="exclude_applications">Exclude Applications</string>
@@ -138,4 +134,16 @@
     <string name="suspend">Suspend</string>
     <string name="hide_nav">Hide Nav Bar</string>
     <string name="hide_full">Invisible In Full Screen</string>
+    <string name="notif_access"><u>Notification Access</u>
+        \n\n\u2022 This permission allows us to detect active Casting or Streaming.
+        \n\u2022 If you wish to run without controlling cast streams, feel free to skip this permission.
+        \n\nNo notification content is captured.
+        \n\n</string>
+    <string name="dnd_access"><u>Do Not Disturb Access</u>
+        \n\nThis permission allows us to modify Do Not Disturb Settings.
+        \n\n</string>
+    <string name="cast">Control Cast Volume</string>
+    <string name="margin">Panel Margin</string>
+    <string name="margin_sum">From the edge of the screen</string>
+    <string name="disable_notif">PLEASE DISABLE NOTIFICATION ACCESS</string>
 </resources>

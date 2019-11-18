@@ -29,10 +29,6 @@
         \n\nAby zastąpić panel głośności systemowy, wymaganych jest kilka uprawnień.
         \n\nPokażę teraz ekran z wyszczególnieniem tych uprawnień z przyciskiem, aby je włączyć.
         \n\nPo włączeniu uprawnienia naciśnij przycisk Wstecz, aby wrócić do aplikacji.</string>
-    <string name="notif_access"><u>Dostęp do Powiadomień</u>
-        \n\n\u2022 Wykryj aktywne przesyłanie lub przesyłanie strumieniowe.
-        \n\u2022 Zmień ustawienia Nie przeszkadzać.
-        \n\nNo treść powiadomienia jest przechwytywana.</string>
     <string name="grant">Przyznaj Uprawnienia</string>
     <string name="not_found">Nie znaleziono aktywności, przejdź do Ustawień i udziel ręcznie</string>
     <string name="exclude_applications">Wyklucz Aplikacje</string>
@@ -134,7 +130,19 @@
     <string name="pro">Uaktualnij Do Volume Panel Pro!</string>
     <string name="pro_only">Dostępne Tylko w Volume Panel Pro</string>
     <string name="pro_un">Usuń Reklamy &amp; Odblokuj Wszystkie Funkcje.</string>
-    <string name="suspend">Suspend</string>
-    <string name="hide_nav">Hide Nav Bar</string>
-    <string name="hide_full">Invisible In Full Screen</string>
+    <string name="suspend">Pauza</string>
+    <string name="hide_nav">Ukryć pasek nawigacyjny</string>
+    <string name="hide_full">Niewidzialne na pełnym ekranie</string>
+    <string name="dnd_access"><u>Do Not Disturb Access</u>
+        \n\nThis permission allows us to modify Do Not Disturb Settings.
+        \n\n</string>
+    <string name="cast">Control Cast Volume</string>
+    <string name="notif_access"><u>Notification Access</u>
+        \n\n\u2022 This permission allows us to detect active Casting or Streaming.
+        \n\u2022 If you wish to run without controlling cast streams, feel free to skip this permission.
+        \n\nNo notification content is captured.
+        \n\n</string>
+    <string name="margin">Panel Margin</string>
+    <string name="margin_sum">From the edge of the screen</string>
+    <string name="disable_notif">PLEASE DISABLE NOTIFICATION ACCESS</string>
 </resources>

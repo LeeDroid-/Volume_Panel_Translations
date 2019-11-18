@@ -29,10 +29,6 @@
         \n\nSistem ses panelini geçersiz kılmak için çeşitli izinler gerekir.
         \n\nŞimdi bunları etkinleştirmek için bir düğme ile bu izinleri detaylandıran bir ekran göstereceğim.
         \n\nİzin etkinleştirildiğinde, uygulamaya geri dönmek için lütfen geriye basın.</string>
-    <string name="notif_access"><u>Bildirim Erişimi</u>
-        \n\n\u2022 Etkin Yayın ve Akışı algılama.
-        \n\u2022 Rahatsız Etmeyin Ayarlarını değiştirme.
-        \n\nHiçbir bildirim içeriği yakalanmaz.</string>
     <string name="grant">İzin Ver</string>
     <string name="not_found">Etkinlik bulunamadı, lütfen Ayarlar\'a gidin ve elle izin verin</string>
     <string name="exclude_applications">Uygulamaları Hariç Tut</string>
@@ -138,4 +134,16 @@
     <string name="suspend">Askıya Al</string>
     <string name="hide_nav">Gezinti Çubuğunu Gizle</string>
     <string name="hide_full">Tam Ekranda Gösterme</string>
+    <string name="dnd_access"><u>Do Not Disturb Access</u>
+        \n\nThis permission allows us to modify Do Not Disturb Settings.
+        \n\n</string>
+    <string name="cast">Control Cast Volume</string>
+    <string name="notif_access"><u>Notification Access</u>
+        \n\n\u2022 This permission allows us to detect active Casting or Streaming.
+        \n\u2022 If you wish to run without controlling cast streams, feel free to skip this permission.
+        \n\nNo notification content is captured.
+        \n\n</string>
+    <string name="margin">Panel Margin</string>
+    <string name="margin_sum">From the edge of the screen</string>
+    <string name="disable_notif">PLEASE DISABLE NOTIFICATION ACCESS</string>
 </resources>
