@@ -134,16 +134,16 @@
     <string name="suspend">Askıya Al</string>
     <string name="hide_nav">Gezinti Çubuğunu Gizle</string>
     <string name="hide_full">Tam Ekranda Gösterme</string>
-    <string name="dnd_access"><u>Do Not Disturb Access</u>
-        \n\nThis permission allows us to modify Do Not Disturb Settings.
+    <string name="dnd_access"><u>Rahatsız Etmeyin Erişimi</u>
+        \n\nBu izin, Rahatsız Etme Ayarlarını değiştirmemize izin verir.
         \n\n</string>
-    <string name="cast">Control Cast Volume</string>
-    <string name="notif_access"><u>Notification Access</u>
-        \n\n\u2022 This permission allows us to detect active Casting or Streaming.
-        \n\u2022 If you wish to run without controlling cast streams, feel free to skip this permission.
-        \n\nNo notification content is captured.
+    <string name="cast">Yayın Sesi Kontrolü</string>
+    <string name="notif_access"><u>Bildirim Erişimi</u>
+        \n\n\u2022 Bu izin, aktif Yayın veya Akışı tespit etmemize izin verir.
+        \n\u2022 Yayın akışlarını kontrol etmeden çalıştırmak isterseniz, bu izni atlamaktan çekinmeyin.
+        \n\nHiçbir bildirim içeriği yakalanmaz.
         \n\n</string>
-    <string name="margin">Panel Margin</string>
-    <string name="margin_sum">From the edge of the screen</string>
-    <string name="disable_notif">PLEASE DISABLE NOTIFICATION ACCESS</string>
+    <string name="margin">Panel Boşluğu</string>
+    <string name="margin_sum">Ekranın kenarından</string>
+    <string name="disable_notif">LÜTFEN BİLDİRİM ERİŞİMİNİ DEVRE DIŞI BIRAKIN</string>
 </resources>
