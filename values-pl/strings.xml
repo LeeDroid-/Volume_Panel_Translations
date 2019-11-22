@@ -133,16 +133,16 @@
     <string name="suspend">Pauza</string>
     <string name="hide_nav">Ukryć pasek nawigacyjny</string>
     <string name="hide_full">Niewidzialne na pełnym ekranie</string>
-    <string name="dnd_access"><u>Do Not Disturb Access</u>
-        \n\nThis permission allows us to modify Do Not Disturb Settings.
+    <string name="dnd_access"><u>Dostęp Do Nie Przeszkadzać</u>
+        \n\nTo uprawnienie pozwala nam modyfikować ustawienia Nie Przeszkadzać.
         \n\n</string>
-    <string name="cast">Control Cast Volume</string>
-    <string name="notif_access"><u>Notification Access</u>
-        \n\n\u2022 This permission allows us to detect active Casting or Streaming.
-        \n\u2022 If you wish to run without controlling cast streams, feel free to skip this permission.
-        \n\nNo notification content is captured.
+    <string name="cast">Kontroluj Głośność Przesyłania Ekranu</string>
+    <string name="notif_access"><u>Dostęp Do Powiadomień</u>
+        \n\n\u2022To uprawnienie pozwala nam wykryć aktywne Przesyłanie lub Przesyłanie Strumieniowe.
+        \n\u2022 Jeśli chcesz uruchomić bez kontrolowania przesyłanych strumieni, możesz pominąć to uprawnienie.
+        \n\nŻadna treść powiadomienia nie jest rejestrowana.
         \n\n</string>
-    <string name="margin">Panel Margin</string>
-    <string name="margin_sum">From the edge of the screen</string>
-    <string name="disable_notif">PLEASE DISABLE NOTIFICATION ACCESS</string>
+    <string name="margin">Margines Panelu</string>
+    <string name="margin_sum">Od krawędzi ekranu</string>
+    <string name="disable_notif">PROSZĘ O WYŁACZENIE DOSTĘPU DO POWIADOMIEŃ</string>
 </resources>
