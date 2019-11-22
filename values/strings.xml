@@ -16,7 +16,7 @@
     <string name="press_back">Once complete, press back to return to the app.</string>
     <string name="accessibility_description"><u>Accessibility Access</u>
         \n\nThis permission allows us to detect volume +\\- key presses.
-        \n\nNo other keys are captured.
+        \n\nNo other content is captured.
         \n\nSome devices may require a reboot to start the service.</string>
     <string name="need_dnd">Do Not Disturb Permissions Required</string>
     <string name="no">No</string>
@@ -146,4 +146,9 @@
     <string name="margin">Panel Margin</string>
     <string name="margin_sum">From the edge of the screen</string>
     <string name="disable_notif">PLEASE DISABLE NOTIFICATION ACCESS</string>
+    <string name="up_launch">Launch On Vol + Press Only</string>
+    <string name="up_launch_sum">The panel will only launch when Vol + is pressed.</string>
+    <string name="click_out">Click Outside To Close</string>
+    <string name="click_out_sum">\u2022 May interfere with other apps when enabled.
+        \n\u2022 When disabled the panel will close on timeout only.</string>
 </resources>

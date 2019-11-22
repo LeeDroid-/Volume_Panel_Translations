@@ -146,4 +146,9 @@
     <string name="margin">Panel Boşluğu</string>
     <string name="margin_sum">Ekranın kenarından</string>
     <string name="disable_notif">LÜTFEN BİLDİRİM ERİŞİMİNİ DEVRE DIŞI BIRAKIN</string>
+    <string name="up_launch">Launch On Vol + Press Only</string>
+    <string name="up_launch_sum">The panel will only launch when Vol + is pressed.</string>
+    <string name="click_out">Click Outside To Close</string>
+    <string name="click_out_sum">\u2022 May interfere with other apps when enabled.
+        \n\u2022 When disabled the panel will close on timeout only.</string>
 </resources>

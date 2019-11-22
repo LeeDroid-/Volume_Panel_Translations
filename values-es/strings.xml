@@ -135,16 +135,21 @@
     <string name="suspend">Suspender</string>
     <string name="hide_nav">Ocultar barra de navegación</string>
     <string name="hide_full">Invisible a pantalla completa</string>
-    <string name="dnd_access"><u>Do Not Disturb Access</u>
-        \n\nThis permission allows us to modify Do Not Disturb Settings.
+    <string name="dnd_access"><u>Acceso a No molestar</u>
+        \n\nEste permiso nos permite modificar la configuración de No molestar.
         \n\n</string>
     <string name="cast">Control Cast Volume</string>
-    <string name="notif_access"><u>Notification Access</u>
-        \n\n\u2022 This permission allows us to detect active Casting or Streaming.
-        \n\u2022 If you wish to run without controlling cast streams, feel free to skip this permission.
-        \n\nNo notification content is captured.
+    <string name="notif_access"><u>Acceso a las notificaciones</u>
+        \n\n\u2022 Este permiso nos permite detectar las notificaciones activas.
+        \n\u2022 Si deseas ejecutar sin controlar las notificaciones, no dudes en omitir este permiso.
+        \n\nNo se registrará ningún contenido de la notificación.
         \n\n</string>
-    <string name="margin">Panel Margin</string>
-    <string name="margin_sum">From the edge of the screen</string>
-    <string name="disable_notif">PLEASE DISABLE NOTIFICATION ACCESS</string>
+    <string name="margin">Margen del panel</string>
+    <string name="margin_sum">Desde el borde de la pantalla</string>
+    <string name="disable_notif">POR FAVOR, DESACTIVA EL ACCESO A LAS NOTIFICACIONES</string>
+    <string name="up_launch">Launch On Vol + Press Only</string>
+    <string name="up_launch_sum">The panel will only launch when Vol + is pressed.</string>
+    <string name="click_out">Click Outside To Close</string>
+    <string name="click_out_sum">\u2022 May interfere with other apps when enabled.
+        \n\u2022 When disabled the panel will close on timeout only.</string>
 </resources>
