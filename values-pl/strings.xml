@@ -45,7 +45,7 @@
     <string name="select_apps">Wybierz Aplikacje</string>
     <string name="loading_apps">Ładowanie Aplikacji</string>
     <string name="done">Gotowe</string>
-    <string name="exclude_applications_sum">Panel głośności nie otworzy się w tych aplikacjach.</string>
+    <string name="exclude_applications_sum">\u2022 Panel głośności nie otworzy się w tych aplikacjach.</string>
     <string name="timeout">%1$ds</string>
     <string name="about">
         <![CDATA[<b>Panel Głośności:</b>
@@ -58,6 +58,8 @@
         <br/>\u2022 D-Max for Spots Dialog.
         <br/>Translations By:
         <br/>Linar10 - Polish
+        <br/>\u2022 Fatih Firinci - Turkish
+	<br/>guillerag - Spanish
         <br/><br/>Skontaktuj się ze mną bezpośrednio &amp; Nie zapomnij zostawić opinii &#128512;]]></string>
     <string name="about_title">Informacje</string>
     <string name="email_feedback">Zgłaszanie Błędów</string>
@@ -71,7 +73,7 @@
     <string name="launch">Pokaż Panel Głośności</string>
     <string name="disable_acc"> PROSZĘ WYŁĄCZYĆ USŁUGĘ DOSTĘPNOŚCI.</string>
     <string name="ver_pos">Pozycja w Pionie</string>
-    <string name="ver_pos_sum">Z góry ekranu</string>
+    <string name="ver_pos_sum">\u2022 Z góry ekranu</string>
     <string name="ver_pos_val">%1$d%%</string>
     <string name="_50">50\%</string>
     <string name="play_sound">Słyszalne Zmiany</string>
@@ -87,7 +89,7 @@
     <string name="ring_mode">Tryb Dzwonka</string>
     <string name="force_close">Wymuś Zamknięcie Okien Dialogowych</string>
     <string name="mapper">Możliwe Zakłócenia</string>
-    <string name="mapper_sum">Kliknij tutaj po więcej informacji</string>
+    <string name="mapper_sum">\u2022 Kliknij tutaj po więcej informacji</string>
     <string name="mapper_detail">Możliwe, że wykryliśmy aplikację Mapowania przycisków..
         \n\n Mapowacze przycisków używają usług ułatwień dostępu do wykrywania kliknięć przycisków
         \n\nInne usługi ułatwień dostępu przechwytujące / dostosowujące kliknięcia przycisków głośności będą zakłócać zdolność Panela Głośności do przechwytywania przycisków głośności.
@@ -143,11 +145,14 @@
         \n\nŻadna treść powiadomienia nie jest rejestrowana.
         \n\n</string>
     <string name="margin">Margines Panelu</string>
-    <string name="margin_sum">Od krawędzi ekranu</string>
+    <string name="margin_sum">\u2022 Od krawędzi ekranu</string>
     <string name="disable_notif">PROSZĘ O WYŁACZENIE DOSTĘPU DO POWIADOMIEŃ</string>
     <string name="up_launch">Launch On Vol + Press Only</string>
-    <string name="up_launch_sum">The panel will only launch when Vol + is pressed.</string>
+    <string name="up_launch_sum">\u2022 The panel will only launch when Vol + is pressed.</string>
     <string name="click_out">Click Outside To Close</string>
     <string name="click_out_sum">\u2022 May interfere with other apps when enabled.
         \n\u2022 When disabled the panel will close on timeout only.</string>
+    <string name="slide_height">Slider Height</string>
+    <string name="slide_height_sum">\u2022 Adjust the length of the volume sliders.
+        \n\u2022 Has no affect on steps, these are system defined.</string>
 </resources>

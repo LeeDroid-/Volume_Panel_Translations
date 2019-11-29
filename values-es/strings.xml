@@ -45,7 +45,7 @@
     <string name="select_apps">Seleccionar aplicaciones</string>
     <string name="loading_apps">Cargando aplicaciones</string>
     <string name="done">Hecho</string>
-    <string name="exclude_applications_sum">El panel de volumen no se abrirá en estas aplicaciones.</string>
+    <string name="exclude_applications_sum">\u2022 El panel de volumen no se abrirá en estas aplicaciones.</string>
     <string name="timeout">%1$ds</string>
     <string name="about">
       <![CDATA[<b>Volume Panel:</b> 
@@ -58,7 +58,8 @@
       <br/>\u2022 D-Max for Spots Dialog.
       <br/>Traducciones por:
       <br/>Linar10 - Polish
-      <br/>Fatih Firinci - Turkish	  
+      <br/>Fatih Firinci - Turkish
+      <br/>guillerag - Spanish	  
       <br/><br/><No dudes en contactarme directamente y no olvides de dejarme un comentario &#128512;]]></string>
     <string name="about_title">Acerca de</string>
     <string name="email_feedback">Enviar comentarios</string>
@@ -72,7 +73,7 @@
     <string name="launch">Mostrar panel de volumen</string>
     <string name="disable_acc">POR FAVOR, DESACTIVA EL SERVICIO DE ACCESIBILIDAD.</string>
     <string name="ver_pos">Posición vertical</string>
-    <string name="ver_pos_sum">Desde la parte superior de la pantalla</string>
+    <string name="ver_pos_sum">\u2022 Desde la parte superior de la pantalla</string>
     <string name="ver_pos_val">%1$d%%</string>
     <string name="_50">50\%</string>
     <string name="play_sound">Cambios audibles</string>
@@ -89,7 +90,7 @@
     <string name="ring_mode">Modo de sonido</string>
     <string name="force_close">Forzar cierre de diálogos</string>
     <string name="mapper">Posible interferencia</string>
-    <string name="mapper_sum">Presiona aquí para más información</string>
+    <string name="mapper_sum">\u2022 Presiona aquí para más información</string>
     <string name="mapper_detail">Es posible que se haya detectado una aplicación de mapeado de botones
         \n\nLos mapeadores de botones utilizan servicios de accesibilidad para detectar las pulsaciones de los botones.
         \n\nOtros servicios de accesibilidad que capturan y personalizan las pulsaciones de los botones de volumen interfieren con la capacidad de los paneles de volumen de esta aplicación para captar los botones de volumen.
@@ -105,7 +106,7 @@
         \n\n</string>
     <string name="excluded">Panel de volumen: Aplicación excluida</string>
     <string name="do_not_kill">Forzar mantener servicios activos</string>
-    <string name="do_not_kill_desc"><![CDATA[<b>Utiliza esta opción sólo si el panel de volumen sigue sin funcionar.</b>
+    <string name="do_not_kill_desc"><![CDATA[<b>Utiliza esta opción solo si el panel de volumen sigue sin funcionar.</b>
         <br/><br/>Algunos dispositivos son demasiado agresivos cuando liberan memoria y eliminan servicios importantes, las aplicaciones con derechos de administrador rara vez se eliminan.
         <br/><br/>Habilitar los derechos básicos de Administrador para el Panel de Volumen mantendrá al servicio activo.
         <br/><br/>Tendrás que desactivar esta opción si alguna vez necesitas desinstalar la aplicación.]]></string>
@@ -117,7 +118,7 @@
     <string name="invert_buttons">Invertir botones de volumen</string>
     <string name="position_left_land">Posición izquierda en modo horizontal</string>
     <string name="killed">El servicio de accesibilidad del panel de volumen ha sido detenido o eliminado por el sistema.
-        \n\nSi no ha sido intencionado, por favor, prueba la opción "Forzar mantener servicios activos" en la aplicación y asegúrate de que la optimización de la batería está desactivada en el Panel de Volumen..</string>
+        \n\nSi no ha sido intencionado, por favor, prueba la opción "Forzar mantener servicios activos" en la aplicación y asegúrate de que la optimización de la batería está desactivada en el Panel de Volumen.</string>
     <string name="reenable">Habilitar de nuevo</string>
     <string name="hide_settings">Ocultar acceso directo a los ajustes</string>
     <string name="screen_shot">Mostrar botón de captura de pantalla</string>
@@ -130,7 +131,7 @@
         <br/><br/>\u2b50\u2b50\u2b50\u2b50\u2b50</p>]]></string>
     <string name="disable">Deshabilitar</string>
     <string name="pro">¡Actualiza a Volume Panel Pro!</string>
-    <string name="pro_only">Sólo disponible en Volume Panel Pro</string>
+    <string name="pro_only">Solo disponible en Volume Panel Pro</string>
     <string name="pro_un">Elimina la publicidad y desbloquea todas las funciones.</string>
     <string name="suspend">Suspender</string>
     <string name="hide_nav">Ocultar barra de navegación</string>
@@ -138,18 +139,21 @@
     <string name="dnd_access"><u>Acceso a No molestar</u>
         \n\nEste permiso nos permite modificar la configuración de No molestar.
         \n\n</string>
-    <string name="cast">Control Cast Volume</string>
-    <string name="notif_access"><u>Acceso a las notificaciones</u>
-        \n\n\u2022 Este permiso nos permite detectar las notificaciones activas.
-        \n\u2022 Si deseas ejecutar sin controlar las notificaciones, no dudes en omitir este permiso.
-        \n\nNo se registrará ningún contenido de la notificación.
+    <string name="cast">Mostrar panel de transmisiones Cast</string>
+    <string name="notif_access"><u>Acceso a notificaciones</u>
+        \n\n\u2022 Este permiso nos permite detectar transmisiones Cast o de Streaming.
+        \n\u2022 Si deseas ejecutar sin controlarlas, no dudes en omitir este permiso.
+        \n\nNo se registrará ningún contenido de las notificaciones.
         \n\n</string>
-    <string name="margin">Margen del panel</string>
-    <string name="margin_sum">Desde el borde de la pantalla</string>
+    <string name="margin">Posición horizontal</string>
+    <string name="margin_sum">\u2022 Desde el borde lateral de la pantalla</string>
     <string name="disable_notif">POR FAVOR, DESACTIVA EL ACCESO A LAS NOTIFICACIONES</string>
-    <string name="up_launch">Launch On Vol + Press Only</string>
-    <string name="up_launch_sum">The panel will only launch when Vol + is pressed.</string>
-    <string name="click_out">Click Outside To Close</string>
-    <string name="click_out_sum">\u2022 May interfere with other apps when enabled.
-        \n\u2022 When disabled the panel will close on timeout only.</string>
+    <string name="up_launch">Iniciar solo presionando Vol +</string>
+    <string name="up_launch_sum">\u2022 El panel solo se iniciará cuando se presione Vol +.</string>
+    <string name="click_out">Pulsar fuera para cerrar</string>
+    <string name="click_out_sum">\u2022 Puede interferir con otras aplicaciones cuando se habilita.
+        \n\u2022 Cuando está desactivado, el panel se cerrará solo cuando se agote el tiempo de espera.</string>
+    <string name="slide_height">Altura del deslizador</string>
+    <string name="slide_height_sum">\u2022 Ajusta la altura de los deslizadores.
+        \n\u2022 No afecta a los niveles, están definidos por el sistema.</string>
 </resources>

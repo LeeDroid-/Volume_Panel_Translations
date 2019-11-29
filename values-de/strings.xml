@@ -16,7 +16,7 @@
     <string name="press_back">Once complete, press back to return to the app.</string>
     <string name="accessibility_description"><u>Accessibility Access</u>
         \n\nThis permission allows us to detect volume +\\- key presses.
-        \n\nNo other keys are captured.
+        \n\nNo other content is captured.
         \n\nSome devices may require a reboot to start the service.</string>
     <string name="need_dnd">Do Not Disturb Permissions Required</string>
     <string name="no">No</string>
@@ -45,7 +45,7 @@
     <string name="select_apps">Select Applications</string>
     <string name="loading_apps">Loading Applications</string>
     <string name="done">Done</string>
-    <string name="exclude_applications_sum">Volume panel will not open in these applications.</string>
+    <string name="exclude_applications_sum">\u2022 Volume panel will not open in these applications.</string>
     <string name="timeout">%1$ds</string>
     <string name="about">
         <![CDATA[<b>Volume Panel:</b>
@@ -59,6 +59,7 @@
         <br/>Translations By:
         <br/>\u2022 Linar10 - Polish
         <br/>\u2022 Fatih Firinci - Turkish
+	<br/>guillerag - Spanish
         <br/><br/>Feel free to contact me via the \"Email Feedback\" option &amp; don\'t forget to leave a review &#128512;]]></string>
     <string name="about_title">About</string>
     <string name="email_feedback">Email Feedback</string>
@@ -72,7 +73,7 @@
     <string name="launch">Show Volume Panel</string>
     <string name="disable_acc">PLEASE DISABLE THE ACCESSIBILITY SERVICE.</string>
     <string name="ver_pos">Vertical Position</string>
-    <string name="ver_pos_sum">From the top of the screen</string>
+    <string name="ver_pos_sum">\u2022 From the top of the screen</string>
     <string name="ver_pos_val">%1$d%%</string>
     <string name="_50">50\%</string>
     <string name="play_sound">Audible Changes</string>
@@ -90,7 +91,7 @@
     <string name="ring_mode">Ring Mode</string>
     <string name="force_close">Force Close Dialogs</string>
     <string name="mapper">Possible Interference</string>
-    <string name="mapper_sum">Click here for more information</string>
+    <string name="mapper_sum">\u2022 Click here for more information</string>
     <string name="mapper_detail">We may have detected a Button Remapping application.
         \n\nButton Re-mappers use accessibility services to detect button clicks.
         \n\nOther accessibility services capturing/customising volume button clicks will interfere with Volume Panels ability to intercept the volume buttons.
@@ -144,6 +145,11 @@
         \n\n</string>
     <string name="cast">Control Cast Volume</string>
     <string name="margin">Panel Margin</string>
-    <string name="margin_sum">From the edge of the screen</string>
+    <string name="margin_sum">\u2022 From the edge of the screen</string>
     <string name="disable_notif">PLEASE DISABLE NOTIFICATION ACCESS</string>
+    <string name="up_launch">Launch On Vol + Press Only</string>
+    <string name="up_launch_sum">\u2022 The panel will only launch when Vol + is pressed.</string>
+    <string name="click_out">Click Outside To Close</string>
+    <string name="click_out_sum">\u2022 May interfere with other apps when enabled.
+        \n\u2022 When disabled the panel will close on timeout only.</string>
 </resources>

@@ -46,7 +46,7 @@
     <string name="select_apps">Uygulamaları Seç</string>
     <string name="loading_apps">Uygulamalar Yükleniyor</string>
     <string name="done">Bitti</string>
-    <string name="exclude_applications_sum">Bu uygulamalarda volume panel açılmaz.</string>
+    <string name="exclude_applications_sum">\u2022 Bu uygulamalarda volume panel açılmaz.</string>
     <string name="timeout">%1$ds</string>
     <string name="about">
         <![CDATA[<b>Volume Panel:</b>
@@ -60,6 +60,7 @@
         <br/>Çeviriler:
         <br/>Linar10 - Lehçe
         <br/>Fatih Fırıncı - Türkçe
+	<br/>guillerag - Spanish
         <br/><br/>Doğrudan benimle temas kurmaktan çekinmeyin &amp; bir inceleme bırakmayı unutmayın &#128512;]]></string>
     <string name="about_title">Hakkında</string>
     <string name="email_feedback">Geri Bildirim Gönder</string>
@@ -73,7 +74,7 @@
     <string name="launch">Volume Panel\'i Göster</string>
     <string name="disable_acc">LÜTFEN ERİŞİLEBİLİRLİK HİZMETİNİ DEVRE DIŞI BIRAKIN.</string>
     <string name="ver_pos">Dikey Konum</string>
-    <string name="ver_pos_sum">Ekranın üstünden</string>
+    <string name="ver_pos_sum">\u2022 Ekranın üstünden</string>
     <string name="ver_pos_val">%1$d%%</string>
     <string name="_50">50\%</string>
     <string name="play_sound">Sesli Değişiklikler</string>
@@ -89,7 +90,7 @@
     <string name="ring_mode">Zil Modu</string>
     <string name="force_close">Pencereleri Kapatmaya Zorla</string>
     <string name="mapper">Olası Girişim</string>
-    <string name="mapper_sum">Daha fazla bilgi için buraya tıklayın</string>
+    <string name="mapper_sum">\u2022 Daha fazla bilgi için buraya tıklayın</string>
     <string name="mapper_detail">Tuş Değiştirici tespit etmiş olabiliriz.
         \n\nTuş Değiştiriciler, tuş tıklamalarını algılamak için erişilebilirlik hizmetlerini kullanır.
         \n\nSes tuşu tıklamalarını yakalayan/kişiselleştiren diğer erişilebilirlik hizmetleri, ses panellerini engelleme özelliği ile ses panellerini etkiler.
@@ -144,11 +145,14 @@
         \n\nHiçbir bildirim içeriği yakalanmaz.
         \n\n</string>
     <string name="margin">Panel Boşluğu</string>
-    <string name="margin_sum">Ekranın kenarından</string>
+    <string name="margin_sum">\u2022 Ekranın kenarından</string>
     <string name="disable_notif">LÜTFEN BİLDİRİM ERİŞİMİNİ DEVRE DIŞI BIRAKIN</string>
     <string name="up_launch">Yalnızca Ses Açmaya Basıldığında Başlat</string>
-    <string name="up_launch_sum">Panel yalnızca Ses Açma tuşuna basıldığında açılır.</string>
+    <string name="up_launch_sum">\u2022 Panel yalnızca Ses Açma tuşuna basıldığında açılır.</string>
     <string name="click_out">Kapatmak İçin Dışarı Tıkla</string>
     <string name="click_out_sum">\u2022 Etkinleştirildiğinde diğer uygulamalara müdahale edebilir.
         \n\u2022 Devre dışı bırakıldığında panel yalnızca zaman aşımında kapanır.</string>
+    <string name="slide_height">Slider Height</string>
+    <string name="slide_height_sum">\u2022 Adjust the length of the volume sliders.
+        \n\u2022 Has no affect on steps, these are system defined.</string>
 </resources>
