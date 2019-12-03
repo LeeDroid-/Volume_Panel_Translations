@@ -147,12 +147,12 @@
     <string name="margin">Margines Panelu</string>
     <string name="margin_sum">\u2022 Od krawędzi ekranu</string>
     <string name="disable_notif">PROSZĘ O WYŁACZENIE DOSTĘPU DO POWIADOMIEŃ</string>
-    <string name="up_launch">Launch On Vol + Press Only</string>
-    <string name="up_launch_sum">\u2022 The panel will only launch when Vol + is pressed.</string>
-    <string name="click_out">Click Outside To Close</string>
-    <string name="click_out_sum">\u2022 May interfere with other apps when enabled.
-        \n\u2022 When disabled the panel will close on timeout only.</string>
-    <string name="slide_height">Slider Height</string>
-    <string name="slide_height_sum">\u2022 Adjust the length of the volume sliders.
-        \n\u2022 Has no affect on steps, these are system defined.</string>
+    <string name="up_launch">Uruchom na Vol + Naciśnij Tylko</string>
+    <string name="up_launch_sum">\u2022 Panel uruchomi się tylko po naciśnięciu Vol +.</string>
+    <string name="click_out">Kliknij Na Zewnątrz Aby Zamknąć</string>
+    <string name="click_out_sum">\u2022 Po włączeniu może zakłócać działanie innych aplikacji.
+        \n\u2022 Po wyłączeniu panel zamknie się tylko po przekroczeniu limitu czasu.</string>
+    <string name="slide_height">Wysokość Suwaka</string>
+    <string name="slide_height_sum">\u2022 Dostosuj długość suwaków głośności.
+        \n\u2022 Nie ma wpływu na kroki, są one zdefiniowane przez system.</string>
 </resources>
