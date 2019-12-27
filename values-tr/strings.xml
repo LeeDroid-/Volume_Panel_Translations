@@ -60,7 +60,7 @@
         <br/>Çeviriler:
         <br/>Linar10 - Lehçe
         <br/>Fatih Fırıncı - Türkçe
-	<br/>guillerag - Spanish
+	<br/>guillerag - İspanyolca
         <br/><br/>Doğrudan benimle temas kurmaktan çekinmeyin &amp; bir inceleme bırakmayı unutmayın &#128512;]]></string>
     <string name="about_title">Hakkında</string>
     <string name="email_feedback">Geri Bildirim Gönder</string>
@@ -151,8 +151,8 @@
     <string name="up_launch_sum">\u2022 Panel yalnızca Ses Açma tuşuna basıldığında açılır.</string>
     <string name="click_out">Kapatmak İçin Dışarı Tıkla</string>
     <string name="click_out_sum">\u2022 Etkinleştirildiğinde diğer uygulamalara müdahale edebilir.
-        \n\u2022 Devre dışı bırakıldığında panel yalnızca zaman aşımında kapanır.</string>
-    <string name="slide_height">Slider Height</string>
-    <string name="slide_height_sum">\u2022 Adjust the length of the volume sliders.
-        \n\u2022 Has no affect on steps, these are system defined.</string>
+        \n\u2022 Devre dışı bırakıldığında panel yalnızca zaman aşımından sonra kapanır.</string>
+    <string name="slide_height">Kaydırıcı Yüksekliği</string>
+    <string name="slide_height_sum">\u2022 Ses kaydırıcılarının uzunluğunu ayarlar.
+        \n\u2022 Adımlar üzerinde etkisi yoktur, bunlar sistem tarafından tanımlanmıştır.</string>
 </resources>
