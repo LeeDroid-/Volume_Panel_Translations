@@ -155,4 +155,6 @@
     <string name="slide_height">Slider Height</string>
     <string name="slide_height_sum">\u2022 Adjust the length of the volume sliders.
         \n\u2022 Has no affect on steps, these are system defined.</string>
+    <string name="trigger_scale">\u2022 Affects both height and width</string>
+    <string name="trigger_scale_t">Trigger Scale</string>
 </resources>

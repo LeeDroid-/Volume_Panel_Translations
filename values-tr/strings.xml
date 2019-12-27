@@ -155,4 +155,6 @@
     <string name="slide_height">Kaydırıcı Yüksekliği</string>
     <string name="slide_height_sum">\u2022 Ses kaydırıcılarının uzunluğunu ayarlar.
         \n\u2022 Adımlar üzerinde etkisi yoktur, bunlar sistem tarafından tanımlanmıştır.</string>
+    <string name="trigger_scale">\u2022 Affects both height and width</string>
+    <string name="trigger_scale_t">Trigger Scale</string>
 </resources>
