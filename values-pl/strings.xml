@@ -157,4 +157,5 @@
         \n\u2022 Nie ma wpływu na kroki, są one zdefiniowane przez system.</string>
     <string name="trigger_scale">\u2022 Affects both height and width</string>
     <string name="trigger_scale_t">Trigger Scale</string>
+    <string name="corner_scale">Corner Radius</string>
 </resources>

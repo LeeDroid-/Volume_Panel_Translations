@@ -156,6 +156,7 @@
     <string name="slide_height">Altura del deslizador</string>
     <string name="slide_height_sum">\u2022 Ajusta la altura de los deslizadores.
         \n\u2022 No afecta a los niveles, están definidos por el sistema.</string>
-    <string name="trigger_scale">u2022 Affects both height and width</string>
-    <string name="trigger_scale_t">Trigger Scale</string>
+    <string name="trigger_scale">u2022 Afecta tanto a la altura como a la anchura</string>
+    <string name="trigger_scale_t">Escala del deslizador</string>
+    <string name="corner_scale">Corner Radius</string>
 </resources>

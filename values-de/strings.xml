@@ -152,4 +152,10 @@
     <string name="click_out">Click Outside To Close</string>
     <string name="click_out_sum">\u2022 May interfere with other apps when enabled.
         \n\u2022 When disabled the panel will close on timeout only.</string>
+    <string name="slide_height">Slider Height</string>
+    <string name="slide_height_sum">\u2022 Adjust the length of the volume sliders.
+        \n\u2022 Has no affect on steps, these are system defined.</string>
+    <string name="trigger_scale">\u2022 Affects both height and width</string>
+    <string name="trigger_scale_t">Trigger Scale</string>
+    <string name="corner_scale">Corner Radius</string>
 </resources>
