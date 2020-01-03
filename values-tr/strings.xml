@@ -154,8 +154,8 @@
         \n\u2022 Devre dışı bırakıldığında panel yalnızca zaman aşımından sonra kapanır.</string>
     <string name="slide_height">Kaydırıcı Yüksekliği</string>
     <string name="slide_height_sum">\u2022 Ses kaydırıcılarının uzunluğunu ayarlar.
-        \n\u2022 Adımlar üzerinde etkisi yoktur, bunlar sistem tarafından tanımlanmıştır.</string>
-    <string name="trigger_scale">\u2022 Affects both height and width</string>
-    <string name="trigger_scale_t">Trigger Scale</string>
-    <string name="corner_scale">Corner Radius</string>
+        \n\u2022 Adımlar üzerinde hiçbir etkisi yoktur, bunlar sistem tanımlıdır.</string>
+    <string name="trigger_scale">\u2022 Hem yüksekliği hem de genişliği etkiler</string>
+    <string name="trigger_scale_t">Tetikleyici Ölçeği</string>
+    <string name="corner_scale">Köşe Yarıçapı</string>
 </resources>
