@@ -158,4 +158,9 @@
     <string name="trigger_scale">\u2022 Hem yüksekliği hem de genişliği etkiler</string>
     <string name="trigger_scale_t">Tetikleyici Ölçeği</string>
     <string name="corner_scale">Köşe Yarıçapı</string>
+    <string name="free">Disable Free Version</string>
+    <string name="free_installed">Volume Panel Free is currently overriding the system volume panel, please disable it to avoid conflicts.</string>
+    <string name="install_shortcut">Volume Panel Shortcuts</string>
+    <string name="media">Media Vol =</string>
+    <string name="system_warn">When enabling any accessibility service you will be presented with a generic Android system warning, for your peace of mind, Volume Panel does not capture any other keys or content &amp; does not have or request permission connect to the internet.</string>
 </resources>

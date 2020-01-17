@@ -15,7 +15,7 @@
     <string name="cancel">Cancelar</string>
     <string name="press_back">Una vez completado, presiona atrás para volver a la aplicación.</string>
     <string name="accessibility_description"><u>Acceso de Accesibilidad</u>
-        \n\nEste permiso permite detectar las pulsaciones de las teclas de volumen.
+        \n\nEste permiso permite detectar las pulsaciones en las teclas de volumen.
         \n\nNo se registran otras teclas.
         \n\nAlgunos dispositivos pueden requerir un reinicio para iniciar el servicio.</string>
     <string name="need_dnd">Permisos requeridos modo no molestar </string>
@@ -49,7 +49,7 @@
     <string name="timeout">%1$ds</string>
     <string name="about">
       <![CDATA[<b>Volume Panel:</b> 
-      <br/>\u2022Un reemplazo flexible para los controles de volumen de tu sistema. 
+      <br/>\u2022 Un reemplazo flexible para los controles de volumen de tu sistema. 
 	  <br/><br/><b>Diseñado y desarrollado por:</b>     
 	  <br/>\u2022 Lee Bailey (alias @LeeDrOiD) 
 	  <br/> Agradecimientos especiales:
@@ -158,5 +158,10 @@
         \n\u2022 No afecta a los niveles, están definidos por el sistema.</string>
     <string name="trigger_scale">u2022 Afecta tanto a la altura como a la anchura</string>
     <string name="trigger_scale_t">Escala del deslizador</string>
-    <string name="corner_scale">Corner Radius</string>
+    <string name="corner_scale">Radio de las esquinas</string>
+    <string name="free">Disable Free Version</string>
+    <string name="free_installed">Volume Panel Free is currently overriding the system volume panel, please disable it to avoid conflicts.</string>
+    <string name="install_shortcut">Volume Panel Shortcuts</string>
+    <string name="media">Media Vol =</string>
+    <string name="system_warn">When enabling any accessibility service you will be presented with a generic Android system warning, for your peace of mind, Volume Panel does not capture any other keys or content &amp; does not have or request permission connect to the internet.</string>
 </resources>
