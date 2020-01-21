@@ -59,7 +59,9 @@
         <br/>Translations By:
         <br/>\u2022 Linar10 - Polish
         <br/>\u2022 Fatih Firinci - Turkish
-	<br/>guillerag - Spanish
+        <br/>guillerag - Spanish
+        <br/>\u2022 Nuno Nebeker - Portuguese
+        <br/>\u2022 ????? ?????? - Russian
         <br/><br/>Feel free to contact me via the \"Email Feedback\" option &amp; don\'t forget to leave a review &#128512;]]></string>
     <string name="about_title">About</string>
     <string name="email_feedback">Email Feedback</string>
@@ -152,8 +154,8 @@
     <string name="click_out">Click Outside To Close</string>
     <string name="click_out_sum">\u2022 May interfere with other apps when enabled.
         \n\u2022 When disabled the panel will close on timeout only.</string>
-    <string name="slide_height">Slider Height</string>
-    <string name="slide_height_sum">\u2022 Adjust the length of the volume sliders.
+    <string name="slide_height">Panel Scale</string>
+    <string name="slide_height_sum">\u2022 Adjust the size of the volume panel.
         \n\u2022 Has no affect on steps, these are system defined.</string>
     <string name="trigger_scale">\u2022 Affects both height and width</string>
     <string name="trigger_scale_t">Trigger Scale</string>
@@ -163,4 +165,6 @@
     <string name="install_shortcut">Volume Panel Shortcuts</string>
     <string name="media">Media Vol =</string>
     <string name="system_warn">When enabling any accessibility service you will be presented with a generic Android system warning, for your peace of mind, Volume Panel does not capture any other keys or content &amp; does not have or request permission connect to the internet.</string>
+    <string name="ver_pos_valx">%1$d%% X</string>
+    <string name="ver_pos_valy">%1$d%% Y</string>
 </resources>

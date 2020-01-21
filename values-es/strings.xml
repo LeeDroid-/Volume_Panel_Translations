@@ -153,15 +153,15 @@
     <string name="click_out">Pulsar fuera para cerrar</string>
     <string name="click_out_sum">\u2022 Puede interferir con otras aplicaciones cuando se habilita.
         \n\u2022 Cuando está desactivado, el panel se cerrará solo cuando se agote el tiempo de espera.</string>
-    <string name="slide_height">Altura del deslizador</string>
-    <string name="slide_height_sum">\u2022 Ajusta la altura de los deslizadores.
-        \n\u2022 No afecta a los niveles, están definidos por el sistema.</string>
     <string name="trigger_scale">u2022 Afecta tanto a la altura como a la anchura</string>
     <string name="trigger_scale_t">Escala del deslizador</string>
     <string name="corner_scale">Radio de las esquinas</string>
-    <string name="free">Disable Free Version</string>
-    <string name="free_installed">Volume Panel Free is currently overriding the system volume panel, please disable it to avoid conflicts.</string>
-    <string name="install_shortcut">Volume Panel Shortcuts</string>
-    <string name="media">Media Vol =</string>
-    <string name="system_warn">When enabling any accessibility service you will be presented with a generic Android system warning, for your peace of mind, Volume Panel does not capture any other keys or content &amp; does not have or request permission connect to the internet.</string>
+    <string name="free">Deshabilitar la versión gratuita</string>
+    <string name="free_installed">Volume Panel Free está actualmente anulando el panel de volumen del sistema, por favor desactívalo para evitar conflictos.</string>
+    <string name="install_shortcut">Accesos directos Volume Panel</string>
+    <string name="media">Volumen Multimedia =</string>
+    <string name="system_warn">Al habilitar cualquier servicio de accesibilidad se le presentará un aviso genérico del sistema Android, para su tranquilidad, Volume Panel no captura ninguna otra tecla o contenido y no tiene ni solicita permiso para conectarse a Internet.</string>
+    <string name="slide_height">Panel Scale</string>
+    <string name="slide_height_sum">\u2022 Adjust the size of the volume panel.
+        \n\u2022 No afecta a los niveles, están definidos por el sistema.</string>
 </resources>
