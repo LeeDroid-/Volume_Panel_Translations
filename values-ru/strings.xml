@@ -164,5 +164,7 @@
     <string name="slide_height">Размер панели</string>
     <string name="slide_height_sum">\u2022 Регулировка размера панели громкости.
         \n\u2022 Не влияет на определение шага громкости, это определяется системой.</string>
-
+    <string name="use_system">Auto Dark/Light</string>
+    <string name="auto_dark_sum">\u2022 Follow system Dark/Light mode.
+    \u2022 Manufacturer support required.</string>
 </resources>

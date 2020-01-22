@@ -165,6 +165,10 @@
     <string name="install_shortcut">Volume Panel Shortcuts</string>
     <string name="media">Media Vol =</string>
     <string name="system_warn">When enabling any accessibility service you will be presented with a generic Android system warning, for your peace of mind, Volume Panel does not capture any other keys or content &amp; does not have or request permission connect to the internet.</string>
-    <string name="ver_pos_valx">%1$d%% X</string>
-    <string name="ver_pos_valy">%1$d%% Y</string>
+    <string name="ver_pos_valx" translatable="false">%1$d%% X</string>
+    <string name="ver_pos_valy" translatable="false">%1$d%% Y</string>
+    <string name="dp_val" translatable="false">%1$d dp</string>
+    <string name="use_system">Auto Dark/Light</string>
+    <string name="auto_dark_sum">\u2022 Follow system Dark/Light mode.
+    \u2022 Manufacturer support required.</string>
 </resources>

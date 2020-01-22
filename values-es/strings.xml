@@ -164,4 +164,7 @@
     <string name="slide_height">Escala de panel</string>
     <string name="slide_height_sum">\u2022 Ajusta el tamaño del panel de volumen.
         \n\u2022 No afecta a los niveles, están definidos por el sistema.</string>
+    <string name="use_system">Auto Dark/Light</string>
+    <string name="auto_dark_sum">\u2022 Follow system Dark/Light mode.
+    \u2022 Manufacturer support required.</string>
 </resources>
