@@ -1,7 +1,5 @@
 <resources>
     <string name="additonal_perms_req">Требуются дополнительные разрешения</string>
-    <string name="notification_policy_message">Volume Panel требуется возможность изменять настройки уведомлений и DND, так как мы не можем запросить это разрешение обычным способом, вам необходимо будет включить его вручную.
-        \n\nНажмите продолжить, и вы попадете на необходимый экран.\n</string>
     <string name="proceed">Продолжить</string>
     <string name="app_name">Volume Panel</string>
     <string name="volumeui">Интерфейс громкости</string>
@@ -153,18 +151,16 @@
     <string name="click_out">Нажать в любом месте для закрытия</string>
     <string name="click_out_sum">\u2022 Может мешать другим приложениям.
         \n\u2022 При отключении панель закроется только по тайм-ауту.</string>
-    <string name="trigger_scale">\u2022 Влияет на высоту и ширину</string>
     <string name="trigger_scale_t">Размер триггера</string>
     <string name="corner_scale">Радиус скругления углов</string>
     <string name="free">Отключить бесплатную версию</string>
     <string name="free_installed">Бесплатная Volume Panel в настоящее время перекрывает системную панель громкости, пожалуйста, отключите ее для избежания конфликтов.</string>
-    <string name="install_shortcut">Ярлык Volume Panel</string>
     <string name="media">Громкость медиа =</string>
     <string name="system_warn">При включении любой службы специальных возможностей вам будет выдано общее системное предупреждение Android. Чтобы вы понимали, Volume Panel не захватывает никаких других ключей или контент и не имеет и не запрашивает разрешение на подключение к Интернету.</string>
     <string name="slide_height">Размер панели</string>
     <string name="slide_height_sum">\u2022 Регулировка размера панели громкости.
         \n\u2022 Не влияет на определение шага громкости, это определяется системой.</string>
-    <string name="use_system">Auto Dark/Light</string>
-    <string name="auto_dark_sum">\u2022 Follow system Dark/Light mode.
-    \u2022 Manufacturer support required.</string>
+    <string name="use_system">Автоматический Тёмный/Светлый режим</string>
+    <string name="auto_dark_sum">В зависимости от системного режима.
+	\n\u2022 Требуется поддержка производителем.</string>
 </resources>

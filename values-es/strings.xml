@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="additonal_perms_req">Necesitas permisos adicionales</string>
-    <string name="notification_policy_message">El Panel de volumen necesita modificar la configuración de las  notificaciones y de No molestar, ya que no podemos solicitar este permiso de la forma tradicional, deberás habilitarlo manualmente.
-        \n\nPresiona en Continuar y se te llevará a la pantalla correspondiente.\n</string>
     <string name="proceed">Proceder</string>
     <string name="app_name">Volume Panel</string>
     <string name="volumeui">Panel de sistema</string>
@@ -153,18 +151,16 @@
     <string name="click_out">Pulsar fuera para cerrar</string>
     <string name="click_out_sum">\u2022 Puede interferir con otras aplicaciones cuando se habilita.
         \n\u2022 Cuando está desactivado, el panel se cerrará solo cuando se agote el tiempo de espera.</string>
-    <string name="trigger_scale">u2022 Afecta tanto a la altura como a la anchura</string>
     <string name="trigger_scale_t">Escala del deslizador</string>
     <string name="corner_scale">Radio de las esquinas</string>
     <string name="free">Deshabilitar la versión gratuita</string>
     <string name="free_installed">Volume Panel Free está actualmente anulando el panel de volumen del sistema, por favor desactívalo para evitar conflictos.</string>
-    <string name="install_shortcut">Accesos directos Volume Panel</string>
     <string name="media">Volumen Multimedia =</string>
     <string name="system_warn">Al habilitar cualquier servicio de accesibilidad se le presentará un aviso genérico del sistema Android, para su tranquilidad, Volume Panel no captura ninguna otra tecla o contenido y no tiene ni solicita permiso para conectarse a Internet.</string>
     <string name="slide_height">Escala de panel</string>
     <string name="slide_height_sum">\u2022 Ajusta el tamaño del panel de volumen.
         \n\u2022 No afecta a los niveles, están definidos por el sistema.</string>
-    <string name="use_system">Auto Dark/Light Mode</string>
-    <string name="auto_dark_sum">\u2022 Follow system Dark/Light mode.
-    \n\u2022 Manufacturer support required.</string>
+    <string name="use_system">Modo automático tema Claro/Oscuro</string>
+    <string name="auto_dark_sum">\u2022 Tema Claro/Oscuro según sistema.
+    \n\u2022 Se necesita el soporte del fabricante.</string>
 </resources>

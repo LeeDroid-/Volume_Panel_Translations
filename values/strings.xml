@@ -1,7 +1,5 @@
 <resources>
     <string name="additonal_perms_req">Additional Permissions Required</string>
-    <string name="notification_policy_message">Volume Panel requires the ability to modify notification &amp; DND settings, as we cannot request this permission in the normal fashion so you will need to enable it manually.
-        \n\nClick proceed &amp; you will be taken to the relevant screen.\n</string>
     <string name="proceed">Proceed</string>
     <string name="app_name">Volume Panel</string>
     <string name="volumeui">Volume UI</string>
@@ -157,12 +155,10 @@
     <string name="slide_height">Panel Scale</string>
     <string name="slide_height_sum">\u2022 Adjust the size of the volume panel.
         \n\u2022 Has no affect on steps, these are system defined.</string>
-    <string name="trigger_scale">\u2022 Affects both height and width</string>
     <string name="trigger_scale_t">Trigger Scale</string>
     <string name="corner_scale">Corner Radius</string>
     <string name="free">Disable Free Version</string>
     <string name="free_installed">Volume Panel Free is currently overriding the system volume panel, please disable it to avoid conflicts.</string>
-    <string name="install_shortcut">Volume Panel Shortcuts</string>
     <string name="media">Media Vol =</string>
     <string name="system_warn">When enabling any accessibility service you will be presented with a generic Android system warning, for your peace of mind, Volume Panel does not capture any other keys or content &amp; does not have or request permission connect to the internet.</string>
     <string name="ver_pos_valx" translatable="false">%1$d%% X</string>

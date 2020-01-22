@@ -1,7 +1,5 @@
 <resources>
     <string name="additonal_perms_req">Ek İzin Gerekli</string>
-    <string name="notification_policy_message">Volume Panel, bildirim &amp; DND ayarlarını değiştirme yeteneğini gerektirir, çünkü bu izni normal şekilde talep edemiyoruz, bu nedenle elle etkinleştirmeniz gerekir.
-        \n\nDevam et\'e tıkladığınızda ilgili ekrana yönlendirilirsiniz.\n</string>
     <string name="proceed">Devam et</string>
     <string name="app_name">Volume Panel</string>
     <string name="volumeui">Ses Arayüzü</string>
@@ -152,12 +150,10 @@
     <string name="click_out">Kapatmak İçin Dışarı Tıkla</string>
     <string name="click_out_sum">\u2022 Etkinleştirildiğinde diğer uygulamalara müdahale edebilir.
         \n\u2022 Devre dışı bırakıldığında panel yalnızca zaman aşımından sonra kapanır.</string>
-    <string name="trigger_scale">\u2022 Hem yüksekliği hem de genişliği etkiler</string>
     <string name="trigger_scale_t">Tetikleyici Ölçeği</string>
     <string name="corner_scale">Köşe Yarıçapı</string>
     <string name="free">Disable Free Version</string>
     <string name="free_installed">Volume Panel Free is currently overriding the system volume panel, please disable it to avoid conflicts.</string>
-    <string name="install_shortcut">Volume Panel Shortcuts</string>
     <string name="media">Media Vol =</string>
     <string name="system_warn">When enabling any accessibility service you will be presented with a generic Android system warning, for your peace of mind, Volume Panel does not capture any other keys or content &amp; does not have or request permission connect to the internet.</string>
     <string name="slide_height">Panel Scale</string>

@@ -1,7 +1,5 @@
 <resources>
     <string name="additonal_perms_req">Wymagane Dodatkowe Uprawnienia</string>
-    <string name="notification_policy_message">Panel głośności wymaga modyfikacji powiadomienia &amp; Ustawienia DND, ponieważ nie możemy poprosić o to pozwolenie w normalny sposób, więc musisz włączyć je ręcznie.
-        \n\nClick proceed &amp; zostaniesz przeniesiony do odpowiedniego ekranu..\n</string>
     <string name="proceed">Kontynuować</string>
     <string name="app_name">Volume Panel</string>
     <string name="volumeui">Volume UI</string>
@@ -152,12 +150,10 @@
     <string name="click_out">Kliknij Na Zewnątrz Aby Zamknąć</string>
     <string name="click_out_sum">\u2022 Po włączeniu może zakłócać działanie innych aplikacji.
         \n\u2022 Po wyłączeniu panel zamknie się tylko po przekroczeniu limitu czasu.</string>
-    <string name="trigger_scale">\u2022 Ma wpływ na wysokość i szerokość</string>
     <string name="trigger_scale_t">Skala wyzwalania</string>
     <string name="corner_scale">Promień narożnika</string>
     <string name="free">Wyłącz bezpłatną wersję</string>
     <string name="free_installed">Volume Panel Free jest obecnie nadrzędny w stosunku do panelu głośności systemu, proszę go wyłączyć, aby uniknąć konfliktów.</string>
-    <string name="install_shortcut">Volume Panel Shortcuts</string>
     <string name="media">Media Vol =</string>
     <string name="system_warn">When enabling any accessibility service you will be presented with a generic Android system warning, for your peace of mind, Volume Panel does not capture any other keys or content &amp; does not have or request permission connect to the internet.</string>
     <string name="slide_height">Panel Scale</string>

@@ -1,7 +1,5 @@
 <resources>
     <string name="additonal_perms_req">São Necessárias Prmissões Adicionais</string>
-    <string name="notification_policy_message">Volume Panel precisa de poder modificar definições de notificações &amp; Não Incomodar. Não podemos pedir estas permissões do modo normal, por isso terá que as ativar manualmente.
-        \n\nClique em avançar para abrir o ecrã relevante.n</string>
     <string name="proceed">Avançar</string>
     <string name="app_name">Volume Panel</string>
     <string name="volumeui">Volume UI</string>
@@ -103,7 +101,7 @@
     <string name="notif_panel"><![CDATA[Nem todos os dispositovos suportam controlo de volume Notificações e Toque.<br/><br/>Se ambas as barras se moverem em conjunto, isso deve-se à configuração do seu sistema e Volume Panel não consegue fazer nada quanto a isso.]]></string>
     <string name="enable_blacklist">Ativar lista de Exclusão de Aplicações</string>
     <string name="usage_access"><u>Acesso de Utilização</u>
-        \n\nEsta permissão deixa-nos detetar a aplicação em uso via estatísticas de de utilização de pacotes &amp; verificar se a excluiu.
+        \n\nEsta permissão deixa-nos detetar a aplicação em uso via estatísticas de utilização de pacotes &amp; verificar se a excluiu.
         \n\nSe não quiser excluir aplicações pode ignorar esta permissão.
         \n\n</string>
     <string name="excluded">Volume Panel: Aplicação Excluída</string>
@@ -153,7 +151,6 @@
     <string name="click_out">Cliar Fora para Fechar</string>
     <string name="click_out_sum">\u2022 Pode interferir com outras aplicações quando ativado.
         \n\u2022 Quando desativado, o painel fecha passado um tempo definido.</string>
-    <string name="trigger_scale">\u2022 Afeta tanto a altura como a largura</string>
     <string name="trigger_scale_t">Escala do Atalho</string>
     <string name="corner_scale">Raio dos Cantos</string>
     <string name="slide_height">Escala do Painel</string>
