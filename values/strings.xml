@@ -168,7 +168,7 @@
     <string name="ver_pos_valx" translatable="false">%1$d%% X</string>
     <string name="ver_pos_valy" translatable="false">%1$d%% Y</string>
     <string name="dp_val" translatable="false">%1$d dp</string>
-    <string name="use_system">Auto Dark/Light</string>
+    <string name="use_system">Auto Dark/Light Mode</string>
     <string name="auto_dark_sum">\u2022 Follow system Dark/Light mode.
-    \u2022 Manufacturer support required.</string>
+    \n\u2022 Manufacturer support required.</string>
 </resources>

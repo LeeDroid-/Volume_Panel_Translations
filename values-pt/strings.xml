@@ -159,7 +159,7 @@
     <string name="slide_height">Panel Scale</string>
     <string name="slide_height_sum">\u2022 Adjust the size of the volume panel.
         \n\u2022 Não afeta os intervalos de controlo que são definidos pelo sistema.</string>
-    <string name="use_system">Auto Dark/Light</string>
+    <string name="use_system">Auto Dark/Light Mode</string>
     <string name="auto_dark_sum">\u2022 Follow system Dark/Light mode.
-    \u2022 Manufacturer support required.</string>
+    \n\u2022 Manufacturer support required.</string>
 </resources>
