@@ -156,10 +156,10 @@
     <string name="trigger_scale">\u2022 Afeta tanto a altura como a largura</string>
     <string name="trigger_scale_t">Escala do Atalho</string>
     <string name="corner_scale">Raio dos Cantos</string>
-    <string name="slide_height">Panel Scale</string>
-    <string name="slide_height_sum">\u2022 Adjust the size of the volume panel.
+    <string name="slide_height">Escala do Painel</string>
+    <string name="slide_height_sum">\u2022 Ajusta o tamanho do painel de volume.
         \n\u2022 Não afeta os intervalos de controlo que são definidos pelo sistema.</string>
-    <string name="use_system">Auto Dark/Light Mode</string>
-    <string name="auto_dark_sum">\u2022 Follow system Dark/Light mode.
-    \n\u2022 Manufacturer support required.</string>
+    <string name="use_system">Modo Escuro/Claro Autonático</string>
+    <string name="auto_dark_sum">\u2022 Adaptar ao modo Escuro/Claro do sistema.
+    \n\u2022 Depende de suporte do fabricante.</string>
 </resources>
