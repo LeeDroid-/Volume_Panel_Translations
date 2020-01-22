@@ -161,7 +161,7 @@
     <string name="install_shortcut">Accesos directos Volume Panel</string>
     <string name="media">Volumen Multimedia =</string>
     <string name="system_warn">Al habilitar cualquier servicio de accesibilidad se le presentará un aviso genérico del sistema Android, para su tranquilidad, Volume Panel no captura ninguna otra tecla o contenido y no tiene ni solicita permiso para conectarse a Internet.</string>
-    <string name="slide_height">Panel Scale</string>
-    <string name="slide_height_sum">\u2022 Adjust the size of the volume panel.
+    <string name="slide_height">Escala de panel</string>
+    <string name="slide_height_sum">\u2022 Ajusta el tamaño del panel de volumen.
         \n\u2022 No afecta a los niveles, están definidos por el sistema.</string>
 </resources>

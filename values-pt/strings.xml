@@ -153,10 +153,10 @@
     <string name="click_out">Cliar Fora para Fechar</string>
     <string name="click_out_sum">\u2022 Pode interferir com outras aplicações quando ativado.
         \n\u2022 Quando desativado, o painel fecha passado um tempo definido.</string>
-    <string name="slide_height">Altura da Barra</string>
-    <string name="slide_height_sum">\u2022 Ajusta a altura das barras de volume.
-        \n\u2022 Não afeta os intervalos de controlo que são definidos pelo sistema.</string>
     <string name="trigger_scale">\u2022 Afeta tanto a altura como a largura</string>
     <string name="trigger_scale_t">Escala do Atalho</string>
     <string name="corner_scale">Raio dos Cantos</string>
+    <string name="slide_height">Panel Scale</string>
+    <string name="slide_height_sum">\u2022 Adjust the size of the volume panel.
+        \n\u2022 Não afeta os intervalos de controlo que são definidos pelo sistema.</string>
 </resources>

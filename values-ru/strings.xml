@@ -38,7 +38,7 @@
     <string name="panel_timeout">Тайм-аут панели</string>
     <string name="show_alarm_panel">Отображать панель будильника</string>
     <string name="default_to_ring_volume">По умолчанию для громкости звонка</string>
-    <string name="start_collapsed">Развёрнутая панель</string>
+    <string name="start_collapsed">Свёрнутая панель</string>
     <string name="position_left">Под левую руку</string>
     <string name="dark_mode">Тёмный режим</string>
     <string name="enable_volume_panel">Переопределить кнопку громкости</string>
@@ -81,7 +81,7 @@
     <string name="alert">Оповещение об оптимизации</string>
     <string name="bat_opt"><![CDATA[<b>Volume Panel оптимизируется системой и может быть отключена в фоновом режиме</b>.
     <br/><br/>Ни одна из служб Volume Panel не потребляет много заряда, но отключение оптимизации повышает надежность работы.
-    <br/><br/>Нажмите \"Закрыть\", чтобы избежать оптимизации, или нажмите \"Перейти\", найдите Volume Panel в списке \"Всех приложений\" и отключите экономию заряда батареи.
+    <br/><br/>Нажмите \"Закрыть\", чтобы пропустить отключение оптимизации, или нажмите \"Перейти\", найдите Volume Panel в списке \"Всех приложений\" и отключите экономию заряда батареи.
     <br/><br/>Если вы обнаружите, что служба все еще отключается системой, попробуйте включить опцию "Принудительно заставлять службы продолжать работать".]]></string>
     <string name="action">Перейти</string>
     <string name="pro">Обновить до Volume Panel Pro!</string>
@@ -161,7 +161,8 @@
     <string name="install_shortcut">Ярлык Volume Panel</string>
     <string name="media">Громкость медиа =</string>
     <string name="system_warn">При включении любой службы специальных возможностей вам будет выдано общее системное предупреждение Android. Чтобы вы понимали, Volume Panel не захватывает никаких других ключей или контент и не имеет и не запрашивает разрешение на подключение к Интернету.</string>
-    <string name="slide_height">Panel Scale</string>
-    <string name="slide_height_sum">\u2022 Adjust the size of the volume panel.
+    <string name="slide_height">Размер панели</string>
+    <string name="slide_height_sum">\u2022 Регулировка размера панели громкости.
         \n\u2022 Не влияет на определение шага громкости, это определяется системой.</string>
+
 </resources>
