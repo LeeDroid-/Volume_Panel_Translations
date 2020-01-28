@@ -152,9 +152,6 @@
     <string name="click_out">Kliknij Na Zewnątrz Aby Zamknąć</string>
     <string name="click_out_sum">\u2022 Po włączeniu może zakłócać działanie innych aplikacji.
         \n\u2022 Po wyłączeniu panel zamknie się tylko po przekroczeniu limitu czasu.</string>
-    <string name="slide_height">Wysokość Suwaka</string>
-    <string name="slide_height_sum">\u2022 Dostosuj długość suwaków głośności.
-        \n\u2022 Nie ma wpływu na kroki, są one zdefiniowane przez system.</string>
     <string name="trigger_scale">\u2022 Ma wpływ na wysokość i szerokość</string>
     <string name="trigger_scale_t">Skala wyzwalania</string>
     <string name="corner_scale">Promień narożnika</string>
@@ -163,4 +160,10 @@
     <string name="install_shortcut">Volume Panel Shortcuts</string>
     <string name="media">Media Vol =</string>
     <string name="system_warn">When enabling any accessibility service you will be presented with a generic Android system warning, for your peace of mind, Volume Panel does not capture any other keys or content &amp; does not have or request permission connect to the internet.</string>
+    <string name="slide_height">Panel Scale</string>
+    <string name="slide_height_sum">\u2022 Adjust the size of the volume panel.
+        \n\u2022 Nie ma wpływu na kroki, są one zdefiniowane przez system.</string>
+    <string name="use_system">Auto Dark/Light Mode</string>
+    <string name="auto_dark_sum">\u2022 Follow system Dark/Light mode.
+    \n\u2022 Manufacturer support required.</string>
 </resources>

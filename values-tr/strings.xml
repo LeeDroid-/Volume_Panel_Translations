@@ -152,9 +152,6 @@
     <string name="click_out">Kapatmak İçin Dışarı Tıkla</string>
     <string name="click_out_sum">\u2022 Etkinleştirildiğinde diğer uygulamalara müdahale edebilir.
         \n\u2022 Devre dışı bırakıldığında panel yalnızca zaman aşımından sonra kapanır.</string>
-    <string name="slide_height">Kaydırıcı Yüksekliği</string>
-    <string name="slide_height_sum">\u2022 Ses kaydırıcılarının uzunluğunu ayarlar.
-        \n\u2022 Adımlar üzerinde hiçbir etkisi yoktur, bunlar sistem tanımlıdır.</string>
     <string name="trigger_scale">\u2022 Hem yüksekliği hem de genişliği etkiler</string>
     <string name="trigger_scale_t">Tetikleyici Ölçeği</string>
     <string name="corner_scale">Köşe Yarıçapı</string>
@@ -163,4 +160,10 @@
     <string name="install_shortcut">Volume Panel Shortcuts</string>
     <string name="media">Media Vol =</string>
     <string name="system_warn">When enabling any accessibility service you will be presented with a generic Android system warning, for your peace of mind, Volume Panel does not capture any other keys or content &amp; does not have or request permission connect to the internet.</string>
+    <string name="slide_height">Panel Scale</string>
+    <string name="slide_height_sum">\u2022 Adjust the size of the volume panel.
+        \n\u2022 Adımlar üzerinde hiçbir etkisi yoktur, bunlar sistem tanımlıdır.</string>
+    <string name="use_system">Auto Dark/Light Mode</string>
+    <string name="auto_dark_sum">\u2022 Follow system Dark/Light mode.
+    \n\u2022 Manufacturer support required.</string>
 </resources>

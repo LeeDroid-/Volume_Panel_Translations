@@ -1,166 +1,170 @@
 <resources>
-    <string name="additonal_perms_req">Additional Permissions Required</string>
-    <string name="notification_policy_message">Volume Panel requires the ability to modify notification &amp; DND settings, as we cannot request this permission in the normal fashion so you will need to enable it manually.
-        \n\nClick proceed &amp; you will be taken to the relevant screen.\n</string>
-    <string name="proceed">Proceed</string>
+    <string name="additonal_perms_req">Требуются дополнительные разрешения</string>
+    <string name="notification_policy_message">Volume Panel требуется возможность изменять настройки уведомлений и DND, так как мы не можем запросить это разрешение обычным способом, вам необходимо будет включить его вручную.
+        \n\nНажмите продолжить, и вы попадете на необходимый экран.\n</string>
+    <string name="proceed">Продолжить</string>
     <string name="app_name">Volume Panel</string>
-    <string name="volumeui">Volume UI</string>
-    <string name="current_shot">Currently set to %1$d seconds</string>
-    <string name="overlay_needed"><u>System Overlay</u>
-        \n\nThis permission is required for us to display the Volume Panel over other apps.</string>
-    <string name="failed_window_add">Failed to add window, please open the app and make sure Screen Overlay permissions have been granted</string>
-    <string name="cp_head">Tap CENTER to confirm</string>
-    <string name="transparency">Transparency</string>
-    <string name="disable">Disable</string>
-    <string name="cancel">Cancel</string>
-    <string name="press_back">Once complete, press back to return to the app.</string>
-    <string name="accessibility_description"><u>Accessibility Access</u>
-        \n\nThis permission allows us to detect volume +\\- key presses.
-        \n\nNo other content is captured.
-        \n\nSome devices may require a reboot to start the service.</string>
-    <string name="need_dnd">Do Not Disturb Permissions Required</string>
-    <string name="no">No</string>
-    <string name="vol_timeout">Panel Timeout</string>
-    <string name="yes">Yes</string>
-    <string name="notification_listener">Volume Panel Notification Listener</string>
-    <string name="apply">Apply</string>
-    <string name="perms"><u>Permissions Required</u>
-        \n\nIn order to override the system volume panel, several permissions are required.
-        \n\nWe will now show you several screens detailing those permissions, their usage &amp; a button to enable them.
+    <string name="volumeui">Интерфейс громкости</string>
+    <string name="current_shot">Текущее значение: %1$d сек.</string>
+    <string name="overlay_needed"><u>Системные наложения</u>
+        \n\nЭто разрешение необходимо для отображения Volume Panel поверх других приложений.</string>
+    <string name="failed_window_add">Не удалось добавить окно, пожалуйста, откройте приложение и убедитесь, что разрешение Поверх других приложений предоставлено</string>
+    <string name="cp_head">Нажмите в ЦЕНТРЕ для применения</string>
+    <string name="transparency">Прозрачность</string>
+    <string name="disable">Отключить</string>
+    <string name="cancel">Отмена</string>
+    <string name="press_back">По завершению, нажмите назад для возвращения в приложение.</string>
+    <string name="accessibility_description"><u>Служба специальных возможностей</u>
+        \n\nЭто разрешение позволяет определять громкость после нажатия кнопок +\\-.
+        \n\nНикакой другой контент не определяется.
+        \n\nНекоторым аппаратам потребуется перезагрузка для запуска службы.</string>
+    <string name="need_dnd">Требуется разрешение Не беспокоить</string>
+    <string name="no">Нет</string>
+    <string name="vol_timeout">Тайм-аут панели</string>
+    <string name="yes">Да</string>
+    <string name="notification_listener">Доступ к уведомлениям для Volume Panel</string>
+    <string name="apply">Применить</string>
+    <string name="perms"><u>Требуется разрешение</u>
+        \n\nЧтобы заменить системную панель громкости, требуется несколько разрешений.
+        \n\nСейчас мы покажем вам несколько экранов, подробно описывающих эти разрешения, их использование и кнопку для их включения.
         \n\n</string>
-    <string name="grant">Grant Permission</string>
-    <string name="not_found">Activity not found, please navigate to Settings and grant manually</string>
-    <string name="exclude_applications">Exclude Applications</string>
-    <string name="icon_colour">Icon Colour</string>
-    <string name="background_colour">Background Colour</string>
-    <string name="slider_colour">Slider colour</string>
-    <string name="_3s">3s</string>
-    <string name="panel_timeout">Panel Timeout</string>
-    <string name="show_alarm_panel">Show Alarm Panel</string>
-    <string name="default_to_ring_volume">Default To Ring Volume</string>
-    <string name="start_collapsed">Start Collapsed</string>
-    <string name="position_left">Left Handed</string>
-    <string name="dark_mode">Dark Mode</string>
-    <string name="enable_volume_panel">Volume Button Override</string>
-    <string name="select_apps">Select Applications</string>
-    <string name="loading_apps">Loading Applications</string>
-    <string name="done">Done</string>
-    <string name="exclude_applications_sum">\u2022 Volume panel will not open in these applications.</string>
+    <string name="grant">Предоставить разрешение</string>
+    <string name="not_found">Активити не найден, пожалуйста, перейдите в настройки и предоставьте вручную</string>
+    <string name="exclude_applications">Исключить приложения</string>
+    <string name="icon_colour">Цвет значка</string>
+    <string name="background_colour">Цвет фона</string>
+    <string name="slider_colour">Цвет ползунка</string>
+    <string name="_3s">3с</string>
+    <string name="panel_timeout">Тайм-аут панели</string>
+    <string name="show_alarm_panel">Отображать панель будильника</string>
+    <string name="default_to_ring_volume">По умолчанию для громкости звонка</string>
+    <string name="start_collapsed">Свёрнутая панель</string>
+    <string name="position_left">Под левую руку</string>
+    <string name="dark_mode">Тёмный режим</string>
+    <string name="enable_volume_panel">Переопределить кнопку громкости</string>
+    <string name="select_apps">Выбрать приложения</string>
+    <string name="loading_apps">Загрузка приложений</string>
+    <string name="done">Готово</string>
+    <string name="exclude_applications_sum">\u2022 Volume panel не будет открываться в этих приложениях.</string>
     <string name="timeout">%1$ds</string>
     <string name="about">
         <![CDATA[<b>Volume Panel:</b>
-        <br/>\u2022A flexible replacement for your system volume controls.
-        <br/><br/><b>Designed &amp; Developed By:</b>
+        <br/>\u2022 Гибкая замена для вашей системной панели управления громкостью.
+        <br/><br/><b>Спроектировано и разработано:</b>
         <br/>\u2022 Lee Bailey (AKA @LeeDrOiD)
-        <br/> Additional Thanks:
-        <br/>\u2022 The creators of App Intro.
-        <br/>\u2022 Ereza for Custom Activity On Crash.
-        <br/>\u2022 D-Max for Spots Dialog.
-        <br/>Translations By:
-        <br/>\u2022 Linar10 - Polish
-        <br/>\u2022 Fatih Firinci - Turkish
-	<br/>guillerag - Spanish
-        <br/><br/>Feel free to contact me via the \"Email Feedback\" option &amp; don\'t forget to leave a review &#128512;]]></string>
-    <string name="about_title">About</string>
-    <string name="email_feedback">Email Feedback</string>
-    <string name="close">Close</string>
-    <string name="rate_app">Rate App</string>
-    <string name="disabling">This app was not installed from Google Play &amp; will soon be disabled.</string>
-    <string name="oops_error">Oops.. It looks like something went wrong and Volume Panel crashed, please hit \"SEND REPORT\" below to let me know.</string>
-    <string name="latest">Please make sure you are using the latest version.</string>
-    <string name="send_report">Send Report</string>
-    <string name="add_shortcut">Enable Launcher Shortcut</string>
-    <string name="launch">Show Volume Panel</string>
-    <string name="disable_acc">PLEASE DISABLE THE ACCESSIBILITY SERVICE.</string>
-    <string name="ver_pos">Vertical Position</string>
-    <string name="ver_pos_sum">\u2022 From the top of the screen</string>
+        <br/><b>Дополнительные благодарности:</b>
+        <br/>\u2022 Создателям вступления для приложения.
+        <br/>\u2022 Ereza за пользовательские активити при сбое.
+        <br/>\u2022 D-Max за определение диалога.
+        <br/><b>Переводчики:</b>
+        <br/>\u2022 Linar10 - Польский
+        <br/>\u2022 Fatih Firinci - Турецкий
+	    <br/>\u2022  guillerag - Испанский
+	    <br/>\u2022  Игорь Иринин - Русский
+        <br/><br/>Не стесняйтесь связываться со мной через \"Обратную связь\", и не забудьте оставить отзыв! &#128512;]]></string>
+    <string name="about_title">О программе</string>
+    <string name="email_feedback">Обратная связь</string>
+    <string name="close">Закрыть</string>
+    <string name="rate_app">Оценить</string>
+    <string name="disabling">Это приложение не было установлено из Play Маркета и вскоре будет отключено.</string>
+    <string name="oops_error">Ой.. Похоже, что-то пошло не так и Volume Panel прекратила работу, пожалуйста, нажмите ниже \"ОТПРАВИТЬ ОТЧЕТ\", чтобы сообщить мне.</string>
+    <string name="latest">Пожалуйста, убедитесь, что вы используете последнюю версию.</string>
+    <string name="send_report">Отправит отчёт</string>
+    <string name="add_shortcut">Создать ярлык для лаунчера</string>
+    <string name="launch">Отображать Volume Panel</string>
+    <string name="disable_acc">ПОЖАЛУЙСТА, ОТКЛЮЧИТЕ СЛУЖБУ СПЕЦИАЛЬНЫХ ВОЗМОЖНОСТЕЙ.</string>
+    <string name="ver_pos">Вертикальное положение</string>
+    <string name="ver_pos_sum">\u2022 От верха экрана</string>
     <string name="ver_pos_val">%1$d%%</string>
     <string name="_50">50\%</string>
-    <string name="play_sound">Audible Changes</string>
-    <string name="alert">Optimisation Alert</string>
-    <string name="bat_opt"><![CDATA[<b>Volume Panel is being optimised by the system &amp; may be killed in the background</b>.
-    <br/><br/>None of the services in Volume Panel are battery intensive, but disabling optimisation will improve reliability.
-    <br/><br/>Click \"Close\" to run optimised or click \"Action Now\" followed by \"All Apps\" then disable Battery Optimisation for Volume Panel.
-    <br/><br/>If you find that the service is still being killed by the system, try enabling the "Force Keep Services Alive" Option.]]></string>
-    <string name="action">Action Now</string>
-    <string name="pro">Upgrade To Volume Panel Pro!</string>
-    <string name="mute_media">Mute Media</string>
-    <string name="vibrate">Vibrate</string>
-    <string name="ring">Ring</string>
-    <string name="silent">Silent</string>
-    <string name="ring_mode">Ring Mode</string>
-    <string name="force_close">Force Close Dialogs</string>
-    <string name="mapper">Possible Interference</string>
-    <string name="mapper_sum">\u2022 Click here for more information</string>
-    <string name="mapper_detail">We may have detected a Button Remapping application.
-        \n\nButton Re-mappers use accessibility services to detect button clicks.
-        \n\nOther accessibility services capturing/customising volume button clicks will interfere with Volume Panels ability to intercept the volume buttons.
-        \n\nPlease consider disabling volume button customisation for those apps.
-        \n\nAlternatively, enable the launcher shortcut and open it with a remap!</string>
-    <string name="dismiss">Dismiss</string>
-    <string name="show_notif">Show Notification Panel</string>
-    <string name="notif_panel"><![CDATA[Not all devices support splitting Notification & Ring volume.<br/><br/>If both sliders change together, this is due to your system configuration and nothing to do with Volume Panel.]]></string>
-    <string name="enable_blacklist">Enable App Exclusions</string>
-    <string name="usage_access"><u>Usage Access</u>
-        \n\nThis permission allows us to detect the application currently in use via package usage stats &amp; check if you have excluded it.
-        \n\nIf you wish to run without excluding applications, feel free to skip this permission.
+    <string name="play_sound">Звуковые изменения</string>
+    <string name="alert">Оповещение об оптимизации</string>
+    <string name="bat_opt"><![CDATA[<b>Volume Panel оптимизируется системой и может быть отключена в фоновом режиме</b>.
+    <br/><br/>Ни одна из служб Volume Panel не потребляет много заряда, но отключение оптимизации повышает надежность работы.
+    <br/><br/>Нажмите \"Закрыть\", чтобы пропустить отключение оптимизации, или нажмите \"Перейти\", найдите Volume Panel в списке \"Всех приложений\" и отключите экономию заряда батареи.
+    <br/><br/>Если вы обнаружите, что служба все еще отключается системой, попробуйте включить опцию "Принудительно заставлять службы продолжать работать".]]></string>
+    <string name="action">Перейти</string>
+    <string name="pro">Обновить до Volume Panel Pro!</string>
+    <string name="mute_media">Отключить медиа</string>
+    <string name="vibrate">Вибрация</string>
+    <string name="ring">Звонок</string>
+    <string name="silent">Бесшумный</string>
+    <string name="ring_mode">Режим звонка</string>
+    <string name="force_close">Принудительно закрывать диалоги</string>
+    <string name="mapper">Возможные препятствия</string>
+    <string name="mapper_sum">\u2022 Нажмите здесь для подробной информации</string>
+    <string name="mapper_detail">Возможно, мы обнаружили приложение Button Remapping.
+        \n\nButton Re-mappers используют службу специальных возможностей для обнаружения нажатий кнопок.
+        \n\nДругие службы специальных возможностей для захвата/настройки нажатий кнопок громкости будут мешать Volume Panels перехватывать эти кнопки.
+        \n\nПожалуйста, подумайте над отключением настройки кнопки громкости для этих приложений.
+        \n\nКроме того, включите ярлык для лаунчера и откройте его с помощью переназначения!</string>
+    <string name="dismiss">Отклонить</string>
+    <string name="show_notif">Отображать панель уведомлений</string>
+    <string name="notif_panel"><![CDATA[Не все устройства поддерживают разделение уведомлений и громкости звонка.<br/><br/>Если оба ползунка меняются вместе, это происходит из-за конфигурации вашей системы и не имеет отношения к Volume Panel.]]></string>
+    <string name="enable_blacklist">Включить исключение приложений</string>
+    <string name="usage_access"><u>Доступ к использованию</u>
+        \n\nЭто разрешение позволяет определять используемое в данный момент приложение по статистике его использования и проверять, исключили его или нет.
+        \n\nЕсли вы хотите продолжать без исключения приложений, просто пропустите это разрешение.
         \n\n</string>
-    <string name="excluded">Volume Panel: Application Excluded</string>
-    <string name="do_not_kill">Force Keep Services Alive</string>
-    <string name="do_not_kill_desc"><![CDATA[<b>Only use this option if volume panel keeps stopping.</b>
-        <br/><br/>Some devices are too aggressive when freeing up memory and kill important services, applications with Admin rights are rarely killed.
-        <br/><br/>Enabling basic Admin rights for Volume Panel will keep our services alive.
-        <br/><br/>You will have to disable this option if you ever need to uninstall the app.]]></string>
-    <string name="launch_opts"><u>Launch Options</u></string>
-    <string name="design"><u>Design</u></string>
-    <string name="advanced"><u>Advanced</u></string>
-    <string name="alerts"><u>Alerts</u></string>
-    <string name="behaviour"><u>Behaviour</u></string>
-    <string name="invert_buttons">Invert Volume Buttons</string>
-    <string name="position_left_land">Left Handed In Landscape</string>
-    <string name="killed">The Volume Panel accessibility service has been stopped or removed by the system.
-        \n\nIf this was not intentional, please try the \"Force Keep Services Alive\" option in the app and ensure battery optimisation is disabled for Volume Panel.</string>
-    <string name="reenable">Re-Enable</string>
-    <string name="hide_settings">Hide Settings Shortcut</string>
-    <string name="screen_shot">Show Screenshot Button</string>
-    <string name="layout"><u>Layout</u></string>
-    <string name="floating_trigger">Swipe Up/Down Trigger</string>
-    <string name="trigger_cat"><u>Trigger</u></string>
-    <string name="trigger_colour">Trigger Colour</string>
-    <string name="rate_it"><![CDATA[<p style="text-align:center"><b>Enjoying Volume Panel?</b>
-        <br/><br/>Please leave a review in the play store!
+    <string name="excluded">Volume Panel: Приложение исключено</string>
+    <string name="do_not_kill">Принудительно заставлять службы продолжать работать</string>
+    <string name="do_not_kill_desc"><![CDATA[<b>Используйте эту опцию в случае, когда панель громкости прекращает свою работу.</b>
+        <br/><br/>Некоторые устройства слишком агрессивны, когда освобождают память и убивают важные службы, приложения с правами администратора редко уничтожаются.
+        <br/><br/>Включение основных прав администратора для Volume Panel позволит не убивать необходимые службы.
+        <br/><br/>Вам придется отключить эту опцию, если вы захотите удалить приложение.]]></string>
+    <string name="launch_opts"><u>Настройки запуска</u></string>
+    <string name="design"><u>Дизайн</u></string>
+    <string name="advanced"><u>Расширенные</u></string>
+    <string name="alerts"><u>Оповещения</u></string>
+    <string name="behaviour"><u>Поведение</u></string>
+    <string name="invert_buttons">Поменять местами кнопки громкости</string>
+    <string name="position_left_land">Под левую руку в горизонтальном положении</string>
+    <string name="killed">Служба спец.возможностей Volume Panel была остановлена или отключена системой.
+        \n\nЕсли это не было преднамеренным, попробуйте включить опцию \"Принудительно заставлять службы продолжать работать\" и убедитесь, что оптимизация батареи отключена для Volume Panel.</string>
+    <string name="reenable">Повторное включение</string>
+    <string name="hide_settings">Скрыть ярлык настроек</string>
+    <string name="screen_shot">Отображать кнопку скриншота</string>
+    <string name="layout"><u>Разметка</u></string>
+    <string name="floating_trigger">Триггер для жестов вверх/вниз</string>
+    <string name="trigger_cat"><u>Триггер</u></string>
+    <string name="trigger_colour">Цвет триггера</string>
+    <string name="rate_it"><![CDATA[<p style="text-align:center"><b>Нравится Volume Panel?</b>
+        <br/><br/>Пожалуйста, оставьте отзыв в Play Маркете!
         <br/><br/>\u2b50\u2b50\u2b50\u2b50\u2b50</p>]]></string>
-    <string name="pro_only">Only Available In Volume Panel Pro</string>
-    <string name="pro_un">Remove Advertising &amp; Unlock All Features.</string>
-    <string name="suspend">Suspend</string>
-    <string name="hide_nav">Hide Nav Bar</string>
-    <string name="hide_full">Invisible In Full Screen</string>
-    <string name="notif_access"><u>Notification Access</u>
-        \n\n\u2022 This permission allows us to detect active Casting or Streaming.
-        \n\u2022 If you wish to run without controlling cast streams, feel free to skip this permission.
-        \n\nNo notification content is captured.
+    <string name="pro_only">Доступно только Volume Panel Pro</string>
+    <string name="pro_un">Убрать рекламу и разблокировать все функции.</string>
+    <string name="suspend">Отклонить</string>
+    <string name="hide_nav">Скрыть панель навигации</string>
+    <string name="hide_full">Невидимый в полноэкранном режиме</string>
+    <string name="notif_access"><u>Доступ к уведомлениям</u>
+        \n\n\u2022 Это разрешение позволяет обнаруживать активный Casting или Streaming.
+        \n\u2022 Если вы хотите работать без контроля потоков трансляции, просто пропустите это разрешение.
+        \n\nНикакой другой контент из уведомлений не определяется.
         \n\n</string>
-    <string name="dnd_access"><u>Do Not Disturb Access</u>
-        \n\nThis permission allows us to modify Do Not Disturb Settings.
+    <string name="dnd_access"><u>Доступ к функции "Не беспокоить"</u>
+        \n\nЭто разрешение позволяет изменять настройки функции Не беспокоить.
         \n\n</string>
-    <string name="cast">Control Cast Volume</string>
-    <string name="margin">Panel Margin</string>
-    <string name="margin_sum">\u2022 From the edge of the screen</string>
-    <string name="disable_notif">PLEASE DISABLE NOTIFICATION ACCESS</string>
-    <string name="up_launch">Launch On Vol + Press Only</string>
-    <string name="up_launch_sum">\u2022 The panel will only launch when Vol + is pressed.</string>
-    <string name="click_out">Click Outside To Close</string>
-    <string name="click_out_sum">\u2022 May interfere with other apps when enabled.
-        \n\u2022 When disabled the panel will close on timeout only.</string>
-    <string name="slide_height">Slider Height</string>
-    <string name="slide_height_sum">\u2022 Adjust the length of the volume sliders.
-        \n\u2022 Has no affect on steps, these are system defined.</string>
-    <string name="trigger_scale">\u2022 Affects both height and width</string>
-    <string name="trigger_scale_t">Trigger Scale</string>
-    <string name="corner_scale">Corner Radius</string>
-    <string name="free">Disable Free Version</string>
-    <string name="free_installed">Volume Panel Free is currently overriding the system volume panel, please disable it to avoid conflicts.</string>
-    <string name="install_shortcut">Volume Panel Shortcuts</string>
-    <string name="media">Media Vol =</string>
-    <string name="system_warn">When enabling any accessibility service you will be presented with a generic Android system warning, for your peace of mind, Volume Panel does not capture any other keys or content &amp; does not have or request permission connect to the internet.</string>
+    <string name="cast">Управление громкостью трансляции</string>
+    <string name="margin">Грани панели</string>
+    <string name="margin_sum">\u2022 От края экрана</string>
+    <string name="disable_notif">ПОЖАЛУЙСТА, ОТКЛЮЧИТЕ СЛУЖБУ ДОСТУПА К УВЕДОМЛЕНИЯМ</string>
+    <string name="up_launch">Запускать только по нажатию кнопки громкости +</string>
+    <string name="up_launch_sum">\u2022 Панель будет запускаться только при нажатии на кнопку громкости +.</string>
+    <string name="click_out">Нажать в любом месте для закрытия</string>
+    <string name="click_out_sum">\u2022 Может мешать другим приложениям.
+        \n\u2022 При отключении панель закроется только по тайм-ауту.</string>
+    <string name="trigger_scale">\u2022 Влияет на высоту и ширину</string>
+    <string name="trigger_scale_t">Размер триггера</string>
+    <string name="corner_scale">Радиус скругления углов</string>
+    <string name="free">Отключить бесплатную версию</string>
+    <string name="free_installed">Бесплатная Volume Panel в настоящее время перекрывает системную панель громкости, пожалуйста, отключите ее для избежания конфликтов.</string>
+    <string name="install_shortcut">Ярлык Volume Panel</string>
+    <string name="media">Громкость медиа =</string>
+    <string name="system_warn">При включении любой службы специальных возможностей вам будет выдано общее системное предупреждение Android. Чтобы вы понимали, Volume Panel не захватывает никаких других ключей или контент и не имеет и не запрашивает разрешение на подключение к Интернету.</string>
+    <string name="slide_height">Размер панели</string>
+    <string name="slide_height_sum">\u2022 Регулировка размера панели громкости.
+        \n\u2022 Не влияет на определение шага громкости, это определяется системой.</string>
+    <string name="use_system">Auto Dark/Light</string>
+    <string name="auto_dark_sum">\u2022 Follow system Dark/Light mode.
+    \u2022 Manufacturer support required.</string>
 </resources>
