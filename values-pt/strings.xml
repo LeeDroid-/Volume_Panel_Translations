@@ -37,7 +37,7 @@
     <string name="show_alarm_panel">Mostrar Painel de Alarme</string>
     <string name="default_to_ring_volume">Ajustar Volume de Toque por Defeito</string>
     <string name="start_collapsed">Iniciar Minimizado</string>
-    <string name="position_left">Lado Esquerdo</string>
+    <string name="position_left">Modo Esquerdino</string>
     <string name="dark_mode">Modo Escuro</string>
     <string name="enable_volume_panel">Substituição de Teclas de Volume</string>
     <string name="select_apps">Selecionar Aplicações</string>
@@ -148,7 +148,7 @@
     <string name="disable_notif">POR FAVOR DESATIVE ACESSO A NOTIFICAÇÕES</string>
     <string name="up_launch">Ativar Apenas com Vol +</string>
     <string name="up_launch_sum">\u2022 O painel só será ativado ao premir Vol +.</string>
-    <string name="click_out">Cliar Fora para Fechar</string>
+    <string name="click_out">Clicar Fora para Fechar</string>
     <string name="click_out_sum">\u2022 Pode interferir com outras aplicações quando ativado.
         \n\u2022 Quando desativado, o painel fecha passado um tempo definido.</string>
     <string name="trigger_scale_t">Escala do Atalho</string>
