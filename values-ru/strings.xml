@@ -163,4 +163,6 @@
     <string name="use_system">Автоматический Тёмный/Светлый режим</string>
     <string name="auto_dark_sum">В зависимости от системного режима.
 	\n\u2022 Требуется поддержка производителем.</string>
+    <string name="anim_duration">Animation Duration</string>
+    <string name="current_shot2">Текущее значение: %.2f сек.</string>
 </resources>

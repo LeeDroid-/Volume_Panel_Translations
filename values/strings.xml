@@ -167,4 +167,7 @@
     <string name="use_system">Auto Dark/Light Mode</string>
     <string name="auto_dark_sum">\u2022 Follow system Dark/Light mode.
     \n\u2022 Manufacturer support required.</string>
+    <string name="anim_duration">Animation Duration</string>
+    <string name="current_shot2">Currently set to %.2f seconds</string>
+    <string name="timeout2" translatable="false">%.2fs</string>
 </resources>
