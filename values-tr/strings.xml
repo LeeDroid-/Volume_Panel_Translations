@@ -152,16 +152,16 @@
         \n\u2022 Devre dışı bırakıldığında panel yalnızca zaman aşımından sonra kapanır.</string>
     <string name="trigger_scale_t">Tetikleyici Ölçeği</string>
     <string name="corner_scale">Köşe Yarıçapı</string>
-    <string name="free">Disable Free Version</string>
-    <string name="free_installed">Volume Panel Free is currently overriding the system volume panel, please disable it to avoid conflicts.</string>
-    <string name="media">Media Vol =</string>
-    <string name="system_warn">When enabling any accessibility service you will be presented with a generic Android system warning, for your peace of mind, Volume Panel does not capture any other keys or content &amp; does not have or request permission connect to the internet.</string>
-    <string name="slide_height">Panel Scale</string>
-    <string name="slide_height_sum">\u2022 Adjust the size of the volume panel.
+    <string name="free">Ücretsiz Sürümü Devre Dışı Bırak</string>
+    <string name="free_installed">Volume Panel Free şu anda sistem ses panelini geçersiz kılıyor, çakışmaları önlemek için lütfen devre dışı bırakın.</string>
+    <string name="media">Medya Sesi =</string>
+    <string name="system_warn">Herhangi bir erişilebilirlik hizmetini etkinleştirirken, gönül rahatlığınız için genel bir Android sistem uyarısı sunulacak, Volume Panel başka herhangi bir tuş veya içerik yakalamaz ve internete bağlanmaz.</string>
+    <string name="slide_height">Panel Ölçeği</string>
+    <string name="slide_height_sum">\u2022 Ses seviyesi panelinin boyutunu ayarlayın.
         \n\u2022 Adımlar üzerinde hiçbir etkisi yoktur, bunlar sistem tanımlıdır.</string>
-    <string name="use_system">Auto Dark/Light Mode</string>
-    <string name="auto_dark_sum">\u2022 Follow system Dark/Light mode.
-    \n\u2022 Manufacturer support required.</string>
-    <string name="anim_duration">Animation Duration</string>
+    <string name="use_system">Otomatik Koyu/Açık Mod</string>
+    <string name="auto_dark_sum">\u2022 Sistem Koyu/Açık modunu takip eder.
+    \n\u2022 Üretici desteği gerekir.</string>
+    <string name="anim_duration">Animasyon Süresi</string>
     <string name="current_shot2">Şu anda %.2f saniyeye ayarlı</string>
 </resources>
