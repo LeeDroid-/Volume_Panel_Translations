@@ -153,16 +153,16 @@
         \n\u2022 Cuando está desactivado, el panel se cerrará solo cuando se agote el tiempo de espera.</string>
     <string name="trigger_scale_t">Escala del deslizador</string>
     <string name="corner_scale">Radio de las esquinas</string>
-    <string name="free">Deshabilitar la versión gratuita</string>
+    <string name="free">Deshabilitar versión gratuita</string>
     <string name="free_installed">Volume Panel Free está actualmente anulando el panel de volumen del sistema, por favor desactívalo para evitar conflictos.</string>
     <string name="media">Volumen Multimedia =</string>
-    <string name="system_warn">Al habilitar cualquier servicio de accesibilidad se le presentará un aviso genérico del sistema Android, para su tranquilidad, Volume Panel no captura ninguna otra tecla o contenido y no tiene ni solicita permiso para conectarse a Internet.</string>
+    <string name="system_warn">Al habilitar cualquier servicio de accesibilidad se te presentará un aviso genérico del sistema, para tu tranquilidad, Volume Panel no captura ninguna otra tecla o contenido y no tiene ni solicita permiso para conectarse a Internet.</string>
     <string name="slide_height">Escala de panel</string>
     <string name="slide_height_sum">\u2022 Ajusta el tamaño del panel de volumen.
         \n\u2022 No afecta a los niveles, están definidos por el sistema.</string>
-    <string name="use_system">Modo automático tema Claro/Oscuro</string>
-    <string name="auto_dark_sum">\u2022 Tema Claro/Oscuro según sistema.
+    <string name="use_system">Tema Claro/Oscuro automático</string>
+    <string name="auto_dark_sum">\u2022 Tema Claro/Oscuro definido por el sistema.
     \n\u2022 Se necesita el soporte del fabricante.</string>
-    <string name="anim_duration">Animation Duration</string>
+    <string name="anim_duration">Duración de la animación</string>
     <string name="current_shot2">Actualmente establecido en %.2f segundos</string>
 </resources>
