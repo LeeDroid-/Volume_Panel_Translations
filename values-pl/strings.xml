@@ -155,13 +155,13 @@
     <string name="free">Wyłącz bezpłatną wersję</string>
     <string name="free_installed">Volume Panel Free jest obecnie nadrzędny w stosunku do panelu głośności systemu, proszę go wyłączyć, aby uniknąć konfliktów.</string>
     <string name="media">Media Vol =</string>
-    <string name="system_warn">When enabling any accessibility service you will be presented with a generic Android system warning, for your peace of mind, Volume Panel does not capture any other keys or content &amp; does not have or request permission connect to the internet.</string>
-    <string name="slide_height">Panel Scale</string>
-    <string name="slide_height_sum">\u2022 Adjust the size of the volume panel.
+    <string name="system_warn">Po włączeniu dowolnej usługi ułatwień dostępu zostanie wyświetlone ogólne ostrzeżenie o systemie Android. Dla spokoju użytkownika Panel głośności nie przechwytuje żadnych innych kluczy ani treści &amp; nie ma ani nie prosi o pozwolenie na połączenie z Internetem.</string>
+    <string name="slide_height">Skalowanie Panela</string>
+    <string name="slide_height_sum">\u2022 Dostosuj rozmiar panelu głośności.
         \n\u2022 Nie ma wpływu na kroki, są one zdefiniowane przez system.</string>
-    <string name="use_system">Auto Dark/Light Mode</string>
-    <string name="auto_dark_sum">\u2022 Follow system Dark/Light mode.
-    \n\u2022 Manufacturer support required.</string>
-    <string name="anim_duration">Animation Duration</string>
+    <string name="use_system">Auto Tryb Ciemny/Jasny</string>
+    <string name="auto_dark_sum">\u2022 Ustaw tryb Ciemny/Jasny zgodny z systemem.
+    \n\u2022 Wymagane wsparcie producenta.</string>
+    <string name="anim_duration">Czas Trwania Animacji</string>
     <string name="current_shot2">Aktualne ustawienie to %.2f sekund</string>
 </resources>
