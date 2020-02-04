@@ -4,7 +4,7 @@
     <string name="proceed">أكمل </string>
     <string name="app_name">لوحة التحكم في الصوت </string>
     <string name="volumeui">Volume Panel</string>
-    <string name="current_shot">مضبوط حاليا علي 000 ثانية  </string>
+    <string name="current_shot">مضبوط حاليا علي %1$d ثانية  </string>
     <string name="overlay_needed"><u>الظهور أعلي النظام </u>
         \n\nهذا الإذن مطلوب لظهور التطبيق " لوحة الصوت " أعلي التطبيقات الأخري </string>
     <string name="failed_window_add">فشل إضافة النافذه يرجي فتح التطبيق والتأكد من منح أذن الظهور أعلي التطبيقات الأخري </string>
@@ -45,7 +45,6 @@
     <string name="loading_apps">تحميل التطبيقات</string>
     <string name="done">تم</string>
     <string name="exclude_applications_sum">\u2022 لوحة التحكم في الصوت لن تفتح هذه التطبيقات</string>
-    <string name="timeout">%1$ds</string>
     <string name="about">
         <![CDATA[<b>لوحة التحكم في الصوت :</b>
         <br/>\u2022A استبدال مرن للتحكم بصوت النظام .
@@ -76,8 +75,6 @@
     <string name="disable_acc">يرجي تعطيل خدمة الوصول </string>
     <string name="ver_pos">الوضع الرأسي </string>
     <string name="ver_pos_sum">\u2022 من أعلي الشاشة</string>
-    <string name="ver_pos_val">%1$d%%</string>
-    <string name="_50">50\%</string>
     <string name="play_sound">تغيرات مسموعة </string>
     <string name="alert">تنبيه التحسينات </string>
     <string name="bat_opt"><![CDATA[<b>تطبيق لوحة الصوت يتم تحسينه من قبل النظام  &amp; قد يتم غلقه في الخلفية</b>.
@@ -163,13 +160,9 @@
     <string name="free_installed"> لوحة التحكم في الصوت المجانية مفعلة حاليا علي لوحة صوت النظام , يرجي ايقافها لتجنب التداخلات  .</string>
     <string name="media">صوت الوسائط  =</string>
     <string name="system_warn">عند تمكين أي خدمة من خدمات إمكانية الوصول سيظهر لك تحذير معتاد من نظام الأندريد , لراحة بالك نؤكد أن تطبيق " لوحة التحكم في الصوت " لا يسجل أي ضفطات مفاتيح أو أي محتوي     &amp; التطبيق لا يطلب ولا يحتاج الإتصال بالإنترنت</string>
-    <string name="ver_pos_valx" translatable="false">%1$d%% X</string>
-    <string name="ver_pos_valy" translatable="false">%1$d%% Y</string>
-    <string name="dp_val" translatable="false">%1$d dp</string>
     <string name="use_system">وضع ليلي / الضوء تلقائي </string>
     <string name="auto_dark_sum">\u2022 اتبع وضع النظام  ضوء/ليلي.
     \n\u2022 دعم المصنع مطلوب.</string>
     <string name="anim_duration">مدة الرسوم المتحركة</string>
     <string name="current_shot2">حاليا معينة ل  %.2f ثانية </string>
-    <string name="timeout2" translatable="false">%.2fs</string>
 </resources>
