@@ -44,7 +44,7 @@
     <string name="loading_apps">Loading Applications</string>
     <string name="done">Done</string>
     <string name="exclude_applications_sum">\u2022 Volume panel will not open in these applications.</string>
-    <string name="timeout">%1$ds</string>
+    <string name="timeout" translatable="false">%1$ds</string>
     <string name="about">
         <![CDATA[<b>Volume Panel:</b>
         <br/>\u2022A flexible replacement for your system volume controls.
@@ -74,8 +74,8 @@
     <string name="disable_acc">PLEASE DISABLE THE ACCESSIBILITY SERVICE.</string>
     <string name="ver_pos">Vertical Position</string>
     <string name="ver_pos_sum">\u2022 From the top of the screen</string>
-    <string name="ver_pos_val">%1$d%%</string>
-    <string name="_50">50\%</string>
+    <string name="ver_pos_val" translatable="false">%1$d%%</string>
+    <string name="_50" translatable="false">50\%</string>
     <string name="play_sound">Audible Changes</string>
     <string name="alert">Optimisation Alert</string>
     <string name="bat_opt"><![CDATA[<b>Volume Panel is being optimised by the system &amp; may be killed in the background</b>.
@@ -170,4 +170,6 @@
     <string name="anim_duration">Animation Duration</string>
     <string name="current_shot2">Currently set to %.2f seconds</string>
     <string name="timeout2" translatable="false">%.2fs</string>
+    <string name="preview"><![CDATA[Preview Mode: Call & Cast panels will only show when needed.]]></string>
+    <string name="vibe_duration">Vibration Duration</string>
 </resources>

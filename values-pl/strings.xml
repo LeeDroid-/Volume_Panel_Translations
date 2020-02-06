@@ -164,4 +164,6 @@
     \n\u2022 Wymagane wsparcie producenta.</string>
     <string name="anim_duration">Czas Trwania Animacji</string>
     <string name="current_shot2">Aktualne ustawienie to %.2f sekund</string>
+    <string name="preview"><![CDATA[Preview Mode: Call & Cast panels will only show when needed.]]></string>
+    <string name="vibe_duration">Vibration Duration</string>
 </resources>

@@ -165,4 +165,6 @@
     \n\u2022 دعم المصنع مطلوب.</string>
     <string name="anim_duration">مدة الرسوم المتحركة</string>
     <string name="current_shot2">حاليا معينة ل  %.2f ثانية </string>
+    <string name="preview"><![CDATA[Preview Mode: Call & Cast panels will only show when needed.]]></string>
+    <string name="vibe_duration">Vibration Duration</string>
 </resources>

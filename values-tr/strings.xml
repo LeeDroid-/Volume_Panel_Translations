@@ -164,4 +164,6 @@
     \n\u2022 Üretici desteği gerekir.</string>
     <string name="anim_duration">Animasyon Süresi</string>
     <string name="current_shot2">Şu anda %.2f saniyeye ayarlı</string>
+    <string name="preview"><![CDATA[Preview Mode: Call & Cast panels will only show when needed.]]></string>
+    <string name="vibe_duration">Vibration Duration</string>
 </resources>
