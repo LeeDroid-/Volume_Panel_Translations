@@ -44,7 +44,6 @@
     <string name="loading_apps">Загрузка приложений</string>
     <string name="done">Готово</string>
     <string name="exclude_applications_sum">\u2022 Volume panel не будет открываться в этих приложениях.</string>
-    <string name="timeout">%1$ds</string>
     <string name="about">
         <![CDATA[<b>Volume Panel:</b>
         <br/>\u2022 Гибкая замена для вашей системной панели управления громкостью.
@@ -73,8 +72,6 @@
     <string name="disable_acc">ПОЖАЛУЙСТА, ОТКЛЮЧИТЕ СЛУЖБУ СПЕЦИАЛЬНЫХ ВОЗМОЖНОСТЕЙ.</string>
     <string name="ver_pos">Вертикальное положение</string>
     <string name="ver_pos_sum">\u2022 От верха экрана</string>
-    <string name="ver_pos_val">%1$d%%</string>
-    <string name="_50">50\%</string>
     <string name="play_sound">Звуковые изменения</string>
     <string name="alert">Оповещение об оптимизации</string>
     <string name="bat_opt"><![CDATA[<b>Volume Panel оптимизируется системой и может быть отключена в фоновом режиме</b>.

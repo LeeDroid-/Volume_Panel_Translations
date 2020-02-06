@@ -44,7 +44,6 @@
     <string name="loading_apps">Ładowanie Aplikacji</string>
     <string name="done">Gotowe</string>
     <string name="exclude_applications_sum">\u2022 Panel głośności nie otworzy się w tych aplikacjach.</string>
-    <string name="timeout">%1$ds</string>
     <string name="about">
         <![CDATA[<b>Panel Głośności:</b>
         <br/>\u2022 Elastyczna wymiana kontrolek głośności systemu.
@@ -72,8 +71,6 @@
     <string name="disable_acc"> PROSZĘ WYŁĄCZYĆ USŁUGĘ DOSTĘPNOŚCI.</string>
     <string name="ver_pos">Pozycja w Pionie</string>
     <string name="ver_pos_sum">\u2022 Z góry ekranu</string>
-    <string name="ver_pos_val">%1$d%%</string>
-    <string name="_50">50\%</string>
     <string name="play_sound">Słyszalne Zmiany</string>
     <string name="alert">Optymalizacja Alertów</string>
     <string name="bat_opt"><![CDATA[<b>Panel głośności jest optymalizowany przez system i może zostać zamknięty w tle</b>.

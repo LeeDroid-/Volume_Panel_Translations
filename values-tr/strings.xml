@@ -45,7 +45,6 @@
     <string name="loading_apps">Uygulamalar Yükleniyor</string>
     <string name="done">Bitti</string>
     <string name="exclude_applications_sum">\u2022 Bu uygulamalarda volume panel açılmaz.</string>
-    <string name="timeout">%1$ds</string>
     <string name="about">
         <![CDATA[<b>Volume Panel:</b>
         <br/>\u2022Sistem ses kontrolleriniz için esnek bir değiştirme.
@@ -73,8 +72,6 @@
     <string name="disable_acc">LÜTFEN ERİŞİLEBİLİRLİK HİZMETİNİ DEVRE DIŞI BIRAKIN.</string>
     <string name="ver_pos">Dikey Konum</string>
     <string name="ver_pos_sum">\u2022 Ekranın üstünden</string>
-    <string name="ver_pos_val">%1$d%%</string>
-    <string name="_50">50\%</string>
     <string name="play_sound">Sesli Değişiklikler</string>
     <string name="alert">Optimizasyon Uyarısı</string>
     <string name="bat_opt"><![CDATA[<b>Volume Panel sistem tarafından optimize ediliyor &amp; arka planda sonlandırılabilir</b>.

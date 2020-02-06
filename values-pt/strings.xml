@@ -44,7 +44,6 @@
     <string name="loading_apps">A carregar Aplicações</string>
     <string name="done">Concluído</string>
     <string name="exclude_applications_sum">\u2022 Volume Panel não abrirá sobre estas aplicações.</string>
-    <string name="timeout">%1$ds</string>
     <string name="about">
         <![CDATA[<b>Volume Panel:</b>
         <br/>\u2022Um substituto flexível para o controlo de volume do sistema.
@@ -73,8 +72,6 @@
     <string name="disable_acc">POR FAVOR DESATIVE O SERVIÇO DE ACESSIBILIDADE.</string>
     <string name="ver_pos">Posição Vertical</string>
     <string name="ver_pos_sum">\u2022 A partir do topo do ecrã</string>
-    <string name="ver_pos_val">%1$d%%</string>
-    <string name="_50">50\%</string>
     <string name="play_sound">Som ao Ajustar</string>
     <string name="alert">Alerta de Otimização</string>
     <string name="bat_opt"><![CDATA[<b>Volume Panel está a ser otimizado pelo sistema &amp; pode ser encerrada no fundo</b>.

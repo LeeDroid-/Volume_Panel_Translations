@@ -44,7 +44,6 @@
     <string name="loading_apps">Cargando aplicaciones</string>
     <string name="done">Hecho</string>
     <string name="exclude_applications_sum">\u2022 El panel de volumen no se abrirá en estas aplicaciones.</string>
-    <string name="timeout">%1$ds</string>
     <string name="about">
       <![CDATA[<b>Volume Panel:</b> 
       <br/>\u2022 Un reemplazo flexible para los controles de volumen de tu sistema. 
@@ -72,8 +71,6 @@
     <string name="disable_acc">POR FAVOR, DESACTIVA EL SERVICIO DE ACCESIBILIDAD.</string>
     <string name="ver_pos">Posición vertical</string>
     <string name="ver_pos_sum">\u2022 Desde la parte superior de la pantalla</string>
-    <string name="ver_pos_val">%1$d%%</string>
-    <string name="_50">50\%</string>
     <string name="play_sound">Cambios audibles</string>
     <string name="alert">Alerta de optimización</string>
     <string name="bat_opt"><![CDATA[<b>El panel de volumen está siendo optimizado por el sistema y puede ser deshabilitado en segundo plano</b>.
