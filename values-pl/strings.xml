@@ -165,4 +165,5 @@
     <string name="vibe_duration">Vibration Duration</string>
     <string name="show_bright_panel">Screen Brightness Panel</string>
     <string name="system_perms_message">Volume Panel needs to be granted access to write System Settings, please press proceed to continue.\n</string>
+    <string name="show_ring_panel">Show Ring Panel</string>
 </resources>

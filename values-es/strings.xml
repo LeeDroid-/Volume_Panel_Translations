@@ -162,8 +162,9 @@
     \n\u2022 Se necesita el soporte del fabricante.</string>
     <string name="anim_duration">Duración de la animación</string>
     <string name="current_shot2">Actualmente establecido en %.2f segundos</string>
-    <string name="preview"><![CDATA[Preview Mode: Call & Cast panels will only show when needed.]]></string>
-    <string name="vibe_duration">Vibration Duration</string>
-    <string name="show_bright_panel">Screen Brightness Panel</string>
-    <string name="system_perms_message">Volume Panel needs to be granted access to write System Settings, please press proceed to continue.\n</string>
+    <string name="preview"><![CDATA[Vista Previa: Los paneles de llamada y de transmisiones Cast sólo se mostrarán cuando sea necesario.]]></string>
+    <string name="vibe_duration">Duración de la vibración</string>
+    <string name="show_bright_panel">Panel brillo de pantalla</string>
+    <string name="system_perms_message">Volume Panel necesita tener permiso para escribir en los ajustes del sistema, por favor presionar en proceder para continuar.\n</string>
+    <string name="show_ring_panel">Show Ring Panel</string>
 </resources>
