@@ -161,9 +161,9 @@
     \n\u2022 Üretici desteği gerekir.</string>
     <string name="anim_duration">Animasyon Süresi</string>
     <string name="current_shot2">Şu anda %.2f saniyeye ayarlı</string>
-    <string name="preview"><![CDATA[Preview Mode: Call & Cast panels will only show when needed.]]></string>
-    <string name="vibe_duration">Vibration Duration</string>
-    <string name="show_bright_panel">Screen Brightness Panel</string>
-    <string name="system_perms_message">Volume Panel needs to be granted access to write System Settings, please press proceed to continue.\n</string>
-    <string name="show_ring_panel">Show Ring Panel</string>
+    <string name="preview"><![CDATA[Önizleme Modu: Çağrı ve Yayınlama panelleri yalnızca gerektiğinde gösterilir.]]></string>
+    <string name="vibe_duration">Titreşim Süresi</string>
+    <string name="show_bright_panel">Ekran Parlaklığı Paneli</string>
+    <string name="system_perms_message">Volume Panel Sistem Ayarlarını yazmak için erişim iznine ihtiyaç duyuyor, devam etmek için lütfen devam et\'e basın.\n</string>
+    <string name="show_ring_panel">Zil Panelini Göster</string>
 </resources>
