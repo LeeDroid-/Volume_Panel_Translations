@@ -165,11 +165,11 @@
     \n\u2022 دعم المصنع مطلوب.</string>
     <string name="anim_duration">مدة الرسوم المتحركة</string>
     <string name="current_shot2">حاليا معينة ل  %.2f ثانية </string>
-    <string name="preview"><![CDATA[Preview Mode: Call & Cast panels will only show when needed.]]></string>
-    <string name="vibe_duration">Vibration Duration</string>
-    <string name="show_bright_panel">Screen Brightness Panel</string>
-    <string name="system_perms_message">Volume Panel needs to be granted access to write System Settings, please press proceed to continue.\n</string>
-    <string name="show_ring_panel">Show Ring Panel</string>
-    <string name="bright_calibrate"><b>i</b>: Recalibrate Maximum Brightness:
-        \n\u2022 Set your screen brightness to Max then long press here.</string>
+    <string name="preview"><![CDATA[وضع المعاينة: لن تظهر لوحة التحكم في صوت الاتصال والبث إلا عند الحاجة.]]></string>
+    <string name="vibe_duration">مدة الإهتزاز</string>
+    <string name="show_bright_panel">لوحة التحكم في سطوع الشاشة</string>
+    <string name="system_perms_message">يلزم منح "لوحة التحكم في الصوت" الوصول لـ "إعدادات النظام" ، يرجى الضغط على "إكمال " للمتابعة.\n</string>
+    <string name="show_ring_panel">أظهر لوحة نغمة الرنين</string>
+    <string name="bright_calibrate"><b>i</b>: معايرة أقصي سطوع للشاشة:
+        \n\u2022 اضبط سطوع الشاشة على أعلي إضاءة ثم اضغط هنا ضغطة مطولة.</string>
 </resources>
