@@ -1,6 +1,6 @@
 <resources>
     <string name="additonal_perms_req">Wymagane Dodatkowe Uprawnienia</string>
-    <string name="proceed">Kontynuować</string>
+    <string name="proceed">Kontynuuj</string>
     <string name="app_name">Volume Panel</string>
     <string name="volumeui">Volume UI</string>
     <string name="current_shot">Aktualne ustawienie to %1$d sekund</string>
@@ -128,7 +128,7 @@
     <string name="pro_only">Dostępne Tylko w Volume Panel Pro</string>
     <string name="pro_un">Usuń Reklamy &amp; Odblokuj Wszystkie Funkcje.</string>
     <string name="suspend">Pauza</string>
-    <string name="hide_nav">Ukryć pasek nawigacyjny</string>
+    <string name="hide_nav">Ukryj pasek nawigacyjny</string>
     <string name="hide_full">Niewidzialne na pełnym ekranie</string>
     <string name="dnd_access"><u>Dostęp Do Nie Przeszkadzać</u>
         \n\nTo uprawnienie pozwala nam modyfikować ustawienia Nie Przeszkadzać.
@@ -161,9 +161,9 @@
     \n\u2022 Wymagane wsparcie producenta.</string>
     <string name="anim_duration">Czas Trwania Animacji</string>
     <string name="current_shot2">Aktualne ustawienie to %.2f sekund</string>
-    <string name="preview"><![CDATA[Preview Mode: Call & Cast panels will only show when needed.]]></string>
-    <string name="vibe_duration">Vibration Duration</string>
-    <string name="show_bright_panel">Screen Brightness Panel</string>
-    <string name="system_perms_message">Volume Panel needs to be granted access to write System Settings, please press proceed to continue.\n</string>
-    <string name="show_ring_panel">Show Ring Panel</string>
+    <string name="preview"><![CDATA[Tryb Podglądu: Połączenie & Panele Cast będą pokazywane tylko w razie potrzeby.]]></string>
+    <string name="vibe_duration">Czas Trwania Wibracji</string>
+    <string name="show_bright_panel">Panel Jasności Ekranu</string>
+    <string name="system_perms_message">Panel głośności musi mieć dostęp do zapisu ustawień systemu, naciśnij przycisk kontynuuj, aby kontynuować.\n</string>
+    <string name="show_ring_panel">Pokaż Panel Dzwonka</string>
 </resources>
