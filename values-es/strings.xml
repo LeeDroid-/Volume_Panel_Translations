@@ -162,9 +162,11 @@
     \n\u2022 Se necesita el soporte del fabricante.</string>
     <string name="anim_duration">Duración de la animación</string>
     <string name="current_shot2">Actualmente establecido en %.2f segundos</string>
-    <string name="preview"><![CDATA[Vista Previa: Los paneles de llamada y de transmisiones Cast sólo se mostrarán cuando sea necesario.]]></string>
+    <string name="preview"><![CDATA[Vista Previa: Los paneles de llamada y de transmisiones Cast solo se mostrarán cuando sea necesario.]]></string>
     <string name="vibe_duration">Duración de la vibración</string>
     <string name="show_bright_panel">Panel brillo de pantalla</string>
-    <string name="system_perms_message">Volume Panel necesita tener permiso para escribir en los ajustes del sistema, por favor presionar en proceder para continuar.\n</string>
-    <string name="show_ring_panel">Show Ring Panel</string>
+    <string name="system_perms_message">Volume Panel necesita tener permiso para cambiar los ajustes del sistema, por favor presionar en proceder para continuar.\n</string>
+    <string name="show_ring_panel">Mostrar panel de timbre</string>
+    <string name="bright_calibrate"><b>i</b>: Recalibrar el brillo máximo:
+        \n\u2022 Ajustar el brillo de la pantalla al máximo y luego mantener pulsado aquí.</string>
 </resources>

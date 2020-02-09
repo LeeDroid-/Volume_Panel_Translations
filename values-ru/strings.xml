@@ -162,9 +162,11 @@
 	\n\u2022 Требуется поддержка производителем.</string>
     <string name="anim_duration">Длительность анимации</string>
     <string name="current_shot2">Текущее значение: %.2f сек.</string>
-    <string name="preview"><![CDATA[Preview Mode: Call & Cast panels will only show when needed.]]></string>
-    <string name="vibe_duration">Vibration Duration</string>
-    <string name="show_bright_panel">Screen Brightness Panel</string>
-    <string name="system_perms_message">Volume Panel needs to be granted access to write System Settings, please press proceed to continue.\n</string>
-    <string name="show_ring_panel">Show Ring Panel</string>
+    <string name="preview"><![CDATA[Режим предпросмотра: Панели Вызова и Трансляции будут отображаться только при необходимости.]]></string>
+    <string name="vibe_duration">Длительность вибрации</string>
+    <string name="show_bright_panel">Панель яркости</string>
+    <string name="system_perms_message">Volume Panel требуется доступ к изменениям системных настроек,  needs to be granted access to write System Settings, пожалуйста, нажмите Продолжить чтобы предоставить разрешение..\n</string>
+    <string name="show_ring_panel">Отображать панель Звонка</string>
+    <string name="bright_calibrate"><b>i</b>: Recalibrate Maximum Brightness:
+        \n\u2022 Set your screen brightness to Max then long press here.</string>
 </resources>
