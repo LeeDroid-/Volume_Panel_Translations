@@ -156,13 +156,13 @@
     <string name="use_system">Modo Escuro/Claro Autonático</string>
     <string name="auto_dark_sum">\u2022 Adaptar ao modo Escuro/Claro do sistema.
     \n\u2022 Depende de suporte do fabricante.</string>
-    <string name="anim_duration">Animation Duration</string>
+    <string name="anim_duration">Duração de Animações</string>
     <string name="current_shot2">Atualmente definido para %.2f segundos</string>
-    <string name="preview"><![CDATA[Preview Mode: Call & Cast panels will only show when needed.]]></string>
-    <string name="vibe_duration">Vibration Duration</string>
-    <string name="show_bright_panel">Screen Brightness Panel</string>
-    <string name="system_perms_message">Volume Panel needs to be granted access to write System Settings, please press proceed to continue.\n</string>
-    <string name="show_ring_panel">Show Ring Panel</string>
-    <string name="bright_calibrate"><b>i</b>: Recalibrate Maximum Brightness:
-        \n\u2022 Set your screen brightness to Max then long press here.</string>
+    <string name="preview"><![CDATA[Modo de Previsuzação: Paineis de Chamada & Transmissão só serão mostrados quando necessário.]]></string>
+    <string name="vibe_duration">Duração de Vibração</string>
+    <string name="show_bright_panel">Painel de Brilho do Ecrã</string>
+    <string name="system_perms_message">Volume Panel precisa de permissão para alterar Definições de Sistema, por favor clique para continuar para conceder permissão.\n</string>
+    <string name="show_ring_panel">Mostrar Painel de Toque</string>
+    <string name="bright_calibrate"><b>i</b>: Recalibrar Brilho Máximo:
+        \n\u2022 Ajuste o brilho até ao máximo e de seguida prima e segure aqui.</string>
 </resources>
