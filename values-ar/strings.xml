@@ -172,4 +172,6 @@
     <string name="show_ring_panel">أظهر لوحة نغمة الرنين</string>
     <string name="bright_calibrate"><b>i</b>: معايرة أقصي سطوع للشاشة:
         \n\u2022 اضبط سطوع الشاشة على أعلي إضاءة ثم اضغط هنا ضغطة مطولة.</string>
+    <string name="order">Change Panel Order</string>
+    <string name="long_press"><![CDATA[Long press & drag panels to rearrange.]]></string>
 </resources>

@@ -168,4 +168,6 @@
     <string name="show_ring_panel">Zil Panelini Göster</string>
     <string name="bright_calibrate"><b>i</b>: Maksimum Parlaklığı Yeniden Ayarla:
         \n\u2022 Ekran parlaklığınızı Maksimuma ayarlayın, ardından buraya uzun basın.</string>
+    <string name="order">Change Panel Order</string>
+    <string name="long_press"><![CDATA[Long press & drag panels to rearrange.]]></string>
 </resources>

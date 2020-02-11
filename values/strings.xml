@@ -178,4 +178,6 @@
     <string name="show_ring_panel">Show Ring Panel</string>
     <string name="bright_calibrate"><b>i</b>: Recalibrate Maximum Brightness:
         \n\u2022 Set your screen brightness to Max then long press here.</string>
+    <string name="order">Change Panel Order</string>
+    <string name="long_press"><![CDATA[Long press & drag panels to rearrange.]]></string>
 </resources>

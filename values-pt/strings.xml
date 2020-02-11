@@ -165,4 +165,6 @@
     <string name="show_ring_panel">Mostrar Painel de Toque</string>
     <string name="bright_calibrate"><b>i</b>: Recalibrar Brilho Máximo:
         \n\u2022 Ajuste o brilho até ao máximo e de seguida prima e segure aqui.</string>
+    <string name="order">Change Panel Order</string>
+    <string name="long_press"><![CDATA[Long press & drag panels to rearrange.]]></string>
 </resources>
