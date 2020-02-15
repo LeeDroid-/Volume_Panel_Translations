@@ -3,7 +3,6 @@
     <string name="proceed">Devam et</string>
     <string name="app_name">Volume Panel</string>
     <string name="volumeui">Ses Arayüzü</string>
-    <string name="current_shot">Şu anda %1$d saniyeye ayarlı</string>
     <string name="overlay_needed"><u>Sistem Yerleşimi</u>
         \n\nBu izin Volume Panel\'i diğer uygulamaların üzerinde görüntülemek için gerekmektedir.</string>
     <string name="failed_window_add">Pencere eklenemedi, lütfen uygulamayı açın ve Ekran Yerleşimi izinlerinin verildiğinden emin olun</string>
@@ -19,7 +18,7 @@
         \n\nHizmeti başlatmak için bazı cihazların yeniden başlatılması gerekebilir.</string>
     <string name="need_dnd">Rahatsız Etmeyin İzni Gerekli</string>
     <string name="no">Hayır</string>
-    <string name="vol_timeout">Panel Zaman Aşımı</string>
+    <string name="vol_timeout">Panel Zaman Aşımı = </string>
     <string name="yes">Evet</string>
     <string name="notification_listener">Volume Panel Bildirim Dinleyici</string>
     <string name="apply">Uygula</string>
@@ -33,7 +32,6 @@
     <string name="icon_colour">Simge Rengi</string>
     <string name="background_colour">Arka Plan Rengi</string>
     <string name="slider_colour">Kaydırıcı Rengi</string>
-    <string name="_3s">3s</string>
     <string name="panel_timeout">Panel Zaman Aşımı</string>
     <string name="show_alarm_panel">Alarm Panelini Göster</string>
     <string name="default_to_ring_volume">Varsayılan Olarak Zil Sesi</string>
@@ -70,9 +68,7 @@
     <string name="add_shortcut">Başlatıcı Kısayolunu Etkinleştir</string>
     <string name="launch">Volume Panel\'i Göster</string>
     <string name="disable_acc">LÜTFEN ERİŞİLEBİLİRLİK HİZMETİNİ DEVRE DIŞI BIRAKIN.</string>
-    <string name="ver_pos">Dikey Konum</string>
-    <string name="ver_pos_sum">\u2022 Ekranın üstünden</string>
-    <string name="play_sound">Sesli Değişiklikler</string>
+    <string name="ver_pos">Dikey Konum = </string>
     <string name="alert">Optimizasyon Uyarısı</string>
     <string name="bat_opt"><![CDATA[<b>Volume Panel sistem tarafından optimize ediliyor &amp; arka planda sonlandırılabilir</b>.
     <br/><br/>Volume Panel\'deki hizmetlerin hiçbiri pili yoğun kullanmaz, ancak optimizasyonu devre dışı bırakmak güvenilirliği artıracaktır.
@@ -105,11 +101,10 @@
         <br/><br/>Bazı cihazlar belleği boşaltırken ve önemli hizmetleri sonlandırırken çok agresiftir, Yönetici haklarına sahip uygulamalar nadiren sonlandırılır.
         <br/><br/>Volume Panel için temel Yönetici haklarını etkinleştirmek, hizmetlerimizi çalışır tutacaktır.
         <br/><br/>Uygulamayı kaldırmanız gerekirse, bu seçeneği devre dışı bırakmanız gerekecektir.]]></string>
-    <string name="launch_opts"><u>Başlatma Seçenekleri</u></string>
-    <string name="design"><u>Tasarım</u></string>
-    <string name="advanced"><u>Gelişmiş</u></string>
-    <string name="alerts"><u>Uyarılar</u></string>
-    <string name="behaviour"><u>Davranış</u></string>
+    <string name="launch_opts">Başlatma Seçenekleri</string>
+    <string name="design">Tasarım</string>
+    <string name="alerts">Uyarılar</string>
+    <string name="behaviour">Davranış</string>
     <string name="invert_buttons">Ses Tuşlarını Ters Çevir</string>
     <string name="position_left_land">Yatay Modda Solak</string>
     <string name="killed">Volume Panel erişilebilirlik hizmeti sistem tarafından durduruldu veya kaldırıldı.
@@ -117,9 +112,9 @@
     <string name="screen_shot">Ekran Görüntüsü Düğmesini Göster</string>
     <string name="reenable">Yeniden Etkinleştir</string>
     <string name="hide_settings">Ayarlar Kısayolunu Gizle</string>
-    <string name="layout"><u>Düzen</u></string>
+    <string name="layout">Düzen</string>
     <string name="floating_trigger">Yukarı/Aşağı Kaydırarak Tetikle</string>
-    <string name="trigger_cat"><u>Tetikleyici</u></string>
+    <string name="trigger_cat">Tetikleyici</string>
     <string name="trigger_colour">Tetikleyici Rengi</string>
     <string name="rate_it"><![CDATA[<p style="text-align:center"><b>Volume Panel\'i beğendiniz mi?</b>
         <br/><br/>Lütfen play store\'da bir inceleme bırakın!
@@ -139,30 +134,27 @@
         \n\u2022 Yayın akışlarını kontrol etmeden çalıştırmak isterseniz, bu izni atlamaktan çekinmeyin.
         \n\nHiçbir bildirim içeriği yakalanmaz.
         \n\n</string>
-    <string name="margin">Panel Boşluğu</string>
-    <string name="margin_sum">\u2022 Ekranın kenarından</string>
+    <string name="margin">Panel Boşluğu = </string>
     <string name="disable_notif">LÜTFEN BİLDİRİM ERİŞİMİNİ DEVRE DIŞI BIRAKIN</string>
     <string name="up_launch">Yalnızca Ses Açmaya Basıldığında Başlat</string>
     <string name="up_launch_sum">\u2022 Panel yalnızca Ses Açma tuşuna basıldığında açılır.</string>
     <string name="click_out">Kapatmak İçin Dışarı Tıkla</string>
     <string name="click_out_sum">\u2022 Etkinleştirildiğinde diğer uygulamalara müdahale edebilir.
         \n\u2022 Devre dışı bırakıldığında panel yalnızca zaman aşımından sonra kapanır.</string>
-    <string name="trigger_scale_t">Tetikleyici Ölçeği</string>
-    <string name="corner_scale">Köşe Yarıçapı</string>
+    <string name="trigger_scale_t">Tetikleyici Ölçeği = </string>
+    <string name="corner_scale">Köşe Yarıçapı = </string>
     <string name="free">Ücretsiz Sürümü Devre Dışı Bırak</string>
     <string name="free_installed">Volume Panel Free şu anda sistem ses panelini geçersiz kılıyor, çakışmaları önlemek için lütfen devre dışı bırakın.</string>
     <string name="media">Medya Sesi =</string>
     <string name="system_warn">Herhangi bir erişilebilirlik hizmetini etkinleştirirken, gönül rahatlığınız için genel bir Android sistem uyarısı sunulacak, Volume Panel başka herhangi bir tuş veya içerik yakalamaz ve internete bağlanmaz.</string>
-    <string name="slide_height">Panel Ölçeği</string>
-    <string name="slide_height_sum">\u2022 Ses seviyesi panelinin boyutunu ayarlayın.
-        \n\u2022 Adımlar üzerinde hiçbir etkisi yoktur, bunlar sistem tanımlıdır.</string>
+    <string name="slide_height">Panel Ölçeği =</string>
     <string name="use_system">Otomatik Koyu/Açık Mod</string>
     <string name="auto_dark_sum">\u2022 Sistem Koyu/Açık modunu takip eder.
     \n\u2022 Üretici desteği gerekir.</string>
-    <string name="anim_duration">Animasyon Süresi</string>
+    <string name="anim_duration">Animasyon Süresi = </string>
     <string name="current_shot2">Şu anda %.2f saniyeye ayarlı</string>
     <string name="preview"><![CDATA[Önizleme Modu: Çağrı ve Yayınlama panelleri yalnızca gerektiğinde gösterilir.]]></string>
-    <string name="vibe_duration">Titreşim Süresi</string>
+    <string name="vibe_duration">Titreşim Süresi = </string>
     <string name="show_bright_panel">Ekran Parlaklığı Paneli</string>
     <string name="system_perms_message">Volume Panel Sistem Ayarlarını yazmak için erişim iznine ihtiyaç duyuyor, devam etmek için lütfen devam et\'e basın.\n</string>
     <string name="show_ring_panel">Zil Panelini Göster</string>
@@ -170,4 +162,6 @@
         \n\u2022 Ekran parlaklığınızı Maksimuma ayarlayın, ardından buraya uzun basın.</string>
     <string name="order">Change Panel Order</string>
     <string name="long_press"><![CDATA[Long press & drag panels to rearrange.]]></string>
+    <string name="killer_info"><![CDATA[For more information visit:<br/>
+        http://www.dontkillmyapp.com/]]></string>
 </resources>

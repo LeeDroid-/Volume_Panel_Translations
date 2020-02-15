@@ -3,7 +3,6 @@
     <string name="proceed">Продолжить</string>
     <string name="app_name">Volume Panel</string>
     <string name="volumeui">Интерфейс громкости</string>
-    <string name="current_shot">Текущее значение: %1$d сек.</string>
     <string name="overlay_needed"><u>Системные наложения</u>
         \n\nЭто разрешение необходимо для отображения Volume Panel поверх других приложений.</string>
     <string name="failed_window_add">Не удалось добавить окно, пожалуйста, откройте приложение и убедитесь, что разрешение Поверх других приложений предоставлено</string>
@@ -18,7 +17,7 @@
         \n\nНекоторым аппаратам потребуется перезагрузка для запуска службы.</string>
     <string name="need_dnd">Требуется разрешение Не беспокоить</string>
     <string name="no">Нет</string>
-    <string name="vol_timeout">Тайм-аут панели</string>
+    <string name="vol_timeout">Тайм-аут панели = </string>
     <string name="yes">Да</string>
     <string name="notification_listener">Доступ к уведомлениям для Volume Panel</string>
     <string name="apply">Применить</string>
@@ -32,7 +31,6 @@
     <string name="icon_colour">Цвет значка</string>
     <string name="background_colour">Цвет фона</string>
     <string name="slider_colour">Цвет ползунка</string>
-    <string name="_3s">3с</string>
     <string name="panel_timeout">Тайм-аут панели</string>
     <string name="show_alarm_panel">Отображать панель будильника</string>
     <string name="default_to_ring_volume">По умолчанию для громкости звонка</string>
@@ -71,8 +69,6 @@
     <string name="launch">Отображать Volume Panel</string>
     <string name="disable_acc">ПОЖАЛУЙСТА, ОТКЛЮЧИТЕ СЛУЖБУ СПЕЦИАЛЬНЫХ ВОЗМОЖНОСТЕЙ.</string>
     <string name="ver_pos">Вертикальное положение</string>
-    <string name="ver_pos_sum">\u2022 От верха экрана</string>
-    <string name="play_sound">Звуковые изменения</string>
     <string name="alert">Оповещение об оптимизации</string>
     <string name="bat_opt"><![CDATA[<b>Volume Panel оптимизируется системой и может быть отключена в фоновом режиме</b>.
     <br/><br/>Ни одна из служб Volume Panel не потребляет много заряда, но отключение оптимизации повышает надежность работы.
@@ -107,11 +103,10 @@
         <br/><br/>Некоторые устройства слишком агрессивны, когда освобождают память и убивают важные службы, приложения с правами администратора редко уничтожаются.
         <br/><br/>Включение основных прав администратора для Volume Panel позволит не убивать необходимые службы.
         <br/><br/>Вам придется отключить эту опцию, если вы захотите удалить приложение.]]></string>
-    <string name="launch_opts"><u>Настройки запуска</u></string>
-    <string name="design"><u>Дизайн</u></string>
-    <string name="advanced"><u>Расширенные</u></string>
-    <string name="alerts"><u>Оповещения</u></string>
-    <string name="behaviour"><u>Поведение</u></string>
+    <string name="launch_opts">Настройки запуска</string>
+    <string name="design">Дизайн</string>
+    <string name="alerts">Оповещения</string>
+    <string name="behaviour">Поведение</string>
     <string name="invert_buttons">Поменять местами кнопки громкости</string>
     <string name="position_left_land">Под левую руку в горизонтальном положении</string>
     <string name="killed">Служба спец.возможностей Volume Panel была остановлена или отключена системой.
@@ -119,9 +114,9 @@
     <string name="reenable">Повторное включение</string>
     <string name="hide_settings">Скрыть ярлык настроек</string>
     <string name="screen_shot">Отображать кнопку скриншота</string>
-    <string name="layout"><u>Разметка</u></string>
+    <string name="layout">Разметка</string>
     <string name="floating_trigger">Триггер для жестов вверх/вниз</string>
-    <string name="trigger_cat"><u>Триггер</u></string>
+    <string name="trigger_cat">Триггер</string>
     <string name="trigger_colour">Цвет триггера</string>
     <string name="rate_it"><![CDATA[<p style="text-align:center"><b>Нравится Volume Panel?</b>
         <br/><br/>Пожалуйста, оставьте отзыв в Play Маркете!
@@ -140,30 +135,27 @@
         \n\nЭто разрешение позволяет изменять настройки функции Не беспокоить.
         \n\n</string>
     <string name="cast">Управление громкостью трансляции</string>
-    <string name="margin">Грани панели</string>
-    <string name="margin_sum">\u2022 От края экрана</string>
+    <string name="margin">Грани панели = </string>
     <string name="disable_notif">ПОЖАЛУЙСТА, ОТКЛЮЧИТЕ СЛУЖБУ ДОСТУПА К УВЕДОМЛЕНИЯМ</string>
     <string name="up_launch">Запускать только по нажатию кнопки громкости +</string>
     <string name="up_launch_sum">\u2022 Панель будет запускаться только при нажатии на кнопку громкости +.</string>
     <string name="click_out">Нажать в любом месте для закрытия</string>
     <string name="click_out_sum">\u2022 Может мешать другим приложениям.
         \n\u2022 При отключении панель закроется только по тайм-ауту.</string>
-    <string name="trigger_scale_t">Размер триггера</string>
-    <string name="corner_scale">Радиус скругления углов</string>
+    <string name="trigger_scale_t">Размер триггера = </string>
+    <string name="corner_scale">Радиус скругления углов = </string>
     <string name="free">Отключить бесплатную версию</string>
     <string name="free_installed">Бесплатная Volume Panel в настоящее время перекрывает системную панель громкости, пожалуйста, отключите ее для избежания конфликтов.</string>
     <string name="media">Громкость медиа =</string>
     <string name="system_warn">При включении любой службы специальных возможностей вам будет выдано общее системное предупреждение Android. Чтобы вы понимали, Volume Panel не захватывает никаких других ключей или контент и не имеет и не запрашивает разрешение на подключение к Интернету.</string>
-    <string name="slide_height">Размер панели</string>
-    <string name="slide_height_sum">\u2022 Регулировка размера панели громкости.
-        \n\u2022 Не влияет на определение шага громкости, это определяется системой.</string>
+    <string name="slide_height">Размер панели = </string>
     <string name="use_system">Автоматический Тёмный/Светлый режим</string>
     <string name="auto_dark_sum">В зависимости от системного режима.
 	\n\u2022 Требуется поддержка производителем.</string>
-    <string name="anim_duration">Длительность анимации</string>
+    <string name="anim_duration">Длительность анимации = </string>
     <string name="current_shot2">Текущее значение: %.2f сек.</string>
     <string name="preview"><![CDATA[Режим предпросмотра: Панели Вызова и Трансляции будут отображаться только при необходимости.]]></string>
-    <string name="vibe_duration">Длительность вибрации</string>
+    <string name="vibe_duration">Длительность вибрации = </string>
     <string name="show_bright_panel">Панель яркости</string>
     <string name="system_perms_message">Volume Panel требуется доступ к изменениям системных настроек,  needs to be granted access to write System Settings, пожалуйста, нажмите Продолжить чтобы предоставить разрешение..\n</string>
     <string name="show_ring_panel">Отображать панель звонка</string>
@@ -171,4 +163,6 @@
 \n\u2022 Установите яркость на максимум, затем сделайте здесь долгое нажатие.</string>
     <string name="order">Change Panel Order</string>
     <string name="long_press"><![CDATA[Long press & drag panels to rearrange.]]></string>
+    <string name="killer_info"><![CDATA[For more information visit:<br/>
+        http://www.dontkillmyapp.com/]]></string>
 </resources>

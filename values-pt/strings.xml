@@ -3,7 +3,6 @@
     <string name="proceed">Avançar</string>
     <string name="app_name">Volume Panel</string>
     <string name="volumeui">Volume UI</string>
-    <string name="current_shot">Atualmente definido para %1$d segundos</string>
     <string name="overlay_needed"><u>Sobrepor a Outras Aplicações</u>
         \n\nEsta permissão é necessária para mostrar Volume Panel por cima de outras aplicações.</string>
     <string name="failed_window_add">Falha a adicionar janela, por favor abra a aplicação e certifique-se de que a permissão Sobrepor a Ouras Aplicações foi concedida.</string>
@@ -18,7 +17,7 @@
         \n\nPode ser necessário reiniciar alguns aparelhos para iniciar este serviço.</string>
     <string name="need_dnd">É Necessária Permissão de Não Incomodar</string>
     <string name="no">Não</string>
-    <string name="vol_timeout">Timeout do Painel</string>
+    <string name="vol_timeout">Timeout do Painel = </string>
     <string name="yes">Sim</string>
     <string name="notification_listener">Serviço de Notificações de Volume Panel</string>
     <string name="apply">Aplicar</string>
@@ -32,7 +31,6 @@
     <string name="icon_colour">Cor de Ícones</string>
     <string name="background_colour">Cor de Fundo</string>
     <string name="slider_colour">Cor da Barra</string>
-    <string name="_3s">3s</string>
     <string name="panel_timeout">Timeout do Painel</string>
     <string name="show_alarm_panel">Mostrar Painel de Alarme</string>
     <string name="default_to_ring_volume">Ajustar Volume de Toque por Defeito</string>
@@ -70,9 +68,7 @@
     <string name="add_shortcut">Ativar Atalho de Ecrã Inicial</string>
     <string name="launch">Mostrar Volume Panel</string>
     <string name="disable_acc">POR FAVOR DESATIVE O SERVIÇO DE ACESSIBILIDADE.</string>
-    <string name="ver_pos">Posição Vertical</string>
-    <string name="ver_pos_sum">\u2022 A partir do topo do ecrã</string>
-    <string name="play_sound">Som ao Ajustar</string>
+    <string name="ver_pos">Posição Vertical = </string>
     <string name="alert">Alerta de Otimização</string>
     <string name="bat_opt"><![CDATA[<b>Volume Panel está a ser otimizado pelo sistema &amp; pode ser encerrada no fundo</b>.
     <br/><br/>Nenhum dos serviços de Volume Panel consome muita bateria, mas desativar otimização melhora a fiabilidade.
@@ -107,11 +103,10 @@
         <br/><br/>Alguns dispositivos são agressivos demais ao libertar memória and param serviços importantes, aplicações com privilégios administrativos raramente são paradas.
         <br/><br/>Ativar privilégios administrativos básicos para Volume Panel mantém o nosso serviço ativo.
         <br/><br/>Terá que desativar esta opção se precisar de desinstalar a aplicação.]]></string>
-    <string name="launch_opts"><u>Opções de Arranque</u></string>
-    <string name="design"><u>Desenho</u></string>
-    <string name="advanced"><u>Avançado</u></string>
-    <string name="alerts"><u>Alertas</u></string>
-    <string name="behaviour"><u>Comportamento</u></string>
+    <string name="launch_opts">Opções de Arranque</string>
+    <string name="design">Desenho</string>
+    <string name="alerts">Alertas</string>
+    <string name="behaviour">Comportamento</string>
     <string name="invert_buttons">Inverter Botões de Volume</string>
     <string name="position_left_land">Mode Esquerdino em Paisagem</string>
     <string name="killed">O serviço de acessibilidade de Volume Panel foi parado ou removido pelo sistema.
@@ -119,9 +114,9 @@
     <string name="reenable">Reativar</string>
     <string name="hide_settings">Esconder Atalho de Definições</string>
     <string name="screen_shot">Mostrar botão de Captura de Ecrã</string>
-    <string name="layout"><u>Esquema</u></string>
+    <string name="layout">Esquema</string>
     <string name="floating_trigger">Atalho de Deslize para Cima/Baixo</string>
-    <string name="trigger_cat"><u>Atalho</u></string>
+    <string name="trigger_cat">Atalho</string>
     <string name="trigger_colour">Cor do Atalho</string>
     <string name="rate_it"><![CDATA[<p style="text-align:center"><b>Está a gostar de Volume Panel?</b>
         <br/><br/>Por favor deixe uma crítica na Play Store!
@@ -140,26 +135,23 @@
         \n\nEsta permissão deixa-nos modificar Definições de Não Incomodar.
         \n\n</string>
     <string name="cast">Controlar Volume a Transmitir</string>
-    <string name="margin">Margem do Painel</string>
-    <string name="margin_sum">\u2022 Do lado do ecrã</string>
+    <string name="margin">Margem do Painel = </string>
     <string name="disable_notif">POR FAVOR DESATIVE ACESSO A NOTIFICAÇÕES</string>
     <string name="up_launch">Ativar Apenas com Vol +</string>
     <string name="up_launch_sum">\u2022 O painel só será ativado ao premir Vol +.</string>
     <string name="click_out">Clicar Fora para Fechar</string>
     <string name="click_out_sum">\u2022 Pode interferir com outras aplicações quando ativado.
         \n\u2022 Quando desativado, o painel fecha passado um tempo definido.</string>
-    <string name="trigger_scale_t">Escala do Atalho</string>
-    <string name="corner_scale">Raio dos Cantos</string>
-    <string name="slide_height">Escala do Painel</string>
-    <string name="slide_height_sum">\u2022 Ajusta o tamanho do painel de volume.
-        \n\u2022 Não afeta os intervalos de controlo que são definidos pelo sistema.</string>
+    <string name="trigger_scale_t">Escala do Atalho = </string>
+    <string name="corner_scale">Raio dos Cantos = </string>
+    <string name="slide_height">Escala do Painel = </string>
     <string name="use_system">Modo Escuro/Claro Automático</string>
     <string name="auto_dark_sum">\u2022 Adaptar ao modo Escuro/Claro do sistema.
     \n\u2022 Depende de suporte do fabricante.</string>
-    <string name="anim_duration">Duração de Animações</string>
+    <string name="anim_duration">Duração de Animações = </string>
     <string name="current_shot2">Atualmente definido para %.2f segundos</string>
     <string name="preview"><![CDATA[Modo de Pré-visuzação: Painéis de Chamada & Transmissão só serão mostrados quando necessário.]]></string>
-    <string name="vibe_duration">Duração de Vibração</string>
+    <string name="vibe_duration">Duração de Vibração = </string>
     <string name="show_bright_panel">Painel de Brilho do Ecrã</string>
     <string name="system_perms_message">Volume Panel precisa de permissão para alterar Definições de Sistema, por favor clique para continuar para conceder permissão.\n</string>
     <string name="show_ring_panel">Mostrar Painel de Toque</string>
@@ -167,4 +159,6 @@
         \n\u2022 Ajuste o brilho até ao máximo e de seguida prima e segure aqui.</string>
     <string name="order">Alterar Ordem dos Painéis</string>
     <string name="long_press"><![CDATA[Toque sem largar & arraste para reordenar.]]></string>
+    <string name="killer_info"><![CDATA[For more information visit:<br/>
+        http://www.dontkillmyapp.com/]]></string>
 </resources>

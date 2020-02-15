@@ -3,7 +3,6 @@
     <string name="proceed">Proceed</string>
     <string name="app_name">Volume Panel</string>
     <string name="volumeui">Volume UI</string>
-    <string name="current_shot">Currently set to %1$d seconds</string>
     <string name="overlay_needed"><u>System Overlay</u>
         \n\nThis permission is required for us to display the Volume Panel over other apps.</string>
     <string name="failed_window_add">Failed to add window, please open the app and make sure Screen Overlay permissions have been granted</string>
@@ -18,7 +17,7 @@
         \n\nSome devices may require a reboot to start the service.</string>
     <string name="need_dnd">Do Not Disturb Permissions Required</string>
     <string name="no">No</string>
-    <string name="vol_timeout">Panel Timeout</string>
+    <string name="vol_timeout">Panel Timeout = </string>
     <string name="yes">Yes</string>
     <string name="notification_listener">Volume Panel Notification Listener</string>
     <string name="apply">Apply</string>
@@ -32,7 +31,6 @@
     <string name="icon_colour">Icon Colour</string>
     <string name="background_colour">Background Colour</string>
     <string name="slider_colour">Slider colour</string>
-    <string name="_3s">3s</string>
     <string name="panel_timeout">Panel Timeout</string>
     <string name="show_alarm_panel">Show Alarm Panel</string>
     <string name="default_to_ring_volume">Default To Ring Volume</string>
@@ -70,14 +68,12 @@
     <string name="oops_error">Oops.. It looks like something went wrong and Volume Panel crashed, please hit \"SEND REPORT\" below to let me know.</string>
     <string name="latest">Please make sure you are using the latest version.</string>
     <string name="send_report">Send Report</string>
-    <string name="add_shortcut">Enable Launcher Shortcut</string>
+    <string name="add_shortcut">Launcher Shortcut</string>
     <string name="launch">Show Volume Panel</string>
     <string name="disable_acc">PLEASE DISABLE THE ACCESSIBILITY SERVICE.</string>
-    <string name="ver_pos">Vertical Position</string>
-    <string name="ver_pos_sum">\u2022 From the top of the screen</string>
+    <string name="ver_pos">Vertical Position = </string>
     <string name="ver_pos_val" translatable="false">%1$d%%</string>
     <string name="_50" translatable="false">50\%</string>
-    <string name="play_sound">Audible Changes</string>
     <string name="alert">Optimisation Alert</string>
     <string name="bat_opt"><![CDATA[<b>Volume Panel is being optimised by the system &amp; may be killed in the background</b>.
     <br/><br/>None of the services in Volume Panel are battery intensive, but disabling optimisation will improve reliability.
@@ -112,11 +108,10 @@
         <br/><br/>Some devices are too aggressive when freeing up memory and kill important services, applications with Admin rights are rarely killed.
         <br/><br/>Enabling basic Admin rights for Volume Panel will keep our services alive.
         <br/><br/>You will have to disable this option if you ever need to uninstall the app.]]></string>
-    <string name="launch_opts"><u>Launch Options</u></string>
-    <string name="design"><u>Design</u></string>
-    <string name="advanced"><u>Advanced</u></string>
-    <string name="alerts"><u>Alerts</u></string>
-    <string name="behaviour"><u>Behaviour</u></string>
+    <string name="launch_opts">Launch Options</string>
+    <string name="design">Design</string>
+    <string name="alerts">Alerts</string>
+    <string name="behaviour">Behaviour</string>
     <string name="invert_buttons">Invert Volume Buttons</string>
     <string name="position_left_land">Left Handed In Landscape</string>
     <string name="killed">The Volume Panel accessibility service has been stopped or removed by the system.
@@ -124,9 +119,9 @@
     <string name="reenable">Re-Enable</string>
     <string name="hide_settings">Hide Settings Shortcut</string>
     <string name="screen_shot">Show Screenshot Button</string>
-    <string name="layout"><u>Layout</u></string>
+    <string name="layout">Layout</string>
     <string name="floating_trigger">Swipe Up/Down Trigger</string>
-    <string name="trigger_cat"><u>Trigger</u></string>
+    <string name="trigger_cat">Trigger</string>
     <string name="trigger_colour">Trigger Colour</string>
     <string name="rate_it"><![CDATA[<p style="text-align:center"><b>Enjoying Volume Panel?</b>
         <br/><br/>Please leave a review in the play store!
@@ -145,19 +140,16 @@
         \n\nThis permission allows us to modify Do Not Disturb Settings.
         \n\n</string>
     <string name="cast">Control Cast Volume</string>
-    <string name="margin">Panel Margin</string>
-    <string name="margin_sum">\u2022 From the edge of the screen</string>
+    <string name="margin">Panel Margin = </string>
     <string name="disable_notif">PLEASE DISABLE NOTIFICATION ACCESS</string>
     <string name="up_launch">Launch On Vol + Press Only</string>
     <string name="up_launch_sum">\u2022 The panel will only launch when Vol + is pressed.</string>
     <string name="click_out">Click Outside To Close</string>
     <string name="click_out_sum">\u2022 May interfere with other apps when enabled.
         \n\u2022 When disabled the panel will close on timeout only.</string>
-    <string name="slide_height">Panel Scale</string>
-    <string name="slide_height_sum">\u2022 Adjust the size of the volume panel.
-        \n\u2022 Has no affect on steps, these are system defined.</string>
-    <string name="trigger_scale_t">Trigger Scale</string>
-    <string name="corner_scale">Corner Radius</string>
+    <string name="slide_height">Panel Scale = </string>
+    <string name="trigger_scale_t">Trigger Scale = </string>
+    <string name="corner_scale">Corner Radius = </string>
     <string name="free">Disable Free Version</string>
     <string name="free_installed">Volume Panel Free is currently overriding the system volume panel, please disable it to avoid conflicts.</string>
     <string name="media">Media Vol =</string>
@@ -168,11 +160,11 @@
     <string name="use_system">Auto Dark/Light Mode</string>
     <string name="auto_dark_sum">\u2022 Follow system Dark/Light mode.
     \n\u2022 Manufacturer support required.</string>
-    <string name="anim_duration">Animation Duration</string>
+    <string name="anim_duration">Animation Duration = </string>
     <string name="current_shot2">Currently set to %.2f seconds</string>
     <string name="timeout2" translatable="false">%.2fs</string>
     <string name="preview"><![CDATA[Preview Mode: Call & Cast panels will only show when needed.]]></string>
-    <string name="vibe_duration">Vibration Duration</string>
+    <string name="vibe_duration">Vibration Duration = </string>
     <string name="show_bright_panel">Screen Brightness Panel</string>
     <string name="system_perms_message">Volume Panel needs to be granted access to write System Settings, please press proceed to continue.\n</string>
     <string name="show_ring_panel">Show Ring Panel</string>
@@ -180,4 +172,6 @@
         \n\u2022 Set your screen brightness to Max then long press here.</string>
     <string name="order">Change Panel Order</string>
     <string name="long_press"><![CDATA[Long press & drag panels to rearrange.]]></string>
+    <string name="killer_info"><![CDATA[For more information visit:<br/>
+        http://www.dontkillmyapp.com/]]></string>
 </resources>

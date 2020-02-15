@@ -4,8 +4,7 @@
     <string name="proceed">أكمل </string>
     <string name="app_name">لوحة التحكم في الصوت </string>
     <string name="volumeui">Volume Panel</string>
-    <string name="current_shot">مضبوط حاليا علي %1$d ثانية  </string>
-    <string name="overlay_needed"><u>الظهور أعلي النظام </u>
+    <string name="overlay_needed">الظهور أعلي النظام
         \n\nهذا الإذن مطلوب لظهور التطبيق " لوحة الصوت " أعلي التطبيقات الأخري </string>
     <string name="failed_window_add">فشل إضافة النافذه يرجي فتح التطبيق والتأكد من منح أذن الظهور أعلي التطبيقات الأخري </string>
     <string name="cp_head">أختر المنتصف للتأكيد </string>
@@ -19,7 +18,7 @@
         \n\nبعض الأجهزة تحتاج إعادة تشغيل الجهاز لبدأ الخدمة.</string>
     <string name="need_dnd">إذن الوصول لقائمة عدم الإزعاج </string>
     <string name="no">لأ</string>
-    <string name="vol_timeout">مهلة اللوحة </string>
+    <string name="vol_timeout">مهلة اللوحة = </string>
     <string name="yes">موافق </string>
     <string name="notification_listener">مستمع الاشعارات للوحة التحكم في الصوت </string>
     <string name="apply">تطبيق</string>
@@ -33,7 +32,6 @@
     <string name="icon_colour">لون الايقونة</string>
     <string name="background_colour">لون الخلفية</string>
     <string name="slider_colour">لون الشريط  </string>
-    <string name="_3s">3 ث </string>
     <string name="panel_timeout">مهلة لوحة التحكم</string>
     <string name="show_alarm_panel">أظهر لوحة المنبه</string>
     <string name="default_to_ring_volume">الوضع الإفتراضي لنغمة الرنين </string>
@@ -73,9 +71,7 @@
     <string name="add_shortcut">تفعيل إختصار المشغل </string>
     <string name="launch">أظهر لوحة التحكم في الصوت</string>
     <string name="disable_acc">يرجي تعطيل خدمة الوصول </string>
-    <string name="ver_pos">الوضع الرأسي </string>
-    <string name="ver_pos_sum">\u2022 من أعلي الشاشة</string>
-    <string name="play_sound">تغيرات مسموعة </string>
+    <string name="ver_pos">الوضع الرأسي = </string>
     <string name="alert">تنبيه التحسينات </string>
     <string name="bat_opt"><![CDATA[<b>تطبيق لوحة الصوت يتم تحسينه من قبل النظام  &amp; قد يتم غلقه في الخلفية</b>.
     <br/><br/>جميع خدمات لوحة الصوت لا تستهلك طاقة البطارية , إزالة التطبيق من قائمه التطبيقات المحسنة سيحسن من أداء التطبيق 
@@ -110,11 +106,10 @@
         <br/><br/>بعض الأجهزة توقف التطبيقات بشدة عند تحرير الذاكرة وايقاف الخدمات الهامة ، نادراً ما يتم ايقاف التطبيقات التي لها حقوق المدير .
         <br/><br/>سيؤدي تمكين حقوق المدير الأساسية للوحة الصوت إلى استمرار خدماتنا في الخلفية .
         <br/><br/>سيكون عليك تعطيل هذا الخيار إذا كنت بحاجة إلى إلغاء تثبيت التطبيق.]]></string>
-    <string name="launch_opts"><u>خيارات التشغيل </u></string>
-    <string name="design"><u>التصميم</u></string>
-    <string name="advanced"><u>متقدم</u></string>
-    <string name="alerts"><u>تنبيهات </u></string>
-    <string name="behaviour"><u>سلوك </u></string>
+    <string name="launch_opts">خيارات التشغيل </string>
+    <string name="design">التصميم</string>
+    <string name="alerts">تنبيهات </string>
+    <string name="behaviour">سلوك </string>
     <string name="invert_buttons">عكس أزرار التحكم في الصوت</string>
     <string name="position_left_land">اليد اليسري في الوضع الأفقي </string>
     <string name="killed">تم إيقاف خدمة وصول لوحة التحكم في الصوت أو إزالتها بواسطة النظام.
@@ -122,9 +117,9 @@
     <string name="reenable">إعادة التفعيل</string>
     <string name="hide_settings">إختصار إخفاء الإعدادات</string>
     <string name="screen_shot">أظهر زر لقطة الشاشة </string>
-    <string name="layout"><u>النسق </u></string>
+    <string name="layout">النسق </string>
     <string name="floating_trigger">اسحب لأعلى / لأسفل للتفعيل </string>
-    <string name="trigger_cat"><u>التفعيل </u></string>
+    <string name="trigger_cat">التفعيل </string>
     <string name="trigger_colour">لون التفعيل </string>
     <string name="rate_it"><![CDATA[<p style="text-align:center"><b>هل تستمتع بتطبيق لوحة التحكم في الصوت ؟</b>
         <br/><br/>يرجى ترك تعليق في متجر جوجل!
@@ -143,19 +138,16 @@
         \n\nيسمح لنا هذا الإذن بتعديل إعدادات عدم الإزعاج.
         \n\n</string>
     <string name="cast">تحكم في صوت البث</string>
-    <string name="margin">حافة لوحة التحكم </string>
-    <string name="margin_sum">\u2022 من حافة الشاشة</string>
+    <string name="margin">حافة لوحة التحكم = </string>
     <string name="disable_notif">يرجى تعطيل وصول للإشعارات</string>
     <string name="up_launch">تشغيل بالضغط علي زر الصوت لأعلي فقط </string>
     <string name="up_launch_sum">\u2022 لن يتم تشغيل لوحة التحكم إلا عند الضغط على زر رفع الصوت.</string>
     <string name="click_out">للإغلاق أضغط بالخارج</string>
     <string name="click_out_sum">\u2022 قد يتداخل مع تطبيقات أخري عند تفعيله.
         \n\u2022 عند تعطيله ، سيتم إغلاق لوحة التحكم بعد المهلة فقط.</string>
-    <string name="slide_height">مقياس لوحة التحكم </string>
-    <string name="slide_height_sum">\u2022 تعديل حجم لوحة التحكم في الصوت.
-        \n\u2022 لا تؤثر علي خطوات الصوت , فهي مضبوطه مسبقا وفقا للنظام.</string>
-    <string name="trigger_scale_t">مقياس التفعيل</string>
-    <string name="corner_scale">مقياس الركن</string>
+    <string name="slide_height">مقياس لوحة التحكم = </string>
+    <string name="trigger_scale_t">مقياس التفعيل = </string>
+    <string name="corner_scale">مقياس الركن = </string>
     <string name="free">إيقاف الإصدار المجاني</string>
     <string name="free_installed"> لوحة التحكم في الصوت المجانية مفعلة حاليا علي لوحة صوت النظام , يرجي ايقافها لتجنب التداخلات  .</string>
     <string name="media">صوت الوسائط  =</string>
@@ -163,15 +155,17 @@
     <string name="use_system">وضع ليلي / الضوء تلقائي </string>
     <string name="auto_dark_sum">\u2022 اتبع وضع النظام  ضوء/ليلي.
     \n\u2022 دعم المصنع مطلوب.</string>
-    <string name="anim_duration">مدة الرسوم المتحركة</string>
+    <string name="anim_duration">مدة الرسوم المتحركة = </string>
     <string name="current_shot2">حاليا معينة ل  %.2f ثانية </string>
     <string name="preview"><![CDATA[وضع المعاينة: لن تظهر لوحة التحكم في صوت الاتصال والبث إلا عند الحاجة.]]></string>
-    <string name="vibe_duration">مدة الإهتزاز</string>
+    <string name="vibe_duration">مدة الإهتزاز = </string>
     <string name="show_bright_panel">لوحة التحكم في سطوع الشاشة</string>
     <string name="system_perms_message">يلزم منح "لوحة التحكم في الصوت" الوصول لـ "إعدادات النظام" ، يرجى الضغط على "إكمال " للمتابعة.\n</string>
     <string name="show_ring_panel">أظهر لوحة نغمة الرنين</string>
     <string name="bright_calibrate"><b>i</b>: معايرة أقصي سطوع للشاشة:
         \n\u2022 اضبط سطوع الشاشة على أعلي إضاءة ثم اضغط هنا ضغطة مطولة.</string>
-    <string name="order">Change Panel Order</string>
+    <string name="order">تغيير ترتيب لوحة التحكم</string>
     <string name="long_press"><![CDATA[Long press & drag panels to rearrange.]]></string>
+    <string name="killer_info"><![CDATA[لمزيد من المعلومات برجاء زيارة:<br/>
+        http://www.dontkillmyapp.com/]]></string>
 </resources>
