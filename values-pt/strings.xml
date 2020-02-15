@@ -1,15 +1,15 @@
 <resources>
-    <string name="additonal_perms_req">São Necessárias Prmissões Adicionais</string>
+    <string name="additonal_perms_req">São Necessárias Permissões Adicionais</string>
     <string name="proceed">Avançar</string>
     <string name="app_name">Volume Panel</string>
     <string name="volumeui">Volume UI</string>
     <string name="current_shot">Atualmente definido para %1$d segundos</string>
-    <string name="overlay_needed"><u>Sobrepor a Ourea Aplicações</u>
-        \n\nEsta permissão é necessária para mostrar Voulme Panel por cima de outras aplicações.</string>
-    <string name="failed_window_add">Falha a adicionar janela, por favor abra a aplicação e certifique-se de que a permissão Sobrepor a Ourea Aplicações foi concedida.</string>
+    <string name="overlay_needed"><u>Sobrepor a Outras Aplicações</u>
+        \n\nEsta permissão é necessária para mostrar Volume Panel por cima de outras aplicações.</string>
+    <string name="failed_window_add">Falha a adicionar janela, por favor abra a aplicação e certifique-se de que a permissão Sobrepor a Ouras Aplicações foi concedida.</string>
     <string name="cp_head">Toque em CENTRO para confirmar.</string>
     <string name="transparency">Transparência</string>
-    <string name="disable">Disativar</string>
+    <string name="disable">Desativar</string>
     <string name="cancel">Cancelar</string>
     <string name="press_back">De seguida, prima voltar para regressar à aplicação.</string>
     <string name="accessibility_description"><u>Acesso a Acessibilidade</u>
@@ -28,7 +28,7 @@
         \n\n</string>
     <string name="grant">Conceder Permissão</string>
     <string name="not_found">Atividade não encontrada, por favor vá a Definições e conceda manualmente</string>
-    <string name="exclude_applications">Excluir Aplicações1</string>
+    <string name="exclude_applications">Excluir Aplicações</string>
     <string name="icon_colour">Cor de Ícones</string>
     <string name="background_colour">Cor de Fundo</string>
     <string name="slider_colour">Cor da Barra</string>
@@ -75,7 +75,7 @@
     <string name="play_sound">Som ao Ajustar</string>
     <string name="alert">Alerta de Otimização</string>
     <string name="bat_opt"><![CDATA[<b>Volume Panel está a ser otimizado pelo sistema &amp; pode ser encerrada no fundo</b>.
-    <br/><br/>Nenhum dos serviços de Volume Panel conseme muita bateria, mas desativar otimização melhora a fiabilidade.
+    <br/><br/>Nenhum dos serviços de Volume Panel consome muita bateria, mas desativar otimização melhora a fiabilidade.
     <br/><br/>Clique em \"Fechar\" para continuar otimizado ou \"Ação Agora\" seguido de \"Todas as Aplicações\" e desative Otimização de Bateria para Volume Panel.
     <br/><br/>If you find that the service is still being killed by the system, try enabling the "Force Keep Services Alive" Option.]]></string>
     <string name="action">Ação Agora</string>
@@ -85,11 +85,11 @@
     <string name="ring">Toque</string>
     <string name="silent">Silêncio</string>
     <string name="ring_mode">Modo de Toque</string>
-    <string name="force_close">Force Close Dialogs</string>
+    <string name="force_close">Fechar Caixas de Diálogo à Força</string>
     <string name="mapper">Possível Interferência</string>
     <string name="mapper_sum">\u2022 Clique aqui par mais informações</string>
     <string name="mapper_detail">Detetamos uma aplicação de remapeamento de botões.
-        \n\nRemapeadores de botões usam serviços de acessibilidade para detetar cliques em botõesS.
+        \n\nRemapeadores de botões usam serviços de acessibilidade para detetar cliques em botões.
         \n\nOutros serviços de acessibilidade que capturam/personalizam cliques nos botões de volume interferem com a capacidade de Volume Panel intercetar os botões de volume.
         \n\nPor favor considere desativar a personalização de botões de volume destas aplicações.
         \n\nEm alternativa, ative o atalho de ecrã inicial e abra-o com um remapeador!</string>
@@ -115,7 +115,7 @@
     <string name="invert_buttons">Inverter Botões de Volume</string>
     <string name="position_left_land">Mode Esquerdino em Paisagem</string>
     <string name="killed">O serviço de acessibilidade de Volume Panel foi parado ou removido pelo sistema.
-        \n\nSe isto não foi intencional, por favor experimente a opção \"Manter Serviços Ativos\" na aplicação e ceerifique-se de que a otimização de bateria está desativada para Volume Panel.</string>
+        \n\nSe isto não foi intencional, por favor experimente a opção \"Manter Serviços Ativos\" na aplicação e cerifique-se de que a otimização de bateria está desativada para Volume Panel.</string>
     <string name="reenable">Reativar</string>
     <string name="hide_settings">Esconder Atalho de Definições</string>
     <string name="screen_shot">Mostrar botão de Captura de Ecrã</string>
@@ -127,17 +127,17 @@
         <br/><br/>Por favor deixe uma crítica na Play Store!
         <br/><br/>\u2b50\u2b50\u2b50\u2b50\u2b50</p>]]></string>
     <string name="pro_only">Só disponível Em Volume Panel Pro</string>
-    <string name="pro_un">Remover Publicidade &amp; Desbliquear Todas as Funcionalidades.</string>
+    <string name="pro_un">Remover Publicidade &amp; Desbloquear Todas as Funcionalidades.</string>
     <string name="suspend">Suspender</string>
     <string name="hide_nav">Esconder Barra de Navegação</string>
     <string name="hide_full">Invisível Em Ecrã Inteiro</string>
     <string name="notif_access"><u>Acesso a Notificações</u>
         \n\n\u2022 Esta permissão deixa-nos detetar quando Transmitir está ativo.
-        \n\u2022 Se quiser continuar sem controlat o volume ao transmitir, pode ignorar esta permissão.
+        \n\u2022 Se quiser continuar sem controlar o volume ao transmitir, pode ignorar esta permissão.
         \n\nNão é captado qualquer conteúdo de notificações.
         \n\n</string>
     <string name="dnd_access"><u>Acesso Não Incomodar</u>
-        \n\nEsta permissão dixa-nos modeficar Definições de Não Incomodar.
+        \n\nEsta permissão deixa-nos modificar Definições de Não Incomodar.
         \n\n</string>
     <string name="cast">Controlar Volume a Transmitir</string>
     <string name="margin">Margem do Painel</string>
@@ -153,18 +153,18 @@
     <string name="slide_height">Escala do Painel</string>
     <string name="slide_height_sum">\u2022 Ajusta o tamanho do painel de volume.
         \n\u2022 Não afeta os intervalos de controlo que são definidos pelo sistema.</string>
-    <string name="use_system">Modo Escuro/Claro Autonático</string>
+    <string name="use_system">Modo Escuro/Claro Automático</string>
     <string name="auto_dark_sum">\u2022 Adaptar ao modo Escuro/Claro do sistema.
     \n\u2022 Depende de suporte do fabricante.</string>
     <string name="anim_duration">Duração de Animações</string>
     <string name="current_shot2">Atualmente definido para %.2f segundos</string>
-    <string name="preview"><![CDATA[Modo de Previsuzação: Paineis de Chamada & Transmissão só serão mostrados quando necessário.]]></string>
+    <string name="preview"><![CDATA[Modo de Pré-visuzação: Painéis de Chamada & Transmissão só serão mostrados quando necessário.]]></string>
     <string name="vibe_duration">Duração de Vibração</string>
     <string name="show_bright_panel">Painel de Brilho do Ecrã</string>
     <string name="system_perms_message">Volume Panel precisa de permissão para alterar Definições de Sistema, por favor clique para continuar para conceder permissão.\n</string>
     <string name="show_ring_panel">Mostrar Painel de Toque</string>
     <string name="bright_calibrate"><b>i</b>: Recalibrar Brilho Máximo:
         \n\u2022 Ajuste o brilho até ao máximo e de seguida prima e segure aqui.</string>
-    <string name="order">Change Panel Order</string>
-    <string name="long_press"><![CDATA[Long press & drag panels to rearrange.]]></string>
+    <string name="order">Alterar Ordem dos Painéis</string>
+    <string name="long_press"><![CDATA[Toque sem largar & arraste para reordenar.]]></string>
 </resources>
