@@ -160,8 +160,8 @@
     <string name="show_ring_panel">Pokaż Panel Dzwonka</string>
     <string name="bright_calibrate">Ponownie Skalibruj Maksymalną Jasność:
         \n\u2022 Ustaw jasność ekranu na Max, a następnie długo naciśnij tutaj.</string>
-    <string name="order">Change Panel Order</string>
-    <string name="long_press"><![CDATA[Long press & drag panels to rearrange.]]></string>
-    <string name="killer_info"><![CDATA[For more information visit:<br/>
+    <string name="order">Zmień Kolejność Paneli</string>
+    <string name="long_press"><![CDATA[Długo naciśnij & przeciągnij panele aby zmienić kolejność.]]></string>
+    <string name="killer_info"><![CDATA[Po więcej informacji odwiedź:<br/>
         http://www.dontkillmyapp.com/]]></string>
 </resources>
