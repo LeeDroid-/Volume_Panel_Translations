@@ -64,7 +64,7 @@
     <string name="oops_error">Vaya.. parece que algo ha salido mal, Volume Panel se ha cerrado, por favor, pulsa en \"ENVIAR INFORME\" para hacermelo saber.</string>
     <string name="latest">Por favor, asegúrate de que estás utilizando la última versión.</string>
     <string name="send_report">Enviar informe</string>
-    <string name="add_shortcut">Habilitar acceso directo en el Launcher</string>
+    <string name="add_shortcut">Habilitar en Launcher</string>
     <string name="launch">Mostrar Volume Panel</string>
     <string name="disable_acc">POR FAVOR, DESACTIVA EL SERVICIO DE ACCESIBILIDAD.</string>
     <string name="ver_pos">Posición vertical = </string>
@@ -101,7 +101,7 @@
         <br/><br/>Algunos dispositivos son demasiado agresivos cuando liberan memoria y eliminan servicios importantes, las aplicaciones con derechos de administrador rara vez se eliminan.
         <br/><br/>Habilitar los derechos básicos de Administrador para Volume Panel mantendrá al servicio activo.
         <br/><br/>Tendrás que desactivar esta opción si alguna vez necesitas desinstalar la aplicación.]]></string>
-    <string name="launch_opts">Opciones</string>
+    <string name="launch_opts">Opciones de Inicio</string>
     <string name="design">Diseño</string>
     <string name="alerts">Alertas</string>
     <string name="behaviour">Comportamiento</string>
@@ -113,7 +113,7 @@
     <string name="hide_settings">Ocultar acceso directo a los ajustes</string>
     <string name="screen_shot">Mostrar botón de captura de pantalla</string>
     <string name="layout">Disposición</string>
-    <string name="floating_trigger">Activador flotante</string>
+    <string name="floating_trigger">Habilitar Activador Flotante</string>
     <string name="trigger_cat">Activador</string>
     <string name="trigger_colour">Color del activador</string>
     <string name="rate_it"><![CDATA[<p style="text-align:center"><b>¿Disfrutando de Volume Panel?</b>
@@ -163,6 +163,14 @@
         \n\u2022 Ajustar el brillo de la pantalla al máximo y luego mantener pulsado aquí.</string>
     <string name="order">Cambiar orden de los paneles</string>
     <string name="long_press"><![CDATA[Presiona y arrastra los paneles para reordenarlos.]]></string>
-    <string name="killer_info"><![CDATA[For more information visit:<br/>
+    <string name="killer_info"><![CDATA[Para más información visita:<br/>
         http://www.dontkillmyapp.com/]]></string>
+    <string name="tips"><![CDATA[<b>Tips:</b><br/><br/>
+    <b>Audio doesn\'t change in some apps:<br/></b><br/>
+    Some apps like Instagram & Snapchat take complete audio focus & attempt to capture audio buttons them selves,
+     if you experience this issue, please enable the \"Exclude Applications\" option and add the offending apps to the list.<br/><br/>
+    <b>The system audio panel keeps returning:<br/></B><br/>
+    It\'s highly likely that your system is killing the Volume Panel accessibility service, if this happens,
+    please make sure battery & memory optimisation is disabled for the app, enabling the \"Swipe Up/Down Trigger\" may help too.<br/>
+    For more information visit: http://www.dontkillmyapp.com/]]></string>
 </resources>

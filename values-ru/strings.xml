@@ -160,9 +160,17 @@
     <string name="system_perms_message">Volume Panel требуется доступ к изменениям системных настроек,  needs to be granted access to write System Settings, пожалуйста, нажмите Продолжить чтобы предоставить разрешение..\n</string>
     <string name="show_ring_panel">Отображать панель звонка</string>
     <string name="bright_calibrate"><b>i</b>: Калибровка максимальной яркости:
-\n\u2022 Установите яркость на максимум, затем сделайте здесь долгое нажатие.</string>
-    <string name="order">Change Panel Order</string>
-    <string name="long_press"><![CDATA[Long press & drag panels to rearrange.]]></string>
-    <string name="killer_info"><![CDATA[For more information visit:<br/>
-        http://www.dontkillmyapp.com/]]></string>
+    \n\u2022 Установите яркость на максимум, затем сделайте здесь долгое нажатие.</string>
+    <string name="order">Изменить порядок панелей</string>
+    <string name="long_press"><![CDATA[Удерживайте и перетащите панель для перестановки.]]></string>
+    <string name="killer_info"><![CDATA[Для получения большей информации посетите:<br/>
+    http://www.dontkillmyapp.com/]]></string>
+    <string name="tips"><![CDATA[<b>Tips:</b><br/><br/>
+    <b>Audio doesn\'t change in some apps:<br/></b><br/>
+    Some apps like Instagram & Snapchat take complete audio focus & attempt to capture audio buttons them selves,
+     if you experience this issue, please enable the \"Exclude Applications\" option and add the offending apps to the list.<br/><br/>
+    <b>The system audio panel keeps returning:<br/></B><br/>
+    It\'s highly likely that your system is killing the Volume Panel accessibility service, if this happens,
+    please make sure battery & memory optimisation is disabled for the app, enabling the \"Swipe Up/Down Trigger\" may help too.<br/>
+    For more information visit: http://www.dontkillmyapp.com/]]></string>
 </resources>
