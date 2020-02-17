@@ -17,7 +17,7 @@
         \n\nPode ser necessário reiniciar alguns aparelhos para iniciar este serviço.</string>
     <string name="need_dnd">É Necessária Permissão de Não Incomodar</string>
     <string name="no">Não</string>
-    <string name="vol_timeout">Timeout do Painel = </string>
+    <string name="vol_timeout">Timeout do Painel = %1$ds</string>
     <string name="yes">Sim</string>
     <string name="notification_listener">Serviço de Notificações de Volume Panel</string>
     <string name="apply">Aplicar</string>
@@ -68,7 +68,7 @@
     <string name="add_shortcut">Ativar Atalho de Ecrã Inicial</string>
     <string name="launch">Mostrar Volume Panel</string>
     <string name="disable_acc">POR FAVOR DESATIVE O SERVIÇO DE ACESSIBILIDADE.</string>
-    <string name="ver_pos">Posição Vertical = </string>
+    <string name="ver_pos">Posição Vertical = %1$d%%</string>
     <string name="alert">Alerta de Otimização</string>
     <string name="bat_opt"><![CDATA[<b>Volume Panel está a ser otimizado pelo sistema &amp; pode ser encerrada no fundo</b>.
     <br/><br/>Nenhum dos serviços de Volume Panel consome muita bateria, mas desativar otimização melhora a fiabilidade.
@@ -135,23 +135,24 @@
         \n\nEsta permissão deixa-nos modificar Definições de Não Incomodar.
         \n\n</string>
     <string name="cast">Controlar Volume a Transmitir</string>
-    <string name="margin">Margem do Painel = </string>
+    <string name="margin">Margem do Painel = %1$d dp</string>
     <string name="disable_notif">POR FAVOR DESATIVE ACESSO A NOTIFICAÇÕES</string>
     <string name="up_launch">Ativar Apenas com Vol +</string>
     <string name="up_launch_sum">\u2022 O painel só será ativado ao premir Vol +.</string>
     <string name="click_out">Clicar Fora para Fechar</string>
     <string name="click_out_sum">\u2022 Pode interferir com outras aplicações quando ativado.
         \n\u2022 Quando desativado, o painel fecha passado um tempo definido.</string>
-    <string name="trigger_scale_t">Escala do Atalho = </string>
-    <string name="corner_scale">Raio dos Cantos = </string>
-    <string name="slide_height">Escala do Painel = </string>
+    <string name="trigger_scale_tx">Escala do Atalho = %1$d%% X</string>
+    <string name="trigger_scale_ty">Escala do Atalho = %1$d%% Y</string>
+    <string name="corner_scale">Raio dos Cantos = %1$d%%</string>
+    <string name="slide_heightx">Escala do Painel = %1$d%% X</string>
+    <string name="slide_heighty">Escala do Painel = %1$d%% Y</string>
     <string name="use_system">Modo Escuro/Claro Automático</string>
     <string name="auto_dark_sum">\u2022 Adaptar ao modo Escuro/Claro do sistema.
     \n\u2022 Depende de suporte do fabricante.</string>
-    <string name="anim_duration">Duração de Animações = </string>
-    <string name="current_shot2">Atualmente definido para %.2f segundos</string>
+    <string name="anim_duration">Duração de Animações = %.2fs</string>
     <string name="preview"><![CDATA[Modo de Pré-visuzação: Painéis de Chamada & Transmissão só serão mostrados quando necessário.]]></string>
-    <string name="vibe_duration">Duração de Vibração = </string>
+    <string name="vibe_duration">Duração de Vibração = %.2fs</string>
     <string name="show_bright_panel">Painel de Brilho do Ecrã</string>
     <string name="system_perms_message">Volume Panel precisa de permissão para alterar Definições de Sistema, por favor clique para continuar para conceder permissão.\n</string>
     <string name="show_ring_panel">Mostrar Painel de Toque</string>

@@ -17,7 +17,7 @@
         \n\nSome devices may require a reboot to start the service.</string>
     <string name="need_dnd">Do Not Disturb Permissions Required</string>
     <string name="no">No</string>
-    <string name="vol_timeout">Panel Timeout = </string>
+    <string name="vol_timeout">Panel Timeout = %1$ds</string>
     <string name="yes">Yes</string>
     <string name="notification_listener">Volume Panel Notification Listener</string>
     <string name="apply">Apply</string>
@@ -42,7 +42,6 @@
     <string name="loading_apps">Loading Applications</string>
     <string name="done">Done</string>
     <string name="exclude_applications_sum">\u2022 Volume panel will not open in these applications.</string>
-    <string name="timeout" translatable="false">%1$ds</string>
     <string name="about">
         <![CDATA[<b>Volume Panel:</b>
         <br/>\u2022A flexible replacement for your system volume controls.
@@ -71,9 +70,7 @@
     <string name="add_shortcut">Launcher Shortcut</string>
     <string name="launch">Show Volume Panel</string>
     <string name="disable_acc">PLEASE DISABLE THE ACCESSIBILITY SERVICE.</string>
-    <string name="ver_pos">Vertical Position = </string>
-    <string name="ver_pos_val" translatable="false">%1$d%%</string>
-    <string name="_50" translatable="false">50\%</string>
+    <string name="ver_pos">Vertical Position = %1$d%%</string>
     <string name="alert">Optimisation Alert</string>
     <string name="bat_opt"><![CDATA[<b>Volume Panel is being optimised by the system &amp; may be killed in the background</b>.
     <br/><br/>None of the services in Volume Panel are battery intensive, but disabling optimisation will improve reliability.
@@ -90,10 +87,10 @@
     <string name="mapper">Possible Interference</string>
     <string name="mapper_sum">\u2022 Click here for more information</string>
     <string name="mapper_detail">We may have detected a Button Remapping application.
-        \n\nButton Re-mappers use accessibility services to detect button clicks.
+        \n\nButton Remappers use accessibility services to detect button clicks.
         \n\nOther accessibility services capturing/customising volume button clicks will interfere with Volume Panels ability to intercept the volume buttons.
         \n\nPlease consider disabling volume button customisation for those apps.
-        \n\nAlternatively, enable the launcher shortcut and open it with a remap!</string>
+        \n\nAlternatively, enable the \"Volume Panel\" launcher shortcut and open it with a remap!</string>
     <string name="dismiss">Dismiss</string>
     <string name="show_notif">Show Notification Panel</string>
     <string name="notif_panel"><![CDATA[Not all devices support splitting Notification & Ring volume.<br/><br/>If both sliders change together, this is due to your system configuration and nothing to do with Volume Panel.]]></string>
@@ -140,31 +137,28 @@
         \n\nThis permission allows us to modify Do Not Disturb Settings.
         \n\n</string>
     <string name="cast">Control Cast Volume</string>
-    <string name="margin">Panel Margin = </string>
+    <string name="margin">Panel Margin = %1$d dp</string>
     <string name="disable_notif">PLEASE DISABLE NOTIFICATION ACCESS</string>
     <string name="up_launch">Launch On Vol + Press Only</string>
     <string name="up_launch_sum">\u2022 The panel will only launch when Vol + is pressed.</string>
     <string name="click_out">Click Outside To Close</string>
     <string name="click_out_sum">\u2022 May interfere with other apps when enabled.
         \n\u2022 When disabled the panel will close on timeout only.</string>
-    <string name="slide_height">Panel Scale = </string>
-    <string name="trigger_scale_t">Trigger Scale = </string>
-    <string name="corner_scale">Corner Radius = </string>
+    <string name="slide_heightx">Panel Scale = %1$d%% X</string>
+    <string name="slide_heighty">Panel Scale = %1$d%% Y</string>
+    <string name="trigger_scale_tx">Trigger Scale = %1$d%% X</string>
+    <string name="trigger_scale_ty">Trigger Scale = %1$d%% Y</string>
+    <string name="corner_scale">Corner Radius = %1$d%%</string>
     <string name="free">Disable Free Version</string>
     <string name="free_installed">Volume Panel Free is currently overriding the system volume panel, please disable it to avoid conflicts.</string>
-    <string name="media">Media Vol =</string>
+    <string name="media">Media Vol = </string>
     <string name="system_warn">When enabling any accessibility service you will be presented with a generic Android system warning, for your peace of mind, Volume Panel does not capture any other keys or content &amp; does not have or request permission connect to the internet.</string>
-    <string name="ver_pos_valx" translatable="false">%1$d%% X</string>
-    <string name="ver_pos_valy" translatable="false">%1$d%% Y</string>
-    <string name="dp_val" translatable="false">%1$d dp</string>
     <string name="use_system">Auto Dark/Light Mode</string>
     <string name="auto_dark_sum">\u2022 Follow system Dark/Light mode.
     \n\u2022 Manufacturer support required.</string>
-    <string name="anim_duration">Animation Duration = </string>
-    <string name="current_shot2">Currently set to %.2f seconds</string>
-    <string name="timeout2" translatable="false">%.2fs</string>
+    <string name="anim_duration">Animation Duration = %.2fs</string>
     <string name="preview"><![CDATA[Preview Mode: Call & Cast panels will only show when needed.]]></string>
-    <string name="vibe_duration">Vibration Duration = </string>
+    <string name="vibe_duration">Vibration Duration = %.2fs</string>
     <string name="show_bright_panel">Screen Brightness Panel</string>
     <string name="system_perms_message">Volume Panel needs to be granted access to write System Settings, please press proceed to continue.\n</string>
     <string name="show_ring_panel">Show Ring Panel</string>

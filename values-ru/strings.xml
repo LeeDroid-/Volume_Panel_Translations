@@ -17,7 +17,7 @@
         \n\nНекоторым аппаратам потребуется перезагрузка для запуска службы.</string>
     <string name="need_dnd">Требуется разрешение Не беспокоить</string>
     <string name="no">Нет</string>
-    <string name="vol_timeout">Тайм-аут панели = </string>
+    <string name="vol_timeout">Тайм-аут панели = %1$ds</string>
     <string name="yes">Да</string>
     <string name="notification_listener">Доступ к уведомлениям для Volume Panel</string>
     <string name="apply">Применить</string>
@@ -68,7 +68,7 @@
     <string name="add_shortcut">Создать ярлык для лаунчера</string>
     <string name="launch">Отображать Volume Panel</string>
     <string name="disable_acc">ПОЖАЛУЙСТА, ОТКЛЮЧИТЕ СЛУЖБУ СПЕЦИАЛЬНЫХ ВОЗМОЖНОСТЕЙ.</string>
-    <string name="ver_pos">Вертикальное положение</string>
+    <string name="ver_pos">Вертикальное положение = %1$d%%</string>
     <string name="alert">Оповещение об оптимизации</string>
     <string name="bat_opt"><![CDATA[<b>Volume Panel оптимизируется системой и может быть отключена в фоновом режиме</b>.
     <br/><br/>Ни одна из служб Volume Panel не потребляет много заряда, но отключение оптимизации повышает надежность работы.
@@ -135,27 +135,28 @@
         \n\nЭто разрешение позволяет изменять настройки функции Не беспокоить.
         \n\n</string>
     <string name="cast">Управление громкостью трансляции</string>
-    <string name="margin">Грани панели = </string>
+    <string name="margin">Грани панели = %1$d dp</string>
     <string name="disable_notif">ПОЖАЛУЙСТА, ОТКЛЮЧИТЕ СЛУЖБУ ДОСТУПА К УВЕДОМЛЕНИЯМ</string>
     <string name="up_launch">Запускать только по нажатию кнопки громкости +</string>
     <string name="up_launch_sum">\u2022 Панель будет запускаться только при нажатии на кнопку громкости +.</string>
     <string name="click_out">Нажать в любом месте для закрытия</string>
     <string name="click_out_sum">\u2022 Может мешать другим приложениям.
         \n\u2022 При отключении панель закроется только по тайм-ауту.</string>
-    <string name="trigger_scale_t">Размер триггера = </string>
-    <string name="corner_scale">Радиус скругления углов = </string>
+    <string name="trigger_scale_tx">Размер триггера = %1$d%% X</string>
+    <string name="trigger_scale_ty">Размер триггера = %1$d%% Y</string>
+    <string name="corner_scale">Радиус скругления углов = %1$d%%</string>
     <string name="free">Отключить бесплатную версию</string>
     <string name="free_installed">Бесплатная Volume Panel в настоящее время перекрывает системную панель громкости, пожалуйста, отключите ее для избежания конфликтов.</string>
     <string name="media">Громкость медиа =</string>
     <string name="system_warn">При включении любой службы специальных возможностей вам будет выдано общее системное предупреждение Android. Чтобы вы понимали, Volume Panel не захватывает никаких других ключей или контент и не имеет и не запрашивает разрешение на подключение к Интернету.</string>
-    <string name="slide_height">Размер панели = </string>
+    <string name="slide_heightx">Размер панели = %1$d%% X</string>
+    <string name="slide_heighty">Размер панели = %1$d%% Y</string>
     <string name="use_system">Автоматический Тёмный/Светлый режим</string>
     <string name="auto_dark_sum">В зависимости от системного режима.
 	\n\u2022 Требуется поддержка производителем.</string>
-    <string name="anim_duration">Длительность анимации = </string>
-    <string name="current_shot2">Текущее значение: %.2f сек.</string>
+    <string name="anim_duration">Длительность анимации = %.2fs</string>
     <string name="preview"><![CDATA[Режим предпросмотра: Панели Вызова и Трансляции будут отображаться только при необходимости.]]></string>
-    <string name="vibe_duration">Длительность вибрации = </string>
+    <string name="vibe_duration">Длительность вибрации = %.2fs</string>
     <string name="show_bright_panel">Панель яркости</string>
     <string name="system_perms_message">Volume Panel требуется доступ к изменениям системных настроек,  needs to be granted access to write System Settings, пожалуйста, нажмите Продолжить чтобы предоставить разрешение..\n</string>
     <string name="show_ring_panel">Отображать панель звонка</string>
@@ -165,15 +166,13 @@
     <string name="long_press"><![CDATA[Удерживайте и перетащите панель для перестановки.]]></string>
     <string name="killer_info"><![CDATA[Для получения большей информации посетите:<br/>
     http://www.dontkillmyapp.com/]]></string>
-    <string name="tips"><![CDATA[<b>Tips:</b><br/><br/>
-    <b>Audio doesn\'t change in some apps:<br/></b><br/>
-    Some apps like Instagram & Snapchat take complete audio focus & attempt to capture audio buttons them selves,
-     if you experience this issue, please enable the \"Exclude Applications\" option and add the offending apps to the list.<br/><br/>
-    <b>The system audio panel keeps returning:<br/></B><br/>
-    It\'s highly likely that your system is killing the Volume Panel accessibility service, if this happens,
-    please make sure battery & memory optimisation is disabled for the app, enabling the \"Swipe Up/Down Trigger\" may help too.<br/>
-    For more information visit: http://www.dontkillmyapp.com/]]></string>
-    <string name="add_boarder">Enable Panel Boarders</string>
-    <string name="boarder_colour">Boarder Colour</string>
-    <string name="boarder_hickness">Boarder Thickness</string>
+    <string name="tips"><![CDATA[<b>Подсказки:</b><br/><br/>
+    <b>Звук не меняется в некоторых приложениях:<br/></b><br/>
+    Некоторые приложения, такие как Instagram и Snapchat, полностью фокусируются на аудио и пытаются захватить аудио кнопки для самих себя. Если у вас возникла эта проблема, включите опцию \"Исключить приложения\" и добавьте в список нарушающие приложения.<br/><br/>
+    <b>Системная панель громкости продолжает возвращаться:<br/></B><br/>
+    Весьма вероятно, что ваша система убивает службу специальных возможностей для Volume Panel. Если это происходит, пожалуйста, убедитесь, что для приложения отключена оптимизация батареи и памяти, также может помочь включение "Триггера для жестов вверх/вниз".<br/>
+    Для большей информации посетите: http://www.dontkillmyapp.com/]]></string>
+    <string name="add_boarder">Включить границы панели</string>
+    <string name="boarder_colour">Цвет границы</string>
+    <string name="boarder_hickness">Толщина границы</string>
 </resources>

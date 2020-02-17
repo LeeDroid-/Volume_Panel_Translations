@@ -18,7 +18,7 @@
         \n\nNiektóre urządzenia mogą wymagać ponownego uruchomienia, aby uruchomić usługę.</string>
     <string name="need_dnd">Wymagane Uprawnienia Do Trybu Nieprzeszkadzać</string>
     <string name="no">Nie</string>
-    <string name="vol_timeout">Limit Czasu Panela = </string>
+    <string name="vol_timeout">Limit Czasu Panela = %1$ds</string>
     <string name="yes">Tak</string>
     <string name="notification_listener">Wyświetlanie Powiadomień Panelu Głośności</string>
     <string name="apply">Zastosuj</string>
@@ -67,7 +67,7 @@
     <string name="add_shortcut">Dodaj Skrót do Launchera</string>
     <string name="launch">Pokaż Panel Głośności</string>
     <string name="disable_acc"> PROSZĘ WYŁĄCZYĆ USŁUGĘ DOSTĘPNOŚCI.</string>
-    <string name="ver_pos">Pozycja w Pionie = </string>
+    <string name="ver_pos">Pozycja w Pionie = %1$d%%</string>
     <string name="alert">Optymalizacja Alertów</string>
     <string name="bat_opt"><![CDATA[<b>Panel głośności jest optymalizowany przez system i może zostać zamknięty w tle</b>.
     <br/><br/>Żadna z usług w Panelu głośności nie wymaga użycia baterii, ale wyłączenie optymalizacji poprawi niezawodność.
@@ -134,27 +134,28 @@
         \n\u2022 Jeśli chcesz uruchomić bez kontrolowania przesyłanych strumieni, możesz pominąć to uprawnienie.
         \n\nŻadna treść powiadomienia nie jest rejestrowana.
         \n\n</string>
-    <string name="margin">Margines Panela = </string>
+    <string name="margin">Margines Panela = %1$d dp</string>
     <string name="disable_notif">PROSZĘ O WYŁACZENIE DOSTĘPU DO POWIADOMIEŃ</string>
     <string name="up_launch">Uruchom po Nacisnięciu Vol +</string>
     <string name="up_launch_sum">\u2022 Panel uruchomi się tylko po naciśnięciu Vol +.</string>
     <string name="click_out">Kliknij Na Zewnątrz Aby Zamknąć</string>
     <string name="click_out_sum">\u2022 Po włączeniu może zakłócać działanie innych aplikacji.
         \n\u2022 Po wyłączeniu panel zamknie się tylko po przekroczeniu limitu czasu.</string>
-    <string name="trigger_scale_t">Skala wyzwalania = </string>
-    <string name="corner_scale">Promień narożnika = </string>
+    <string name="trigger_scale_tx">Skala wyzwalania = %1$d%% X</string>
+    <string name="trigger_scale_ty">Skala wyzwalania = %1$d%% Y</string>
+    <string name="corner_scale">Promień narożnika = %1$d%%</string>
     <string name="free">Wyłącz bezpłatną wersję</string>
     <string name="free_installed">Volume Panel Free jest obecnie nadrzędny w stosunku do panelu głośności systemu, proszę go wyłączyć, aby uniknąć konfliktów.</string>
     <string name="media">Media Vol =</string>
     <string name="system_warn">Po włączeniu dowolnej usługi ułatwień dostępu zostanie wyświetlone ogólne ostrzeżenie o systemie Android. Dla spokoju użytkownika Panel głośności nie przechwytuje żadnych innych kluczy ani treści &amp; nie ma ani nie prosi o pozwolenie na połączenie z Internetem.</string>
-    <string name="slide_height">Skalowanie Panela = </string>
+    <string name="slide_heightx">Skalowanie Panela = %1$d%% X</string>
+    <string name="slide_heighty">Skalowanie Panela = %1$d%% X</string>
     <string name="use_system">Auto Tryb Ciemny/Jasny</string>
     <string name="auto_dark_sum">\u2022 Ustaw tryb Ciemny/Jasny zgodny z systemem.
     \n\u2022 Wymagane wsparcie producenta.</string>
-    <string name="anim_duration">Czas Trwania Animacji = </string>
-    <string name="current_shot2">Aktualne ustawienie to %.2f sekund</string>
+    <string name="anim_duration">Czas Trwania Animacji = %.2fs</string>
     <string name="preview"><![CDATA[Tryb Podglądu: Połączenie & Panele Cast będą pokazywane tylko w razie potrzeby.]]></string>
-    <string name="vibe_duration">Czas Trwania Wibracji = </string>
+    <string name="vibe_duration">Czas Trwania Wibracji = %.2fs</string>
     <string name="show_bright_panel">Panel Jasności Ekranu</string>
     <string name="system_perms_message">Panel głośności musi mieć dostęp do zapisu ustawień systemu, naciśnij przycisk kontynuuj, aby kontynuować.\n</string>
     <string name="show_ring_panel">Pokaż Panel Dzwonka</string>

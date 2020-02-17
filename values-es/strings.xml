@@ -17,7 +17,7 @@
         \n\nAlgunos dispositivos pueden requerir un reinicio para iniciar el servicio.</string>
     <string name="need_dnd">Permisos requeridos modo no molestar </string>
     <string name="no">No</string>
-    <string name="vol_timeout">Tiempo de espera del panel = </string>
+    <string name="vol_timeout">Tiempo de espera del panel = %1$ds</string>
     <string name="yes">Si</string>
     <string name="notification_listener">Receptor de notificaciones de Volume Panel</string>
     <string name="apply">Aplicar</string>
@@ -67,7 +67,7 @@
     <string name="add_shortcut">Habilitar en Launcher</string>
     <string name="launch">Mostrar Volume Panel</string>
     <string name="disable_acc">POR FAVOR, DESACTIVA EL SERVICIO DE ACCESIBILIDAD.</string>
-    <string name="ver_pos">Posición vertical = </string>
+    <string name="ver_pos">Posición vertical = %1$d%%</string>
     <string name="alert">Alerta de optimización</string>
     <string name="bat_opt"><![CDATA[<b>Volume Panel está siendo optimizado por el sistema y puede ser deshabilitado en segundo plano</b>.
         <br/><br/>Ninguno de los servicios de Volume Panel son de uso intensivo para la batería, pero la deshabilitación de la optimización mejorará la estabilidad.
@@ -135,27 +135,28 @@
         \n\u2022 Si deseas ejecutar sin controlarlas, no dudes en omitir este permiso.
         \n\nNo se registrará ningún contenido de las notificaciones.
         \n\n</string>
-    <string name="margin">Posición horizontal = </string>
+    <string name="margin">Posición horizontal = %1$d dp</string>
     <string name="disable_notif">POR FAVOR, DESACTIVA EL ACCESO A LAS NOTIFICACIONES</string>
     <string name="up_launch">Iniciar solo presionando Vol +</string>
     <string name="up_launch_sum">\u2022 El panel solo se iniciará cuando se presione Vol +.</string>
     <string name="click_out">Pulsar fuera para cerrar</string>
     <string name="click_out_sum">\u2022 Puede interferir con otras aplicaciones cuando se habilita.
         \n\u2022 Cuando está desactivado, el panel se cerrará solo cuando se agote el tiempo de espera.</string>
-    <string name="trigger_scale_t">Escala del deslizador =</string>
-    <string name="corner_scale">Radio de las esquinas = </string>
+    <string name="trigger_scale_tx">Escala del deslizador = %1$d%% X</string>
+    <string name="trigger_scale_ty">Escala del deslizador = %1$d%% Y</string>
+    <string name="corner_scale">Radio de las esquinas = %1$d%%</string>
     <string name="free">Deshabilitar versión gratuita</string>
     <string name="free_installed">Volume Panel Free está actualmente anulando el panel de volumen del sistema, por favor desactívalo para evitar conflictos.</string>
     <string name="media">Volumen Multimedia =</string>
     <string name="system_warn">Al habilitar cualquier servicio de accesibilidad se te presentará un aviso genérico del sistema, para tu tranquilidad, Volume Panel no captura ninguna otra tecla o contenido y no tiene ni solicita permiso para conectarse a Internet.</string>
-    <string name="slide_height">Escala de panel = </string>
+    <string name="slide_heightx">Escala de panel = %1$d%% X</string>
+    <string name="slide_heighty">Escala de panel = %1$d%% Y</string>
     <string name="use_system">Modo Claro/Oscuro automático</string>
     <string name="auto_dark_sum">\u2022 Modo Claro/Oscuro definido por el sistema.
     \n\u2022 Se necesita el soporte del fabricante.</string>
-    <string name="anim_duration">Duración de la animación = </string>
-    <string name="current_shot2">Actualmente establecido en %.2f segundos</string>
+    <string name="anim_duration">Duración de la animación = %.2fs</string>
     <string name="preview"><![CDATA[Vista Previa: Los paneles de llamada y Cast solo se mostrarán cuando sea necesario.]]></string>
-    <string name="vibe_duration">Duración de la vibración</string>
+    <string name="vibe_duration">Duración de la vibración = %.2fs</string>
     <string name="show_bright_panel">Mostrar panel de brillo</string>
     <string name="system_perms_message">Volume Panel necesita tener permiso para cambiar los ajustes del sistema, por favor presionar en proceder para continuar.\n</string>
     <string name="show_ring_panel">Mostrar panel de timbre</string>

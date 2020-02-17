@@ -18,7 +18,7 @@
         \n\nبعض الأجهزة تحتاج إعادة تشغيل الجهاز لبدأ الخدمة.</string>
     <string name="need_dnd">إذن الوصول لقائمة عدم الإزعاج </string>
     <string name="no">لأ</string>
-    <string name="vol_timeout">مهلة اللوحة = </string>
+    <string name="vol_timeout">%1$ds = مهلة اللوحة = </string>
     <string name="yes">موافق </string>
     <string name="notification_listener">مستمع الاشعارات للوحة التحكم في الصوت </string>
     <string name="apply">تطبيق</string>
@@ -71,7 +71,7 @@
     <string name="add_shortcut">تفعيل إختصار المشغل </string>
     <string name="launch">أظهر لوحة التحكم في الصوت</string>
     <string name="disable_acc">يرجي تعطيل خدمة الوصول </string>
-    <string name="ver_pos">الوضع الرأسي = </string>
+    <string name="ver_pos">%1$d%%الوضع الرأسي = </string>
     <string name="alert">تنبيه التحسينات </string>
     <string name="bat_opt"><![CDATA[<b>تطبيق لوحة الصوت يتم تحسينه من قبل النظام  &amp; قد يتم غلقه في الخلفية</b>.
     <br/><br/>جميع خدمات لوحة الصوت لا تستهلك طاقة البطارية , إزالة التطبيق من قائمه التطبيقات المحسنة سيحسن من أداء التطبيق 
@@ -138,16 +138,18 @@
         \n\nيسمح لنا هذا الإذن بتعديل إعدادات عدم الإزعاج.
         \n\n</string>
     <string name="cast">تحكم في صوت البث</string>
-    <string name="margin">حافة لوحة التحكم = </string>
+    <string name="margin">%1$d dp = حافة لوحة التحكم = </string>
     <string name="disable_notif">يرجى تعطيل وصول للإشعارات</string>
     <string name="up_launch">تشغيل بالضغط علي زر الصوت لأعلي فقط </string>
     <string name="up_launch_sum">\u2022 لن يتم تشغيل لوحة التحكم إلا عند الضغط على زر رفع الصوت.</string>
     <string name="click_out">للإغلاق أضغط بالخارج</string>
     <string name="click_out_sum">\u2022 قد يتداخل مع تطبيقات أخري عند تفعيله.
         \n\u2022 عند تعطيله ، سيتم إغلاق لوحة التحكم بعد المهلة فقط.</string>
-    <string name="slide_height">مقياس لوحة التحكم = </string>
-    <string name="trigger_scale_t">مقياس التفعيل = </string>
-    <string name="corner_scale">مقياس الركن = </string>
+    <string name="slide_heightx">X %1$d%% = مقياس لوحة التحكم = </string>
+    <string name="slide_heighty">Y %1$d%% = مقياس لوحة التحكم = </string>
+    <string name="trigger_scale_tx">X %1$d%% = مقياس التفعيل</string>
+    <string name="trigger_scale_ty">Y %1$d%% = مقياس التفعيل</string>
+    <string name="corner_scale">مقياس الركن = %1$d%%</string>
     <string name="free">إيقاف الإصدار المجاني</string>
     <string name="free_installed"> لوحة التحكم في الصوت المجانية مفعلة حاليا علي لوحة صوت النظام , يرجي ايقافها لتجنب التداخلات  .</string>
     <string name="media">صوت الوسائط  =</string>
@@ -155,10 +157,9 @@
     <string name="use_system">وضع ليلي / الضوء تلقائي </string>
     <string name="auto_dark_sum">\u2022 اتبع وضع النظام  ضوء/ليلي.
     \n\u2022 دعم المصنع مطلوب.</string>
-    <string name="anim_duration">مدة الرسوم المتحركة = </string>
-    <string name="current_shot2">حاليا معينة ل  %.2f ثانية </string>
+    <string name="anim_duration">%.2fsمدة الرسوم المتحركة = </string>
     <string name="preview"><![CDATA[وضع المعاينة: لن تظهر لوحة التحكم في صوت الاتصال والبث إلا عند الحاجة.]]></string>
-    <string name="vibe_duration">مدة الإهتزاز = </string>
+    <string name="vibe_duration">%.2fsمدة الإهتزاز = </string>
     <string name="show_bright_panel">لوحة التحكم في سطوع الشاشة</string>
     <string name="system_perms_message">يلزم منح "لوحة التحكم في الصوت" الوصول لـ "إعدادات النظام" ، يرجى الضغط على "إكمال " للمتابعة.\n</string>
     <string name="show_ring_panel">أظهر لوحة نغمة الرنين</string>
