@@ -154,26 +154,26 @@
     <string name="auto_dark_sum">\u2022 Sistem Koyu/Açık modunu takip eder.
     \n\u2022 Üretici desteği gerekir.</string>
     <string name="anim_duration">Animasyon Süresi = %.2fs</string>
-    <string name="preview"><![CDATA[Önizleme Modu: Çağrı ve Yayınlama panelleri yalnızca gerektiğinde gösterilir.]]></string>
+    <string name="preview"><![CDATA[Önizleme Modu: Çağrı ve Yayın panelleri yalnızca gerektiğinde gösterilir.]]></string>
     <string name="vibe_duration">Titreşim Süresi = %.2fs</string>
     <string name="show_bright_panel">Ekran Parlaklığı Paneli</string>
     <string name="system_perms_message">Volume Panel Sistem Ayarlarını yazmak için erişim iznine ihtiyaç duyuyor, devam etmek için lütfen devam et\'e basın.\n</string>
     <string name="show_ring_panel">Zil Panelini Göster</string>
     <string name="bright_calibrate"><b>i</b>: Maksimum Parlaklığı Yeniden Ayarla:
         \n\u2022 Ekran parlaklığınızı Maksimuma ayarlayın, ardından buraya uzun basın.</string>
-    <string name="order">Change Panel Order</string>
-    <string name="long_press"><![CDATA[Long press & drag panels to rearrange.]]></string>
-    <string name="killer_info"><![CDATA[For more information visit:<br/>
+    <string name="order">Panel Sırasını Değiştir</string>
+    <string name="long_press"><![CDATA[Panelleri yeniden sıralamak için uzun basın ve sürükleyin.]]></string>
+    <string name="killer_info"><![CDATA[Daha fazla bilgi için şurayı ziyaret edin:<br/>
         http://www.dontkillmyapp.com/]]></string>
-    <string name="tips"><![CDATA[<b>Tips:</b><br/><br/>
-    <b>Audio doesn\'t change in some apps:<br/></b><br/>
-    Some apps like Instagram & Snapchat take complete audio focus & attempt to capture audio buttons them selves,
-     if you experience this issue, please enable the \"Exclude Applications\" option and add the offending apps to the list.<br/><br/>
-    <b>The system audio panel keeps returning:<br/></B><br/>
-    It\'s highly likely that your system is killing the Volume Panel accessibility service, if this happens,
-    please make sure battery & memory optimisation is disabled for the app, enabling the \"Swipe Up/Down Trigger\" may help too.<br/>
-    For more information visit: http://www.dontkillmyapp.com/]]></string>
-    <string name="add_boarder">Enable Panel Boarders</string>
-    <string name="boarder_colour">Boarder Colour</string>
-    <string name="boarder_hickness">Boarder Thickness</string>
+    <string name="tips"><![CDATA[<b>İpuçları:</b><br/><br/>
+    <b>Bazı uygulamalarda ses değişmiyor:<br/></b><br/>
+    Instagram & Snapchat gibi bazı uygulamalar tam ses odağı alır & ses düğmelerini yakalamaya çalışır,
+       bu sorunla karşılaşırsanız, lütfen \"Uygulamaları Hariç Tut\" seçeneğini etkinleştirin ve rahatsız edici uygulamaları listeye ekleyin.<br/><br/>
+    <b>Sistem ses paneli görünmeye devam ediyor:<br/></B><br/>
+    Bu olursa, sisteminizin Volume Panel erişilebilirlik hizmetini sonlandırması büyük olasılıktır,
+    lütfen uygulama için pil ve bellek optimizasyonunun devre dışı olduğundan emin olun, \"Yukarı/Aşağı Kaydırarak Tetikle\"nin etkinleştirilmesi de yardımcı olabilir.<br/>
+    Daha fazla bilgi için şurayı ziyaret edin: http://www.dontkillmyapp.com/]]></string>
+    <string name="add_boarder">Panel Kenarlıklarını Etkinleştir</string>
+    <string name="boarder_colour">Kenarlık Rengi</string>
+    <string name="boarder_hickness">Kenarlık Kalınlığı</string>
 </resources>
