@@ -171,7 +171,7 @@
     <b>Systemowy panel audio powraca:<br/></B><br/>
     Jest bardzo prawdopodobne, że Twój system zabija usługę ułatwień dostępu Panelu Głośności, jeśli tak się stanie, upewnij się, że optymalizacja baterii i pamięci jest wyłączona w aplikacji, włączenie \ "Swypnięcie Wyzwalacza Góra/Dół \" może również pomóc.<br/>
     Po więcej informacji odwiedź: http://www.dontkillmyapp.com/]]></string>
-    <string name="add_boarder">Włącz Ramkę Paneli</string>
-    <string name="boarder_colour">Kolor Ramki</string>
-    <string name="boarder_hickness">Grubość Ramki</string>
+    <string name="add_border">Włącz Ramkę Paneli</string>
+    <string name="border_colour">Kolor Ramki</string>
+    <string name="border_thickness">Grubość Ramki = %1$d dp</string>
 </resources>

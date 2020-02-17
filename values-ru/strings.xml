@@ -172,7 +172,7 @@
     <b>Системная панель громкости продолжает возвращаться:<br/></B><br/>
     Весьма вероятно, что ваша система убивает службу специальных возможностей для Volume Panel. Если это происходит, пожалуйста, убедитесь, что для приложения отключена оптимизация батареи и памяти, также может помочь включение "Триггера для жестов вверх/вниз".<br/>
     Для большей информации посетите: http://www.dontkillmyapp.com/]]></string>
-    <string name="add_boarder">Включить границы панели</string>
-    <string name="boarder_colour">Цвет границы</string>
-    <string name="boarder_hickness">Толщина границы</string>
+    <string name="add_border">Включить границы панели</string>
+    <string name="border_colour">Цвет границы</string>
+    <string name="border_thickness">Толщина границы = %1$d dp</string>
 </resources>

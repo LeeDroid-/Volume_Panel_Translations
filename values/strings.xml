@@ -176,7 +176,7 @@
     It\'s highly likely that your system is killing the Volume Panel accessibility service, if this happens,
     please make sure battery & memory optimisation is disabled for the app, enabling the \"Swipe Up/Down Trigger\" may help too.<br/>
     For more information visit: http://www.dontkillmyapp.com/]]></string>
-    <string name="add_boarder">Enable Panel Boarders</string>
-    <string name="boarder_colour">Boarder Colour</string>
-    <string name="boarder_hickness">Boarder Thickness</string>
+    <string name="add_border">Enable Panel Borders</string>
+    <string name="border_colour">Border Colour</string>
+    <string name="border_thickness">Border Thickness = %1$d dp</string>
 </resources>

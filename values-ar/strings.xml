@@ -169,15 +169,15 @@
     <string name="long_press"><![CDATA[‏لإعادة ترتيب اللوحات اضغط مطولا ثم أسحب]]></string>
     <string name="killer_info"><![CDATA[لمزيد من المعلومات برجاء زيارة:<br/>
         http://www.dontkillmyapp.com/]]></string>
-    <string name="tips"><![CDATA[<b>Tips:</b><br/><br/>
-    <b>Audio doesn\'t change in some apps:<br/></b><br/>
-    Some apps like Instagram & Snapchat take complete audio focus & attempt to capture audio buttons them selves,
-     if you experience this issue, please enable the \"Exclude Applications\" option and add the offending apps to the list.<br/><br/>
-    <b>The system audio panel keeps returning:<br/></B><br/>
-    It\'s highly likely that your system is killing the Volume Panel accessibility service, if this happens,
-    please make sure battery & memory optimisation is disabled for the app, enabling the \"Swipe Up/Down Trigger\" may help too.<br/>
-    For more information visit: http://www.dontkillmyapp.com/]]></string>
-    <string name="add_boarder">Enable Panel Boarders</string>
-    <string name="boarder_colour">Boarder Colour</string>
-    <string name="boarder_hickness">Boarder Thickness</string>
+    <string name="tips"><![CDATA[<b> إرشادات إضافية:</b><br/><br/>
+    <b>الصوت  لا يتغير مع بعض التطبيقات :<br/></b><br/>
+    بعض التطبيقات تتحكم بالصوت بشكل كامل مثل انستجرام وسناب شات بل وتحاول التحكم في زرار رفع وخفض الصوت بنفسها,
+     إذا واجهت هذه المشكلة ، فيرجى تمكين خيار \ "استثناء التطبيقات \" وإضافة هذه التطبيقات إلى القائمة.<br/><br/>
+    <b>لوحة التحكم بالصوت الخاصة بالنظام تستمر في الظهور :<br/></B><br/>
+    من المحتمل أن نظامك يوقف خدمة الوصول عن لوحة التحكم بالصوت ، إذا حدث ذلك
+    يرجى التأكد من تعطيل تحسين البطارية والذاكرة للتطبيق , تفعيل خيار "السحب لأعلي وأسفل" قد يساعد أيضا .<br/>
+    لمزيد من المعلومات برجاء زيارة: http://www.dontkillmyapp.com/]]></string>
+    <string name="add_border">تمكين إطار لوحة التحكم في الصوت </string>
+    <string name="border_colour">لون الإطار</string>
+    <string name="border_thickness">سماكة الإطار = %1$d dp</string>
 </resources>

@@ -170,7 +170,11 @@
     It\'s highly likely that your system is killing the Volume Panel accessibility service, if this happens,
     please make sure battery & memory optimisation is disabled for the app, enabling the \"Swipe Up/Down Trigger\" may help too.<br/>
     For more information visit: http://www.dontkillmyapp.com/]]></string>
-    <string name="add_boarder">Enable Panel Boarders</string>
-    <string name="boarder_colour">Boarder Colour</string>
-    <string name="boarder_hickness">Boarder Thickness</string>
+    <string name="add_border">Enable Panel Borders</string>
+    <string name="border_colour">Border Colour</string>
+    <string name="border_thickness">Border Thickness = %1$d dp</string>
+    <string name="free">Disable Free Version</string>
+    <string name="free_installed">Volume Panel Free is currently overriding the system volume panel, please disable it to avoid conflicts.</string>
+    <string name="media">"Media Vol = "</string>
+    <string name="system_warn">When enabling any accessibility service you will be presented with a generic Android system warning, for your peace of mind, Volume Panel does not capture any other keys or content &amp; does not have or request permission connect to the internet.</string>
 </resources>

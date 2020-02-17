@@ -173,7 +173,7 @@
     Bu olursa, sisteminizin Volume Panel erişilebilirlik hizmetini sonlandırması büyük olasılıktır,
     lütfen uygulama için pil ve bellek optimizasyonunun devre dışı olduğundan emin olun, \"Yukarı/Aşağı Kaydırarak Tetikle\"nin etkinleştirilmesi de yardımcı olabilir.<br/>
     Daha fazla bilgi için şurayı ziyaret edin: http://www.dontkillmyapp.com/]]></string>
-    <string name="add_boarder">Panel Kenarlıklarını Etkinleştir</string>
-    <string name="boarder_colour">Kenarlık Rengi</string>
-    <string name="boarder_hickness">Kenarlık Kalınlığı</string>
+    <string name="add_border">Panel Kenarlıklarını Etkinleştir</string>
+    <string name="border_colour">Kenarlık Rengi</string>
+    <string name="border_thickness">Kenarlık Kalınlığı = %1$d dp</string>
 </resources>
