@@ -34,7 +34,7 @@
     <string name="slider_colour">Kolor Suwaka</string>
     <string name="panel_timeout">Limit Czasu Panela</string>
     <string name="show_alarm_panel">Pokaż Panel Alarmu</string>
-    <string name="default_to_ring_volume">Domyślny Dźwięk Głośności</string>
+    <string name="default_to_ring_volume">Domyślna Głośność Dzwonka</string>
     <string name="start_collapsed">Rozpocznij Zwinięty</string>
     <string name="position_left">Po Lewej Stronie</string>
     <string name="dark_mode">Tryb Ciemny</string>
@@ -44,14 +44,14 @@
     <string name="exclude_applications_sum">\u2022 Panel głośności nie otworzy się w tych aplikacjach.</string>
     <string name="about">
         <![CDATA[<b>Panel Głośności:</b>
-        <br/>\u2022 Elastyczna wymiana kontrolek głośności systemu.
+        <br/>\u2022 Elastyczna wymiana regulacji głośności systemu.
         <br/><br/><b>Designed &amp; Developed By:</b>
         <br/>\u2022 Lee Bailey (AKA @LeeDrOiD)
         <br/> Dodatkowe Podziękowania:
         <br/>\u2022 The creators of App Into.
         <br/>\u2022 Ereza for Custom Activity On Crash.
         <br/>\u2022 D-Max for Spots Dialog.
-        <br/>Translations By:
+        <br/>Tłumaczenie:
         <br/>Linar10 - Polish
         <br/>\u2022 Fatih Firinci - Turkish
 	<br/>guillerag - Spanish
@@ -71,8 +71,8 @@
     <string name="alert">Optymalizacja Alertów</string>
     <string name="bat_opt"><![CDATA[<b>Panel głośności jest optymalizowany przez system i może zostać zamknięty w tle</b>.
     <br/><br/>Żadna z usług w Panelu głośności nie wymaga użycia baterii, ale wyłączenie optymalizacji poprawi niezawodność.
-    <br/><br/>Kliknij \"Zamknij\" aby uruchomić optymalizację lub kliknij „Nowe Działanie”, a następnie „Wszystkie aplikacje”, a następnie wyłącz Optymalizację baterii dla Panelu Głośności.]]></string>
-    <string name="action">Nowe Działanie</string>
+    <br/><br/>Kliknij \"Zamknij\" aby uruchomić optymalizację lub kliknij „Wykonaj Teraz”, a następnie „Wszystkie aplikacje”, a następnie wyłącz Optymalizację baterii dla Panelu Głośności.]]></string>
+    <string name="action">Wykonaj Teraz</string>
     <string name="mute_media">Wycisz Media</string>
     <string name="vibrate">Wibracja</string>
     <string name="ring">Dzwonek</string>
@@ -87,7 +87,7 @@
         \n\nProszę rozważyć wyłączenie dostosowywania przycisku głośności dla tych aplikacji.
         \n\nAlternatywnie, włącz skrót do launchera i otwórz go za pomocą remapu!</string>
     <string name="dismiss">Odrzuć</string>
-    <string name="notif_panel"><![CDATA[Nie wszystkie urządzenia obsługują dzielenie głośności & powiadomień i dzwonków.<br/><br/>If both steams change together, this is due to your system configuration and nothing to do with Volume Panel.]]></string>
+    <string name="notif_panel"><![CDATA[Nie wszystkie urządzenia obsługują dzielenie głośności & powiadomień i dzwonków.<br/><br/>Jeśli obie pary zmieniają się razem, wynika to z konfiguracji systemu i nie ma nic wspólnego z Panelem głośności.]]></string>
     <string name="show_notif">Pokaż Panel Powiadomień</string>
     <string name="enable_volume_panel">Zastąp Przycisk Głośności</string>
     <string name="enable_blacklist">Włącz Wykluczenia aplikacji</string>
@@ -112,7 +112,7 @@
     <string name="screen_shot">Pokaż Przycisk Zrzutu Ekranu</string>
     <string name="reenable">Włącz ponownie</string>
     <string name="hide_settings">Ukryj Skrót Ustawień</string>
-    <string name="layout">Rozmieszczenie</string>
+    <string name="layout">Układ</string>
     <string name="floating_trigger">Swypnięcie Wyzwalacza Góra/Dół</string>
     <string name="trigger_cat">Wyzwalacz</string>
     <string name="trigger_colour">Kolor Wyzwalacza</string>
@@ -123,7 +123,7 @@
     <string name="pro_only">Dostępne Tylko w Volume Panel Pro</string>
     <string name="pro_un">Usuń Reklamy &amp; Odblokuj Wszystkie Funkcje.</string>
     <string name="suspend">Pauza</string>
-    <string name="hide_nav">Ukryj pasek nawigacyjny</string>
+    <string name="hide_nav">Ukryj Pasek Nawigacyjny</string>
     <string name="hide_full">Niewidzialne na pełnym ekranie</string>
     <string name="dnd_access"><u>Dostęp Do Nie Przeszkadzać</u>
         \n\nTo uprawnienie pozwala nam modyfikować ustawienia Nie Przeszkadzać.
@@ -134,9 +134,9 @@
         \n\u2022 Jeśli chcesz uruchomić bez kontrolowania przesyłanych strumieni, możesz pominąć to uprawnienie.
         \n\nŻadna treść powiadomienia nie jest rejestrowana.
         \n\n</string>
-    <string name="margin">Margines Panelu = </string>
+    <string name="margin">Margines Panela = </string>
     <string name="disable_notif">PROSZĘ O WYŁACZENIE DOSTĘPU DO POWIADOMIEŃ</string>
-    <string name="up_launch">Uruchom na Vol + Naciśnij Tylko</string>
+    <string name="up_launch">Uruchom po Nacisnięciu Vol +</string>
     <string name="up_launch_sum">\u2022 Panel uruchomi się tylko po naciśnięciu Vol +.</string>
     <string name="click_out">Kliknij Na Zewnątrz Aby Zamknąć</string>
     <string name="click_out_sum">\u2022 Po włączeniu może zakłócać działanie innych aplikacji.
@@ -164,15 +164,13 @@
     <string name="long_press"><![CDATA[Długo naciśnij & przeciągnij panele aby zmienić kolejność.]]></string>
     <string name="killer_info"><![CDATA[Po więcej informacji odwiedź:<br/>
         http://www.dontkillmyapp.com/]]></string>
-    <string name="tips"><![CDATA[<b>Tips:</b><br/><br/>
-    <b>Audio doesn\'t change in some apps:<br/></b><br/>
-    Some apps like Instagram & Snapchat take complete audio focus & attempt to capture audio buttons them selves,
-     if you experience this issue, please enable the \"Exclude Applications\" option and add the offending apps to the list.<br/><br/>
-    <b>The system audio panel keeps returning:<br/></B><br/>
-    It\'s highly likely that your system is killing the Volume Panel accessibility service, if this happens,
-    please make sure battery & memory optimisation is disabled for the app, enabling the \"Swipe Up/Down Trigger\" may help too.<br/>
-    For more information visit: http://www.dontkillmyapp.com/]]></string>
-    <string name="add_boarder">Enable Panel Boarders</string>
-    <string name="boarder_colour">Boarder Colour</string>
-    <string name="boarder_hickness">Boarder Thickness</string>
+    <string name="tips"><![CDATA[<b>Porady:</b><br/><br/>
+    <b>Dźwięk nie zmienia się w niektórych aplikacjach:<br/></b><br/>
+    Niektóre aplikacje, takie jak Instagram i Snapchat, całkowicie skupiają się na dźwięku i próbują uchwycić ich przyciski, jeśli wystąpi ten problem, włącz opcję \„Wyklucz aplikacje”\ i dodaj szkodliwe aplikacje do listy.<br/>
+    <b>Systemowy panel audio powraca:<br/></B><br/>
+    Jest bardzo prawdopodobne, że Twój system zabija usługę ułatwień dostępu Panelu Głośności, jeśli tak się stanie, upewnij się, że optymalizacja baterii i pamięci jest wyłączona w aplikacji, włączenie \ "Swypnięcie Wyzwalacza Góra/Dół \" może również pomóc.<br/>
+    Po więcej informacji odwiedź: http://www.dontkillmyapp.com/]]></string>
+    <string name="add_boarder">Włącz Ramkę Paneli</string>
+    <string name="boarder_colour">Kolor Ramki</string>
+    <string name="boarder_hickness">Grubość Ramki</string>
 </resources>
