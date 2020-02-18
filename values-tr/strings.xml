@@ -176,6 +176,6 @@
     <string name="add_border">Panel Kenarlıklarını Etkinleştir</string>
     <string name="border_colour">Kenarlık Rengi</string>
     <string name="border_thickness">Kenarlık Kalınlığı = %1$d dp</string>
-    <string name="google_assistant">Show Assistant Button</string>
-    <string name="flash_light">Show Flashlight Button</string>
+    <string name="google_assistant">Asistan Düğmesini Göster</string>
+    <string name="flash_light">Fener Düğmesini Göster</string>
 </resources>
