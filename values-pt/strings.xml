@@ -85,12 +85,12 @@
     <string name="mapper_sum">\u2022 Clique aqui par mais informações</string>
     <string name="mapper_detail">Detetamos uma aplicação de remapeamento de botões.
         \n\nRemapeadores de botões usam serviços de acessibilidade para detetar cliques em botões.
-        \n\nOutros serviços de acessibilidade que capturam/personalizam cliques nos botões de volume interferem com a capacidade de Volume Panel intercetar os botões de volume.
+        \n\nOutros serviços de acessibilidade que capturam/personalizam cliques nos botões de volume interferem com a capacidade de Volume Panel interceptar os botões de volume.
         \n\nPor favor considere desativar a personalização de botões de volume destas aplicações.
         \n\nEm alternativa, ative o atalho de ecrã inicial e abra-o com um remapeador!</string>
     <string name="dismiss">Ignorar</string>
     <string name="show_notif">Mostrar Painel de Notificações</string>
-    <string name="notif_panel"><![CDATA[Nem todos os dispositovos suportam controlo de volume Notificações e Toque.<br/><br/>Se ambas as barras se moverem em conjunto, isso deve-se à configuração do seu sistema e Volume Panel não consegue fazer nada quanto a isso.]]></string>
+    <string name="notif_panel"><![CDATA[Nem todos os dispositivos suportam controlo de volume Notificações e Toque.<br/><br/>Se ambas as barras se moverem em conjunto, isso deve-se à configuração do seu sistema e Volume Panel não consegue fazer nada quanto a isso.]]></string>
     <string name="enable_blacklist">Ativar lista de Exclusão de Aplicações</string>
     <string name="usage_access"><u>Acesso de Utilização</u>
         \n\nEsta permissão deixa-nos detetar a aplicação em uso via estatísticas de utilização de pacotes &amp; verificar se a excluiu.
@@ -158,23 +158,22 @@
         \n\u2022 Ajuste o brilho até ao máximo e de seguida prima e segure aqui.</string>
     <string name="order">Alterar Ordem dos Painéis</string>
     <string name="long_press"><![CDATA[Toque sem largar & arraste para reordenar.]]></string>
-    <string name="killer_info"><![CDATA[For more information visit:<br/>
+    <string name="killer_info"><![CDATA[Para mais informações visit:<br/>
         http://www.dontkillmyapp.com/]]></string>
-    <string name="tips"><![CDATA[<b>Tips:</b><br/><br/>
-    <b>Audio doesn\'t change in some apps:<br/></b><br/>
-    Some apps like Instagram & Snapchat take complete audio focus & attempt to capture audio buttons them selves,
-     if you experience this issue, please enable the \"Exclude Applications\" option and add the offending apps to the list.<br/><br/>
-    <b>The system audio panel keeps returning:<br/></B><br/>
-    It\'s highly likely that your system is killing the Volume Panel accessibility service, if this happens,
-    please make sure battery & memory optimisation is disabled for the app, enabling the \"Swipe Up/Down Trigger\" may help too.<br/>
-    For more information visit: http://www.dontkillmyapp.com/]]></string>
-    <string name="add_border">Enable Panel Borders</string>
-    <string name="border_colour">Border Colour</string>
-    <string name="border_thickness">Border Thickness = %1$d dp</string>
-    <string name="free">Disable Free Version</string>
-    <string name="free_installed">Volume Panel Free is currently overriding the system volume panel, please disable it to avoid conflicts.</string>
-    <string name="media">"Media Vol = "</string>
-    <string name="system_warn">When enabling any accessibility service you will be presented with a generic Android system warning, for your peace of mind, Volume Panel does not capture any other keys or content &amp; does not have or request permission connect to the internet.</string>
-    <string name="google_assistant">Show Assistant Button</string>
-    <string name="flash_light">Show Flashlight Button</string>
-</resources>
+    <string name="tips"><![CDATA[<b>Dicas:</b><br/><br/>
+    <b>Áudio não é alterado nalgumas aplicações:<br/></b><br/>
+    Algumas aplicações como Instagram & Snapchat controlam completamente  o áudio e tentam capturar elas próprias os botões de áudio.
+     Se tiver este problema, por favor alive a opção \"Aplicação Excluída\" e adicione a aplicação à lista.<br/><br/>
+    <b>O painel de áudio do sistema vp;ta a aparecer:<br/></B><br/>
+    É muito provável que o seu sistema esteja a fechar o serviço de acessibilidade de Volume Panel, se isso acontecer,
+    por favor certifique-se de que a otimizaçào de bateria & memória estão desativadas para a aplicação. Ativar a opção \"Atalho de Deslize para Cima/Baix\" também pode ajudar.<br/>
+    Para mais informações visite: http://www.dontkillmyapp.com/]]></string>
+    <string name="add_border">Ativar Contornos do Painel</string>
+    <string name="border_colour">Cor dos Contornos</string>
+    <string name="border_thickness">Largura dos Contornos = %1$d dp</string>
+    <string name="free_installed">Volume Panel Free está a sobrepôr-se ao painel de volume do sistema, por favor desative-a para evitar conflitos.</string>
+    <string name="media">"Vol Média = "</string>
+    <string name="system_warn">Quando ativa qualquer serviço de acessibilidade, é-lhe apresentado um aviso genérico do sistema Android. Para sua tranquilidade,j informa-se que Volume Panel não captura quaisquer outras teclas ou conteúdos &amp; no tem nem precisa de permissão de acesso à internet..</string>
+    <string name="google_assistant">Mostrar botão de Assistente</string>
+    <string name="flash_light">Mostrar Botão de Lanterna</string>
+</resources
