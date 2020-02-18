@@ -174,5 +174,6 @@
     <string name="add_border">Włącz Ramkę Paneli</string>
     <string name="border_colour">Kolor Ramki</string>
     <string name="border_thickness">Grubość Ramki = %1$d dp</string>
-    <string name="google_assistant">Show Assistant Button</string>
+    <string name="google_assistant">Pokaż Przycisk Asystenta</string>
+    <string name="flash_light">Pokaż Przycisk Latarki</string>
 </resources>

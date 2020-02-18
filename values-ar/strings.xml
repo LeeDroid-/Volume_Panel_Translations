@@ -181,4 +181,5 @@
     <string name="border_colour">لون الإطار</string>
     <string name="border_thickness">سماكة الإطار = %1$d dp</string>
     <string name="google_assistant">Show Assistant Button</string>
+    <string name="flash_light">Show Flashlight Button</string>
 </resources>

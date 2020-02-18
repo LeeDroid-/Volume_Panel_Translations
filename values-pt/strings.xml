@@ -178,4 +178,5 @@
     <string name="media">"Media Vol = "</string>
     <string name="system_warn">When enabling any accessibility service you will be presented with a generic Android system warning, for your peace of mind, Volume Panel does not capture any other keys or content &amp; does not have or request permission connect to the internet.</string>
     <string name="google_assistant">Show Assistant Button</string>
+    <string name="flash_light">Show Flashlight Button</string>
 </resources>

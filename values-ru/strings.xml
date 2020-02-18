@@ -175,5 +175,6 @@
     <string name="add_border">Включить границы панели</string>
     <string name="border_colour">Цвет границы</string>
     <string name="border_thickness">Толщина границы = %1$d dp</string>
-    <string name="google_assistant">Show Assistant Button</string>
+    <string name="google_assistant">Отображать кнопку ассистента</string>
+    <string name="flash_light">Отображать кнопку фонарика</string>
 </resources>

@@ -178,4 +178,5 @@
     <string name="border_colour">Border Colour</string>
     <string name="border_thickness">Border Thickness = %1$d dp</string>
     <string name="google_assistant">Show Assistant Button</string>
+    <string name="flash_light">Show Flashlight Button</string>
 </resources>
