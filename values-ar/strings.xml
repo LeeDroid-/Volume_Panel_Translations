@@ -21,7 +21,6 @@
     <string name="vol_timeout">%1$ds = مهلة اللوحة = </string>
     <string name="yes">موافق </string>
     <string name="notification_listener">مستمع الاشعارات للوحة التحكم في الصوت </string>
-    <string name="apply">تطبيق</string>
     <string name="perms"><u>الإذن مطلوب</u>
         \n\nلتجاوز لوحة الصوت الخاصة بالنظام . عدة أذونات مطلوبة 
         \n\nسنعرض لك الآن شاشات متعددة توضح هذه الأذونات ، واستخدامها &amp; و الزر لتفعيلها
@@ -32,7 +31,6 @@
     <string name="icon_colour">لون الايقونة</string>
     <string name="background_colour">لون الخلفية</string>
     <string name="slider_colour">لون الشريط  </string>
-    <string name="panel_timeout">مهلة لوحة التحكم</string>
     <string name="show_alarm_panel">أظهر لوحة المنبه</string>
     <string name="default_to_ring_volume">الوضع الإفتراضي لنغمة الرنين </string>
     <string name="start_collapsed">أبدأ مصغر </string>
@@ -72,6 +70,7 @@
     <string name="launch">أظهر لوحة التحكم في الصوت</string>
     <string name="disable_acc">يرجي تعطيل خدمة الوصول </string>
     <string name="ver_pos">%1$d%%الوضع الرأسي = </string>
+    <string name="play_sound">تغيرات مسموعة </string>
     <string name="alert">تنبيه التحسينات </string>
     <string name="bat_opt"><![CDATA[<b>تطبيق لوحة الصوت يتم تحسينه من قبل النظام  &amp; قد يتم غلقه في الخلفية</b>.
     <br/><br/>جميع خدمات لوحة الصوت لا تستهلك طاقة البطارية , إزالة التطبيق من قائمه التطبيقات المحسنة سيحسن من أداء التطبيق 
@@ -108,7 +107,6 @@
         <br/><br/>سيكون عليك تعطيل هذا الخيار إذا كنت بحاجة إلى إلغاء تثبيت التطبيق.]]></string>
     <string name="launch_opts">خيارات التشغيل </string>
     <string name="design">التصميم</string>
-    <string name="alerts">تنبيهات </string>
     <string name="behaviour">سلوك </string>
     <string name="invert_buttons">عكس أزرار التحكم في الصوت</string>
     <string name="position_left_land">اليد اليسري في الوضع الأفقي </string>
@@ -180,6 +178,6 @@
     <string name="add_border">تمكين إطار لوحة التحكم في الصوت </string>
     <string name="border_colour">لون الإطار</string>
     <string name="border_thickness">سماكة الإطار = %1$d dp</string>
-    <string name="google_assistant">Show Assistant Button</string>
-    <string name="flash_light">Show Flashlight Button</string>
+    <string name="google_assistant">أظهر زر المساعد</string>
+    <string name="flash_light">أظهر زر الفلاش</string>
 </resources>

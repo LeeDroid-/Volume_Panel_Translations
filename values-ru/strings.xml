@@ -20,7 +20,6 @@
     <string name="vol_timeout">Тайм-аут панели = %1$ds</string>
     <string name="yes">Да</string>
     <string name="notification_listener">Доступ к уведомлениям для Volume Panel</string>
-    <string name="apply">Применить</string>
     <string name="perms"><u>Требуется разрешение</u>
         \n\nЧтобы заменить системную панель громкости, требуется несколько разрешений.
         \n\nСейчас мы покажем вам несколько экранов, подробно описывающих эти разрешения, их использование и кнопку для их включения.
@@ -31,7 +30,6 @@
     <string name="icon_colour">Цвет значка</string>
     <string name="background_colour">Цвет фона</string>
     <string name="slider_colour">Цвет ползунка</string>
-    <string name="panel_timeout">Тайм-аут панели</string>
     <string name="show_alarm_panel">Отображать панель будильника</string>
     <string name="default_to_ring_volume">По умолчанию для громкости звонка</string>
     <string name="start_collapsed">Свёрнутая панель</string>
@@ -69,6 +67,7 @@
     <string name="launch">Отображать Volume Panel</string>
     <string name="disable_acc">ПОЖАЛУЙСТА, ОТКЛЮЧИТЕ СЛУЖБУ СПЕЦИАЛЬНЫХ ВОЗМОЖНОСТЕЙ.</string>
     <string name="ver_pos">Вертикальное положение = %1$d%%</string>
+    <string name="play_sound">Звуковые изменения</string>
     <string name="alert">Оповещение об оптимизации</string>
     <string name="bat_opt"><![CDATA[<b>Volume Panel оптимизируется системой и может быть отключена в фоновом режиме</b>.
     <br/><br/>Ни одна из служб Volume Panel не потребляет много заряда, но отключение оптимизации повышает надежность работы.
@@ -105,7 +104,6 @@
         <br/><br/>Вам придется отключить эту опцию, если вы захотите удалить приложение.]]></string>
     <string name="launch_opts">Настройки запуска</string>
     <string name="design">Дизайн</string>
-    <string name="alerts">Оповещения</string>
     <string name="behaviour">Поведение</string>
     <string name="invert_buttons">Поменять местами кнопки громкости</string>
     <string name="position_left_land">Под левую руку в горизонтальном положении</string>

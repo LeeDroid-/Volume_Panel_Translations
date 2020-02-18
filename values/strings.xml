@@ -20,7 +20,6 @@
     <string name="vol_timeout">Panel Timeout = %1$ds</string>
     <string name="yes">Yes</string>
     <string name="notification_listener">Volume Panel Notification Listener</string>
-    <string name="apply">Apply</string>
     <string name="perms"><u>Permissions Required</u>
         \n\nIn order to override the system volume panel, several permissions are required.
         \n\nWe will now show you several screens detailing those permissions, their usage &amp; a button to enable them.
@@ -31,7 +30,6 @@
     <string name="icon_colour">Icon Colour</string>
     <string name="background_colour">Background Colour</string>
     <string name="slider_colour">Slider colour</string>
-    <string name="panel_timeout">Panel Timeout</string>
     <string name="show_alarm_panel">Show Alarm Panel</string>
     <string name="default_to_ring_volume">Default To Ring Volume</string>
     <string name="start_collapsed">Start Collapsed</string>
@@ -71,6 +69,7 @@
     <string name="launch">Show Volume Panel</string>
     <string name="disable_acc">PLEASE DISABLE THE ACCESSIBILITY SERVICE.</string>
     <string name="ver_pos">Vertical Position = %1$d%%</string>
+    <string name="play_sound">Audible Changes</string>
     <string name="alert">Optimisation Alert</string>
     <string name="bat_opt"><![CDATA[<b>Volume Panel is being optimised by the system &amp; may be killed in the background</b>.
     <br/><br/>None of the services in Volume Panel are battery intensive, but disabling optimisation will improve reliability.
@@ -107,7 +106,6 @@
         <br/><br/>You will have to disable this option if you ever need to uninstall the app.]]></string>
     <string name="launch_opts">Launch Options</string>
     <string name="design">Design</string>
-    <string name="alerts">Alerts</string>
     <string name="behaviour">Behaviour</string>
     <string name="invert_buttons">Invert Volume Buttons</string>
     <string name="position_left_land">Left Handed In Landscape</string>

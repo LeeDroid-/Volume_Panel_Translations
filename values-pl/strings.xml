@@ -21,7 +21,6 @@
     <string name="vol_timeout">Limit Czasu Panela = %1$ds</string>
     <string name="yes">Tak</string>
     <string name="notification_listener">Wyświetlanie Powiadomień Panelu Głośności</string>
-    <string name="apply">Zastosuj</string>
     <string name="perms"><u>Wymagane Uprawnienia</u>
         \n\nAby zastąpić panel głośności systemowy, wymaganych jest kilka uprawnień.
         \n\nPokażę teraz ekran z wyszczególnieniem tych uprawnień z przyciskiem, aby je włączyć.
@@ -32,7 +31,6 @@
     <string name="icon_colour">Kolor Ikon</string>
     <string name="background_colour">Kolor Tła</string>
     <string name="slider_colour">Kolor Suwaka</string>
-    <string name="panel_timeout">Limit Czasu Panela</string>
     <string name="show_alarm_panel">Pokaż Panel Alarmu</string>
     <string name="default_to_ring_volume">Domyślna Głośność Dzwonka</string>
     <string name="start_collapsed">Rozpocznij Zwinięty</string>
@@ -68,6 +66,7 @@
     <string name="launch">Pokaż Panel Głośności</string>
     <string name="disable_acc"> PROSZĘ WYŁĄCZYĆ USŁUGĘ DOSTĘPNOŚCI.</string>
     <string name="ver_pos">Pozycja w Pionie = %1$d%%</string>
+    <string name="play_sound">Słyszalne Zmiany</string>
     <string name="alert">Optymalizacja Alertów</string>
     <string name="bat_opt"><![CDATA[<b>Panel głośności jest optymalizowany przez system i może zostać zamknięty w tle</b>.
     <br/><br/>Żadna z usług w Panelu głośności nie wymaga użycia baterii, ale wyłączenie optymalizacji poprawi niezawodność.
@@ -103,7 +102,6 @@
         <br/><br/>Będziesz musiał wyłączyć tę opcję, jeśli kiedykolwiek będziesz musiał odinstalować aplikację.]]></string>
     <string name="launch_opts">Opcje Aktywacji</string>
     <string name="design">Wygląd</string>
-    <string name="alerts">Alerty</string>
     <string name="behaviour">Zachowanie</string>
     <string name="invert_buttons">Odwróć Przyciski Głośności</string>
     <string name="position_left_land">Po Lewej Stronie w Poziomie</string>

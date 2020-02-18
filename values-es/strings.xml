@@ -20,7 +20,6 @@
     <string name="vol_timeout">Tiempo de espera del panel = %1$ds</string>
     <string name="yes">Si</string>
     <string name="notification_listener">Receptor de notificaciones de Volume Panel</string>
-    <string name="apply">Aplicar</string>
     <string name="perms"><u>Se necesitan permisos</u>
         \n\nPara poder anular el panel de volumen del sistema, se necesitan varios permisos. 
         \n\nAhora te mostraré varias pantallas detallando esos permisos, su uso y un botón para habilitarlos.
@@ -31,7 +30,6 @@
     <string name="icon_colour">Color del icono</string>
     <string name="background_colour">Color de fondo</string>
     <string name="slider_colour">Color del deslizador</string>
-    <string name="panel_timeout">Tiempo de espera del panel</string>
     <string name="show_alarm_panel">Mostrar panel de alarma</string>
     <string name="default_to_ring_volume">Volumen de timbre predeterminado</string>
     <string name="start_collapsed">Iniciar contraído</string>
@@ -68,6 +66,7 @@
     <string name="launch">Mostrar Volume Panel</string>
     <string name="disable_acc">POR FAVOR, DESACTIVA EL SERVICIO DE ACCESIBILIDAD.</string>
     <string name="ver_pos">Posición vertical = %1$d%%</string>
+    <string name="play_sound">Cambios audibles</string>
     <string name="alert">Alerta de optimización</string>
     <string name="bat_opt"><![CDATA[<b>Volume Panel está siendo optimizado por el sistema y puede ser deshabilitado en segundo plano</b>.
         <br/><br/>Ninguno de los servicios de Volume Panel son de uso intensivo para la batería, pero la deshabilitación de la optimización mejorará la estabilidad.
@@ -103,7 +102,6 @@
         <br/><br/>Tendrás que desactivar esta opción si alguna vez necesitas desinstalar la aplicación.]]></string>
     <string name="launch_opts">Opciones de Inicio</string>
     <string name="design">Diseño</string>
-    <string name="alerts">Alertas</string>
     <string name="behaviour">Comportamiento</string>
     <string name="invert_buttons">Invertir botones de volumen</string>
     <string name="position_left_land">Posición izquierda en modo horizontal</string>

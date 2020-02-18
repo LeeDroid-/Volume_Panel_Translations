@@ -20,7 +20,6 @@
     <string name="vol_timeout">Timeout do Painel = %1$ds</string>
     <string name="yes">Sim</string>
     <string name="notification_listener">Serviço de Notificações de Volume Panel</string>
-    <string name="apply">Aplicar</string>
     <string name="perms"><u>São Necessárias Permissões</u>
         \n\nPara substituir o painel de volume do sistema, são necessárias várias permissões.
         \n\nIremos agora mostrar vários ecrãs com as permissões, a sua utilização &amp; um botão para as ativar.
@@ -31,7 +30,6 @@
     <string name="icon_colour">Cor de Ícones</string>
     <string name="background_colour">Cor de Fundo</string>
     <string name="slider_colour">Cor da Barra</string>
-    <string name="panel_timeout">Timeout do Painel</string>
     <string name="show_alarm_panel">Mostrar Painel de Alarme</string>
     <string name="default_to_ring_volume">Ajustar Volume de Toque por Defeito</string>
     <string name="start_collapsed">Iniciar Minimizado</string>
@@ -69,6 +67,7 @@
     <string name="launch">Mostrar Volume Panel</string>
     <string name="disable_acc">POR FAVOR DESATIVE O SERVIÇO DE ACESSIBILIDADE.</string>
     <string name="ver_pos">Posição Vertical = %1$d%%</string>
+    <string name="play_sound">Som ao Ajustar</string>
     <string name="alert">Alerta de Otimização</string>
     <string name="bat_opt"><![CDATA[<b>Volume Panel está a ser otimizado pelo sistema &amp; pode ser encerrada no fundo</b>.
     <br/><br/>Nenhum dos serviços de Volume Panel consome muita bateria, mas desativar otimização melhora a fiabilidade.
@@ -105,7 +104,6 @@
         <br/><br/>Terá que desativar esta opção se precisar de desinstalar a aplicação.]]></string>
     <string name="launch_opts">Opções de Arranque</string>
     <string name="design">Desenho</string>
-    <string name="alerts">Alertas</string>
     <string name="behaviour">Comportamento</string>
     <string name="invert_buttons">Inverter Botões de Volume</string>
     <string name="position_left_land">Mode Esquerdino em Paisagem</string>

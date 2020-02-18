@@ -21,7 +21,6 @@
     <string name="vol_timeout">Panel Zaman Aşımı = %1$ds</string>
     <string name="yes">Evet</string>
     <string name="notification_listener">Volume Panel Bildirim Dinleyici</string>
-    <string name="apply">Uygula</string>
     <string name="perms"><u>İzinler Gerekli</u>
         \n\nSistem ses panelini geçersiz kılmak için çeşitli izinler gerekir.
         \n\nŞimdi bunları etkinleştirmek için bir düğme ile bu izinleri detaylandıran bir ekran göstereceğim.
@@ -32,7 +31,6 @@
     <string name="icon_colour">Simge Rengi</string>
     <string name="background_colour">Arka Plan Rengi</string>
     <string name="slider_colour">Kaydırıcı Rengi</string>
-    <string name="panel_timeout">Panel Zaman Aşımı</string>
     <string name="show_alarm_panel">Alarm Panelini Göster</string>
     <string name="default_to_ring_volume">Varsayılan Olarak Zil Sesi</string>
     <string name="start_collapsed">Daraltılmış Başlat</string>
@@ -69,6 +67,7 @@
     <string name="launch">Volume Panel\'i Göster</string>
     <string name="disable_acc">LÜTFEN ERİŞİLEBİLİRLİK HİZMETİNİ DEVRE DIŞI BIRAKIN.</string>
     <string name="ver_pos">Dikey Konum = %1$d%%</string>
+    <string name="play_sound">Sesli Değişiklikler</string>
     <string name="alert">Optimizasyon Uyarısı</string>
     <string name="bat_opt"><![CDATA[<b>Volume Panel sistem tarafından optimize ediliyor &amp; arka planda sonlandırılabilir</b>.
     <br/><br/>Volume Panel\'deki hizmetlerin hiçbiri pili yoğun kullanmaz, ancak optimizasyonu devre dışı bırakmak güvenilirliği artıracaktır.
@@ -103,7 +102,6 @@
         <br/><br/>Uygulamayı kaldırmanız gerekirse, bu seçeneği devre dışı bırakmanız gerekecektir.]]></string>
     <string name="launch_opts">Başlatma Seçenekleri</string>
     <string name="design">Tasarım</string>
-    <string name="alerts">Uyarılar</string>
     <string name="behaviour">Davranış</string>
     <string name="invert_buttons">Ses Tuşlarını Ters Çevir</string>
     <string name="position_left_land">Yatay Modda Solak</string>
