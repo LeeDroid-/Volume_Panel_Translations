@@ -119,10 +119,9 @@
     <string name="rate_it"><![CDATA[<p style="text-align:center"><b>Нравится Volume Panel?</b>
         <br/><br/>Пожалуйста, оставьте отзыв в Play Маркете!
         <br/><br/>\u2b50\u2b50\u2b50\u2b50\u2b50</p>]]></string>
-    <string name="pro_only">Доступно только Volume Panel Pro</string>
+    <string name="pro_only"> - Только Pro</string>
     <string name="pro_un">Убрать рекламу и разблокировать все функции.</string>
     <string name="suspend">Отклонить</string>
-    <string name="hide_nav">Скрыть панель навигации</string>
     <string name="hide_full">Невидимый в полноэкранном режиме</string>
     <string name="notif_access"><u>Доступ к уведомлениям</u>
         \n\n\u2022 Это разрешение позволяет обнаруживать активный Casting или Streaming.
@@ -137,9 +136,7 @@
     <string name="disable_notif">ПОЖАЛУЙСТА, ОТКЛЮЧИТЕ СЛУЖБУ ДОСТУПА К УВЕДОМЛЕНИЯМ</string>
     <string name="up_launch">Запускать только по нажатию кнопки громкости +</string>
     <string name="up_launch_sum">\u2022 Панель будет запускаться только при нажатии на кнопку громкости +.</string>
-    <string name="click_out">Нажать в любом месте для закрытия</string>
-    <string name="click_out_sum">\u2022 Может мешать другим приложениям.
-        \n\u2022 При отключении панель закроется только по тайм-ауту.</string>
+    <string name="click_out_sum">\u2022 Может мешать другим приложениям.</string>
     <string name="trigger_scale_tx">Размер триггера = %1$d%% X</string>
     <string name="trigger_scale_ty">Размер триггера = %1$d%% Y</string>
     <string name="corner_scale">Радиус скругления углов = %1$d%%</string>
@@ -175,4 +172,6 @@
     <string name="border_thickness">Толщина границы = %1$d dp</string>
     <string name="google_assistant">Отображать кнопку ассистента</string>
     <string name="flash_light">Отображать кнопку фонарика</string>
+    <string name="detect_keys">Определить нажатие кнопок при открытии</string>
+    <string name="switch_theme">Переключить тему</string>
 </resources>

@@ -118,10 +118,9 @@
         <br/><br/>Lütfen play store\'da bir inceleme bırakın!
         <br/><br/>\u2b50\u2b50\u2b50\u2b50\u2b50</p>]]></string>
     <string name="pro">Volume Panel Pro\'ya Yükselt!</string>
-    <string name="pro_only">Yalnızca Volume Panel Pro\'da Kullanılabilir</string>
+    <string name="pro_only"> - Yalnızca Pro</string>
     <string name="pro_un">Reklamları Kaldır &amp; Tüm Özelliklerin Kilidini Aç.</string>
     <string name="suspend">Askıya Al</string>
-    <string name="hide_nav">Gezinti Çubuğunu Gizle</string>
     <string name="hide_full">Tam Ekranda Gösterme</string>
     <string name="dnd_access"><u>Rahatsız Etmeyin Erişimi</u>
         \n\nBu izin, Rahatsız Etme Ayarlarını değiştirmemize izin verir.
@@ -136,9 +135,7 @@
     <string name="disable_notif">LÜTFEN BİLDİRİM ERİŞİMİNİ DEVRE DIŞI BIRAKIN</string>
     <string name="up_launch">Yalnızca Ses Açmaya Basıldığında Başlat</string>
     <string name="up_launch_sum">\u2022 Panel yalnızca Ses Açma tuşuna basıldığında açılır.</string>
-    <string name="click_out">Kapatmak İçin Dışarı Tıkla</string>
-    <string name="click_out_sum">\u2022 Etkinleştirildiğinde diğer uygulamalara müdahale edebilir.
-        \n\u2022 Devre dışı bırakıldığında panel yalnızca zaman aşımından sonra kapanır.</string>
+    <string name="click_out_sum">\u2022 Etkinleştirildiğinde diğer uygulamalara müdahale edebilir.</string>
     <string name="trigger_scale_tx">Tetikleyici Ölçeği = %1$d%% X</string>
     <string name="trigger_scale_ty">Tetikleyici Ölçeği = %1$d%% Y</string>
     <string name="corner_scale">Köşe Yarıçapı = %1$d%%</string>
@@ -176,4 +173,6 @@
     <string name="border_thickness">Kenarlık Kalınlığı = %1$d dp</string>
     <string name="google_assistant">Asistan Düğmesini Göster</string>
     <string name="flash_light">Fener Düğmesini Göster</string>
+    <string name="detect_keys">Açıldığında Tuşlara Basmayı Algıla</string>
+    <string name="switch_theme">Temayı Değiştir</string>
 </resources>

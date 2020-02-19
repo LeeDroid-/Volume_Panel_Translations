@@ -121,10 +121,9 @@
     <string name="rate_it"><![CDATA[<p style="text-align:center"><b>Enjoying Volume Panel?</b>
         <br/><br/>Please leave a review in the play store!
         <br/><br/>\u2b50\u2b50\u2b50\u2b50\u2b50</p>]]></string>
-    <string name="pro_only">Only Available In Volume Panel Pro</string>
+    <string name="pro_only"> - Pro Only</string>
     <string name="pro_un">Remove Advertising &amp; Unlock All Features.</string>
     <string name="suspend">Suspend</string>
-    <string name="hide_nav">Hide Nav Bar</string>
     <string name="hide_full">Invisible In Full Screen</string>
     <string name="notif_access"><u>Notification Access</u>
         \n\n\u2022 This permission allows us to detect active Casting or Streaming.
@@ -139,9 +138,7 @@
     <string name="disable_notif">PLEASE DISABLE NOTIFICATION ACCESS</string>
     <string name="up_launch">Launch On Vol + Press Only</string>
     <string name="up_launch_sum">\u2022 The panel will only launch when Vol + is pressed.</string>
-    <string name="click_out">Click Outside To Close</string>
-    <string name="click_out_sum">\u2022 May interfere with other apps when enabled.
-        \n\u2022 When disabled the panel will close on timeout only.</string>
+    <string name="click_out_sum">\u2022 May interfere with other apps when enabled.</string>
     <string name="slide_heightx">Panel Scale = %1$d%% X</string>
     <string name="slide_heighty">Panel Scale = %1$d%% Y</string>
     <string name="trigger_scale_tx">Trigger Scale = %1$d%% X</string>
@@ -179,4 +176,6 @@
     <string name="border_thickness">Border Thickness = %1$d dp</string>
     <string name="google_assistant">Show Assistant Button</string>
     <string name="flash_light">Show Flashlight Button</string>
+    <string name="detect_keys">Detect Key Presses When Open</string>
+    <string name="switch_theme">Switch Theme</string>
 </resources>

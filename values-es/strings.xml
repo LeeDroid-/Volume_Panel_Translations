@@ -119,10 +119,9 @@
         <br/><br/>\u2b50\u2b50\u2b50\u2b50\u2b50</p>]]></string>
     <string name="disable">Deshabilitar</string>
     <string name="pro">¡Actualiza a Volume Panel Pro!</string>
-    <string name="pro_only">Solo disponible en Volume Panel Pro</string>
+    <string name="pro_only"> - Solo Pro</string>
     <string name="pro_un">Elimina la publicidad y desbloquea todas las funciones.</string>
     <string name="suspend">Suspender</string>
-    <string name="hide_nav">Ocultar barra de navegación</string>
     <string name="hide_full">Invisible a pantalla completa</string>
     <string name="dnd_access"><u>Acceso a No molestar</u>
         \n\nEste permiso nos permite modificar la configuración de No molestar.
@@ -137,9 +136,7 @@
     <string name="disable_notif">POR FAVOR, DESACTIVA EL ACCESO A LAS NOTIFICACIONES</string>
     <string name="up_launch">Iniciar solo presionando Vol +</string>
     <string name="up_launch_sum">\u2022 El panel solo se iniciará cuando se presione Vol +.</string>
-    <string name="click_out">Pulsar fuera para cerrar</string>
-    <string name="click_out_sum">\u2022 Puede interferir con otras aplicaciones cuando se habilita.
-        \n\u2022 Cuando está desactivado, el panel se cerrará solo cuando se agote el tiempo de espera.</string>
+    <string name="click_out_sum">\u2022 Puede interferir con otras aplicaciones al habilitarlo.</string>
     <string name="trigger_scale_tx">Escala del deslizador = %1$d%% X</string>
     <string name="trigger_scale_ty">Escala del deslizador = %1$d%% Y</string>
     <string name="corner_scale">Radio de las esquinas = %1$d%%</string>
@@ -164,17 +161,19 @@
     <string name="long_press"><![CDATA[Presiona y arrastra los paneles para reordenarlos.]]></string>
     <string name="killer_info"><![CDATA[Para más información visita:<br/>
         http://www.dontkillmyapp.com/]]></string>
-    <string name="tips"><![CDATA[<b>Tips:</b><br/><br/>
-    <b>Audio doesn\'t change in some apps:<br/></b><br/>
-    Some apps like Instagram & Snapchat take complete audio focus & attempt to capture audio buttons them selves,
-     if you experience this issue, please enable the \"Exclude Applications\" option and add the offending apps to the list.<br/><br/>
-    <b>The system audio panel keeps returning:<br/></B><br/>
-    It\'s highly likely that your system is killing the Volume Panel accessibility service, if this happens,
-    please make sure battery & memory optimisation is disabled for the app, enabling the \"Swipe Up/Down Trigger\" may help too.<br/>
-    For more information visit: http://www.dontkillmyapp.com/]]></string>
-    <string name="add_border">Enable Panel Borders</string>
-    <string name="border_colour">Border Colour</string>
-    <string name="border_thickness">Border Thickness = %1$d dp</string>
-    <string name="google_assistant">Show Assistant Button</string>
-    <string name="flash_light">Show Flashlight Button</string>
+    <string name="tips"><![CDATA[<b>Consejos:</b><br/><br/>
+    <b>El audio no cambia en algunas aplicaciones:<br/></b><br/>
+    Algunas aplicaciones como Instagram y Snapchat toman un enfoque de audio completo e intentan capturar los botones de audio,
+     si experimentas este problema, por favor habilita la opción \"Excluir aplicaciones\" y agrega las aplicaciones causantes a la lista.<br/><br/>
+    <b>El panel de audio del sistema sigue apareciendo:<br/></B><br/>
+    Es muy probable que tu sistema esté anulando el servicio de acceso al panel de volumen, si esto ocurre,
+    por favor, asegúrate de que la optimización de la batería y la memoria está desactivada para la aplicación, habilitar el \"Activador Flotante\" también puede ayudar.<br/>
+    Para más información visita: http://www.dontkillmyapp.com/]]></string>
+    <string name="add_border">Habilitar bordes en panel</string>
+    <string name="border_colour">Color del borde</string>
+    <string name="border_thickness">Espesor de los bordes = %1$d dp</string>
+    <string name="google_assistant">Mostrar botón del asistente</string>
+    <string name="flash_light">Mostrar botón de la linterna</string>
+    <string name="detect_keys">Detectar pulsaciones al iniciar</string>
+    <string name="switch_theme">Cambiar tema</string>
 </resources>

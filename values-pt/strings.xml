@@ -119,10 +119,9 @@
     <string name="rate_it"><![CDATA[<p style="text-align:center"><b>Está a gostar de Volume Panel?</b>
         <br/><br/>Por favor deixe uma crítica na Play Store!
         <br/><br/>\u2b50\u2b50\u2b50\u2b50\u2b50</p>]]></string>
-    <string name="pro_only">Só disponível Em Volume Panel Pro</string>
+    <string name="pro_only"> - Só Pro</string>
     <string name="pro_un">Remover Publicidade &amp; Desbloquear Todas as Funcionalidades.</string>
     <string name="suspend">Suspender</string>
-    <string name="hide_nav">Esconder Barra de Navegação</string>
     <string name="hide_full">Invisível Em Ecrã Inteiro</string>
     <string name="notif_access"><u>Acesso a Notificações</u>
         \n\n\u2022 Esta permissão deixa-nos detetar quando Transmitir está ativo.
@@ -137,9 +136,7 @@
     <string name="disable_notif">POR FAVOR DESATIVE ACESSO A NOTIFICAÇÕES</string>
     <string name="up_launch">Ativar Apenas com Vol +</string>
     <string name="up_launch_sum">\u2022 O painel só será ativado ao premir Vol +.</string>
-    <string name="click_out">Clicar Fora para Fechar</string>
-    <string name="click_out_sum">\u2022 Pode interferir com outras aplicações quando ativado.
-        \n\u2022 Quando desativado, o painel fecha passado um tempo definido.</string>
+    <string name="click_out_sum">\u2022 Pode interferir com outras aplicações quando ativado.</string>
     <string name="trigger_scale_tx">Escala do Atalho = %1$d%% X</string>
     <string name="trigger_scale_ty">Escala do Atalho = %1$d%% Y</string>
     <string name="corner_scale">Raio dos Cantos = %1$d%%</string>
@@ -171,9 +168,12 @@
     <string name="add_border">Ativar Contornos do Painel</string>
     <string name="border_colour">Cor dos Contornos</string>
     <string name="border_thickness">Largura dos Contornos = %1$d dp</string>
+    <string name="free">Disable Free Version</string>
     <string name="free_installed">Volume Panel Free está a sobrepôr-se ao painel de volume do sistema, por favor desative-a para evitar conflitos.</string>
     <string name="media">"Vol Média = "</string>
     <string name="system_warn">Quando ativa qualquer serviço de acessibilidade, é-lhe apresentado um aviso genérico do sistema Android. Para sua tranquilidade,j informa-se que Volume Panel não captura quaisquer outras teclas ou conteúdos &amp; no tem nem precisa de permissão de acesso à internet..</string>
     <string name="google_assistant">Mostrar botão de Assistente</string>
     <string name="flash_light">Mostrar Botão de Lanterna</string>
-</resources
+    <string name="detect_keys">Detetar Botões Enquanto Aberto</string>
+    <string name="switch_theme">Mudar Tema</string>
+</resources>

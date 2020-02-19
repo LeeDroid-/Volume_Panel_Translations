@@ -118,10 +118,9 @@
         <br/><br/>Proszę zostawić opinię w Sklepie Play!
         <br/><br/>\u2b50\u2b50\u2b50\u2b50\u2b50</p>]]></string>
     <string name="pro">Uaktualnij Do Volume Panel Pro!</string>
-    <string name="pro_only">Dostępne Tylko w Volume Panel Pro</string>
+    <string name="pro_only"> - Tylko Dla Pro</string>
     <string name="pro_un">Usuń Reklamy &amp; Odblokuj Wszystkie Funkcje.</string>
     <string name="suspend">Pauza</string>
-    <string name="hide_nav">Ukryj Pasek Nawigacyjny</string>
     <string name="hide_full">Ukryj Na Pełnym Ekranie</string>
     <string name="dnd_access"><u>Dostęp Do Nie Przeszkadzać</u>
         \n\nTo uprawnienie pozwala nam modyfikować ustawienia Nie Przeszkadzać.
@@ -136,9 +135,7 @@
     <string name="disable_notif">PROSZĘ O WYŁACZENIE DOSTĘPU DO POWIADOMIEŃ</string>
     <string name="up_launch">Uruchom po Nacisnięciu Vol +</string>
     <string name="up_launch_sum">\u2022 Panel uruchomi się tylko po naciśnięciu Vol +.</string>
-    <string name="click_out">Kliknij Na Zewnątrz Aby Zamknąć</string>
-    <string name="click_out_sum">\u2022 Po włączeniu może zakłócać działanie innych aplikacji.
-        \n\u2022 Po wyłączeniu panel zamknie się tylko po przekroczeniu limitu czasu.</string>
+    <string name="click_out_sum">\u2022 Po włączeniu może zakłócać działanie innych aplikacji.</string>
     <string name="trigger_scale_tx">Skala wyzwalania = %1$d%% X</string>
     <string name="trigger_scale_ty">Skala wyzwalania = %1$d%% Y</string>
     <string name="corner_scale">Promień narożnika = %1$d%%</string>
@@ -174,4 +171,6 @@
     <string name="border_thickness">Grubość Ramki = %1$d dp</string>
     <string name="google_assistant">Pokaż Przycisk Asystenta</string>
     <string name="flash_light">Pokaż Przycisk Latarki</string>
+    <string name="detect_keys">Wykryj Naciśnięcia Klawiszy Po Otwarciu</string>
+    <string name="switch_theme">Zmień Motyw</string>
 </resources>

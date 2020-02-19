@@ -122,10 +122,9 @@
     <string name="rate_it"><![CDATA[<p style="text-align:center"><b>هل تستمتع بتطبيق لوحة التحكم في الصوت ؟</b>
         <br/><br/>يرجى ترك تعليق في متجر جوجل!
         <br/><br/>\u2b50\u2b50\u2b50\u2b50\u2b50</p>]]></string>
-    <string name="pro_only">متوفر فقط في لوحة التحكم في الصوت برو الاصدار الاحترافي</string>
+    <string name="pro_only">- برو فقط</string>
     <string name="pro_un">حذف الإعلانات &amp; فتح جميع الميزات.</string>
     <string name="suspend">تعليق</string>
-    <string name="hide_nav">إخفاء شريط التنقل</string>
     <string name="hide_full">غير مرئية في وضع ملء الشاشة</string>
     <string name="notif_access"><u>الوصول للإشعارات</u>
         \n\n\u2022 يسمح لنا هذا الإذن باكتشاف عمليات البث النشطة.
@@ -140,9 +139,7 @@
     <string name="disable_notif">يرجى تعطيل وصول للإشعارات</string>
     <string name="up_launch">تشغيل بالضغط علي زر الصوت لأعلي فقط </string>
     <string name="up_launch_sum">\u2022 لن يتم تشغيل لوحة التحكم إلا عند الضغط على زر رفع الصوت.</string>
-    <string name="click_out">للإغلاق أضغط بالخارج</string>
-    <string name="click_out_sum">\u2022 قد يتداخل مع تطبيقات أخري عند تفعيله.
-        \n\u2022 عند تعطيله ، سيتم إغلاق لوحة التحكم بعد المهلة فقط.</string>
+    <string name="click_out_sum">\u2022 قد يتداخل مع تطبيقات أخري عند تفعيله.</string>
     <string name="slide_heightx">X %1$d%% = مقياس لوحة التحكم = </string>
     <string name="slide_heighty">Y %1$d%% = مقياس لوحة التحكم = </string>
     <string name="trigger_scale_tx">X %1$d%% = مقياس التفعيل</string>
@@ -180,4 +177,6 @@
     <string name="border_thickness">سماكة الإطار = %1$d dp</string>
     <string name="google_assistant">أظهر زر المساعد</string>
     <string name="flash_light">أظهر زر الفلاش</string>
+    <string name="detect_keys">أكتشاف ضغطات المفاتيح عند الفتح</string>
+    <string name="switch_theme">تغيير الثيمات</string>
 </resources>
