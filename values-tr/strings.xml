@@ -67,7 +67,7 @@
     <string name="launch">Volume Panel\'i Göster</string>
     <string name="disable_acc">LÜTFEN ERİŞİLEBİLİRLİK HİZMETİNİ DEVRE DIŞI BIRAKIN.</string>
     <string name="ver_pos">Dikey Konum = %1$d%%</string>
-    <string name="play_sound">Sesli Değişiklikler</string>
+    <string name="play_sound">Ses Ayarlama Sesi</string>
     <string name="alert">Optimizasyon Uyarısı</string>
     <string name="bat_opt"><![CDATA[<b>Volume Panel sistem tarafından optimize ediliyor &amp; arka planda sonlandırılabilir</b>.
     <br/><br/>Volume Panel\'deki hizmetlerin hiçbiri pili yoğun kullanmaz, ancak optimizasyonu devre dışı bırakmak güvenilirliği artıracaktır.
