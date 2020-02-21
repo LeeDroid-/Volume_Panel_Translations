@@ -176,6 +176,6 @@
     <string name="flash_light">Mostrar Botão de Lanterna</string>
     <string name="detect_keys">Detetar Botões Enquanto Aberto</string>
     <string name="switch_theme">Mudar Tema</string>
-    <string name="block_vold_lp">Block Vol Down Long Press</string>
-    <string name="block_vold_lp_sum">\u2022 Fixes Vol + Power screenshot issues.</string>
+    <string name="block_vold_lp">Bloquear Premir e Segurar Vol-</string>
+	    <string name="block_vold_lp_sum">\u2022 Resolve problemas com captura de ecrã com Vol + Ligar/Desligar.</string>
 </resources>
