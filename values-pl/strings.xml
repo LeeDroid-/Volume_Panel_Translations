@@ -138,6 +138,7 @@
     <string name="click_out_sum">\u2022 Po włączeniu może zakłócać działanie innych aplikacji.</string>
     <string name="trigger_scale_tx">Skala wyzwalania = %1$d%% X</string>
     <string name="trigger_scale_ty">Skala wyzwalania = %1$d%% Y</string>
+    <string name="click_out">Kliknij Na Zewnątrz Aby Zamknąć</string>
     <string name="corner_scale">Promień narożnika = %1$d%%</string>
     <string name="free">Wyłącz bezpłatną wersję</string>
     <string name="free_installed">Volume Panel Free jest obecnie nadrzędny w stosunku do panelu głośności systemu, proszę go wyłączyć, aby uniknąć konfliktów.</string>
@@ -175,4 +176,5 @@
     <string name="switch_theme">Zmień Motyw</string>
     <string name="block_vold_lp">Blokuj Zmniejszanie Głośności po Długim Naciśnięciu</string>
     <string name="block_vold_lp_sum">\u2022 Naprawiono problemy ze zrzutami ekranu Vol + Power.</string>
+    <string name="lock_ring_vol">Lock Ring Slider In Vibrate/Silent</string>
 </resources>

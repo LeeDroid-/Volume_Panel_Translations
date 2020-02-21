@@ -135,6 +135,7 @@
     <string name="disable_notif">LÜTFEN BİLDİRİM ERİŞİMİNİ DEVRE DIŞI BIRAKIN</string>
     <string name="up_launch">Yalnızca Ses Açmaya Basıldığında Başlat</string>
     <string name="up_launch_sum">\u2022 Panel yalnızca Ses Açma tuşuna basıldığında açılır.</string>
+    <string name="click_out">Kapatmak İçin Dışarı Tıkla</string>
     <string name="click_out_sum">\u2022 Etkinleştirildiğinde diğer uygulamalara müdahale edebilir.</string>
     <string name="trigger_scale_tx">Tetikleyici Ölçeği = %1$d%% X</string>
     <string name="trigger_scale_ty">Tetikleyici Ölçeği = %1$d%% Y</string>
@@ -177,4 +178,5 @@
     <string name="switch_theme">Temayı Değiştir</string>
     <string name="block_vold_lp">Ses Kısmaya Uzun Basmayı Engelle</string>
     <string name="block_vold_lp_sum">\u2022 Ses + Güç tuşuyla olan ekran görüntüsü sorunlarını giderir.</string>
+    <string name="lock_ring_vol">Lock Ring Slider In Vibrate/Silent</string>
 </resources>

@@ -136,6 +136,7 @@
     <string name="disable_notif">POR FAVOR DESATIVE ACESSO A NOTIFICAÇÕES</string>
     <string name="up_launch">Ativar Apenas com Vol +</string>
     <string name="up_launch_sum">\u2022 O painel só será ativado ao premir Vol +.</string>
+    <string name="click_out">Clicar Fora para Fechar</string>
     <string name="click_out_sum">\u2022 Pode interferir com outras aplicações quando ativado.</string>
     <string name="trigger_scale_tx">Escala do Atalho = %1$d%% X</string>
     <string name="trigger_scale_ty">Escala do Atalho = %1$d%% Y</string>
@@ -178,4 +179,5 @@
     <string name="switch_theme">Mudar Tema</string>
     <string name="block_vold_lp">Bloquear Premir e Segurar Vol-</string>
 	    <string name="block_vold_lp_sum">\u2022 Resolve problemas com captura de ecrã com Vol + Ligar/Desligar.</string>
+    <string name="lock_ring_vol">Lock Ring Slider In Vibrate/Silent</string>
 </resources>

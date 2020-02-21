@@ -138,6 +138,7 @@
     <string name="margin">%1$d dp = حافة لوحة التحكم = </string>
     <string name="disable_notif">يرجى تعطيل وصول للإشعارات</string>
     <string name="up_launch">تشغيل بالضغط علي زر الصوت لأعلي فقط </string>
+    <string name="click_out">للإغلاق أضغط بالخارج</string>
     <string name="up_launch_sum">\u2022 لن يتم تشغيل لوحة التحكم إلا عند الضغط على زر رفع الصوت.</string>
     <string name="click_out_sum">\u2022 قد يتداخل مع تطبيقات أخري عند تفعيله.</string>
     <string name="slide_heightx">X %1$d%% = مقياس لوحة التحكم = </string>
@@ -181,4 +182,5 @@
     <string name="switch_theme">تغيير الثيمات</string>
     <string name="block_vold_lp">Block Vol Down Long Press</string>
     <string name="block_vold_lp_sum">\u2022 Fixes Vol + Power screenshot issues.</string>
+    <string name="lock_ring_vol">Lock Ring Slider In Vibrate/Silent</string>
 </resources>

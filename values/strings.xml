@@ -138,6 +138,7 @@
     <string name="disable_notif">PLEASE DISABLE NOTIFICATION ACCESS</string>
     <string name="up_launch">Launch On Vol + Press Only</string>
     <string name="up_launch_sum">\u2022 The panel will only launch when Vol + is pressed.</string>
+    <string name="click_out">Click Outside To Close</string>
     <string name="click_out_sum">\u2022 May interfere with other apps when enabled.</string>
     <string name="slide_heightx">Panel Scale = %1$d%% X</string>
     <string name="slide_heighty">Panel Scale = %1$d%% Y</string>
@@ -180,4 +181,5 @@
     <string name="switch_theme">Switch Theme</string>
     <string name="block_vold_lp">Block Vol Down Long Press</string>
     <string name="block_vold_lp_sum">\u2022 Fixes Vol + Power screenshot issues.</string>
+    <string name="lock_ring_vol">Lock Ring Slider In Vibrate/Silent</string>
 </resources>

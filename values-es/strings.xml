@@ -135,6 +135,7 @@
     <string name="margin">Posición horizontal = %1$d dp</string>
     <string name="disable_notif">POR FAVOR, DESACTIVA EL ACCESO A LAS NOTIFICACIONES</string>
     <string name="up_launch">Iniciar solo presionando Vol +</string>
+    <string name="click_out">Pulsar fuera para cerrar</string>
     <string name="up_launch_sum">\u2022 El panel solo se iniciará cuando se presione Vol +.</string>
     <string name="click_out_sum">\u2022 Puede interferir con otras aplicaciones al habilitarlo.</string>
     <string name="trigger_scale_tx">Escala del deslizador = %1$d%% X</string>
@@ -178,4 +179,5 @@
     <string name="switch_theme">Cambiar tema</string>
     <string name="block_vold_lp">Block Vol Down Long Press</string>
     <string name="block_vold_lp_sum">\u2022 Fixes Vol + Power screenshot issues.</string>
+    <string name="lock_ring_vol">Lock Ring Slider In Vibrate/Silent</string>
 </resources>
