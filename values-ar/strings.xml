@@ -179,4 +179,6 @@
     <string name="flash_light">أظهر زر الفلاش</string>
     <string name="detect_keys">أكتشاف ضغطات المفاتيح عند الفتح</string>
     <string name="switch_theme">تغيير الثيمات</string>
+    <string name="block_vold_lp">Block Vol Down Long Press</string>
+    <string name="block_vold_lp_sum">\u2022 Fixes Vol + Power screenshot issues.</string>
 </resources>
