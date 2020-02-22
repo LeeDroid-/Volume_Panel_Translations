@@ -134,7 +134,7 @@
     <string name="cast">Управление громкостью трансляции</string>
     <string name="margin">Грани панели = %1$d dp</string>
     <string name="disable_notif">ПОЖАЛУЙСТА, ОТКЛЮЧИТЕ СЛУЖБУ ДОСТУПА К УВЕДОМЛЕНИЯМ</string>
-    <string name="up_launch">Запускать только по нажатию кнопки громкости +</string>
+    <string name="up_launch">Запускать только по нажатию кнопки Громкость +</string>
     <string name="up_launch_sum">\u2022 Панель будет запускаться только при нажатии на кнопку громкости +.</string>
     <string name="click_out_sum">\u2022 Может мешать другим приложениям.</string>
     <string name="trigger_scale_tx">Размер триггера = %1$d%% X</string>
@@ -175,7 +175,7 @@
     <string name="flash_light">Отображать кнопку фонарика</string>
     <string name="detect_keys">Определить нажатие кнопок при открытии</string>
     <string name="switch_theme">Переключить тему</string>
-    <string name="block_vold_lp" >Блокировать долгое нажатие кнопки Громкость -</string>
-    <string name="block_vold_lp_sum" >\u2022 Исправление ошибки после нажатия кнопок Громкость и Питание для скриншота.</string >
-    <string name="lock_ring_vol">Lock Ring Slider In Vibrate/Silent</string>
+    <string name="block_vold_lp">Блокировать долгое нажатие кнопки Громкость -</string>
+    <string name="block_vold_lp_sum">\u2022 Исправление ошибки после нажатия кнопок Громкость и Питание для скриншота.</string>
+    <string name="lock_ring_vol">Заблокировать ползунок громкости звонка в бесшумном режиме или вибрации</string>
 </resources>

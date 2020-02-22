@@ -176,5 +176,5 @@
     <string name="switch_theme">Zmień Motyw</string>
     <string name="block_vold_lp">Blokuj Zmniejszanie Głośności po Długim Naciśnięciu</string>
     <string name="block_vold_lp_sum">\u2022 Naprawiono problemy ze zrzutami ekranu Vol + Power.</string>
-    <string name="lock_ring_vol">Lock Ring Slider In Vibrate/Silent</string>
+    <string name="lock_ring_vol">Blokuj Suwak w Trybie Cichym/Wibracji</string>
 </resources>

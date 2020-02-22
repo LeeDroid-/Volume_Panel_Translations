@@ -178,5 +178,5 @@
     <string name="switch_theme">Temayı Değiştir</string>
     <string name="block_vold_lp">Ses Kısmaya Uzun Basmayı Engelle</string>
     <string name="block_vold_lp_sum">\u2022 Ses + Güç tuşuyla olan ekran görüntüsü sorunlarını giderir.</string>
-    <string name="lock_ring_vol">Lock Ring Slider In Vibrate/Silent</string>
+    <string name="lock_ring_vol">Sessiz/Titreşimde Zil Sesi Kaydırıcıyı Engelle</string>
 </resources>
