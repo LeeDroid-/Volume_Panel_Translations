@@ -180,4 +180,5 @@
     <string name="block_vold_lp">Bloquear mantener pulsado Vol -</string>
     <string name="block_vold_lp_sum">\u2022 Soluciona los problemas de las capturas de pantalla mediante los botones de Volumen y Encendido.</string>
     <string name="lock_ring_vol">Bloquear deslizador del panel de timbre en Vibración/Silencio</string>
+    <string name="show_lock">Show When Locked</string>
 </resources>

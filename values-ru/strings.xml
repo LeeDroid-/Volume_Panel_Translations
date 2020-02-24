@@ -178,4 +178,5 @@
     <string name="block_vold_lp">Блокировать долгое нажатие кнопки Громкость -</string>
     <string name="block_vold_lp_sum">\u2022 Исправление ошибки после нажатия кнопок Громкость и Питание для скриншота.</string>
     <string name="lock_ring_vol">Заблокировать ползунок громкости звонка в бесшумном режиме или вибрации</string>
+    <string name="show_lock">Show When Locked</string>
 </resources>
