@@ -183,5 +183,6 @@
     <string name="block_vold_lp">ايقاف الضغط المطول لزر خفض الصوت </string>
     <string name="block_vold_lp_sum">\u2022 اصلاح مشاكل لقطة الشاشة عند الضغط علي زر الطاقة و زر رفع الصوت.</string>
     <string name="lock_ring_vol">تعطيل مؤشر الرنين في الوضع الصامت / الإهتزاز</string>
-    <string name="show_lock">Show When Locked</string>
+    <string name="show_lock">تظهر عندما مغلق</string>
+    <string name="fill_style">Use Solid Sliders</string>
 </resources>
