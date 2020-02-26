@@ -181,5 +181,5 @@
     <string name="block_vold_lp_sum">\u2022 Resolve problemas com captura de ecrã com Vol + Ligar/Desligar.</string>
     <string name="lock_ring_vol">Bloquear Deslizador de Alerta em Vibrar/Silêncio</string>
     <string name="show_lock">Mostrar no Ecrã de Bloqueio</string>
-    <string name="fill_style">Use Solid Sliders</string>
+    <string name="fill_style">Usar Barras Preenchidas</string>
 </resources>
