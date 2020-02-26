@@ -180,5 +180,5 @@
     <string name="block_vold_lp_sum">\u2022 Ses + Güç tuşuyla olan ekran görüntüsü sorunlarını giderir.</string>
     <string name="lock_ring_vol">Sessiz/Titreşimde Zil Sesi Kaydırıcıyı Engelle</string>
     <string name="show_lock">Kilitliyken Göster</string>
-    <string name="fill_style">Use Solid Sliders</string>
+    <string name="fill_style">Katı Kaydırıcıları Kullan</string>
 </resources>
