@@ -156,7 +156,7 @@
     <string name="show_bright_panel">Ekran Parlaklığı Paneli</string>
     <string name="show_lock">Kilitliyken Göster</string>
     <string name="show_notif">Bildirim Panelini Göster</string>
-    <string name="show_ring_panel">Zil Panelini Göster</string>
+    <string name="show_ring_panel">Zil Sesi Panelini Göster</string>
     <string name="silent">Sessiz</string>
     <string name="slide_heightx">Panel Ölçeği X = %1$d%%</string>
     <string name="slide_heightxs">Panel Ölçeği X</string>
