@@ -1,48 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resources>
-    <string name="additonal_perms_req">Additional Permissions Required</string>
-    <string name="proceed">Proceed</string>
-    <string name="app_name">Volume Panel</string>
-    <string name="volumeui">Volume UI</string>
-    <string name="overlay_needed"><u>System Overlay</u>
-        \n\nThis permission is required for us to display the Volume Panel over other apps.</string>
-    <string name="failed_window_add">Failed to add window, please open the app and make sure Screen Overlay permissions have been granted</string>
-    <string name="cp_head">Tap CENTER to confirm</string>
-    <string name="transparency">Transparency</string>
-    <string name="disable">Disable</string>
-    <string name="cancel">Cancel</string>
-    <string name="press_back">Once complete, press back to return to the app.</string>
-    <string name="accessibility_description"><u>Accessibility Access</u>
-        \n\nThis permission allows us to detect volume +\\- key presses.
-        \n\nNo other content is captured.
-        \n\nSome devices may require a reboot to start the service.</string>
-    <string name="need_dnd">Do Not Disturb Permissions Required</string>
-    <string name="no">No</string>
-    <string name="vol_timeout">Panel Timeout = %1$ds</string>
-    <string name="yes">Yes</string>
-    <string name="notification_listener">Volume Panel Notification Listener</string>
-    <string name="perms"><u>Permissions Required</u>
-        \n\nIn order to override the system volume panel, several permissions are required.
-        \n\nWe will now show you several screens detailing those permissions, their usage &amp; a button to enable them.
-        \n\n</string>
-    <string name="grant">Grant Permission</string>
-    <string name="not_found">Activity not found, please navigate to Settings and grant manually</string>
-    <string name="exclude_applications">Exclude Applications</string>
-    <string name="icon_colour">Icon Colour</string>
-    <string name="background_colour">Background Colour</string>
-    <string name="slider_colour">Slider colour</string>
-    <string name="show_alarm_panel">Show Alarm Panel</string>
-    <string name="default_to_ring_volume">Default To Ring Volume</string>
-    <string name="start_collapsed">Start Collapsed</string>
-    <string name="position_left">Left Handed</string>
-    <string name="dark_mode">Dark Mode</string>
-    <string name="enable_volume_panel">Volume Button Override</string>
-    <string name="select_apps">Select Applications</string>
-    <string name="loading_apps">Loading Applications</string>
-    <string name="done">Done</string>
-    <string name="exclude_applications_sum">\u2022 Volume panel will not open in these applications.</string>
-    <string name="about">
-        <![CDATA[<b>Volume Panel:</b>
-        <br/>\u2022A flexible replacement for your system volume controls.
+    <string name="about"><![CDATA[<b>Volume Panel:</b>
+    <br/>\u2022A flexible replacement for your system volume controls.
         <br/><br/><b>Designed &amp; Developed By:</b>
         <br/>\u2022 Lee Bailey (AKA @LeeDrOiD)
         <br/> Additional Thanks:
@@ -55,133 +14,202 @@
         <br/>guillerag - Spanish
         <br/>\u2022 Nuno Nebeker - Portuguese
         <br/>\u2022 Игорь Иринин - Russian
-	<br/>\u2022 Emad Ayad - Arabic
+	    <br/>\u2022 Emad Ayad - Arabic
         <br/><br/>Feel free to contact me via the \"Email Feedback\" option &amp; don\'t forget to leave a review &#128512;]]></string>
     <string name="about_title">About</string>
-    <string name="email_feedback">Email Feedback</string>
-    <string name="close">Close</string>
-    <string name="rate_app">Rate App</string>
-    <string name="disabling">This app was not installed from Google Play &amp; will soon be disabled.</string>
-    <string name="oops_error">Oops.. It looks like something went wrong and Volume Panel crashed, please hit \"SEND REPORT\" below to let me know.</string>
-    <string name="latest">Please make sure you are using the latest version.</string>
-    <string name="send_report">Send Report</string>
-    <string name="add_shortcut">Launcher Shortcut</string>
-    <string name="launch">Show Volume Panel</string>
-    <string name="disable_acc">PLEASE DISABLE THE ACCESSIBILITY SERVICE.</string>
-    <string name="ver_pos">Vertical Position = %1$d%%</string>
-    <string name="play_sound">Audible Changes</string>
-    <string name="alert">Optimisation Alert</string>
-    <string name="bat_opt"><![CDATA[<b>Volume Panel is being optimised by the system &amp; may be killed in the background</b>.
-    <br/><br/>None of the services in Volume Panel are battery intensive, but disabling optimisation will improve reliability.
-    <br/><br/>Click \"Close\" to run optimised or click \"Action Now\" followed by \"All Apps\" then disable Battery Optimisation for Volume Panel.
-    <br/><br/>If you find that the service is still being killed by the system, try enabling the "Force Keep Services Alive" Option.]]></string>
+    <string name="accessibility_description">
+        <u>Accessibility Access</u>
+        \n\nThis permission allows us to detect volume +\\- key presses.
+        \n\nNo other content is captured.
+        \n\nSome devices may require a reboot to start the service.</string>
     <string name="action">Action Now</string>
-    <string name="pro">Upgrade To Volume Panel Pro!</string>
-    <string name="mute_media">Mute Media</string>
-    <string name="vibrate">Vibrate</string>
-    <string name="ring">Ring</string>
-    <string name="silent">Silent</string>
-    <string name="ring_mode">Ring Mode</string>
+    <string name="add_border">Enable Panel Borders</string>
+    <string name="add_shortcut">Launcher Shortcut</string>
+    <string name="additonal_perms_req">Additional Permissions Required</string>
+    <string name="alert">Optimisation Alert</string>
+    <string name="anim_duration">Animation Duration = %.2fs</string>
+    <string name="anim_durations">Animation Duration</string>
+    <string name="app_name">Volume Panel</string>
+    <string name="auto_dark_sum">\u2022 Follow system Dark/Light mode.
+        \n\u2022 Manufacturer support required.</string>
+    <string name="background_colour">Background Colour</string>
+    <string name="bat_opt"><![CDATA[<b>Volume Panel is being optimised by the system &amp; may be killed in the background</b>.
+        <br/><br/>None of the services in Volume Panel are battery intensive, but disabling optimisation will improve reliability.
+        <br/><br/>Click \"Close\" to run optimised or click \"Action Now\" followed by \"All Apps\" then disable Battery Optimisation for Volume Panel.
+        <br/><br/>If you find that the service is still being killed by the system, try enabling the "Force Keep Services Alive" Option.]]></string>
+    <string name="behaviour">Behaviour</string>
+    <string name="block_vold_lp">Block Vol Down Long Press</string>
+    <string name="block_vold_lp_sum">\u2022 Fixes Vol + Power screenshot issues.</string>
+    <string name="border_colour">Border Colour</string>
+    <string name="border_thickness">Border Thickness = %1$d dp</string>
+    <string name="border_thicknesss">Border Thicknes</string>
+    <string name="bright_calibrate">
+        <b>i</b>: Recalibrate Maximum Brightness:
+        \n\u2022 Set your screen brightness to Max then long press here.</string>
+    <string name="cancel">Cancel</string>
+    <string name="cast">Control Cast Volume</string>
+    <string name="click_out">Click Outside To Close</string>
+    <string name="click_out_sum">\u2022 May interfere with other apps when enabled.</string>
+    <string name="close">Close</string>
+    <string name="corner_scale">Corner Radius = %1$d%%</string>
+    <string name="corner_scales">Corner Radius</string>
+    <string name="cp_head">Tap CENTER to confirm</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="default_to_ring_volume">Default To Ring Volume</string>
+    <string name="design">Design</string>
+    <string name="detect_keys">Detect Key Presses When Open</string>
+    <string name="disable">Disable</string>
+    <string name="disable_acc">PLEASE DISABLE THE ACCESSIBILITY SERVICE.</string>
+    <string name="disable_notif">PLEASE DISABLE NOTIFICATION ACCESS</string>
+    <string name="disabling">This app was not installed from Google Play &amp; will soon be disabled.</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="dnd_access">
+        <u>Do Not Disturb Access</u>
+        \n\nThis permission allows us to modify Do Not Disturb Settings.
+        \n\n</string>
+    <string name="do_not_kill">Force Keep Services Alive</string>
+    <string name="do_not_kill_desc"><![CDATA[<b>Only use this option if volume panel keeps stopping.
+        </b><br/><br/>Some devices are too aggressive when freeing up memory and kill important services, applications with Admin rights are rarely killed.
+        <br/><br/>Enabling basic Admin rights for Volume Panel will keep our services alive.
+        <br/><br/>You will have to disable this option if you ever need to uninstall the app.]]></string>
+    <string name="done">Done</string>
+    <string name="email_feedback">Email Feedback</string>
+    <string name="enable_blacklist">Enable App Exclusions</string>
+    <string name="enable_volume_panel">Volume Button Override</string>
+    <string name="exclude_applications">Exclude Applications</string>
+    <string name="exclude_applications_sum">\u2022 Volume panel will not open in these applications.</string>
+    <string name="excluded">Volume Panel: Application Excluded</string>
+    <string name="failed_window_add">Failed to add window, please open the app and make sure Screen Overlay permissions have been granted</string>
+    <string name="fill_style">Use Solid Sliders</string>
+    <string name="flash_light">Show Flashlight Button</string>
+    <string name="floating_trigger">Swipe Up/Down Trigger</string>
     <string name="force_close">Force Close Dialogs</string>
+    <string name="free">Disable Free Version</string>
+    <string name="free_installed">Volume Panel Free is currently overriding the system volume panel, please disable it to avoid conflicts.</string>
+    <string name="google_assistant">Show Assistant Button</string>
+    <string name="grant">Grant Permission</string>
+    <string name="hide_full">Invisible In Full Screen</string>
+    <string name="hide_settings">Hide Settings Shortcut</string>
+    <string name="icon_colour">Icon Colour</string>
+    <string name="invert_buttons">Invert Volume Buttons</string>
+    <string name="killed">The Volume Panel accessibility service has been stopped or removed by the system.
+        \n\nIf this was not intentional, please try the \"Force Keep Services Alive\" option in the app and ensure battery optimisation is disabled for Volume Panel.</string>
+    <string name="killer_info"><![CDATA[For more information visit:<br/>
+        http://www.dontkillmyapp.com/]]></string>
+    <string name="latest">Please make sure you are using the latest version.</string>
+    <string name="launch">Show Volume Panel</string>
+    <string name="launch_opts">Launch Options</string>
+    <string name="layout">Layout</string>
+    <string name="loading_apps">Loading Applications</string>
+    <string name="lock_ring_vol">Lock Ring Slider In Vibrate/Silent</string>
+    <string name="long_press"><![CDATA[Long press & drag panels to rearrange.]]></string>
     <string name="mapper">Possible Interference</string>
-    <string name="mapper_sum">\u2022 Click here for more information</string>
     <string name="mapper_detail">We may have detected a Button Remapping application.
         \n\nButton Remappers use accessibility services to detect button clicks.
         \n\nOther accessibility services capturing/customising volume button clicks will interfere with Volume Panels ability to intercept the volume buttons.
         \n\nPlease consider disabling volume button customisation for those apps.
         \n\nAlternatively, enable the \"Volume Panel\" launcher shortcut and open it with a remap!</string>
-    <string name="dismiss">Dismiss</string>
-    <string name="show_notif">Show Notification Panel</string>
-    <string name="notif_panel"><![CDATA[Not all devices support splitting Notification & Ring volume.<br/><br/>If both sliders change together, this is due to your system configuration and nothing to do with Volume Panel.]]></string>
-    <string name="enable_blacklist">Enable App Exclusions</string>
-    <string name="usage_access"><u>Usage Access</u>
-        \n\nThis permission allows us to detect the application currently in use via package usage stats &amp; check if you have excluded it.
-        \n\nIf you wish to run without excluding applications, feel free to skip this permission.
-        \n\n</string>
-    <string name="excluded">Volume Panel: Application Excluded</string>
-    <string name="do_not_kill">Force Keep Services Alive</string>
-    <string name="do_not_kill_desc"><![CDATA[<b>Only use this option if volume panel keeps stopping.</b>
-        <br/><br/>Some devices are too aggressive when freeing up memory and kill important services, applications with Admin rights are rarely killed.
-        <br/><br/>Enabling basic Admin rights for Volume Panel will keep our services alive.
-        <br/><br/>You will have to disable this option if you ever need to uninstall the app.]]></string>
-    <string name="launch_opts">Launch Options</string>
-    <string name="design">Design</string>
-    <string name="behaviour">Behaviour</string>
-    <string name="invert_buttons">Invert Volume Buttons</string>
-    <string name="position_left_land">Left Handed In Landscape</string>
-    <string name="killed">The Volume Panel accessibility service has been stopped or removed by the system.
-        \n\nIf this was not intentional, please try the \"Force Keep Services Alive\" option in the app and ensure battery optimisation is disabled for Volume Panel.</string>
-    <string name="reenable">Re-Enable</string>
-    <string name="hide_settings">Hide Settings Shortcut</string>
-    <string name="screen_shot">Show Screenshot Button</string>
-    <string name="layout">Layout</string>
-    <string name="floating_trigger">Swipe Up/Down Trigger</string>
-    <string name="trigger_cat">Trigger</string>
-    <string name="trigger_colour">Trigger Colour</string>
-    <string name="rate_it"><![CDATA[<p style="text-align:center"><b>Enjoying Volume Panel?</b>
-        <br/><br/>Please leave a review in the play store!
-        <br/><br/>\u2b50\u2b50\u2b50\u2b50\u2b50</p>]]></string>
-    <string name="pro_only"> - Pro Only</string>
-    <string name="pro_un">Remove Advertising &amp; Unlock All Features.</string>
-    <string name="suspend">Suspend</string>
-    <string name="hide_full">Invisible In Full Screen</string>
-    <string name="notif_access"><u>Notification Access</u>
+    <string name="mapper_sum">\u2022 Click here for more information</string>
+    <string name="margin">Panel Margin = %1$d dp</string>
+    <string name="margins">Panel Margin</string>
+    <string name="media">Media Vol = </string>
+    <string name="mute_media">Mute Media</string>
+    <string name="need_dnd">Do Not Disturb Permissions Required</string>
+    <string name="no">No</string>
+    <string name="not_found">Activity not found, please navigate to Settings and grant manually</string>
+    <string name="notif_access">
+        <u>Notification Access</u>
         \n\n\u2022 This permission allows us to detect active Casting or Streaming.
         \n\u2022 If you wish to run without controlling cast streams, feel free to skip this permission.
         \n\nNo notification content is captured.
         \n\n</string>
-    <string name="dnd_access"><u>Do Not Disturb Access</u>
-        \n\nThis permission allows us to modify Do Not Disturb Settings.
+    <string name="notif_panel"><![CDATA[Not all devices support splitting Notification & Ring volume.
+        <br/><br/>If both sliders change together, this is due to your system configuration and nothing to do with Volume Panel.]]></string>
+    <string name="notification_listener">Volume Panel Notification Listener</string>
+    <string name="oops_error">Oops.. It looks like something went wrong and Volume Panel crashed, please hit \"SEND REPORT\" below to let me know.</string>
+    <string name="order">Change Panel Order</string>
+    <string name="overlay_needed">
+        <u>System Overlay</u>
+        \n\nThis permission is required for us to display the Volume Panel over other apps.</string>
+    <string name="perms">
+        <u>Permissions Required</u>
+        \n\nIn order to override the system volume panel, several permissions are required.
+        \n\nWe will now show you several screens detailing those permissions, their usage &amp; a button to enable them.
         \n\n</string>
-    <string name="cast">Control Cast Volume</string>
-    <string name="margin">Panel Margin = %1$d dp</string>
-    <string name="disable_notif">PLEASE DISABLE NOTIFICATION ACCESS</string>
+    <string name="play_sound">Audible Changes</string>
+    <string name="position_left">Left Handed</string>
+    <string name="position_left_land">Left Handed In Landscape</string>
+    <string name="press_back">Once complete, press back to return to the app.</string>
+    <string name="preview"><![CDATA[Preview Mode: Call & Cast panels will only show when needed.]]></string>
+    <string name="pro">Upgrade To Volume Panel Pro!</string>
+    <string name="pro_only"> - Pro Only</string>
+    <string name="pro_un">Remove Advertising &amp; Unlock All Features.</string>
+    <string name="proceed">Proceed</string>
+    <string name="rate_app">Rate App</string>
+    <string name="rate_it"><![CDATA[<p style="text-align:center"><b>Enjoying Volume Panel.
+        </b><br/><br/>Please leave a review in the play store!
+        <br/><br/>\u2b50\u2b50\u2b50\u2b50\u2b50</p>]]></string>
+    <string name="reenable">Re-Enable</string>
+    <string name="ring">Ring</string>
+    <string name="ring_mode">Ring Mode</string>
+    <string name="screen_shot">Show Screenshot Button</string>
+    <string name="select_apps">Select Applications</string>
+    <string name="send_report">Send Report</string>
+    <string name="show_alarm_panel">Show Alarm Panel</string>
+    <string name="show_bright_panel">Screen Brightness Panel</string>
+    <string name="show_lock">Show In Lock Screen</string>
+    <string name="show_notif">Show Notification Panel</string>
+    <string name="show_ring_panel">Show Ring Panel</string>
+    <string name="silent">Silent</string>
+    <string name="slide_heightx">Panel Scale X = %1$d%%</string>
+    <string name="slide_heightxs">Panel Scale X</string>
+    <string name="slide_heighty">Panel Scale Y = %1$d%%</string>
+    <string name="slide_heightys">Panel Scale Y</string>
+    <string name="slider_colour">Slider colour</string>
+    <string name="start_collapsed">Start Collapsed</string>
+    <string name="suspend">Suspend</string>
+    <string name="switch_theme">Switch Theme</string>
+    <string name="system_perms_message">Volume Panel needs to be granted access to write System Settings, please press proceed to continue.\n</string>
+    <string name="system_warn">When enabling any accessibility service you will be presented with a generic Android system warning, for your peace of mind, Volume Panel does not capture any other keys or content &amp; does not have or request permission connect to the internet.</string>
+    <string name="tips"><![CDATA[<b>Tips:</b>
+        <br/><br/><b>Audio doesn\'t change in some apps:<br/>
+        </b><br/>Some apps like Instagram & Snapchat take complete audio focus & attempt to capture audio buttons them selves, if you experience this issue, please enable the \"Exclude Applications\" option and add the offending apps to the list.
+        <br/><br/><b>The system audio panel keeps returning:</B>
+        <br/><br/>It\'s highly likely that your system is killing the Volume Panel accessibility service, if this happens, please make sure battery & memory optimisation is disabled for the app, enabling the \"Swipe Up/Down Trigger\" may help too.
+        <br/>For more information visit: http://www.dontkillmyapp.com/]]></string>
+    <string name="transparency">Transparency</string>
+    <string name="trigger_cat">Trigger</string>
+    <string name="trigger_colour">Trigger Colour</string>
+    <string name="trigger_scale_tx">Trigger Scale X = %1$d%%</string>
+    <string name="trigger_scale_txs">Trigger Scale X</string>
+    <string name="trigger_scale_ty">Trigger Scale Y = %1$d%%</string>
+    <string name="trigger_scale_tys">Trigger Scale Y</string>
     <string name="up_launch">Launch On Vol + Press Only</string>
     <string name="up_launch_sum">\u2022 The panel will only launch when Vol + is pressed.</string>
-    <string name="click_out">Click Outside To Close</string>
-    <string name="click_out_sum">\u2022 May interfere with other apps when enabled.</string>
-    <string name="slide_heightx">Panel Scale = %1$d%% X</string>
-    <string name="slide_heighty">Panel Scale = %1$d%% Y</string>
-    <string name="trigger_scale_tx">Trigger Scale = %1$d%% X</string>
-    <string name="trigger_scale_ty">Trigger Scale = %1$d%% Y</string>
-    <string name="corner_scale">Corner Radius = %1$d%%</string>
-    <string name="free">Disable Free Version</string>
-    <string name="free_installed">Volume Panel Free is currently overriding the system volume panel, please disable it to avoid conflicts.</string>
-    <string name="media">Media Vol = </string>
-    <string name="system_warn">When enabling any accessibility service you will be presented with a generic Android system warning, for your peace of mind, Volume Panel does not capture any other keys or content &amp; does not have or request permission connect to the internet.</string>
+    <string name="usage_access">
+        <u>Usage Access</u>
+        \n\nThis permission allows us to detect the application currently in use via package usage stats &amp; check if you have excluded it.
+        \n\nIf you wish to run without excluding applications, feel free to skip this permission.
+        \n\n</string>
     <string name="use_system">Auto Dark/Light Mode</string>
-    <string name="auto_dark_sum">\u2022 Follow system Dark/Light mode.
-    \n\u2022 Manufacturer support required.</string>
-    <string name="anim_duration">Animation Duration = %.2fs</string>
-    <string name="preview"><![CDATA[Preview Mode: Call & Cast panels will only show when needed.]]></string>
+    <string name="ver_pos">Vertical Position = %1$d%%</string>
+    <string name="ver_poss">Vertical Position</string>
     <string name="vibe_duration">Vibration Duration = %.2fs</string>
-    <string name="show_bright_panel">Screen Brightness Panel</string>
-    <string name="system_perms_message">Volume Panel needs to be granted access to write System Settings, please press proceed to continue.\n</string>
-    <string name="show_ring_panel">Show Ring Panel</string>
-    <string name="bright_calibrate"><b>i</b>: Recalibrate Maximum Brightness:
-        \n\u2022 Set your screen brightness to Max then long press here.</string>
-    <string name="order">Change Panel Order</string>
-    <string name="long_press"><![CDATA[Long press & drag panels to rearrange.]]></string>
-    <string name="killer_info"><![CDATA[For more information visit:<br/>
-        http://www.dontkillmyapp.com/]]></string>
-    <string name="tips"><![CDATA[<b>Tips:</b><br/><br/>
-    <b>Audio doesn\'t change in some apps:<br/></b><br/>
-    Some apps like Instagram & Snapchat take complete audio focus & attempt to capture audio buttons them selves,
-     if you experience this issue, please enable the \"Exclude Applications\" option and add the offending apps to the list.<br/><br/>
-    <b>The system audio panel keeps returning:<br/></B><br/>
-    It\'s highly likely that your system is killing the Volume Panel accessibility service, if this happens,
-    please make sure battery & memory optimisation is disabled for the app, enabling the \"Swipe Up/Down Trigger\" may help too.<br/>
-    For more information visit: http://www.dontkillmyapp.com/]]></string>
-    <string name="add_border">Enable Panel Borders</string>
-    <string name="border_colour">Border Colour</string>
-    <string name="border_thickness">Border Thickness = %1$d dp</string>
-    <string name="google_assistant">Show Assistant Button</string>
-    <string name="flash_light">Show Flashlight Button</string>
-    <string name="detect_keys">Detect Key Presses When Open</string>
-    <string name="switch_theme">Switch Theme</string>
-    <string name="block_vold_lp">Block Vol Down Long Press</string>
-    <string name="block_vold_lp_sum">\u2022 Fixes Vol + Power screenshot issues.</string>
-    <string name="lock_ring_vol">Lock Ring Slider In Vibrate/Silent</string>
-    <string name="show_lock">Show In Lock Screen</string>
-    <string name="fill_style">Use Solid Sliders</string>
+    <string name="vibe_durations">Vibration Duration</string>
+    <string name="vibrate">Vibrate</string>
+    <string name="vol_timeouts">Panel Timeout</string>
+    <string name="vol_timeout">Panel Timeout = %1$ds</string>
+    <string name="volumeui">Volume UI</string>
+    <string name="yes">Yes</string>
+    <string name="anim_durationv" translatable="false">%.2fs</string>
+    <string name="border_thicknessv" translatable="false">%1$d dp</string>
+    <string name="corner_scalev" translatable="false">%1$d%%</string>
+    <string name="marginv" translatable="false">%1$d dp</string>
+    <string name="slide_heightxv" translatable="false">%1$d%%</string>
+    <string name="slide_heightyv" translatable="false">%1$d%%</string>
+    <string name="trigger_scale_txv" translatable="false">%1$d%%</string>
+    <string name="trigger_scale_tyv" translatable="false">%1$d%%</string>
+    <string name="ver_posv" translatable="false">%1$d%%</string>
+    <string name="vibe_durationv" translatable="false">%.2fs</string>
+    <string name="vol_timeoutv" translatable="false">%1$ds</string>
 </resources>

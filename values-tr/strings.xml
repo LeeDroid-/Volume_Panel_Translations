@@ -1,48 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resources>
-    <string name="additonal_perms_req">Ek İzin Gerekli</string>
-    <string name="proceed">Devam et</string>
-    <string name="app_name">Volume Panel</string>
-    <string name="volumeui">Ses Arayüzü</string>
-    <string name="overlay_needed"><u>Sistem Yerleşimi</u>
-        \n\nBu izin Volume Panel\'i diğer uygulamaların üzerinde görüntülemek için gerekmektedir.</string>
-    <string name="failed_window_add">Pencere eklenemedi, lütfen uygulamayı açın ve Ekran Yerleşimi izinlerinin verildiğinden emin olun</string>
-    <string name="cp_head">Onaylamak için ORTAYA dokun</string>
-    <string name="transparency">Şeffaflık</string>
-    <string name="disable">Devre dışı bırak</string>
-    <string name="cancel">İptal</string>
-    <string name="press_back">Tamamlandığında, uygulamaya geri dönmek için geriye basın.</string>
-    <string name="accessibility_description"><u>Erişilebilirlik Erişimi</u>
-        \n\n\u2022 Ses açma kısma tuşlarına basmayı algılama.
-        \n\u2022 Hariç tutulan uygulamaların ne zaman kullanıldığını algılama.
-        \n\nBaşka hiçbir tuşa basılmaz.
-        \n\nHizmeti başlatmak için bazı cihazların yeniden başlatılması gerekebilir.</string>
-    <string name="need_dnd">Rahatsız Etmeyin İzni Gerekli</string>
-    <string name="no">Hayır</string>
-    <string name="vol_timeout">Panel Zaman Aşımı = %1$ds</string>
-    <string name="yes">Evet</string>
-    <string name="notification_listener">Volume Panel Bildirim Dinleyici</string>
-    <string name="perms"><u>İzinler Gerekli</u>
-        \n\nSistem ses panelini geçersiz kılmak için çeşitli izinler gerekir.
-        \n\nŞimdi bunları etkinleştirmek için bir düğme ile bu izinleri detaylandıran bir ekran göstereceğim.
-        \n\nİzin etkinleştirildiğinde, uygulamaya geri dönmek için lütfen geriye basın.</string>
-    <string name="grant">İzin Ver</string>
-    <string name="not_found">Etkinlik bulunamadı, lütfen Ayarlar\'a gidin ve elle izin verin</string>
-    <string name="exclude_applications">Uygulamaları Hariç Tut</string>
-    <string name="icon_colour">Simge Rengi</string>
-    <string name="background_colour">Arka Plan Rengi</string>
-    <string name="slider_colour">Kaydırıcı Rengi</string>
-    <string name="show_alarm_panel">Alarm Panelini Göster</string>
-    <string name="default_to_ring_volume">Varsayılan Olarak Zil Sesi</string>
-    <string name="start_collapsed">Daraltılmış Başlat</string>
-    <string name="position_left">Solak</string>
-    <string name="dark_mode">Karanlık Mod</string>
-    <string name="enable_volume_panel">Ses Tuşunu Geçersiz Kıl</string>
-    <string name="select_apps">Uygulamaları Seç</string>
-    <string name="loading_apps">Uygulamalar Yükleniyor</string>
-    <string name="done">Bitti</string>
-    <string name="exclude_applications_sum">\u2022 Bu uygulamalarda volume panel açılmaz.</string>
-    <string name="about">
-        <![CDATA[<b>Volume Panel:</b>
+    <string name="about"><![CDATA[<b>Volume Panel:</b>
         <br/>\u2022Sistem ses kontrolleriniz için esnek bir değiştirme.
         <br/><br/><b>Tasarlayan &amp; Geliştiren:</b>
         <br/>\u2022 Lee Bailey (AKA @LeeDrOiD)
@@ -56,129 +14,188 @@
 	<br/>guillerag - İspanyolca
         <br/><br/>Doğrudan benimle temas kurmaktan çekinmeyin &amp; bir inceleme bırakmayı unutmayın &#128512;]]></string>
     <string name="about_title">Hakkında</string>
-    <string name="email_feedback">Geri Bildirim Gönder</string>
-    <string name="close">Kapat</string>
-    <string name="rate_app">Uygulamayı Oyla</string>
-    <string name="disabling">Bu uygulama Google Play\'den yüklenmedi &amp; yakında devre dışı bırakılacak.</string>
-    <string name="oops_error">Olamaz.. Bir şeyler ters gitti ve Volume Panel çöktü, lütfen bana bildirmek için aşağıdaki \"RAPOR GÖNDER"\'e basın.</string>
-    <string name="latest">Lütfen en son sürümü kullandığınızdan emin olun.</string>
-    <string name="send_report">Rapor Gönder</string>
-    <string name="add_shortcut">Başlatıcı Kısayolunu Etkinleştir</string>
-    <string name="launch">Volume Panel\'i Göster</string>
-    <string name="disable_acc">LÜTFEN ERİŞİLEBİLİRLİK HİZMETİNİ DEVRE DIŞI BIRAKIN.</string>
-    <string name="ver_pos">Dikey Konum = %1$d%%</string>
-    <string name="play_sound">Ses Ayarlama Sesi</string>
-    <string name="alert">Optimizasyon Uyarısı</string>
-    <string name="bat_opt"><![CDATA[<b>Volume Panel sistem tarafından optimize ediliyor &amp; arka planda sonlandırılabilir</b>.
-    <br/><br/>Volume Panel\'deki hizmetlerin hiçbiri pili yoğun kullanmaz, ancak optimizasyonu devre dışı bırakmak güvenilirliği artıracaktır.
-    <br/><br/>Optimize edilmiş çalıştırmak için \"Kapat\"ı tıklayın veya \"Şimdi Yap\"ı tıklayarak \"Tüm Uygulamalar\"a gidip Volume Panel için Pil Optimizasyonunu devre dışı bırakın.]]></string>
+    <string name="accessibility_description">
+        <u>Erişilebilirlik Erişimi</u>
+        \n\n\u2022 Ses açma kısma tuşlarına basmayı algılama.
+        \n\u2022 Hariç tutulan uygulamaların ne zaman kullanıldığını algılama.
+        \n\nBaşka hiçbir tuşa basılmaz.
+        \n\nHizmeti başlatmak için bazı cihazların yeniden başlatılması gerekebilir.</string>
     <string name="action">Şimdi Yap</string>
-    <string name="mute_media">Medyayı Kıs</string>
-    <string name="vibrate">Titreşim</string>
-    <string name="ring">Zil Sesi</string>
-    <string name="silent">Sessiz</string>
-    <string name="ring_mode">Zil Modu</string>
-    <string name="force_close">Pencereleri Kapatmaya Zorla</string>
-    <string name="mapper">Olası Girişim</string>
-    <string name="mapper_sum">\u2022 Daha fazla bilgi için buraya tıklayın</string>
-    <string name="mapper_detail">Tuş Değiştirici tespit etmiş olabiliriz.
-        \n\nTuş Değiştiriciler, tuş tıklamalarını algılamak için erişilebilirlik hizmetlerini kullanır.
-        \n\nSes tuşu tıklamalarını yakalayan/kişiselleştiren diğer erişilebilirlik hizmetleri, ses panellerini engelleme özelliği ile ses panellerini etkiler.
-        \n\nLütfen bu uygulamalar için ses tuşu özelleştirmesini devre dışı bırakmayı düşünün.
-        \n\nAlternatif olarak, başlatıcı kısayolunu etkinleştirin ve bir tuş değiştirici ile açın!</string>
+    <string name="add_border">Panel Kenarlıklarını Etkinleştir</string>
+    <string name="add_shortcut">Başlatıcı Kısayolunu Etkinleştir</string>
+    <string name="additonal_perms_req">Ek İzin Gerekli</string>
+    <string name="alert">Optimizasyon Uyarısı</string>
+    <string name="anim_duration">Animasyon Süresi = %.2fs</string>
+    <string name="anim_durations">Animasyon Süresi</string>
+    <string name="app_name">Volume Panel</string>
+    <string name="auto_dark_sum">\u2022 Sistem Koyu/Açık modunu takip eder.
+        \n\u2022 Üretici desteği gerekir.</string>
+    <string name="background_colour">Arka Plan Rengi</string>
+    <string name="bat_opt"><![CDATA[<b>Volume Panel sistem tarafından optimize ediliyor &amp; arka planda sonlandırılabilir</b>.
+        <br/><br/>Volume Panel\'deki hizmetlerin hiçbiri pili yoğun kullanmaz, ancak optimizasyonu devre dışı bırakmak güvenilirliği artıracaktır.
+        <br/><br/>Optimize edilmiş çalıştırmak için \"Kapat\"ı tıklayın veya \"Şimdi Yap\"ı tıklayarak \"Tüm Uygulamalar\"a gidip Volume Panel için Pil Optimizasyonunu devre dışı bırakın.]]></string>
+    <string name="behaviour">Davranış</string>
+    <string name="block_vold_lp">Ses Kısmaya Uzun Basmayı Engelle</string>
+    <string name="block_vold_lp_sum">\u2022 Ses + Güç tuşuyla olan ekran görüntüsü sorunlarını giderir.</string>
+    <string name="border_colour">Kenarlık Rengi</string>
+    <string name="border_thickness">Kenarlık Kalınlığı = %1$d dp</string>
+    <string name="border_thicknesss">Kenarlık Kalınlığı</string>
+    <string name="bright_calibrate">
+        <b>i</b>: Maksimum Parlaklığı Yeniden Ayarla:
+        \n\u2022 Ekran parlaklığınızı Maksimuma ayarlayın, ardından buraya uzun basın.</string>
+    <string name="cancel">İptal</string>
+    <string name="cast">Yayın Sesi Kontrolü</string>
+    <string name="click_out">Kapatmak İçin Dışarı Tıkla</string>
+    <string name="click_out_sum">\u2022 Etkinleştirildiğinde diğer uygulamalara müdahale edebilir.</string>
+    <string name="close">Kapat</string>
+    <string name="corner_scale">Köşe Yarıçapı = %1$d%%</string>
+    <string name="corner_scales">Köşe Yarıçapı</string>
+    <string name="cp_head">Onaylamak için ORTAYA dokun</string>
+    <string name="dark_mode">Karanlık Mod</string>
+    <string name="default_to_ring_volume">Varsayılan Olarak Zil Sesi</string>
+    <string name="design">Tasarım</string>
+    <string name="detect_keys">Açıldığında Tuşlara Basmayı Algıla</string>
+    <string name="disable">Devre dışı bırak</string>
+    <string name="disable_acc">LÜTFEN ERİŞİLEBİLİRLİK HİZMETİNİ DEVRE DIŞI BIRAKIN.</string>
+    <string name="disable_notif">LÜTFEN BİLDİRİM ERİŞİMİNİ DEVRE DIŞI BIRAKIN</string>
+    <string name="disabling">Bu uygulama Google Play\'den yüklenmedi &amp; yakında devre dışı bırakılacak.</string>
     <string name="dismiss">Kapat</string>
-    <string name="show_notif">Bildirim Panelini Göster</string>
-    <string name="notif_panel"><![CDATA[Tüm cihazlar, Bildirim & Zil sesinin bölünmesini desteklemez.<br/><br/>Her iki akış birlikte değişirse, bunun nedeni sistem yapılandırmanızdır ve Volume Panel ile ilgisi yoktur.]]></string>
-    <string name="enable_blacklist">Uygulama Hariç Tutmayı Etkinleştir</string>
-    <string name="excluded">Volume Panel: Uygulama Hariç Tutuldu</string>
-    <string name="usage_access"><u>Kullanım Erişimi</u>
-        \n\nBu izin, o anda kullanmakta olduğunuz uygulamayı tespit etmemizi &amp; hariç tutup tutmadığınızı kontrol etmemizi sağlar.
-        \n\nUygulamaları hariç tutmadan çalıştırmak istiyorsanız, bu izni atlamaktan çekinmeyin.
+    <string name="dnd_access">
+        <u>Rahatsız Etmeyin Erişimi</u>
+        \n\nBu izin, Rahatsız Etme Ayarlarını değiştirmemize izin verir.
         \n\n</string>
     <string name="do_not_kill">Hizmetleri Çalışır Tutmaya Zorla</string>
     <string name="do_not_kill_desc"><![CDATA[<b>Bu seçeneği yalnızca ses panelinin durmaya devam etmesi durumunda kullanın.</b>
         <br/><br/>Bazı cihazlar belleği boşaltırken ve önemli hizmetleri sonlandırırken çok agresiftir, Yönetici haklarına sahip uygulamalar nadiren sonlandırılır.
         <br/><br/>Volume Panel için temel Yönetici haklarını etkinleştirmek, hizmetlerimizi çalışır tutacaktır.
         <br/><br/>Uygulamayı kaldırmanız gerekirse, bu seçeneği devre dışı bırakmanız gerekecektir.]]></string>
-    <string name="launch_opts">Başlatma Seçenekleri</string>
-    <string name="design">Tasarım</string>
-    <string name="behaviour">Davranış</string>
+    <string name="done">Bitti</string>
+    <string name="email_feedback">Geri Bildirim Gönder</string>
+    <string name="enable_blacklist">Uygulama Hariç Tutmayı Etkinleştir</string>
+    <string name="enable_volume_panel">Ses Tuşunu Geçersiz Kıl</string>
+    <string name="exclude_applications">Uygulamaları Hariç Tut</string>
+    <string name="exclude_applications_sum">\u2022 Bu uygulamalarda volume panel açılmaz.</string>
+    <string name="excluded">Volume Panel: Uygulama Hariç Tutuldu</string>
+    <string name="failed_window_add">Pencere eklenemedi, lütfen uygulamayı açın ve Ekran Yerleşimi izinlerinin verildiğinden emin olun</string>
+    <string name="fill_style">Katı Kaydırıcıları Kullan</string>
+    <string name="flash_light">Fener Düğmesini Göster</string>
+    <string name="floating_trigger">Yukarı/Aşağı Kaydırarak Tetikle</string>
+    <string name="force_close">Pencereleri Kapatmaya Zorla</string>
+    <string name="free">Ücretsiz Sürümü Devre Dışı Bırak</string>
+    <string name="free_installed">Volume Panel Free şu anda sistem ses panelini geçersiz kılıyor, çakışmaları önlemek için lütfen devre dışı bırakın.</string>
+    <string name="google_assistant">Asistan Düğmesini Göster</string>
+    <string name="grant">İzin Ver</string>
+    <string name="hide_full">Tam Ekranda Gösterme</string>
+    <string name="hide_settings">Ayarlar Kısayolunu Gizle</string>
+    <string name="icon_colour">Simge Rengi</string>
     <string name="invert_buttons">Ses Tuşlarını Ters Çevir</string>
-    <string name="position_left_land">Yatay Modda Solak</string>
     <string name="killed">Volume Panel erişilebilirlik hizmeti sistem tarafından durduruldu veya kaldırıldı.
         \n\nBu kasıtlı değilse, lütfen uygulamadaki \"Hizmetleri Çalışır Tutmaya Zorla\" seçeneğini deneyin ve Volume Panel için pil optimizasyonunun devre dışı bırakıldığından emin olun.</string>
-    <string name="screen_shot">Ekran Görüntüsü Düğmesini Göster</string>
-    <string name="reenable">Yeniden Etkinleştir</string>
-    <string name="hide_settings">Ayarlar Kısayolunu Gizle</string>
+    <string name="killer_info"><![CDATA[Daha fazla bilgi için şurayı ziyaret edin:<br/>
+        http://www.dontkillmyapp.com/]]></string>
+    <string name="latest">Lütfen en son sürümü kullandığınızdan emin olun.</string>
+    <string name="launch">Volume Panel\'i Göster</string>
+    <string name="launch_opts">Başlatma Seçenekleri</string>
     <string name="layout">Düzen</string>
-    <string name="floating_trigger">Yukarı/Aşağı Kaydırarak Tetikle</string>
-    <string name="trigger_cat">Tetikleyici</string>
-    <string name="trigger_colour">Tetikleyici Rengi</string>
-    <string name="rate_it"><![CDATA[<p style="text-align:center"><b>Volume Panel\'i beğendiniz mi?</b>
-        <br/><br/>Lütfen play store\'da bir inceleme bırakın!
-        <br/><br/>\u2b50\u2b50\u2b50\u2b50\u2b50</p>]]></string>
-    <string name="pro">Volume Panel Pro\'ya Yükselt!</string>
-    <string name="pro_only"> - Yalnızca Pro</string>
-    <string name="pro_un">Reklamları Kaldır &amp; Tüm Özelliklerin Kilidini Aç.</string>
-    <string name="suspend">Askıya Al</string>
-    <string name="hide_full">Tam Ekranda Gösterme</string>
-    <string name="dnd_access"><u>Rahatsız Etmeyin Erişimi</u>
-        \n\nBu izin, Rahatsız Etme Ayarlarını değiştirmemize izin verir.
-        \n\n</string>
-    <string name="cast">Yayın Sesi Kontrolü</string>
-    <string name="notif_access"><u>Bildirim Erişimi</u>
+    <string name="loading_apps">Uygulamalar Yükleniyor</string>
+    <string name="lock_ring_vol">Sessiz/Titreşimde Zil Sesi Kaydırıcıyı Engelle</string>
+    <string name="long_press"><![CDATA[Panelleri yeniden sıralamak için uzun basın ve sürükleyin.]]></string>
+    <string name="mapper">Olası Girişim</string>
+    <string name="mapper_detail">Tuş Değiştirici tespit etmiş olabiliriz.
+        \n\nTuş Değiştiriciler, tuş tıklamalarını algılamak için erişilebilirlik hizmetlerini kullanır.
+        \n\nSes tuşu tıklamalarını yakalayan/kişiselleştiren diğer erişilebilirlik hizmetleri, ses panellerini engelleme özelliği ile ses panellerini etkiler.
+        \n\nLütfen bu uygulamalar için ses tuşu özelleştirmesini devre dışı bırakmayı düşünün.
+        \n\nAlternatif olarak, başlatıcı kısayolunu etkinleştirin ve bir tuş değiştirici ile açın!</string>
+    <string name="mapper_sum">\u2022 Daha fazla bilgi için buraya tıklayın</string>
+    <string name="margin">Panel Boşluğu = %1$d dp</string>
+    <string name="margins">Panel Boşluğu</string>
+    <string name="media">Medya Sesi =</string>
+    <string name="mute_media">Medyayı Kıs</string>
+    <string name="need_dnd">Rahatsız Etmeyin İzni Gerekli</string>
+    <string name="no">Hayır</string>
+    <string name="not_found">Etkinlik bulunamadı, lütfen Ayarlar\'a gidin ve elle izin verin</string>
+    <string name="notif_access">
+        <u>Bildirim Erişimi</u>
         \n\n\u2022 Bu izin, aktif Yayın veya Akışı tespit etmemize izin verir.
         \n\u2022 Yayın akışlarını kontrol etmeden çalıştırmak isterseniz, bu izni atlamaktan çekinmeyin.
         \n\nHiçbir bildirim içeriği yakalanmaz.
         \n\n</string>
-    <string name="margin">Panel Boşluğu = %1$d dp</string>
-    <string name="disable_notif">LÜTFEN BİLDİRİM ERİŞİMİNİ DEVRE DIŞI BIRAKIN</string>
+    <string name="notif_panel"><![CDATA[Tüm cihazlar, Bildirim & Zil sesinin bölünmesini desteklemez.
+        <br/><br/>Her iki akış birlikte değişirse, bunun nedeni sistem yapılandırmanızdır ve Volume Panel ile ilgisi yoktur.]]></string>
+    <string name="notification_listener">Volume Panel Bildirim Dinleyici</string>
+    <string name="oops_error">Olamaz.. Bir şeyler ters gitti ve Volume Panel çöktü, lütfen bana bildirmek için aşağıdaki \"RAPOR GÖNDER"\'e basın.</string>
+    <string name="order">Panel Sırasını Değiştir</string>
+    <string name="overlay_needed">
+        <u>Sistem Yerleşimi</u>
+        \n\nBu izin Volume Panel\'i diğer uygulamaların üzerinde görüntülemek için gerekmektedir.</string>
+    <string name="perms">
+        <u>İzinler Gerekli</u>
+        \n\nSistem ses panelini geçersiz kılmak için çeşitli izinler gerekir.
+        \n\nŞimdi bunları etkinleştirmek için bir düğme ile bu izinleri detaylandıran bir ekran göstereceğim.
+        \n\nİzin etkinleştirildiğinde, uygulamaya geri dönmek için lütfen geriye basın.</string>
+    <string name="play_sound">Ses Ayarlama Sesi</string>
+    <string name="position_left">Solak</string>
+    <string name="position_left_land">Yatay Modda Solak</string>
+    <string name="press_back">Tamamlandığında, uygulamaya geri dönmek için geriye basın.</string>
+    <string name="preview"><![CDATA[Önizleme Modu: Çağrı ve Yayın panelleri yalnızca gerektiğinde gösterilir.]]></string>
+    <string name="pro">Volume Panel Pro\'ya Yükselt!</string>
+    <string name="pro_only"> - Yalnızca Pro</string>
+    <string name="pro_un">Reklamları Kaldır &amp; Tüm Özelliklerin Kilidini Aç.</string>
+    <string name="proceed">Devam et</string>
+    <string name="rate_app">Uygulamayı Oyla</string>
+    <string name="rate_it"><![CDATA[<p style="text-align:center"><b>Volume Panel\'i beğendiniz mi?</b>
+        <br/><br/>Lütfen play store\'da bir inceleme bırakın!
+        <br/><br/>\u2b50\u2b50\u2b50\u2b50\u2b50</p>]]></string>
+    <string name="reenable">Yeniden Etkinleştir</string>
+    <string name="ring">Zil Sesi</string>
+    <string name="ring_mode">Zil Modu</string>
+    <string name="screen_shot">Ekran Görüntüsü Düğmesini Göster</string>
+    <string name="select_apps">Uygulamaları Seç</string>
+    <string name="send_report">Rapor Gönder</string>
+    <string name="show_alarm_panel">Alarm Panelini Göster</string>
+    <string name="show_bright_panel">Ekran Parlaklığı Paneli</string>
+    <string name="show_lock">Kilitliyken Göster</string>
+    <string name="show_notif">Bildirim Panelini Göster</string>
+    <string name="show_ring_panel">Zil Panelini Göster</string>
+    <string name="silent">Sessiz</string>
+    <string name="slide_heightx">Panel Ölçeği X = %1$d%%</string>
+    <string name="slide_heightxs">Panel Ölçeği X</string>
+    <string name="slide_heighty">Panel Ölçeği Y = %1$d%%</string>
+    <string name="slide_heightys">Panel Ölçeği Y</string>
+    <string name="slider_colour">Kaydırıcı Rengi</string>
+    <string name="start_collapsed">Daraltılmış Başlat</string>
+    <string name="suspend">Askıya Al</string>
+    <string name="switch_theme">Temayı Değiştir</string>
+    <string name="system_perms_message">Volume Panel Sistem Ayarlarını yazmak için erişim iznine ihtiyaç duyuyor, devam etmek için lütfen devam et\'e basın.\n</string>
+    <string name="system_warn">Herhangi bir erişilebilirlik hizmetini etkinleştirirken, gönül rahatlığınız için genel bir Android sistem uyarısı sunulacak, Volume Panel başka herhangi bir tuş veya içerik yakalamaz ve internete bağlanmaz.</string>
+    <string name="tips"><![CDATA[<b>İpuçları:</b>
+        <br/><br/><b>Bazı uygulamalarda ses değişmiyor:<br/></b><br/>
+        Instagram & Snapchat gibi bazı uygulamalar tam ses odağı alır & ses düğmelerini yakalamaya çalışır, bu sorunla karşılaşırsanız, lütfen \"Uygulamaları Hariç Tut\" seçeneğini etkinleştirin ve rahatsız edici uygulamaları listeye ekleyin.
+        <br/><br/><b>Sistem ses paneli görünmeye devam ediyor:<br/></B>
+        <br/>Bu olursa, sisteminizin Volume Panel erişilebilirlik hizmetini sonlandırması büyük olasılıktır, lütfen uygulama için pil ve bellek optimizasyonunun devre dışı olduğundan emin olun, \"Yukarı/Aşağı Kaydırarak Tetikle\"nin etkinleştirilmesi de yardımcı olabilir.
+        <br/>Daha fazla bilgi için şurayı ziyaret edin: http://www.dontkillmyapp.com/]]></string>
+    <string name="transparency">Şeffaflık</string>
+    <string name="trigger_cat">Tetikleyici</string>
+    <string name="trigger_colour">Tetikleyici Rengi</string>
+    <string name="trigger_scale_tx">Tetikleyici Ölçeği X = %1$d%%</string>
+    <string name="trigger_scale_txs">Tetikleyici Ölçeğ X</string>
+    <string name="trigger_scale_ty">Tetikleyici Ölçeği Y = %1$d%%</string>
+    <string name="trigger_scale_tys">Tetikleyici Ölçeği Y</string>
     <string name="up_launch">Yalnızca Ses Açmaya Basıldığında Başlat</string>
     <string name="up_launch_sum">\u2022 Panel yalnızca Ses Açma tuşuna basıldığında açılır.</string>
-    <string name="click_out">Kapatmak İçin Dışarı Tıkla</string>
-    <string name="click_out_sum">\u2022 Etkinleştirildiğinde diğer uygulamalara müdahale edebilir.</string>
-    <string name="trigger_scale_tx">Tetikleyici Ölçeği = %1$d%% X</string>
-    <string name="trigger_scale_ty">Tetikleyici Ölçeği = %1$d%% Y</string>
-    <string name="corner_scale">Köşe Yarıçapı = %1$d%%</string>
-    <string name="free">Ücretsiz Sürümü Devre Dışı Bırak</string>
-    <string name="free_installed">Volume Panel Free şu anda sistem ses panelini geçersiz kılıyor, çakışmaları önlemek için lütfen devre dışı bırakın.</string>
-    <string name="media">Medya Sesi =</string>
-    <string name="system_warn">Herhangi bir erişilebilirlik hizmetini etkinleştirirken, gönül rahatlığınız için genel bir Android sistem uyarısı sunulacak, Volume Panel başka herhangi bir tuş veya içerik yakalamaz ve internete bağlanmaz.</string>
-    <string name="slide_heightx">Panel Ölçeği = %1$d%% X</string>
-    <string name="slide_heighty">Panel Ölçeği = %1$d%% Y</string>
+    <string name="usage_access">
+        <u>Kullanım Erişimi</u>
+        \n\nBu izin, o anda kullanmakta olduğunuz uygulamayı tespit etmemizi &amp; hariç tutup tutmadığınızı kontrol etmemizi sağlar.
+        \n\nUygulamaları hariç tutmadan çalıştırmak istiyorsanız, bu izni atlamaktan çekinmeyin.
+        \n\n</string>
     <string name="use_system">Otomatik Koyu/Açık Mod</string>
-    <string name="auto_dark_sum">\u2022 Sistem Koyu/Açık modunu takip eder.
-    \n\u2022 Üretici desteği gerekir.</string>
-    <string name="anim_duration">Animasyon Süresi = %.2fs</string>
-    <string name="preview"><![CDATA[Önizleme Modu: Çağrı ve Yayın panelleri yalnızca gerektiğinde gösterilir.]]></string>
+    <string name="ver_pos">Dikey Konum = %1$d%%</string>
+    <string name="ver_poss">Dikey Konum</string>
     <string name="vibe_duration">Titreşim Süresi = %.2fs</string>
-    <string name="show_bright_panel">Ekran Parlaklığı Paneli</string>
-    <string name="system_perms_message">Volume Panel Sistem Ayarlarını yazmak için erişim iznine ihtiyaç duyuyor, devam etmek için lütfen devam et\'e basın.\n</string>
-    <string name="show_ring_panel">Zil Panelini Göster</string>
-    <string name="bright_calibrate"><b>i</b>: Maksimum Parlaklığı Yeniden Ayarla:
-        \n\u2022 Ekran parlaklığınızı Maksimuma ayarlayın, ardından buraya uzun basın.</string>
-    <string name="order">Panel Sırasını Değiştir</string>
-    <string name="long_press"><![CDATA[Panelleri yeniden sıralamak için uzun basın ve sürükleyin.]]></string>
-    <string name="killer_info"><![CDATA[Daha fazla bilgi için şurayı ziyaret edin:<br/>
-        http://www.dontkillmyapp.com/]]></string>
-    <string name="tips"><![CDATA[<b>İpuçları:</b><br/><br/>
-    <b>Bazı uygulamalarda ses değişmiyor:<br/></b><br/>
-    Instagram & Snapchat gibi bazı uygulamalar tam ses odağı alır & ses düğmelerini yakalamaya çalışır,
-       bu sorunla karşılaşırsanız, lütfen \"Uygulamaları Hariç Tut\" seçeneğini etkinleştirin ve rahatsız edici uygulamaları listeye ekleyin.<br/><br/>
-    <b>Sistem ses paneli görünmeye devam ediyor:<br/></B><br/>
-    Bu olursa, sisteminizin Volume Panel erişilebilirlik hizmetini sonlandırması büyük olasılıktır,
-    lütfen uygulama için pil ve bellek optimizasyonunun devre dışı olduğundan emin olun, \"Yukarı/Aşağı Kaydırarak Tetikle\"nin etkinleştirilmesi de yardımcı olabilir.<br/>
-    Daha fazla bilgi için şurayı ziyaret edin: http://www.dontkillmyapp.com/]]></string>
-    <string name="add_border">Panel Kenarlıklarını Etkinleştir</string>
-    <string name="border_colour">Kenarlık Rengi</string>
-    <string name="border_thickness">Kenarlık Kalınlığı = %1$d dp</string>
-    <string name="google_assistant">Asistan Düğmesini Göster</string>
-    <string name="flash_light">Fener Düğmesini Göster</string>
-    <string name="detect_keys">Açıldığında Tuşlara Basmayı Algıla</string>
-    <string name="switch_theme">Temayı Değiştir</string>
-    <string name="block_vold_lp">Ses Kısmaya Uzun Basmayı Engelle</string>
-    <string name="block_vold_lp_sum">\u2022 Ses + Güç tuşuyla olan ekran görüntüsü sorunlarını giderir.</string>
-    <string name="lock_ring_vol">Sessiz/Titreşimde Zil Sesi Kaydırıcıyı Engelle</string>
-    <string name="show_lock">Kilitliyken Göster</string>
-    <string name="fill_style">Use Solid Sliders</string>
+    <string name="vibe_durations">Titreşim Süresi</string>
+    <string name="vibrate">Titreşim</string>
+    <string name="vol_timeout">Panel Zaman Aşımı = %1$ds</string>
+    <string name="vol_timeouts">Panel Zaman Aşımı</string>
+    <string name="volumeui">Ses Arayüzü</string>
+    <string name="yes">Evet</string>
 </resources>

@@ -1,185 +1,191 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="additonal_perms_req">Necesitas permisos adicionales</string>
-    <string name="proceed">Proceder</string>
-    <string name="app_name">Volume Panel</string>
-    <string name="volumeui">Panel de sistema</string>
-    <string name="overlay_needed"><u>Superposición del sistema</u>
-	    \n\nEste permiso es necesario para mostrar Volume Panel sobre otras aplicaciones.</string>
-    <string name="failed_window_add">No se ha podido agregar la ventana, por favor, abre la aplicación y asegúrate de que los permisos de la Pantalla de Superposición han sido concedidos.</string>
-    <string name="cp_head">Pulsa en el CENTRO para confirmar</string>
-    <string name="transparency">Transparencia</string>
-    <string name="cancel">Cancelar</string>
-    <string name="press_back">Una vez completado, presiona atrás para volver a la aplicación.</string>
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources><string name="about"><![CDATA[<b>Volume Panel:
+      </b><br/>\u2022 Un reemplazo flexible para los controles de volumen de tu sistema.
+	  <br/><br/><b>Diseñado y desarrollado por:
+	  </b><br/>\u2022 Lee Bailey (alias @LeeDrOiD)
+	  <br/> Agradecimientos especiales:
+	  <br/>\u2022 The creators of App Intro.
+	  <br/>\u2022 Ereza for Custom Activity On Crash.
+	  <br/>\u2022 D-Max for Spots Dialog.
+	  <br/>Traducciones por:
+	  <br/>Linar10 - Polish
+	  <br/>Fatih Firinci - Turkish
+	  <br/>guillerag - Spanish
+	  <br/>
+	  <br/><No dudes en contactarme directamente y no olvides de dejarme un comentario &#128512;]]></string>
+    <string name="about_title">Acerca de</string>
     <string name="accessibility_description"><u>Acceso de Accesibilidad</u>
         \n\nEste permiso permite detectar las pulsaciones en los botones de volumen.
         \n\nNo se registran otros botones.
         \n\nAlgunos dispositivos pueden requerir un reinicio para iniciar el servicio.</string>
-    <string name="need_dnd">Permisos requeridos modo no molestar </string>
-    <string name="no">No</string>
-    <string name="vol_timeout">Tiempo de espera del panel = %1$ds</string>
-    <string name="yes">Si</string>
-    <string name="notification_listener">Receptor de notificaciones de Volume Panel</string>
-    <string name="perms"><u>Se necesitan permisos</u>
-        \n\nPara poder anular el panel de volumen del sistema, se necesitan varios permisos. 
-        \n\nAhora te mostraré varias pantallas detallando esos permisos, su uso y un botón para habilitarlos.
-		\n\n</string>
-    <string name="grant">Conceder permiso</string>
-    <string name="not_found">No se detecta ninguna actividad, por favor, ve a los Ajustes y concede los permisos manualmente </string>
-    <string name="exclude_applications">Excluir aplicaciones</string>
-    <string name="icon_colour">Color del icono</string>
-    <string name="background_colour">Color de fondo</string>
-    <string name="slider_colour">Color del deslizador</string>
-    <string name="show_alarm_panel">Mostrar panel de alarma</string>
-    <string name="default_to_ring_volume">Volumen de timbre predeterminado</string>
-    <string name="start_collapsed">Iniciar contraído</string>
-    <string name="position_left">Posición izquierda</string>
-    <string name="dark_mode">Modo oscuro</string>
-    <string name="enable_volume_panel">Habilitar en botón de volumen</string>
-    <string name="select_apps">Seleccionar aplicaciones</string>
-    <string name="loading_apps">Cargando aplicaciones</string>
-    <string name="done">Hecho</string>
-    <string name="exclude_applications_sum">\u2022 Volume Panel no se abrirá en estas aplicaciones.</string>
-    <string name="about">
-      <![CDATA[<b>Volume Panel:</b> 
-      <br/>\u2022 Un reemplazo flexible para los controles de volumen de tu sistema. 
-	  <br/><br/><b>Diseñado y desarrollado por:</b>     
-	  <br/>\u2022 Lee Bailey (alias @LeeDrOiD) 
-	  <br/> Agradecimientos especiales:
-      <br/>\u2022 The creators of App Intro.
-      <br/>\u2022 Ereza for Custom Activity On Crash.
-      <br/>\u2022 D-Max for Spots Dialog.
-      <br/>Traducciones por:
-      <br/>Linar10 - Polish
-      <br/>Fatih Firinci - Turkish
-      <br/>guillerag - Spanish	  
-      <br/><br/><No dudes en contactarme directamente y no olvides de dejarme un comentario &#128512;]]></string>
-    <string name="about_title">Acerca de</string>
-    <string name="email_feedback">Enviar comentarios</string>
-    <string name="close">Cerrar</string>
-    <string name="rate_app">Valora la aplicación</string>
-    <string name="disabling">Esta aplicación no fue instalada desde Google Play, pronto será deshabilitada.</string>
-    <string name="oops_error">Vaya.. parece que algo ha salido mal, Volume Panel se ha cerrado, por favor, pulsa en \"ENVIAR INFORME\" para hacermelo saber.</string>
-    <string name="latest">Por favor, asegúrate de que estás utilizando la última versión.</string>
-    <string name="send_report">Enviar informe</string>
-    <string name="add_shortcut">Habilitar en Launcher</string>
-    <string name="launch">Mostrar Volume Panel</string>
-    <string name="disable_acc">POR FAVOR, DESACTIVA EL SERVICIO DE ACCESIBILIDAD.</string>
-    <string name="ver_pos">Posición vertical = %1$d%%</string>
-    <string name="play_sound">Cambios audibles</string>
-    <string name="alert">Alerta de optimización</string>
-    <string name="bat_opt"><![CDATA[<b>Volume Panel está siendo optimizado por el sistema y puede ser deshabilitado en segundo plano</b>.
-        <br/><br/>Ninguno de los servicios de Volume Panel son de uso intensivo para la batería, pero la deshabilitación de la optimización mejorará la estabilidad.
-        <br/><br/>Presiona \"Cerrar\" para ejecutar optimizado o \"Actuar Ahora\" seguido de \"Todas las aplicaciones\" y luego desactiva " Optimización de la batería para Volume Panel.
-        <br/><br/>Si detectas que el servicio sigue siendo interrumpido por el sistema, intenta habilitar la opción "Forzar mantener servicios activos".]]></string>
     <string name="action">Actuar ahora</string>
-    <string name="mute_media">Silenciar medios</string>
-    <string name="vibrate">Vibración</string>
-    <string name="ring">Sonido</string>
-    <string name="silent">Silenciar</string>
-    <string name="ring_mode">Modo de sonido</string>
-    <string name="force_close">Forzar cierre de diálogos</string>
-    <string name="mapper">Posible interferencia</string>
-    <string name="mapper_sum">\u2022 Presiona aquí para más información</string>
-    <string name="mapper_detail">Es posible que se haya detectado una aplicación de mapeado de botones
-        \n\nLos mapeadores de botones utilizan servicios de accesibilidad para detectar las pulsaciones de los botones.
-        \n\nOtros servicios de accesibilidad que capturan y personalizan las pulsaciones de los botones de volumen interfieren con la capacidad de los paneles de volumen de esta aplicación para captar los botones de volumen.
-        \n\nConsidera la posibilidad de desactivar la personalización de los botones de volumen para esas aplicaciones.
-        \n\nAlternativamente, habilita el acceso directo del launcher y ábrelo con una asignación a traves de una aplicación de mapeado de botones.</string>
+    <string name="add_border">Habilitar bordes en panel</string>
+    <string name="add_shortcut">Habilitar en Launcher</string>
+    <string name="additonal_perms_req">Necesitas permisos adicionales</string>
+    <string name="alert">Alerta de optimización</string>
+    <string name="anim_duration">Duración de la animación = %.2fs</string>
+    <string name="anim_durations">Duración de la animación</string>
+    <string name="app_name">Volume Panel</string>
+    <string name="auto_dark_sum">\u2022 Modo Claro/Oscuro definido por el sistema.
+        \n\u2022 Se necesita el soporte del fabricante.</string>
+    <string name="background_colour">Color de fondo</string>
+    <string name="bat_opt"><![CDATA[<b>Volume Panel está siendo optimizado por el sistema y puede ser deshabilitado en segundo plano</b>.
+    <br/><br/>Ninguno de los servicios de Volume Panel son de uso intensivo para la batería, pero la deshabilitación de la optimización mejorará la estabilidad.
+    <br/><br/>Presiona \"Cerrar\" para ejecutar optimizado o \"Actuar Ahora\" seguido de \"Todas las aplicaciones\" y luego desactiva " Optimización de la batería para Volume Panel.
+    <br/><br/>Si detectas que el servicio sigue siendo interrumpido por el sistema, intenta habilitar la opción "Forzar mantener servicios activos".]]></string>
+    <string name="behaviour">Comportamiento</string>
+    <string name="block_vold_lp">Bloquear pulsación larga Vol -</string>
+    <string name="block_vold_lp_sum">\u2022 Soluciona los problemas de las capturas de pantalla mediante los botones de Volumen y Encendido.</string>
+    <string name="border_colour">Color del borde</string>
+    <string name="border_thickness">Espesor de los bordes = %1$d dp</string>
+    <string name="border_thicknesss">Espesor de los bordes</string>
+    <string name="bright_calibrate">    <b>i</b>: Recalibrar el brillo máximo:
+        \n\u2022 Ajustar el brillo de la pantalla al máximo y luego mantener pulsado aquí.</string>
+    <string name="cancel">Cancelar</string>
+    <string name="cast">Mostrar panel Cast</string>
+    <string name="click_out">Pulsar fuera para cerrar</string>
+    <string name="click_out_sum">\u2022 Puede interferir con otras aplicaciones al habilitarlo.</string>
+    <string name="close">Cerrar</string>
+    <string name="corner_scale">Radio de las esquinas = %1$d%%</string>
+    <string name="corner_scales">Radio de las esquina</string>
+    <string name="cp_head">Pulsa en el CENTRO para confirmar</string>
+    <string name="dark_mode">Modo oscuro</string>
+    <string name="default_to_ring_volume">Volumen de timbre predeterminado</string>
+    <string name="design">Diseño</string>
+    <string name="detect_keys">Detectar pulsaciones al iniciar</string>
+    <string name="disable">Deshabilitar</string>
+    <string name="disable_acc">POR FAVOR, DESACTIVA EL SERVICIO DE ACCESIBILIDAD.</string>
+    <string name="disable_notif">POR FAVOR, DESACTIVA EL ACCESO A LAS NOTIFICACIONES</string>
+    <string name="disabling">Esta aplicación no fue instalada desde Google Play, pronto será deshabilitada.</string>
     <string name="dismiss">Rechazar</string>
-    <string name="show_notif">Mostrar panel de notificaciones</string>
-    <string name="notif_panel"><![CDATA[No todos los dispositivos admiten la división del volumen de las notificaciones y del timbre.<br/><br/>Si ambos deslizadores cambian juntos, esto se debe a la configuración de tu sistema y no tiene nada que ver con Volume Panel.]]></string>
-    <string name="enable_blacklist">Habilitar la exclusión de aplicaciones</string>
-    <string name="usage_access"><u>Acceso de uso</u>
-        \n\nEste permiso nos permite detectar la aplicación actualmente en uso a través de las estadísticas de uso de paquetes, verifica si la ha excluido.
-        \n\nSi quieres ejecutar sin excluir aplicaciones, no dudes en omitir este permiso.
-        \n\n</string>
-    <string name="excluded">Volume Panel: Aplicación excluida</string>
+    <string name="dnd_access"><u>Acceso a No molestar</u>
+        \n\nEste permiso nos permite modificar la configuración de No molestar.\n\n</string>
     <string name="do_not_kill">Forzar mantener servicios activos</string>
     <string name="do_not_kill_desc"><![CDATA[<b>Utiliza esta opción solo si Volume Panel sigue sin funcionar.</b>
-        <br/><br/>Algunos dispositivos son demasiado agresivos cuando liberan memoria y eliminan servicios importantes, las aplicaciones con derechos de administrador rara vez se eliminan.
-        <br/><br/>Habilitar los derechos básicos de Administrador para Volume Panel mantendrá al servicio activo.
-        <br/><br/>Tendrás que desactivar esta opción si alguna vez necesitas desinstalar la aplicación.]]></string>
-    <string name="launch_opts">Opciones de Inicio</string>
-    <string name="design">Diseño</string>
-    <string name="behaviour">Comportamiento</string>
+    <br/><br/>Algunos dispositivos son demasiado agresivos cuando liberan memoria y eliminan servicios importantes, las aplicaciones con derechos de administrador rara vez se eliminan.
+    <br/><br/>Habilitar los derechos básicos de Administrador para Volume Panel mantendrá al servicio activo.
+    <br/><br/>Tendrás que desactivar esta opción si alguna vez necesitas desinstalar la aplicación.]]></string>
+    <string name="done">Hecho</string>
+    <string name="email_feedback">Enviar comentarios</string>
+    <string name="enable_blacklist">Habilitar la exclusión de aplicaciones</string>
+    <string name="enable_volume_panel">Habilitar en botón de volumen</string>
+    <string name="exclude_applications">Excluir aplicaciones</string>
+    <string name="exclude_applications_sum">\u2022 Volume Panel no se abrirá en estas aplicaciones.</string>
+    <string name="excluded">Volume Panel: Aplicación excluida</string>
+    <string name="failed_window_add">No se ha podido agregar la ventana, por favor, abre la aplicación y asegúrate de que los permisos de la Pantalla de Superposición han sido concedidos.</string>
+    <string name="fill_style">Usar deslizador grueso</string>
+    <string name="flash_light">Mostrar botón de la linterna</string>
+    <string name="floating_trigger">Habilitar Activador Flotante</string>
+    <string name="force_close">Forzar cierre de diálogos</string>
+    <string name="free">Deshabilitar versión gratuita</string>
+    <string name="free_installed">Volume Panel Free está actualmente anulando el panel de volumen del sistema, por favor desactívalo para evitar conflictos.</string>
+    <string name="google_assistant">Mostrar botón del asistente</string>
+    <string name="grant">Conceder permiso</string>
+    <string name="hide_full">Invisible a pantalla completa</string>
+    <string name="hide_settings">Ocultar acceso directo a los ajustes</string>
+    <string name="icon_colour">Color del icono</string>
     <string name="invert_buttons">Invertir botones de volumen</string>
-    <string name="position_left_land">Posición izquierda en modo horizontal</string>
     <string name="killed">El servicio de accesibilidad de Volume Panel ha sido detenido o eliminado por el sistema.
         \n\nSi no ha sido intencionado, por favor, prueba la opción "Forzar mantener servicios activos" en la aplicación y asegúrate de que la optimización de la batería está desactivada para Volume Panel.</string>
-    <string name="reenable">Habilitar de nuevo</string>
-    <string name="hide_settings">Ocultar acceso directo a los ajustes</string>
-    <string name="screen_shot">Mostrar botón de captura de pantalla</string>
+    <string name="killer_info"><![CDATA[Para más información visita:
+    <br/>http://www.dontkillmyapp.com/]]></string>
+    <string name="latest">Por favor, asegúrate de que estás utilizando la última versión.</string>
+    <string name="launch">Mostrar Volume Panel</string>
+    <string name="launch_opts">Opciones de Inicio</string>
     <string name="layout">Disposición</string>
-    <string name="floating_trigger">Habilitar Activador Flotante</string>
-    <string name="trigger_cat">Activador</string>
-    <string name="trigger_colour">Color del activador</string>
-    <string name="rate_it"><![CDATA[<p style="text-align:center"><b>¿Disfrutando de Volume Panel?</b>
-        <br/><br/>Por favor, deja tu valoración en Play Store
-        <br/><br/>\u2b50\u2b50\u2b50\u2b50\u2b50</p>]]></string>
-    <string name="disable">Deshabilitar</string>
-    <string name="pro">¡Actualiza a Volume Panel Pro!</string>
-    <string name="pro_only"> - Solo Pro</string>
-    <string name="pro_un">Elimina la publicidad y desbloquea todas las funciones.</string>
-    <string name="suspend">Suspender</string>
-    <string name="hide_full">Invisible a pantalla completa</string>
-    <string name="dnd_access"><u>Acceso a No molestar</u>
-        \n\nEste permiso nos permite modificar la configuración de No molestar.
-        \n\n</string>
-    <string name="cast">Mostrar panel Cast</string>
+    <string name="loading_apps">Cargando aplicaciones</string>
+    <string name="lock_ring_vol">Bloquear deslizador del panel de timbre en Vibración/Silencio</string>
+    <string name="long_press"><![CDATA[Presiona y arrastra los paneles para reordenarlos.]]></string>
+    <string name="mapper">Posible interferencia</string>
+    <string name="mapper_detail">Es posible que se haya detectado una aplicación de mapeado de botones
+        \n\nLos mapeadores de botones utilizan servicios de accesibilidad para detectar las pulsaciones de los botones.
+        \n\nOtros servicios de accesibilidad que capturan y personalizan las pulsaciones de los botones de volumen interfieren con la capacidad de los paneles de volumen de esta aplicación para captar los botones de volumen.    \n\nConsidera la posibilidad de desactivar la personalización de los botones de volumen para esas aplicaciones.    \n\nAlternativamente, habilita el acceso directo del launcher y ábrelo con una asignación a traves de una aplicación de mapeado de botones.</string>
+    <string name="mapper_sum">\u2022 Presiona aquí para más información</string>
+    <string name="margin">Posición horizontal = %1$d dp</string>
+    <string name="margins">Posición horizontal</string>
+    <string name="media">Volumen Multimedia =</string>
+    <string name="mute_media">Silenciar medios</string>
+    <string name="need_dnd">Permisos requeridos modo no molestar </string>
+    <string name="no">No</string>
+    <string name="not_found">No se detecta ninguna actividad, por favor, ve a los Ajustes y concede los permisos manualmente </string>
     <string name="notif_access"><u>Acceso a notificaciones</u>
         \n\n\u2022 Este permiso nos permite detectar transmisiones Cast o de Streaming.
         \n\u2022 Si deseas ejecutar sin controlarlas, no dudes en omitir este permiso.
         \n\nNo se registrará ningún contenido de las notificaciones.
         \n\n</string>
-    <string name="margin">Posición horizontal = %1$d dp</string>
-    <string name="disable_notif">POR FAVOR, DESACTIVA EL ACCESO A LAS NOTIFICACIONES</string>
-    <string name="up_launch">Iniciar solo presionando Vol +</string>
-    <string name="click_out">Pulsar fuera para cerrar</string>
-    <string name="up_launch_sum">\u2022 El panel solo se iniciará cuando se presione Vol +.</string>
-    <string name="click_out_sum">\u2022 Puede interferir con otras aplicaciones al habilitarlo.</string>
-    <string name="trigger_scale_tx">Escala del deslizador = %1$d%% X</string>
-    <string name="trigger_scale_ty">Escala del deslizador = %1$d%% Y</string>
-    <string name="corner_scale">Radio de las esquinas = %1$d%%</string>
-    <string name="free">Deshabilitar versión gratuita</string>
-    <string name="free_installed">Volume Panel Free está actualmente anulando el panel de volumen del sistema, por favor desactívalo para evitar conflictos.</string>
-    <string name="media">Volumen Multimedia =</string>
-    <string name="system_warn">Al habilitar cualquier servicio de accesibilidad se te presentará un aviso genérico del sistema, para tu tranquilidad, Volume Panel no captura ninguna otra tecla o contenido y no tiene ni solicita permiso para conectarse a Internet.</string>
-    <string name="slide_heightx">Escala de panel = %1$d%% X</string>
-    <string name="slide_heighty">Escala de panel = %1$d%% Y</string>
-    <string name="use_system">Modo Claro/Oscuro automático</string>
-    <string name="auto_dark_sum">\u2022 Modo Claro/Oscuro definido por el sistema.
-    \n\u2022 Se necesita el soporte del fabricante.</string>
-    <string name="anim_duration">Duración de la animación = %.2fs</string>
-    <string name="preview"><![CDATA[Vista Previa: Los paneles de llamada y Cast solo se mostrarán cuando sea necesario.]]></string>
-    <string name="vibe_duration">Duración de la vibración = %.2fs</string>
-    <string name="show_bright_panel">Mostrar panel de brillo</string>
-    <string name="system_perms_message">Volume Panel necesita tener permiso para cambiar los ajustes del sistema, por favor presionar en proceder para continuar.\n</string>
-    <string name="show_ring_panel">Mostrar panel de timbre</string>
-    <string name="bright_calibrate"><b>i</b>: Recalibrar el brillo máximo:
-        \n\u2022 Ajustar el brillo de la pantalla al máximo y luego mantener pulsado aquí.</string>
+    <string name="notif_panel"><![CDATA[No todos los dispositivos admiten la división del volumen de las notificaciones y del timbre.
+    <br/><br/>Si ambos deslizadores cambian juntos, esto se debe a la configuración de tu sistema y no tiene nada que ver con Volume Panel.]]></string>
+    <string name="notification_listener">Receptor de notificaciones de Volume Panel</string>
+    <string name="oops_error">Vaya.. parece que algo ha salido mal, Volume Panel se ha cerrado, por favor, pulsa en \"ENVIAR INFORME\" para hacermelo saber.</string>
     <string name="order">Cambiar orden de los paneles</string>
-    <string name="long_press"><![CDATA[Presiona y arrastra los paneles para reordenarlos.]]></string>
-    <string name="killer_info"><![CDATA[Para más información visita:<br/>
-        http://www.dontkillmyapp.com/]]></string>
-    <string name="tips"><![CDATA[<b>Consejos:</b><br/><br/>
-    <b>El audio no cambia en algunas aplicaciones:<br/></b><br/>
-    Algunas aplicaciones como Instagram y Snapchat toman un enfoque de audio completo e intentan capturar los botones de audio,
-     si experimentas este problema, por favor habilita la opción \"Excluir aplicaciones\" y agrega las aplicaciones causantes a la lista.<br/><br/>
-    <b>El panel de audio del sistema sigue apareciendo:<br/></B><br/>
-    Es muy probable que tu sistema esté anulando el servicio de acceso al panel de volumen, si esto ocurre,
-    por favor, asegúrate de que la optimización de la batería y la memoria está desactivada para la aplicación, habilitar el \"Activador Flotante\" también puede ayudar.<br/>
-    Para más información visita: http://www.dontkillmyapp.com/]]></string>
-    <string name="add_border">Habilitar bordes en panel</string>
-    <string name="border_colour">Color del borde</string>
-    <string name="border_thickness">Espesor de los bordes = %1$d dp</string>
-    <string name="google_assistant">Mostrar botón del asistente</string>
-    <string name="flash_light">Mostrar botón de la linterna</string>
-    <string name="detect_keys">Detectar pulsaciones al iniciar</string>
-    <string name="switch_theme">Cambiar tema</string>
-    <string name="block_vold_lp">Bloquear pulsación larga Vol -</string>
-    <string name="block_vold_lp_sum">\u2022 Soluciona los problemas de las capturas de pantalla mediante los botones de Volumen y Encendido.</string>
-    <string name="lock_ring_vol">Bloquear deslizador del panel de timbre en Vibración/Silencio</string>
+    <string name="overlay_needed"><u>Superposición del sistema</u>
+	    \n\nEste permiso es necesario para mostrar Volume Panel sobre otras aplicaciones.</string>
+    <string name="perms">
+        <u>Se necesitan permisos</u>
+        \n\nPara poder anular el panel de volumen del sistema, se necesitan varios permisos.
+        \n\nAhora te mostraré varias pantallas detallando esos permisos, su uso y un botón para habilitarlos.
+		\n\n</string>
+    <string name="play_sound">Cambios audibles</string>
+    <string name="position_left">Posición izquierda</string>
+    <string name="position_left_land">Posición izquierda en modo horizontal</string>
+    <string name="press_back">Una vez completado, presiona atrás para volver a la aplicación.</string>
+    <string name="preview"><![CDATA[Vista Previa: Los paneles de llamada y Cast solo se mostrarán cuando sea necesario.]]></string>
+    <string name="pro">¡Actualiza a Volume Panel Pro!</string>
+    <string name="pro_only"> - Solo Pro</string>
+    <string name="pro_un">Elimina la publicidad y desbloquea todas las funciones.</string>
+    <string name="proceed">Proceder</string>
+    <string name="rate_app">Valora la aplicación</string>
+    <string name="rate_it"><![CDATA[<p style="text-align:center"><b>¿Disfrutando de Volume Panel?</b>
+    <br/><br/>Por favor, deja tu valoración en Play Store
+    <br/><br/>\u2b50\u2b50\u2b50\u2b50\u2b50</p>]]></string>
+    <string name="reenable">Habilitar de nuevo</string>
+    <string name="ring">Sonido</string>
+    <string name="ring_mode">Modo de sonido</string>
+    <string name="screen_shot">Mostrar botón de captura de pantalla</string>
+    <string name="select_apps">Seleccionar aplicaciones</string>
+    <string name="send_report">Enviar informe</string>
+    <string name="show_alarm_panel">Mostrar panel de alarma</string>
+    <string name="show_bright_panel">Mostrar panel de brillo</string>
     <string name="show_lock">Mostrar en pantalla de bloqueo</string>
-    <string name="fill_style">Use Solid Sliders</string>
+    <string name="show_notif">Mostrar panel de notificaciones</string>
+    <string name="show_ring_panel">Mostrar panel de timbre</string>
+    <string name="silent">Silenciar</string>
+    <string name="slide_heightx">Escala de panel X = %1$d%%</string>
+    <string name="slide_heightxs">Escala de panel X</string>
+    <string name="slide_heighty">Escala de panel Y = %1$d%%</string>
+    <string name="slide_heightys">Escala de panel Y</string>
+    <string name="slider_colour">Color del deslizador</string>
+    <string name="start_collapsed">Iniciar contraído</string>
+    <string name="suspend">Suspender</string>
+    <string name="switch_theme">Cambiar tema</string>
+    <string name="system_perms_message">Volume Panel necesita tener permiso para cambiar los ajustes del sistema, por favor presionar en proceder para continuar.\n</string>
+    <string name="system_warn">Al habilitar cualquier servicio de accesibilidad se te presentará un aviso genérico del sistema, para tu tranquilidad, Volume Panel no captura ninguna otra tecla o contenido y no tiene ni solicita permiso para conectarse a Internet.</string>
+    <string name="tips"><![CDATA[<b>Consejos:</b><br/><br/><b>El audio no cambia en algunas aplicaciones:
+    <br/></b><br/>Algunas aplicaciones como Instagram y Snapchat toman un enfoque de audio completo e intentan capturar los botones de audio, si experimentas este problema, por favor habilita la opción \"Excluir aplicaciones\" y agrega las aplicaciones causantes a la lista.
+    <br/><br/><b>El panel de audio del sistema sigue apareciendo:
+    <br/></B><br/>Es muy probable que tu sistema esté anulando el servicio de acceso al panel de volumen, si esto ocurre,por favor, asegúrate de que la optimización de la batería y la memoria está desactivada para la aplicación, habilitar el \"Activador Flotante\" también puede ayudar.<br/>Para más información visita: http://www.dontkillmyapp.com/]]></string>
+    <string name="transparency">Transparencia</string>
+    <string name="trigger_cat">Activador</string>
+    <string name="trigger_colour">Color del activador</string>
+    <string name="trigger_scale_tx">Escala del deslizador X = %1$d%%</string>
+    <string name="trigger_scale_txs">Escala del deslizador X</string>
+    <string name="trigger_scale_ty">Escala del deslizador Y = %1$d%%</string>
+    <string name="trigger_scale_tys">Escala del deslizador Y</string>
+    <string name="up_launch">Iniciar solo presionando Vol +</string>
+    <string name="up_launch_sum">\u2022 El panel solo se iniciará cuando se presione Vol +.</string>
+    <string name="usage_access">
+        <u>Acceso de uso</u>
+        \n\nEste permiso nos permite detectar la aplicación actualmente en uso a través de las estadísticas de uso de paquetes, verifica si la ha excluido.
+        \n\nSi quieres ejecutar sin excluir aplicaciones, no dudes en omitir este permiso.
+        \n\n</string>
+    <string name="use_system">Modo Claro/Oscuro automático</string>
+    <string name="ver_pos">Posición vertical = %1$d%%</string>
+    <string name="ver_poss">Posición vertical</string>
+    <string name="vibe_duration">Duración de la vibración = %.2fs</string>
+    <string name="vibe_durations">Duración de la vibración</string>
+    <string name="vibrate">Vibración</string>
+    <string name="vol_timeout">Tiempo de espera del panel = %1$ds</string>
+    <string name="vol_timeouts">Tiempo de espera del panel</string>
+    <string name="volumeui">Panel de sistema</string>
+    <string name="yes">Si</string>
 </resources>

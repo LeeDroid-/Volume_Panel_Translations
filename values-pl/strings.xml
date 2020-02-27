@@ -1,50 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resources>
-    <string name="additonal_perms_req">Wymagane Dodatkowe Uprawnienia</string>
-    <string name="proceed">Kontynuuj</string>
-    <string name="app_name">Volume Panel</string>
-    <string name="volumeui">Volume UI</string>
-    <string name="overlay_needed"><u>Nakładka Systemowa</u>
-        \n\nTo uprawnienie jest wymagane, abyśmy mogli wyświetlać Panel Głośności w innych aplikacjach.</string>
-    <string name="failed_window_add">Nie udało się dodać okna, otwórz aplikację i upewnij się, że uprawnienia do nakładki ekranu zostały przyznane</string>
-    <string name="cp_head">Dotknij NA ŚRODKU, aby potwierdzić</string>
-    <string name="transparency">Przeźroczystość</string>
-    <string name="disable">Zamknij</string>
-    <string name="cancel">Anuluj</string>
-    <string name="press_back">Po zakończeniu naciśnij przycisk Wstecz, aby wrócić do aplikacji.</string>
-    <string name="accessibility_description"><u>Dostęp do Ułatwień Dostępu </u>
-        \n\n\u2022 Wykryj naciśnięcia klawiszy +/-.
-        \n\u2022 Wykryj, kiedy używane są wykluczone aplikacje.
-        \n\nŻadne inne klucze nie są przechwytywane.
-        \n\nNiektóre urządzenia mogą wymagać ponownego uruchomienia, aby uruchomić usługę.</string>
-    <string name="need_dnd">Wymagane Uprawnienia Do Trybu Nieprzeszkadzać</string>
-    <string name="no">Nie</string>
-    <string name="vol_timeout">Limit Czasu Panela = %1$ds</string>
-    <string name="yes">Tak</string>
-    <string name="notification_listener">Wyświetlanie Powiadomień Panelu Głośności</string>
-    <string name="perms"><u>Wymagane Uprawnienia</u>
-        \n\nAby zastąpić panel głośności systemowy, wymaganych jest kilka uprawnień.
-        \n\nPokażę teraz ekran z wyszczególnieniem tych uprawnień z przyciskiem, aby je włączyć.
-        \n\nPo włączeniu uprawnienia naciśnij przycisk Wstecz, aby wrócić do aplikacji.</string>
-    <string name="grant">Przyznaj Uprawnienia</string>
-    <string name="not_found">Nie znaleziono aktywności, przejdź do Ustawień i udziel ręcznie</string>
-    <string name="exclude_applications">Wyklucz Aplikacje</string>
-    <string name="icon_colour">Kolor Ikon</string>
-    <string name="background_colour">Kolor Tła</string>
-    <string name="slider_colour">Kolor Suwaka</string>
-    <string name="show_alarm_panel">Pokaż Panel Alarmu</string>
-    <string name="default_to_ring_volume">Domyślna Głośność Dzwonka</string>
-    <string name="start_collapsed">Rozpocznij Zwinięty</string>
-    <string name="position_left">Po Lewej Stronie</string>
-    <string name="dark_mode">Tryb Ciemny</string>
-    <string name="select_apps">Wybierz Aplikacje</string>
-    <string name="loading_apps">Ładowanie Aplikacji</string>
-    <string name="done">Gotowe</string>
-    <string name="exclude_applications_sum">\u2022 Panel głośności nie otworzy się w tych aplikacjach.</string>
-    <string name="about">
-        <![CDATA[<b>Panel Głośności:</b>
-        <br/>\u2022 Elastyczna wymiana regulacji głośności systemu.
-        <br/><br/><b>Designed &amp; Developed By:</b>
-        <br/>\u2022 Lee Bailey (AKA @LeeDrOiD)
+    <string name="about"><![CDATA[<b>Panel Głośności:
+        </b><br/>\u2022 Elastyczna wymiana regulacji głośności systemu.
+        <br/><br/><b>Designed &amp; Developed By:
+        </b><br/>\u2022 Lee Bailey (AKA @LeeDrOiD)
         <br/> Dodatkowe Podziękowania:
         <br/>\u2022 The creators of App Into.
         <br/>\u2022 Ereza for Custom Activity On Crash.
@@ -52,131 +11,188 @@
         <br/>Tłumaczenie:
         <br/>Linar10 - Polish
         <br/>\u2022 Fatih Firinci - Turkish
-	<br/>guillerag - Spanish
+	    <br/>guillerag - Spanish
         <br/><br/>Skontaktuj się ze mną bezpośrednio &amp; Nie zapomnij zostawić opinii &#128512;]]></string>
     <string name="about_title">Informacje</string>
-    <string name="email_feedback">Zgłaszanie Błędów</string>
-    <string name="close">Zamknij</string>
-    <string name="rate_app">Oceń Aplikację</string>
-    <string name="disabling">Ta aplikacja nie została zainstalowana z Google Play &amp; wkrótce zostanie wyłączona.</string>
-    <string name="oops_error">Ups .. Wygląda na to, że coś poszło nie tak i Panel głośności się zawiesił, proszę nacisnąć \ "WYŚLIJ RAPORT \" poniżej, aby dać mi znać.</string>
-    <string name="latest">Upewnij się, że używasz najnowszej wersji.</string>
-    <string name="send_report">Wyślij Raport</string>
-    <string name="add_shortcut">Dodaj Skrót do Launchera</string>
-    <string name="launch">Pokaż Panel Głośności</string>
-    <string name="disable_acc"> PROSZĘ WYŁĄCZYĆ USŁUGĘ DOSTĘPNOŚCI.</string>
-    <string name="ver_pos">Pozycja w Pionie = %1$d%%</string>
-    <string name="play_sound">Potwierdzenie Dźwiękami</string>
-    <string name="alert">Optymalizacja Alertów</string>
-    <string name="bat_opt"><![CDATA[<b>Panel głośności jest optymalizowany przez system i może zostać zamknięty w tle</b>.
-    <br/><br/>Żadna z usług w Panelu głośności nie wymaga użycia baterii, ale wyłączenie optymalizacji poprawi niezawodność.
-    <br/><br/>Kliknij \"Zamknij\" aby uruchomić optymalizację lub kliknij „Wykonaj Teraz”, a następnie „Wszystkie aplikacje”, a następnie wyłącz Optymalizację baterii dla Panelu Głośności.]]></string>
+    <string name="accessibility_description">
+        <u>Dostęp do Ułatwień Dostępu </u>
+        \n\n\u2022 Wykryj naciśnięcia klawiszy +/-.
+        \n\u2022 Wykryj, kiedy używane są wykluczone aplikacje.
+        \n\nŻadne inne klucze nie są przechwytywane.
+        \n\nNiektóre urządzenia mogą wymagać ponownego uruchomienia, aby uruchomić usługę.</string>
     <string name="action">Wykonaj Teraz</string>
-    <string name="mute_media">Wycisz Media</string>
-    <string name="vibrate">Wibracja</string>
-    <string name="ring">Dzwonek</string>
-    <string name="silent">Cichy</string>
-    <string name="ring_mode">Tryb Dzwonka</string>
-    <string name="force_close">Wymuś Zamknięcie Okien Dialogowych</string>
-    <string name="mapper">Możliwe Zakłócenia</string>
-    <string name="mapper_sum">\u2022 Kliknij tutaj po więcej informacji</string>
-    <string name="mapper_detail">Możliwe, że wykryliśmy aplikację Mapowania przycisków..
-        \n\n Mapowacze przycisków używają usług ułatwień dostępu do wykrywania kliknięć przycisków
-        \n\nInne usługi ułatwień dostępu przechwytujące / dostosowujące kliknięcia przycisków głośności będą zakłócać zdolność Panela Głośności do przechwytywania przycisków głośności.
-        \n\nProszę rozważyć wyłączenie dostosowywania przycisku głośności dla tych aplikacji.
-        \n\nAlternatywnie, włącz skrót do launchera i otwórz go za pomocą remapu!</string>
+    <string name="add_border">Włącz Ramkę Paneli</string>
+    <string name="add_shortcut">Dodaj Skrót do Launchera</string>
+    <string name="additonal_perms_req">Wymagane Dodatkowe Uprawnienia</string>
+    <string name="alert">Optymalizacja Alertów</string>
+    <string name="anim_duration">Czas Trwania Animacji = %.2fs</string>
+    <string name="anim_durations">Czas Trwania Animacji</string>
+    <string name="app_name">Volume Panel</string>
+    <string name="auto_dark_sum">\u2022 Ustaw tryb Ciemny/Jasny zgodny z systemem.
+        \n\u2022 Wymagane wsparcie producenta.</string>
+    <string name="background_colour">Kolor Tła</string>
+    <string name="bat_opt"><![CDATA[<b>Panel głośności jest optymalizowany przez system i może zostać zamknięty w tle</b>.
+        <br/><br/>Żadna z usług w Panelu głośności nie wymaga użycia baterii, ale wyłączenie optymalizacji poprawi niezawodność.
+        <br/><br/>Kliknij \"Zamknij\" aby uruchomić optymalizację lub kliknij „Wykonaj Teraz”, a następnie „Wszystkie aplikacje”, a następnie wyłącz Optymalizację baterii dla Panelu Głośności.]]></string>
+    <string name="behaviour">Zachowanie</string>
+    <string name="block_vold_lp">Blokuj Zmniejszanie Głośności po Długim Naciśnięciu</string>
+    <string name="block_vold_lp_sum">\u2022 Naprawiono problemy ze zrzutami ekranu Vol + Power.</string>
+    <string name="border_colour">Kolor Ramki</string>
+    <string name="border_thickness">Grubość Ramki = %1$d dp</string>
+    <string name="border_thicknesss">Grubość Ramki</string>
+    <string name="bright_calibrate">Ponownie Skalibruj Maksymalną Jasność:
+        \n\u2022 Ustaw jasność ekranu na Max, a następnie długo naciśnij tutaj.</string>
+    <string name="cancel">Anuluj</string>
+    <string name="cast">Kontroluj Głośność Przesyłania Ekranu</string>
+    <string name="click_out">Kliknij Na Zewnątrz Aby Zamknąć</string>
+    <string name="click_out_sum">\u2022 Po włączeniu może zakłócać działanie innych aplikacji.</string>
+    <string name="close">Zamknij</string>
+    <string name="corner_scale">Promień narożnika = %1$d%%</string>
+    <string name="corner_scales">Promień narożnika</string>
+    <string name="cp_head">Dotknij NA ŚRODKU, aby potwierdzić</string>
+    <string name="dark_mode">Tryb Ciemny</string>
+    <string name="default_to_ring_volume">Domyślna Głośność Dzwonka</string>
+    <string name="design">Wygląd</string>
+    <string name="detect_keys">Wykryj Naciśnięcia Klawiszy Po Otwarciu</string>
+    <string name="disable">Zamknij</string>
+    <string name="disable_acc"> PROSZĘ WYŁĄCZYĆ USŁUGĘ DOSTĘPNOŚCI.</string>
+    <string name="disable_notif">PROSZĘ O WYŁACZENIE DOSTĘPU DO POWIADOMIEŃ</string>
+    <string name="disabling">Ta aplikacja nie została zainstalowana z Google Play &amp; wkrótce zostanie wyłączona.</string>
     <string name="dismiss">Odrzuć</string>
-    <string name="notif_panel"><![CDATA[Nie wszystkie urządzenia obsługują dzielenie głośności & powiadomień i dzwonków.<br/><br/>Jeśli obie pary zmieniają się razem, wynika to z konfiguracji systemu i nie ma nic wspólnego z Panelem głośności.]]></string>
-    <string name="show_notif">Pokaż Panel Powiadomień</string>
-    <string name="enable_volume_panel">Zastąp Przycisk Głośności</string>
-    <string name="enable_blacklist">Włącz Wykluczenia aplikacji</string>
-    <string name="usage_access"><u>Dostęp do Użytkowania</u>
-        \n\nTo uprawnienie pozwala nam wykryć aktualnie używaną aplikację &amp; sprawdź, czy to wykluczyłeś.
-        \n\n Jeśli chcesz uruchomić bez wykluczania aplikacji, możesz pominąć to uprawnienie.
+    <string name="dnd_access">
+        <u>Dostęp Do Nie Przeszkadzać</u>
+        \n\nTo uprawnienie pozwala nam modyfikować ustawienia Nie Przeszkadzać.
         \n\n</string>
-    <string name="excluded">Volume Panel: Aplikacja Wykluczona</string>
     <string name="do_not_kill">Wymuś Utrzymanie Usług w Tle</string>
     <string name="do_not_kill_desc"><![CDATA[<b>Tej opcji należy używać tylko wtedy, gdy panel głośności nadal się zatrzymuje.</b>
         <br/><br/>Niektóre urządzenia są zbyt agresywne, gdy zwalniają pamięć i zabijają ważne usługi, aplikacje z prawami administratora rzadko są zabijane..
         <br/><br/>Włączenie podstawowych praw administratora w Panelu Głośności utrzyma usługę aktywną.
         <br/><br/>Będziesz musiał wyłączyć tę opcję, jeśli kiedykolwiek będziesz musiał odinstalować aplikację.]]></string>
-    <string name="launch_opts">Opcje Aktywacji</string>
-    <string name="design">Wygląd</string>
-    <string name="behaviour">Zachowanie</string>
+    <string name="done">Gotowe</string>
+    <string name="email_feedback">Zgłaszanie Błędów</string>
+    <string name="enable_blacklist">Włącz Wykluczenia aplikacji</string>
+    <string name="enable_volume_panel">Zastąp Przycisk Głośności</string>
+    <string name="exclude_applications">Wyklucz Aplikacje</string>
+    <string name="exclude_applications_sum">\u2022 Panel głośności nie otworzy się w tych aplikacjach.</string>
+    <string name="excluded">Volume Panel: Aplikacja Wykluczona</string>
+    <string name="failed_window_add">Nie udało się dodać okna, otwórz aplikację i upewnij się, że uprawnienia do nakładki ekranu zostały przyznane</string>
+    <string name="fill_style">Alternatywny Styl Suwaka</string>
+    <string name="flash_light">Pokaż Przycisk Latarki</string>
+    <string name="floating_trigger">Swypnięcie Wyzwalacza Góra/Dół</string>
+    <string name="force_close">Wymuś Zamknięcie Okien Dialogowych</string>
+    <string name="free">Wyłącz bezpłatną wersję</string>
+    <string name="free_installed">Volume Panel Free jest obecnie nadrzędny w stosunku do panelu głośności systemu, proszę go wyłączyć, aby uniknąć konfliktów.</string>
+    <string name="google_assistant">Pokaż Przycisk Asystenta</string>
+    <string name="grant">Przyznaj Uprawnienia</string>
+    <string name="hide_full">Ukryj Na Pełnym Ekranie</string>
+    <string name="hide_settings">Ukryj Skrót Ustawień</string>
+    <string name="icon_colour">Kolor Ikon</string>
     <string name="invert_buttons">Odwróć Przyciski Głośności</string>
-    <string name="position_left_land">Po Lewej Stronie w Poziomie</string>
     <string name="killed">Usługa dostępu do panelu głośności została zatrzymana lub usunięta przez system.
         \Jeśli nie było to celowe, wypróbuj opcję \"Utrzymuj Usługę Aktywną\" w aplikacji i upewnij się, że optymalizacja baterii jest wyłączona dla panelu głośności.</string>
-    <string name="screen_shot">Pokaż Przycisk Zrzutu Ekranu</string>
-    <string name="reenable">Włącz ponownie</string>
-    <string name="hide_settings">Ukryj Skrót Ustawień</string>
+    <string name="killer_info"><![CDATA[Po więcej informacji odwiedź:<br/>
+        http://www.dontkillmyapp.com/]]></string>
+    <string name="latest">Upewnij się, że używasz najnowszej wersji.</string>
+    <string name="launch">Pokaż Panel Głośności</string>
+    <string name="launch_opts">Opcje Aktywacji</string>
     <string name="layout">Układ</string>
-    <string name="floating_trigger">Swypnięcie Wyzwalacza Góra/Dół</string>
-    <string name="trigger_cat">Wyzwalacz</string>
-    <string name="trigger_colour">Kolor Wyzwalacza</string>
-    <string name="rate_it"><![CDATA[<p style="text-align:center"><b>Cieszysz się Panelem Głośności?</b>
-        <br/><br/>Proszę zostawić opinię w Sklepie Play!
-        <br/><br/>\u2b50\u2b50\u2b50\u2b50\u2b50</p>]]></string>
-    <string name="pro">Uaktualnij Do Volume Panel Pro!</string>
-    <string name="pro_only"> - Tylko Dla Pro</string>
-    <string name="pro_un">Usuń Reklamy &amp; Odblokuj Wszystkie Funkcje.</string>
-    <string name="suspend">Pauza</string>
-    <string name="hide_full">Ukryj Na Pełnym Ekranie</string>
-    <string name="dnd_access"><u>Dostęp Do Nie Przeszkadzać</u>
-        \n\nTo uprawnienie pozwala nam modyfikować ustawienia Nie Przeszkadzać.
-        \n\n</string>
-    <string name="cast">Kontroluj Głośność Przesyłania Ekranu</string>
-    <string name="notif_access"><u>Dostęp Do Powiadomień</u>
+    <string name="loading_apps">Ładowanie Aplikacji</string>
+    <string name="lock_ring_vol">Blokuj Suwak w Trybie Cichym/Wibracji</string>
+    <string name="long_press"><![CDATA[Długo naciśnij & przeciągnij panele aby zmienić kolejność.]]></string>
+    <string name="mapper">Możliwe Zakłócenia</string>
+    <string name="mapper_detail">Możliwe, że wykryliśmy aplikację Mapowania przycisków..
+        \n\n Mapowacze przycisków używają usług ułatwień dostępu do wykrywania kliknięć przycisków
+        \n\nInne usługi ułatwień dostępu przechwytujące / dostosowujące kliknięcia przycisków głośności będą zakłócać zdolność Panela Głośności do przechwytywania przycisków głośności.
+        \n\nProszę rozważyć wyłączenie dostosowywania przycisku głośności dla tych aplikacji.
+        \n\nAlternatywnie, włącz skrót do launchera i otwórz go za pomocą remapu!</string>
+    <string name="mapper_sum">\u2022 Kliknij tutaj po więcej informacji</string>
+    <string name="margin">Margines Panela = %1$d dp</string>
+    <string name="margins">Margines Panela</string>
+    <string name="media">Media Vol =</string>
+    <string name="mute_media">Wycisz Media</string>
+    <string name="need_dnd">Wymagane Uprawnienia Do Trybu Nieprzeszkadzać</string>
+    <string name="no">Nie</string>
+    <string name="not_found">Nie znaleziono aktywności, przejdź do Ustawień i udziel ręcznie</string>
+    <string name="notif_access">
+        <u>Dostęp Do Powiadomień</u>
         \n\n\u2022To uprawnienie pozwala nam wykryć aktywne Przesyłanie lub Przesyłanie Strumieniowe.
         \n\u2022 Jeśli chcesz uruchomić bez kontrolowania przesyłanych strumieni, możesz pominąć to uprawnienie.
         \n\nŻadna treść powiadomienia nie jest rejestrowana.
         \n\n</string>
-    <string name="margin">Margines Panela = %1$d dp</string>
-    <string name="disable_notif">PROSZĘ O WYŁACZENIE DOSTĘPU DO POWIADOMIEŃ</string>
+    <string name="notif_panel"><![CDATA[Nie wszystkie urządzenia obsługują dzielenie głośności & powiadomień i dzwonków.
+        <br/><br/>Jeśli obie pary zmieniają się razem, wynika to z konfiguracji systemu i nie ma nic wspólnego z Panelem głośności.]]></string>
+    <string name="notification_listener">Wyświetlanie Powiadomień Panelu Głośności</string>
+    <string name="oops_error">Ups .. Wygląda na to, że coś poszło nie tak i Panel głośności się zawiesił, proszę nacisnąć \ "WYŚLIJ RAPORT \" poniżej, aby dać mi znać.</string>
+    <string name="order">Zmień Kolejność Paneli</string>
+    <string name="overlay_needed">
+        <u>Nakładka Systemowa</u>
+        \n\nTo uprawnienie jest wymagane, abyśmy mogli wyświetlać Panel Głośności w innych aplikacjach.</string>
+    <string name="perms">
+        <u>Wymagane Uprawnienia</u>
+        \n\nAby zastąpić panel głośności systemowy, wymaganych jest kilka uprawnień.
+        \n\nPokażę teraz ekran z wyszczególnieniem tych uprawnień z przyciskiem, aby je włączyć.
+        \n\nPo włączeniu uprawnienia naciśnij przycisk Wstecz, aby wrócić do aplikacji.</string>
+    <string name="play_sound">Potwierdzenie Dźwiękami</string>
+    <string name="position_left">Po Lewej Stronie</string>
+    <string name="position_left_land">Po Lewej Stronie w Poziomie</string>
+    <string name="press_back">Po zakończeniu naciśnij przycisk Wstecz, aby wrócić do aplikacji.</string>
+    <string name="preview"><![CDATA[Tryb Podglądu: Połączenie & Panele Cast będą pokazywane tylko w razie potrzeby.]]></string>
+    <string name="pro">Uaktualnij Do Volume Panel Pro!</string>
+    <string name="pro_only"> - Tylko Dla Pro</string>
+    <string name="pro_un">Usuń Reklamy &amp; Odblokuj Wszystkie Funkcje.</string>
+    <string name="proceed">Kontynuuj</string>
+    <string name="rate_app">Oceń Aplikację</string>
+    <string name="rate_it"><![CDATA[<p style="text-align:center"><b>Cieszysz się Panelem Głośności?</b>
+        <br/><br/>Proszę zostawić opinię w Sklepie Play!
+        <br/><br/>\u2b50\u2b50\u2b50\u2b50\u2b50</p>]]></string>
+    <string name="reenable">Włącz ponownie</string>
+    <string name="ring">Dzwonek</string>
+    <string name="ring_mode">Tryb Dzwonka</string>
+    <string name="screen_shot">Pokaż Przycisk Zrzutu Ekranu</string>
+    <string name="select_apps">Wybierz Aplikacje</string>
+    <string name="send_report">Wyślij Raport</string>
+    <string name="show_alarm_panel">Pokaż Panel Alarmu</string>
+    <string name="show_bright_panel">Panel Jasności Ekranu</string>
+    <string name="show_lock">Pokaż na Ekranie Blokady</string>
+    <string name="show_notif">Pokaż Panel Powiadomień</string>
+    <string name="show_ring_panel">Pokaż Panel Dzwonka</string>
+    <string name="silent">Cichy</string>
+    <string name="slide_heightx">Skalowanie Panela X = %1$d%%</string>
+    <string name="slide_heightxs">Skalowanie Panel X</string>
+    <string name="slide_heighty">Skalowanie Panela Y = %1$d%%</string>
+    <string name="slide_heightys">Skalowanie Panel Y</string>
+    <string name="slider_colour">Kolor Suwaka</string>
+    <string name="start_collapsed">Rozpocznij Zwinięty</string>
+    <string name="suspend">Pauza</string>
+    <string name="switch_theme">Zmień Motyw</string>
+    <string name="system_perms_message">Panel głośności musi mieć dostęp do zapisu ustawień systemu, naciśnij przycisk kontynuuj, aby kontynuować.\n</string>
+    <string name="system_warn">Po włączeniu dowolnej usługi ułatwień dostępu zostanie wyświetlone ogólne ostrzeżenie o systemie Android. Dla spokoju użytkownika Panel głośności nie przechwytuje żadnych innych kluczy ani treści &amp; nie ma ani nie prosi o pozwolenie na połączenie z Internetem.</string>
+    <string name="tips"><![CDATA[<b>Porady:</b><br/><br/><b>Dźwięk nie zmienia się w niektórych aplikacjach:
+        <br/></b><br/>Niektóre aplikacje, takie jak Instagram i Snapchat, całkowicie skupiają się na dźwięku i próbują uchwycić ich przyciski, jeśli wystąpi ten problem, włącz opcję \„Wyklucz aplikacje”\ i dodaj szkodliwe aplikacje do listy.<br/><b>Systemowy panel audio powraca:<br/></B>
+        <br/>Jest bardzo prawdopodobne, że Twój system zabija usługę ułatwień dostępu Panelu Głośności, jeśli tak się stanie, upewnij się, że optymalizacja baterii i pamięci jest wyłączona w aplikacji, włączenie \ "Swypnięcie Wyzwalacza Góra/Dół \" może również pomóc.
+        <br/>Po więcej informacji odwiedź: http://www.dontkillmyapp.com/]]></string>
+    <string name="transparency">Przeźroczystość</string>
+    <string name="trigger_cat">Wyzwalacz</string>
+    <string name="trigger_colour">Kolor Wyzwalacza</string>
+    <string name="trigger_scale_tx">Skala wyzwalania X = %1$d%%</string>
+    <string name="trigger_scale_txs">Skala wyzwalania X</string>
+    <string name="trigger_scale_ty">Skala wyzwalania Y = %1$d%%</string>
+    <string name="trigger_scale_tys">Skala wyzwalania Y</string>
     <string name="up_launch">Uruchom po Nacisnięciu Vol +</string>
     <string name="up_launch_sum">\u2022 Panel uruchomi się tylko po naciśnięciu Vol +.</string>
-    <string name="click_out_sum">\u2022 Po włączeniu może zakłócać działanie innych aplikacji.</string>
-    <string name="trigger_scale_tx">Skala wyzwalania = %1$d%% X</string>
-    <string name="trigger_scale_ty">Skala wyzwalania = %1$d%% Y</string>
-    <string name="click_out">Kliknij Na Zewnątrz Aby Zamknąć</string>
-    <string name="corner_scale">Promień narożnika = %1$d%%</string>
-    <string name="free">Wyłącz bezpłatną wersję</string>
-    <string name="free_installed">Volume Panel Free jest obecnie nadrzędny w stosunku do panelu głośności systemu, proszę go wyłączyć, aby uniknąć konfliktów.</string>
-    <string name="media">Media Vol =</string>
-    <string name="system_warn">Po włączeniu dowolnej usługi ułatwień dostępu zostanie wyświetlone ogólne ostrzeżenie o systemie Android. Dla spokoju użytkownika Panel głośności nie przechwytuje żadnych innych kluczy ani treści &amp; nie ma ani nie prosi o pozwolenie na połączenie z Internetem.</string>
-    <string name="slide_heightx">Skalowanie Panela = %1$d%% X</string>
-    <string name="slide_heighty">Skalowanie Panela = %1$d%% X</string>
+    <string name="usage_access">
+        <u>Dostęp do Użytkowania</u>
+        \n\nTo uprawnienie pozwala nam wykryć aktualnie używaną aplikację &amp; sprawdź, czy to wykluczyłeś.
+        \n\n Jeśli chcesz uruchomić bez wykluczania aplikacji, możesz pominąć to uprawnienie.
+        \n\n</string>
     <string name="use_system">Auto Tryb Ciemny/Jasny</string>
-    <string name="auto_dark_sum">\u2022 Ustaw tryb Ciemny/Jasny zgodny z systemem.
-    \n\u2022 Wymagane wsparcie producenta.</string>
-    <string name="anim_duration">Czas Trwania Animacji = %.2fs</string>
-    <string name="preview"><![CDATA[Tryb Podglądu: Połączenie & Panele Cast będą pokazywane tylko w razie potrzeby.]]></string>
+    <string name="ver_pos">Pozycja w Pionie = %1$d%%</string>
+    <string name="ver_poss">Pozycja w Pionie</string>
     <string name="vibe_duration">Czas Trwania Wibracji = %.2fs</string>
-    <string name="show_bright_panel">Panel Jasności Ekranu</string>
-    <string name="system_perms_message">Panel głośności musi mieć dostęp do zapisu ustawień systemu, naciśnij przycisk kontynuuj, aby kontynuować.\n</string>
-    <string name="show_ring_panel">Pokaż Panel Dzwonka</string>
-    <string name="bright_calibrate">Ponownie Skalibruj Maksymalną Jasność:
-        \n\u2022 Ustaw jasność ekranu na Max, a następnie długo naciśnij tutaj.</string>
-    <string name="order">Zmień Kolejność Paneli</string>
-    <string name="long_press"><![CDATA[Długo naciśnij & przeciągnij panele aby zmienić kolejność.]]></string>
-    <string name="killer_info"><![CDATA[Po więcej informacji odwiedź:<br/>
-        http://www.dontkillmyapp.com/]]></string>
-    <string name="tips"><![CDATA[<b>Porady:</b><br/><br/>
-    <b>Dźwięk nie zmienia się w niektórych aplikacjach:<br/></b><br/>
-    Niektóre aplikacje, takie jak Instagram i Snapchat, całkowicie skupiają się na dźwięku i próbują uchwycić ich przyciski, jeśli wystąpi ten problem, włącz opcję \„Wyklucz aplikacje”\ i dodaj szkodliwe aplikacje do listy.<br/>
-    <b>Systemowy panel audio powraca:<br/></B><br/>
-    Jest bardzo prawdopodobne, że Twój system zabija usługę ułatwień dostępu Panelu Głośności, jeśli tak się stanie, upewnij się, że optymalizacja baterii i pamięci jest wyłączona w aplikacji, włączenie \ "Swypnięcie Wyzwalacza Góra/Dół \" może również pomóc.<br/>
-    Po więcej informacji odwiedź: http://www.dontkillmyapp.com/]]></string>
-    <string name="add_border">Włącz Ramkę Paneli</string>
-    <string name="border_colour">Kolor Ramki</string>
-    <string name="border_thickness">Grubość Ramki = %1$d dp</string>
-    <string name="google_assistant">Pokaż Przycisk Asystenta</string>
-    <string name="flash_light">Pokaż Przycisk Latarki</string>
-    <string name="detect_keys">Wykryj Naciśnięcia Klawiszy Po Otwarciu</string>
-    <string name="switch_theme">Zmień Motyw</string>
-    <string name="block_vold_lp">Blokuj Zmniejszanie Głośności po Długim Naciśnięciu</string>
-    <string name="block_vold_lp_sum">\u2022 Naprawiono problemy ze zrzutami ekranu Vol + Power.</string>
-    <string name="lock_ring_vol">Blokuj Suwak w Trybie Cichym/Wibracji</string>
-    <string name="show_lock">Pokaż na Ekranie Blokady</string>
-    <string name="fill_style">Use Solid Sliders</string>
+    <string name="vibe_durations">Czas Trwania Wibracji</string>
+    <string name="vibrate">Wibracja</string>
+    <string name="vol_timeout">Limit Czasu Panela = %1$ds</string>
+    <string name="vol_timeouts">Limit Czasu Panela</string>
+    <string name="volumeui">Volume UI</string>
+    <string name="yes">Tak</string>
 </resources>

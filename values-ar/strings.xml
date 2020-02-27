@@ -1,48 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <resources>
-    <string name="additonal_perms_req">أذونات إضافية مطلوبة </string>
-    <string name="proceed">أكمل </string>
-    <string name="app_name">لوحة التحكم في الصوت </string>
-    <string name="volumeui">Volume Panel</string>
-    <string name="overlay_needed">الظهور أعلي النظام
-        \n\nهذا الإذن مطلوب لظهور التطبيق " لوحة الصوت " أعلي التطبيقات الأخري </string>
-    <string name="failed_window_add">فشل إضافة النافذه يرجي فتح التطبيق والتأكد من منح أذن الظهور أعلي التطبيقات الأخري </string>
-    <string name="cp_head">أختر المنتصف للتأكيد </string>
-    <string name="transparency">الشفافية </string>
-    <string name="disable">تعطيل </string>
-    <string name="cancel">إلغاء </string>
-    <string name="press_back">بمجرد الإنتهاء,أختر للخلف للعودة للتطبيق</string>
-    <string name="accessibility_description"><u>إمكانية الوصول </u>
-        \n\nهذا الاذن يسمح لنا بضبط ضغطات مفاتيح الصوت +\\- .
-        \n\nلا يتم تسجيل اي محتوي آخر 
-        \n\nبعض الأجهزة تحتاج إعادة تشغيل الجهاز لبدأ الخدمة.</string>
-    <string name="need_dnd">إذن الوصول لقائمة عدم الإزعاج </string>
-    <string name="no">لأ</string>
-    <string name="vol_timeout">%1$ds = مهلة اللوحة = </string>
-    <string name="yes">موافق </string>
-    <string name="notification_listener">مستمع الاشعارات للوحة التحكم في الصوت </string>
-    <string name="perms"><u>الإذن مطلوب</u>
-        \n\nلتجاوز لوحة الصوت الخاصة بالنظام . عدة أذونات مطلوبة 
-        \n\nسنعرض لك الآن شاشات متعددة توضح هذه الأذونات ، واستخدامها &amp; و الزر لتفعيلها
-        \n\n</string>
-    <string name="grant">منح الإذن</string>
-    <string name="not_found">لم يتم التفعيل ، يرجى الانتقال إلى الإعدادات لمنح الأذونات يدويًا</string>
-    <string name="exclude_applications">التطبيقات المستبعدة</string>
-    <string name="icon_colour">لون الايقونة</string>
-    <string name="background_colour">لون الخلفية</string>
-    <string name="slider_colour">لون الشريط  </string>
-    <string name="show_alarm_panel">أظهر لوحة المنبه</string>
-    <string name="default_to_ring_volume">الوضع الإفتراضي لنغمة الرنين </string>
-    <string name="start_collapsed">أبدأ مصغر </string>
-    <string name="position_left">اليد اليسري </string>
-    <string name="dark_mode">الوضع الليلي</string>
-    <string name="enable_volume_panel">تجاوز زر التحكم في الصوت</string>
-    <string name="select_apps">اختر التطبيقات</string>
-    <string name="loading_apps">تحميل التطبيقات</string>
-    <string name="done">تم</string>
-    <string name="exclude_applications_sum">\u2022 لوحة التحكم في الصوت لن تفتح هذه التطبيقات</string>
-    <string name="about">
-        <![CDATA[<b>لوحة التحكم في الصوت :</b>
+    <string name="about"><![CDATA[<b>لوحة التحكم في الصوت :</b>
         <br/>\u2022A استبدال مرن للتحكم بصوت النظام .
         <br/><br/><b>تصميم  &amp; تطوير  بواسطة:</b>
         <br/>\u2022 Lee Bailey (AKA @LeeDrOiD)
@@ -59,130 +17,186 @@
         <br/>\u2022 العربية - عماد عياد  
         <br/><br/>للتواصل معي  \"عن طريق الايميل \"  &amp; رجاء لا تنسي تقييم التطبيق  &#128512;]]></string>
     <string name="about_title"> عن</string>
-    <string name="email_feedback">للتواصل </string>
-    <string name="close">أغلق</string>
-    <string name="rate_app">قيم التطبيق</string>
-    <string name="disabling">هذا التطبيق لم يتم تثبيته من متجر تطبيقات جوجل . &amp; سوف يتم تعطيله قريبا .</string>
-    <string name="oops_error">عذرا .. يبدو ان هناك شيء خاطئ وتعطلت لوحة الصوت , من فضلك اختر " أرسل التقرير" من الأسفل لإخباري بالمشكلة </string>
-    <string name="latest">من فضلك تأكد بأنك تستخدم أحدث إصدار </string>
-    <string name="send_report">أرسل التقرير</string>
+    <string name="accessibility_description">
+        <u>إمكانية الوصول </u>
+        \n\nهذا الاذن يسمح لنا بضبط ضغطات مفاتيح الصوت +\\- .
+        \n\nلا يتم تسجيل اي محتوي آخر 
+        \n\nبعض الأجهزة تحتاج إعادة تشغيل الجهاز لبدأ الخدمة.</string>
+    <string name="action">العمل الآن</string>
+    <string name="add_border">تمكين إطار لوحة التحكم في الصوت </string>
     <string name="add_shortcut">تفعيل إختصار المشغل </string>
-    <string name="launch">أظهر لوحة التحكم في الصوت</string>
-    <string name="disable_acc">يرجي تعطيل خدمة الوصول </string>
-    <string name="ver_pos">%1$d%%الوضع الرأسي = </string>
-    <string name="play_sound">تغيرات مسموعة </string>
+    <string name="additonal_perms_req">أذونات إضافية مطلوبة </string>
     <string name="alert">تنبيه التحسينات </string>
+    <string name="anim_duration">%.2fsمدة الرسوم المتحركة = </string>
+    <string name="anim_durations">sمدة الرسوم المتحركة </string>
+    <string name="app_name">Volume Panel</string>
+    <string name="auto_dark_sum">\u2022 اتبع وضع النظام  ضوء/ليلي.
+    \n\u2022 دعم المصنع مطلوب.</string>
+    <string name="background_colour">لون الخلفية</string>
     <string name="bat_opt"><![CDATA[<b>تطبيق لوحة الصوت يتم تحسينه من قبل النظام  &amp; قد يتم غلقه في الخلفية</b>.
     <br/><br/>جميع خدمات لوحة الصوت لا تستهلك طاقة البطارية , إزالة التطبيق من قائمه التطبيقات المحسنة سيحسن من أداء التطبيق 
     <br/><br/>أختر \"اغلق\" لتركه محسنا او اختر \"العمل الآن\" متبوعة ب \"كل التطبيقات\" ثم أزل تطبيق لوحة الصوت من قائمه تحسينات البطارية.
     <br/><br/>"إذا وجدت أن الخدمة لا تزال تغلق من قبل النظام, اختر تمكين خيار" اجبار استمرار الخدمات في الخلفيه ]]></string>
-    <string name="action">العمل الآن</string>
-    <string name="pro">الترقية للاصدار الاحترافي لوحة التحكم في الصوت برو</string>
-    <string name="mute_media">كتم صوت الوسائط </string>
-    <string name="vibrate">الإهتزاز</string>
-    <string name="ring">الرنين</string>
-    <string name="silent">صامت </string>
-    <string name="ring_mode">وضع الرنين</string>
-    <string name="force_close">إجبار إغلاق مربعات الحوار</string>
-    <string name="mapper">تداخل محتمل </string>
-    <string name="mapper_sum">\u2022 أضغط هنا لمزيد من المعلومات.</string>
-    <string name="mapper_detail">ربما اكتشفنا تطبيق يقوم بإعادة تعيين الأزرار.
-        \n\nButton تستخدم تطبيقات إعادة  تعيين الأزرار إمكانية الوصول للكشف عن نقرات الأزرار.
-        \n\nOther سوف تتداخل خدمات إمكانية الوصول التي تلتقط / تقوم بتخصيص نقرات زر التحكم في مستوى الصوت مع قدرة لوحة الصوت على اعتراض أزرار الصوت.
-        \n\nيرجى إيقاف تخصيص زر التحكم في الصوت لهذه التطبيقات.
-        \n\nيمكنك ايضا ، تمكين اختصار المشغّل وافتحه بإعادة تعيين الأزرار!</string>
+    <string name="behaviour">سلوك </string>
+    <string name="block_vold_lp">ايقاف الضغط المطول لزر خفض الصوت </string>
+    <string name="block_vold_lp_sum">\u2022 اصلاح مشاكل لقطة الشاشة عند الضغط علي زر الطاقة و زر رفع الصوت.</string>
+    <string name="border_colour">لون الإطار</string>
+    <string name="border_thickness">سماكة الإطار = %1$d dp</string>
+    <string name="border_thicknesss">سماكة الإطار</string>
+    <string name="bright_calibrate">
+        <b>i</b>: معايرة أقصي سطوع للشاشة:
+        \n\u2022 اضبط سطوع الشاشة على أعلي إضاءة ثم اضغط هنا ضغطة مطولة.</string>
+    <string name="cancel">إلغاء </string>
+    <string name="cast">تحكم في صوت البث</string>
+    <string name="click_out">للإغلاق أضغط بالخارج</string>
+    <string name="click_out_sum">\u2022 قد يتداخل مع تطبيقات أخري عند تفعيله.</string>
+    <string name="close">أغلق</string>
+    <string name="corner_scale">مقياس الركن = %1$d%%</string>
+    <string name="corner_scales">مقياس الركن</string>
+    <string name="cp_head">أختر المنتصف للتأكيد </string>
+    <string name="dark_mode">الوضع الليلي</string>
+    <string name="default_to_ring_volume">الوضع الإفتراضي لنغمة الرنين </string>
+    <string name="design">التصميم</string>
+    <string name="detect_keys">أكتشاف ضغطات المفاتيح عند الفتح</string>
+    <string name="disable">تعطيل </string>
+    <string name="disable_acc">يرجي تعطيل خدمة الوصول </string>
+    <string name="disable_notif">يرجى تعطيل وصول للإشعارات</string>
+    <string name="disabling">هذا التطبيق لم يتم تثبيته من متجر تطبيقات جوجل . &amp; سوف يتم تعطيله قريبا .</string>
     <string name="dismiss">رفض</string>
-    <string name="show_notif">أظهر لوحة الإشعارات</string>
-    <string name="notif_panel"><![CDATA[بعض الأجهزة لا تدعم الفصل بين صوت الرنين وصوت الإشعارات.<br/><br/>لو تحرك كلا المؤشرين سويا فهذا بسبب إعدادات نظام جهازك وليس بسبب التطبيق .]]></string>
-    <string name="enable_blacklist">تمكين إستثناء التطبيقات </string>
-    <string name="usage_access"><u>الوصول للإستخدام </u>
-        \n\nيسمح لنا هذا الإذن باكتشاف التطبيق المستخدم حاليًا عبر إحصائيات استخدام الحزمة &amp; تحقق مما إذا كنت قد استبعدته.
-        \n\nإذا كنت ترغب في التشغيل دون استثناء التطبيقات ، تخطي هذا الإذن.
+    <string name="dnd_access">
+        <u>الوصول لإعدادت عدم الإزعاج</u>
+        \n\nيسمح لنا هذا الإذن بتعديل إعدادات عدم الإزعاج.
         \n\n</string>
-    <string name="excluded">لوحة التحكم في الصوت: التطبيق مستبعد</string>
     <string name="do_not_kill"> إجبار استمرار الخدمات في الخلفية </string>
     <string name="do_not_kill_desc"><![CDATA[<b>Oاستخدم هذا الخيار فقط إذا استمرت لوحة الصوت في التوقف</b>
         <br/><br/>بعض الأجهزة توقف التطبيقات بشدة عند تحرير الذاكرة وايقاف الخدمات الهامة ، نادراً ما يتم ايقاف التطبيقات التي لها حقوق المدير .
         <br/><br/>سيؤدي تمكين حقوق المدير الأساسية للوحة الصوت إلى استمرار خدماتنا في الخلفية .
         <br/><br/>سيكون عليك تعطيل هذا الخيار إذا كنت بحاجة إلى إلغاء تثبيت التطبيق.]]></string>
-    <string name="launch_opts">خيارات التشغيل </string>
-    <string name="design">التصميم</string>
-    <string name="behaviour">سلوك </string>
+    <string name="done">تم</string>
+    <string name="email_feedback">للتواصل </string>
+    <string name="enable_blacklist">تمكين إستثناء التطبيقات </string>
+    <string name="enable_volume_panel">تجاوز زر التحكم في الصوت</string>
+    <string name="exclude_applications">التطبيقات المستبعدة</string>
+    <string name="exclude_applications_sum">\u2022 لوحة التحكم في الصوت لن تفتح هذه التطبيقات</string>
+    <string name="excluded">لوحة التحكم في الصوت: التطبيق مستبعد</string>
+    <string name="failed_window_add">فشل إضافة النافذه يرجي فتح التطبيق والتأكد من منح أذن الظهور أعلي التطبيقات الأخري </string>
+    <string name="fill_style">استخدام المتزلجون الصلبة</string>
+    <string name="flash_light">أظهر زر الفلاش</string>
+    <string name="floating_trigger">اسحب لأعلى / لأسفل للتفعيل </string>
+    <string name="force_close">إجبار إغلاق مربعات الحوار</string>
+    <string name="free">إيقاف الإصدار المجاني</string>
+    <string name="free_installed"> لوحة التحكم في الصوت المجانية مفعلة حاليا علي لوحة صوت النظام , يرجي ايقافها لتجنب التداخلات  .</string>
+    <string name="google_assistant">أظهر زر المساعد</string>
+    <string name="grant">منح الإذن</string>
+    <string name="hide_full">غير مرئية في وضع ملء الشاشة</string>
+    <string name="hide_settings">إختصار إخفاء الإعدادات</string>
+    <string name="icon_colour">لون الايقونة</string>
     <string name="invert_buttons">عكس أزرار التحكم في الصوت</string>
-    <string name="position_left_land">اليد اليسري في الوضع الأفقي </string>
     <string name="killed">تم إيقاف خدمة وصول لوحة التحكم في الصوت أو إزالتها بواسطة النظام.
         \n\nإذا لم يكن ذلك مقصودًا ، فيرجى تجربة خيار \"إجبار استمرار الخدمات\" في التطبيق والتأكد من تعطيل تحسين البطارية  للتطبيق.</string>
-    <string name="reenable">إعادة التفعيل</string>
-    <string name="hide_settings">إختصار إخفاء الإعدادات</string>
-    <string name="screen_shot">أظهر زر لقطة الشاشة </string>
+    <string name="killer_info"><![CDATA[لمزيد من المعلومات برجاء زيارة:<br/>
+        http://www.dontkillmyapp.com/]]></string>
+    <string name="latest">من فضلك تأكد بأنك تستخدم أحدث إصدار </string>
+    <string name="launch">أظهر لوحة التحكم في الصوت</string>
+    <string name="launch_opts">خيارات التشغيل </string>
     <string name="layout">النسق </string>
-    <string name="floating_trigger">اسحب لأعلى / لأسفل للتفعيل </string>
-    <string name="trigger_cat">التفعيل </string>
-    <string name="trigger_colour">لون التفعيل </string>
-    <string name="rate_it"><![CDATA[<p style="text-align:center"><b>هل تستمتع بتطبيق لوحة التحكم في الصوت ؟</b>
-        <br/><br/>يرجى ترك تعليق في متجر جوجل!
-        <br/><br/>\u2b50\u2b50\u2b50\u2b50\u2b50</p>]]></string>
-    <string name="pro_only">- برو فقط</string>
-    <string name="pro_un">حذف الإعلانات &amp; فتح جميع الميزات.</string>
-    <string name="suspend">تعليق</string>
-    <string name="hide_full">غير مرئية في وضع ملء الشاشة</string>
-    <string name="notif_access"><u>الوصول للإشعارات</u>
+    <string name="loading_apps">تحميل التطبيقات</string>
+    <string name="lock_ring_vol">تعطيل مؤشر الرنين في الوضع الصامت / الإهتزاز</string>
+    <string name="long_press"><![CDATA[‏لإعادة ترتيب اللوحات اضغط مطولا ثم أسحب]]></string>
+    <string name="mapper">تداخل محتمل </string>
+    <string name="mapper_detail">ربما اكتشفنا تطبيق يقوم بإعادة تعيين الأزرار.
+        \n\nButton تستخدم تطبيقات إعادة  تعيين الأزرار إمكانية الوصول للكشف عن نقرات الأزرار.
+        \n\nOther سوف تتداخل خدمات إمكانية الوصول التي تلتقط / تقوم بتخصيص نقرات زر التحكم في مستوى الصوت مع قدرة لوحة الصوت على اعتراض أزرار الصوت.
+        \n\nيرجى إيقاف تخصيص زر التحكم في الصوت لهذه التطبيقات.
+        \n\nيمكنك ايضا ، تمكين اختصار المشغّل وافتحه بإعادة تعيين الأزرار!</string>
+    <string name="mapper_sum">\u2022 أضغط هنا لمزيد من المعلومات.</string>
+    <string name="margin">%1$d dp = حافة لوحة التحكم = </string>
+    <string name="margins"> حافة لوحة التحكم</string>
+    <string name="media">صوت الوسائط  =</string>
+    <string name="mute_media">كتم صوت الوسائط </string>
+    <string name="need_dnd">إذن الوصول لقائمة عدم الإزعاج </string>
+    <string name="no">لأ</string>
+    <string name="not_found">لم يتم التفعيل ، يرجى الانتقال إلى الإعدادات لمنح الأذونات يدويًا</string>
+    <string name="notif_access">
+        <u>الوصول للإشعارات</u>
         \n\n\u2022 يسمح لنا هذا الإذن باكتشاف عمليات البث النشطة.
         \n\u2022 إذا كنت ترغب في الاستمرار دون التحكم في البث ، فتخطي هذا الإذن.
         \n\nNo تم التقاط محتوى الإشعار.
         \n\n</string>
-    <string name="dnd_access"><u>الوصول لإعدادت عدم الإزعاج</u>
-        \n\nيسمح لنا هذا الإذن بتعديل إعدادات عدم الإزعاج.
-        \n\n</string>
-    <string name="cast">تحكم في صوت البث</string>
-    <string name="margin">%1$d dp = حافة لوحة التحكم = </string>
-    <string name="disable_notif">يرجى تعطيل وصول للإشعارات</string>
-    <string name="up_launch">تشغيل بالضغط علي زر الصوت لأعلي فقط </string>
-    <string name="click_out">للإغلاق أضغط بالخارج</string>
-    <string name="up_launch_sum">\u2022 لن يتم تشغيل لوحة التحكم إلا عند الضغط على زر رفع الصوت.</string>
-    <string name="click_out_sum">\u2022 قد يتداخل مع تطبيقات أخري عند تفعيله.</string>
-    <string name="slide_heightx">X %1$d%% = مقياس لوحة التحكم = </string>
-    <string name="slide_heighty">Y %1$d%% = مقياس لوحة التحكم = </string>
-    <string name="trigger_scale_tx">X %1$d%% = مقياس التفعيل</string>
-    <string name="trigger_scale_ty">Y %1$d%% = مقياس التفعيل</string>
-    <string name="corner_scale">مقياس الركن = %1$d%%</string>
-    <string name="free">إيقاف الإصدار المجاني</string>
-    <string name="free_installed"> لوحة التحكم في الصوت المجانية مفعلة حاليا علي لوحة صوت النظام , يرجي ايقافها لتجنب التداخلات  .</string>
-    <string name="media">صوت الوسائط  =</string>
-    <string name="system_warn">عند تمكين أي خدمة من خدمات إمكانية الوصول سيظهر لك تحذير معتاد من نظام الأندريد , لراحة بالك نؤكد أن تطبيق " لوحة التحكم في الصوت " لا يسجل أي ضفطات مفاتيح أو أي محتوي     &amp; التطبيق لا يطلب ولا يحتاج الإتصال بالإنترنت</string>
-    <string name="use_system">وضع ليلي / الضوء تلقائي </string>
-    <string name="auto_dark_sum">\u2022 اتبع وضع النظام  ضوء/ليلي.
-    \n\u2022 دعم المصنع مطلوب.</string>
-    <string name="anim_duration">%.2fsمدة الرسوم المتحركة = </string>
-    <string name="preview"><![CDATA[وضع المعاينة: لن تظهر لوحة التحكم في صوت الاتصال والبث إلا عند الحاجة.]]></string>
-    <string name="vibe_duration">%.2fsمدة الإهتزاز = </string>
-    <string name="show_bright_panel">لوحة التحكم في سطوع الشاشة</string>
-    <string name="system_perms_message">يلزم منح "لوحة التحكم في الصوت" الوصول لـ "إعدادات النظام" ، يرجى الضغط على "إكمال " للمتابعة.\n</string>
-    <string name="show_ring_panel">أظهر لوحة نغمة الرنين</string>
-    <string name="bright_calibrate"><b>i</b>: معايرة أقصي سطوع للشاشة:
-        \n\u2022 اضبط سطوع الشاشة على أعلي إضاءة ثم اضغط هنا ضغطة مطولة.</string>
+    <string name="notif_panel"><![CDATA[بعض الأجهزة لا تدعم الفصل بين صوت الرنين وصوت الإشعارات.<br/><br/>لو تحرك كلا المؤشرين سويا فهذا بسبب إعدادات نظام جهازك وليس بسبب التطبيق .]]></string>
+    <string name="notification_listener">مستمع الاشعارات للوحة التحكم في الصوت </string>
+    <string name="oops_error">عذرا .. يبدو ان هناك شيء خاطئ وتعطلت لوحة الصوت , من فضلك اختر " أرسل التقرير" من الأسفل لإخباري بالمشكلة </string>
     <string name="order">تغيير ترتيب لوحة التحكم</string>
-    <string name="long_press"><![CDATA[‏لإعادة ترتيب اللوحات اضغط مطولا ثم أسحب]]></string>
-    <string name="killer_info"><![CDATA[لمزيد من المعلومات برجاء زيارة:<br/>
-        http://www.dontkillmyapp.com/]]></string>
-    <string name="tips"><![CDATA[<b> إرشادات إضافية:</b><br/><br/>
-    <b>الصوت  لا يتغير مع بعض التطبيقات :<br/></b><br/>
-    بعض التطبيقات تتحكم بالصوت بشكل كامل مثل انستجرام وسناب شات بل وتحاول التحكم في زرار رفع وخفض الصوت بنفسها,
-     إذا واجهت هذه المشكلة ، فيرجى تمكين خيار \ "استثناء التطبيقات \" وإضافة هذه التطبيقات إلى القائمة.<br/><br/>
-    <b>لوحة التحكم بالصوت الخاصة بالنظام تستمر في الظهور :<br/></B><br/>
+    <string name="overlay_needed">الظهور أعلي النظام
+        \n\nهذا الإذن مطلوب لظهور التطبيق " لوحة الصوت " أعلي التطبيقات الأخري </string>
+    <string name="perms">
+        <u>الإذن مطلوب</u>
+        \n\nلتجاوز لوحة الصوت الخاصة بالنظام . عدة أذونات مطلوبة 
+        \n\nسنعرض لك الآن شاشات متعددة توضح هذه الأذونات ، واستخدامها &amp; و الزر لتفعيلها
+        \n\n</string>
+    <string name="play_sound">تغيرات مسموعة </string>
+    <string name="position_left">اليد اليسري </string>
+    <string name="position_left_land">اليد اليسري في الوضع الأفقي </string>
+    <string name="press_back">بمجرد الإنتهاء,أختر للخلف للعودة للتطبيق</string>
+    <string name="preview"><![CDATA[وضع المعاينة: لن تظهر لوحة التحكم في صوت الاتصال والبث إلا عند الحاجة.]]></string>
+    <string name="pro">الترقية للاصدار الاحترافي لوحة التحكم في الصوت برو</string>
+    <string name="pro_only">- برو فقط</string>
+    <string name="pro_un">حذف الإعلانات &amp; فتح جميع الميزات.</string>
+    <string name="proceed">أكمل </string>
+    <string name="rate_app">قيم التطبيق</string>
+    <string name="rate_it"><![CDATA[<p style="text-align:center"><b>هل تستمتع بتطبيق لوحة التحكم في الصوت ؟
+        </b><br/><br/>يرجى ترك تعليق في متجر جوجل!
+        <br/><br/>\u2b50\u2b50\u2b50\u2b50\u2b50</p>]]></string>
+    <string name="reenable">إعادة التفعيل</string>
+    <string name="ring">الرنين</string>
+    <string name="ring_mode">وضع الرنين</string>
+    <string name="screen_shot">أظهر زر لقطة الشاشة </string>
+    <string name="select_apps">اختر التطبيقات</string>
+    <string name="send_report">أرسل التقرير</string>
+    <string name="show_alarm_panel">أظهر لوحة المنبه</string>
+    <string name="show_bright_panel">لوحة التحكم في سطوع الشاشة</string>
+    <string name="show_lock">تظهر عندما مغلق</string>
+    <string name="show_notif">أظهر لوحة الإشعارات</string>
+    <string name="show_ring_panel">أظهر لوحة نغمة الرنين</string>
+    <string name="silent">صامت </string>
+    <string name="slide_heightx"> %1$d%% = X مقياس لوحة التحكم = </string>
+    <string name="slide_heightxs">X مقياس لوحة التحكم </string>
+    <string name="slide_heighty">%1$d%% = Y مقياس لوحة التحكم = </string>
+    <string name="slide_heightys">Y مقياس لوحة التحكم </string>
+    <string name="slider_colour">لون الشريط  </string>
+    <string name="start_collapsed">أبدأ مصغر </string>
+    <string name="suspend">تعليق</string>
+    <string name="switch_theme">تغيير الثيمات</string>
+    <string name="system_perms_message">يلزم منح "لوحة التحكم في الصوت" الوصول لـ "إعدادات النظام" ، يرجى الضغط على "إكمال " للمتابعة.\n</string>
+    <string name="system_warn">عند تمكين أي خدمة من خدمات إمكانية الوصول سيظهر لك تحذير معتاد من نظام الأندريد , لراحة بالك نؤكد أن تطبيق " لوحة التحكم في الصوت " لا يسجل أي ضفطات مفاتيح أو أي محتوي     &amp; التطبيق لا يطلب ولا يحتاج الإتصال بالإنترنت</string>
+    <string name="tips"><![CDATA[<b> إرشادات إضافية:</b><br/><br/><b>الصوت  لا يتغير مع بعض التطبيقات :
+    <br/></b><br/>بعض التطبيقات تتحكم بالصوت بشكل كامل مثل انستجرام وسناب شات بل وتحاول التحكم في زرار رفع وخفض الصوت بنفسها,
+     إذا واجهت هذه المشكلة ، فيرجى تمكين خيار \ "استثناء التطبيقات \" وإضافة هذه التطبيقات إلى القائمة.<br/><br/><b>لوحة التحكم بالصوت الخاصة بالنظام تستمر في الظهور :<br/></B><br/>
     من المحتمل أن نظامك يوقف خدمة الوصول عن لوحة التحكم بالصوت ، إذا حدث ذلك
     يرجى التأكد من تعطيل تحسين البطارية والذاكرة للتطبيق , تفعيل خيار "السحب لأعلي وأسفل" قد يساعد أيضا .<br/>
     لمزيد من المعلومات برجاء زيارة: http://www.dontkillmyapp.com/]]></string>
-    <string name="add_border">تمكين إطار لوحة التحكم في الصوت </string>
-    <string name="border_colour">لون الإطار</string>
-    <string name="border_thickness">سماكة الإطار = %1$d dp</string>
-    <string name="google_assistant">أظهر زر المساعد</string>
-    <string name="flash_light">أظهر زر الفلاش</string>
-    <string name="detect_keys">أكتشاف ضغطات المفاتيح عند الفتح</string>
-    <string name="switch_theme">تغيير الثيمات</string>
-    <string name="block_vold_lp">ايقاف الضغط المطول لزر خفض الصوت </string>
-    <string name="block_vold_lp_sum">\u2022 اصلاح مشاكل لقطة الشاشة عند الضغط علي زر الطاقة و زر رفع الصوت.</string>
-    <string name="lock_ring_vol">تعطيل مؤشر الرنين في الوضع الصامت / الإهتزاز</string>
-    <string name="show_lock">تظهر عندما مغلق</string>
-    <string name="fill_style">Use Solid Sliders</string>
+    <string name="transparency">الشفافية </string>
+    <string name="trigger_cat">التفعيل </string>
+    <string name="trigger_colour">لون التفعيل </string>
+    <string name="trigger_scale_tx">%1$d%% = X مقياس التفعيل</string>
+    <string name="trigger_scale_txs">X مقياس التفعيل</string>
+    <string name="trigger_scale_ty">%1$d%% = Y مقياس التفعيل</string>
+    <string name="trigger_scale_tys">Y مقياس التفعيل</string>
+    <string name="up_launch">تشغيل بالضغط علي زر الصوت لأعلي فقط </string>
+    <string name="up_launch_sum">\u2022 لن يتم تشغيل لوحة التحكم إلا عند الضغط على زر رفع الصوت.</string>
+    <string name="usage_access">
+        <u>الوصول للإستخدام </u>
+        \n\nيسمح لنا هذا الإذن باكتشاف التطبيق المستخدم حاليًا عبر إحصائيات استخدام الحزمة &amp; تحقق مما إذا كنت قد استبعدته.
+        \n\nإذا كنت ترغب في التشغيل دون استثناء التطبيقات ، تخطي هذا الإذن.
+        \n\n</string>
+    <string name="use_system">وضع ليلي / الضوء تلقائي </string>
+    <string name="ver_pos">%1$d%%الوضع الرأسي = </string>
+    <string name="ver_poss">الوضع الرأسي </string>
+    <string name="vibe_duration">%.2fsمدة الإهتزاز = </string>
+    <string name="vibe_durations">مدة الإهتزاز </string>
+    <string name="vibrate">الإهتزاز</string>
+    <string name="vol_timeout">%1$ds = مهلة اللوحة</string>
+    <string name="vol_timeouts">% مهلة اللوحة </string>
+    <string name="volumeui">Volume Panel</string>
+    <string name="yes">موافق </string>
 </resources>
