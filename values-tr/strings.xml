@@ -178,7 +178,7 @@
     <string name="trigger_cat">Tetikleyici</string>
     <string name="trigger_colour">Tetikleyici Rengi</string>
     <string name="trigger_scale_tx">Tetikleyici Ölçeği X = %1$d%%</string>
-    <string name="trigger_scale_txs">Tetikleyici Ölçeğ X</string>
+    <string name="trigger_scale_txs">Tetikleyici Ölçeği X</string>
     <string name="trigger_scale_ty">Tetikleyici Ölçeği Y = %1$d%%</string>
     <string name="trigger_scale_tys">Tetikleyici Ölçeği Y</string>
     <string name="up_launch">Yalnızca Ses Açmaya Basıldığında Başlat</string>
