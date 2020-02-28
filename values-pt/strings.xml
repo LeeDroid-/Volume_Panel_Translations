@@ -161,6 +161,7 @@
     <string name="silent">Silêncio</string>
     <string name="slide_heightx">Escala do Painel X = %1$d%%</string>
     <string name="slide_heightxs">Escala do Painel X</string>
+    <string name="slide_heights">Escala do Painel</string>
     <string name="slide_heighty">Escala do Painel Y = %1$d%%</string>
     <string name="slide_heightys">Escala do Painel Y</string>
     <string name="slider_colour">Cor da Barra</string>
@@ -180,6 +181,7 @@
     <string name="trigger_colour">Cor do Atalho</string>
     <string name="trigger_scale_tx">Escala do Atalho X = %1$d%%</string>
     <string name="trigger_scale_txs">Escala do Atalho X</string>
+    <string name="trigger_scale_ts">Escala do Atalho</string>
     <string name="trigger_scale_ty">Escala do Atalho Y = %1$d%%</string>
     <string name="trigger_scale_tys">Escala do Atalh Y</string>
     <string name="up_launch">Ativar Apenas com Vol +</string>
@@ -199,4 +201,5 @@
     <string name="vol_timeouts">Timeout do Painel</string>
     <string name="volumeui">Volume UI</string>
     <string name="yes">Sim</string>
+    <string name="show_call">Mostrar Sempre Volume de Chamada</string>
 </resources>

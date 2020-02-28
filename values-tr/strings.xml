@@ -160,6 +160,7 @@
     <string name="silent">Sessiz</string>
     <string name="slide_heightx">Panel Ölçeği X = %1$d%%</string>
     <string name="slide_heightxs">Panel Ölçeği X</string>
+    <string name="slide_heights">Panel Ölçeği</string>
     <string name="slide_heighty">Panel Ölçeği Y = %1$d%%</string>
     <string name="slide_heightys">Panel Ölçeği Y</string>
     <string name="slider_colour">Kaydırıcı Rengi</string>
@@ -179,6 +180,7 @@
     <string name="trigger_colour">Tetikleyici Rengi</string>
     <string name="trigger_scale_tx">Tetikleyici Ölçeği X = %1$d%%</string>
     <string name="trigger_scale_txs">Tetikleyici Ölçeği X</string>
+    <string name="trigger_scale_ts">Tetikleyici Ölçeği</string>
     <string name="trigger_scale_ty">Tetikleyici Ölçeği Y = %1$d%%</string>
     <string name="trigger_scale_tys">Tetikleyici Ölçeği Y</string>
     <string name="up_launch">Yalnızca Ses Açmaya Basıldığında Başlat</string>
@@ -198,4 +200,5 @@
     <string name="vol_timeouts">Panel Zaman Aşımı</string>
     <string name="volumeui">Ses Arayüzü</string>
     <string name="yes">Evet</string>
+    <string name="show_call">Her Zaman Çağrı Sesini Göster</string>
 </resources>

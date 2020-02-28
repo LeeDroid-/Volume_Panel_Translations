@@ -161,6 +161,7 @@
     <string name="silent">صامت </string>
     <string name="slide_heightx"> %1$d%% = X مقياس لوحة التحكم = </string>
     <string name="slide_heightxs">X مقياس لوحة التحكم </string>
+    <string name="slide_heights">مقياس لوحة التحكم </string>
     <string name="slide_heighty">%1$d%% = Y مقياس لوحة التحكم = </string>
     <string name="slide_heightys">Y مقياس لوحة التحكم </string>
     <string name="slider_colour">لون الشريط  </string>
@@ -180,6 +181,7 @@
     <string name="trigger_colour">لون التفعيل </string>
     <string name="trigger_scale_tx">%1$d%% = X مقياس التفعيل</string>
     <string name="trigger_scale_txs">X مقياس التفعيل</string>
+    <string name="trigger_scale_ts"> مقياس التفعيل</string>
     <string name="trigger_scale_ty">%1$d%% = Y مقياس التفعيل</string>
     <string name="trigger_scale_tys">Y مقياس التفعيل</string>
     <string name="up_launch">تشغيل بالضغط علي زر الصوت لأعلي فقط </string>
@@ -199,4 +201,5 @@
     <string name="vol_timeouts">% مهلة اللوحة </string>
     <string name="volumeui">Volume Panel</string>
     <string name="yes">موافق </string>
+    <string name="show_call">إظهار حجم المكالمات دائمًا</string>
 </resources>

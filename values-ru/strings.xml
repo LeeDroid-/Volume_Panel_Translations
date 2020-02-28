@@ -159,6 +159,7 @@
     <string name="silent">Бесшумный</string>
     <string name="slide_heightx">Размер панели X = %1$d%%</string>
     <string name="slide_heightxs">Размер панели X</string>
+    <string name="slide_heights">Размер панели</string>
     <string name="slide_heighty">Размер панели Y = %1$d%%</string>
     <string name="slide_heightys">Размер панели Y</string>
     <string name="slider_colour">Цвет ползунка</string>
@@ -178,6 +179,7 @@
     <string name="trigger_colour">Цвет триггера</string>
     <string name="trigger_scale_tx">Размер триггера X = %1$d%%</string>
     <string name="trigger_scale_txs">Размер триггера X</string>
+    <string name="trigger_scale_ts">Размер триггера</string>
     <string name="trigger_scale_ty">Размер триггера Y = %1$d%%</string>
     <string name="trigger_scale_tys">Размер триггера Y</string>
     <string name="up_launch">Запускать только по нажатию кнопки Громкость +</string>
@@ -197,4 +199,5 @@
     <string name="vol_timeouts">Тайм-аут панели</string>
     <string name="volumeui">Интерфейс громкости</string>
     <string name="yes">Да</string>
+    <string name="show_call">Всегда отображать громкость звонка</string>
 </resources>

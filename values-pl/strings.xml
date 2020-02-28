@@ -159,6 +159,7 @@
     <string name="silent">Cichy</string>
     <string name="slide_heightx">Skalowanie Panela X = %1$d%%</string>
     <string name="slide_heightxs">Skalowanie Panel X</string>
+    <string name="slide_heights">Skalowanie Panel</string>
     <string name="slide_heighty">Skalowanie Panela Y = %1$d%%</string>
     <string name="slide_heightys">Skalowanie Panel Y</string>
     <string name="slider_colour">Kolor Suwaka</string>
@@ -176,6 +177,7 @@
     <string name="trigger_colour">Kolor Wyzwalacza</string>
     <string name="trigger_scale_tx">Skala wyzwalania X = %1$d%%</string>
     <string name="trigger_scale_txs">Skala wyzwalania X</string>
+    <string name="trigger_scale_ts">Skala wyzwalania</string>
     <string name="trigger_scale_ty">Skala wyzwalania Y = %1$d%%</string>
     <string name="trigger_scale_tys">Skala wyzwalania Y</string>
     <string name="up_launch">Uruchom po Nacisnięciu Vol +</string>
@@ -195,4 +197,5 @@
     <string name="vol_timeouts">Limit Czasu Panela</string>
     <string name="volumeui">Volume UI</string>
     <string name="yes">Tak</string>
+    <string name="show_call">Zawsze Pokazuj Głośność Połączeń</string>
 </resources>
