@@ -38,7 +38,7 @@
     <br/><br/>أختر \"اغلق\" لتركه محسنا او اختر \"العمل الآن\" متبوعة ب \"كل التطبيقات\" ثم أزل تطبيق لوحة الصوت من قائمه تحسينات البطارية.
     <br/><br/>"إذا وجدت أن الخدمة لا تزال تغلق من قبل النظام, اختر تمكين خيار" اجبار استمرار الخدمات في الخلفيه ]]></string>
     <string name="behaviour">سلوك </string>
-    <string name="block_vold_lp">ايقاف الضغط المطول لزر خفض الصوت </string>
+    <string name="block_vold_lp">تعطيل حجم - الضغط لفترة طويلة</string>
     <string name="block_vold_lp_sum">\u2022 اصلاح مشاكل لقطة الشاشة عند الضغط علي زر الطاقة و زر رفع الصوت.</string>
     <string name="border_colour">لون الإطار</string>
     <string name="border_thickness">سماكة الإطار = %1$d dp</string>
@@ -115,7 +115,6 @@
     <string name="media">صوت الوسائط  =</string>
     <string name="mute_media">كتم صوت الوسائط </string>
     <string name="need_dnd">إذن الوصول لقائمة عدم الإزعاج </string>
-    <string name="no">لأ</string>
     <string name="not_found">لم يتم التفعيل ، يرجى الانتقال إلى الإعدادات لمنح الأذونات يدويًا</string>
     <string name="notif_access">
         <u>الوصول للإشعارات</u>
@@ -160,10 +159,8 @@
     <string name="show_ring_panel">أظهر لوحة نغمة الرنين</string>
     <string name="silent">صامت </string>
     <string name="slide_heightx"> %1$d%% = X مقياس لوحة التحكم = </string>
-    <string name="slide_heightxs">X مقياس لوحة التحكم </string>
     <string name="slide_heights">مقياس لوحة التحكم </string>
     <string name="slide_heighty">%1$d%% = Y مقياس لوحة التحكم = </string>
-    <string name="slide_heightys">Y مقياس لوحة التحكم </string>
     <string name="slider_colour">لون الشريط  </string>
     <string name="start_collapsed">أبدأ مصغر </string>
     <string name="suspend">تعليق</string>
@@ -180,10 +177,8 @@
     <string name="trigger_cat">التفعيل </string>
     <string name="trigger_colour">لون التفعيل </string>
     <string name="trigger_scale_tx">%1$d%% = X مقياس التفعيل</string>
-    <string name="trigger_scale_txs">X مقياس التفعيل</string>
     <string name="trigger_scale_ts"> مقياس التفعيل</string>
     <string name="trigger_scale_ty">%1$d%% = Y مقياس التفعيل</string>
-    <string name="trigger_scale_tys">Y مقياس التفعيل</string>
     <string name="up_launch">تشغيل بالضغط علي زر الصوت لأعلي فقط </string>
     <string name="up_launch_sum">\u2022 لن يتم تشغيل لوحة التحكم إلا عند الضغط على زر رفع الصوت.</string>
     <string name="usage_access">
@@ -200,6 +195,8 @@
     <string name="vol_timeout">%1$ds = مهلة اللوحة</string>
     <string name="vol_timeouts">% مهلة اللوحة </string>
     <string name="volumeui">Volume Panel</string>
-    <string name="yes">موافق </string>
     <string name="show_call">إظهار حجم المكالمات دائمًا</string>
+    <string name="show_bluetooth">أظهر زر البلوتوث</string>
+    <string name="block_vold_up_lp">تعطيل حجم + الضغط لفترة طويلة</string>
+    <string name="show_media">Show Media Controls</string>
 </resources>

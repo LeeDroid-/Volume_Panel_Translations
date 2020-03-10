@@ -115,7 +115,6 @@
     <string name="media">Media Vol = </string>
     <string name="mute_media">Mute Media</string>
     <string name="need_dnd">Do Not Disturb Permissions Required</string>
-    <string name="no">No</string>
     <string name="not_found">Activity not found, please navigate to Settings and grant manually</string>
     <string name="notif_access">
         <u>Notification Access</u>
@@ -162,10 +161,8 @@
     <string name="show_ring_panel">Show Ring Panel</string>
     <string name="silent">Silent</string>
     <string name="slide_heightx">Panel Scale X = %1$d%%</string>
-    <string name="slide_heightxs">Panel Scale X</string>
     <string name="slide_heights">Panel Scale</string>
     <string name="slide_heighty">Panel Scale Y = %1$d%%</string>
-    <string name="slide_heightys">Panel Scale Y</string>
     <string name="slider_colour">Slider colour</string>
     <string name="start_collapsed">Start Collapsed</string>
     <string name="suspend">Suspend</string>
@@ -182,10 +179,8 @@
     <string name="trigger_cat">Trigger</string>
     <string name="trigger_colour">Trigger Colour</string>
     <string name="trigger_scale_tx">Trigger Scale X = %1$d%%</string>
-    <string name="trigger_scale_txs">Trigger Scale X</string>
     <string name="trigger_scale_ts">Trigger Scale</string>
     <string name="trigger_scale_ty">Trigger Scale Y = %1$d%%</string>
-    <string name="trigger_scale_tys">Trigger Scale Y</string>
     <string name="up_launch">Launch On Vol + Press Only</string>
     <string name="up_launch_sum">\u2022 The panel will only launch when Vol + is pressed.</string>
     <string name="usage_access">
@@ -202,17 +197,17 @@
     <string name="vol_timeouts">Panel Timeout</string>
     <string name="vol_timeout">Panel Timeout = %1$ds</string>
     <string name="volumeui">Volume UI</string>
-    <string name="yes">Yes</string>
     <string name="anim_durationv" translatable="false">%.2fs</string>
     <string name="border_thicknessv" translatable="false">%1$d dp</string>
     <string name="corner_scalev" translatable="false">%1$d%%</string>
     <string name="marginv" translatable="false">%1$d dp</string>
-    <string name="slide_heightxv" translatable="false">%1$d%%</string>
     <string name="slide_heightyv" translatable="false">%1$d%%</string>
     <string name="trigger_scale_txv" translatable="false">%1$d%%</string>
-    <string name="trigger_scale_tyv" translatable="false">%1$d%%</string>
     <string name="ver_posv" translatable="false">%1$d%%</string>
     <string name="vibe_durationv" translatable="false">%.2fs</string>
     <string name="vol_timeoutv" translatable="false">%1$ds</string>
     <string name="show_call">Always Show Call Volume</string>
+    <string name="show_bluetooth">Show Bluetooth Button</string>
+    <string name="block_vold_up_lp">Block Vol Up Long Press</string>
+    <string name="show_media">Show Media Controls</string>
 </resources>

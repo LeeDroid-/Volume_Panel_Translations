@@ -111,7 +111,6 @@
     <string name="media">Громкость медиа =</string>
     <string name="mute_media">Отключить медиа</string>
     <string name="need_dnd">Требуется разрешение Не беспокоить</string>
-    <string name="no">Нет</string>
     <string name="not_found">Активити не найден, пожалуйста, перейдите в настройки и предоставьте вручную</string>
     <string name="notif_access">
         <u>Доступ к уведомлениям</u>
@@ -158,10 +157,8 @@
     <string name="show_ring_panel">Отображать панель звонка</string>
     <string name="silent">Бесшумный</string>
     <string name="slide_heightx">Размер панели X = %1$d%%</string>
-    <string name="slide_heightxs">Размер панели X</string>
     <string name="slide_heights">Размер панели</string>
     <string name="slide_heighty">Размер панели Y = %1$d%%</string>
-    <string name="slide_heightys">Размер панели Y</string>
     <string name="slider_colour">Цвет ползунка</string>
     <string name="start_collapsed">Свёрнутая панель</string>
     <string name="suspend">Отклонить</string>
@@ -178,10 +175,8 @@
     <string name="trigger_cat">Триггер</string>
     <string name="trigger_colour">Цвет триггера</string>
     <string name="trigger_scale_tx">Размер триггера X = %1$d%%</string>
-    <string name="trigger_scale_txs">Размер триггера X</string>
     <string name="trigger_scale_ts">Размер триггера</string>
     <string name="trigger_scale_ty">Размер триггера Y = %1$d%%</string>
-    <string name="trigger_scale_tys">Размер триггера Y</string>
     <string name="up_launch">Запускать только по нажатию кнопки Громкость +</string>
     <string name="up_launch_sum">\u2022 Панель будет запускаться только при нажатии на кнопку громкости +.</string>
     <string name="usage_access">
@@ -198,6 +193,8 @@
     <string name="vol_timeout">Тайм-аут панели = %1$ds</string>
     <string name="vol_timeouts">Тайм-аут панели</string>
     <string name="volumeui">Интерфейс громкости</string>
-    <string name="yes">Да</string>
     <string name="show_call">Всегда отображать громкость звонка</string>
+    <string name="show_bluetooth">Отображать кнопку Bluetooth</string>
+    <string name="block_vold_up_lp">Блокировать долгое нажатие кнопки Громкость +</string>
+    <string name="show_media">Show Media Controls</string>
 </resources>

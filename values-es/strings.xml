@@ -47,7 +47,7 @@
     <string name="click_out_sum">\u2022 Puede interferir con otras aplicaciones al habilitarlo.</string>
     <string name="close">Cerrar</string>
     <string name="corner_scale">Radio de las esquinas = %1$d%%</string>
-    <string name="corner_scales">Radio de las esquina</string>
+    <string name="corner_scales">Radio de las esquinas</string>
     <string name="cp_head">Pulsa en el CENTRO para confirmar</string>
     <string name="dark_mode">Modo oscuro</string>
     <string name="default_to_ring_volume">Volumen de timbre predeterminado</string>
@@ -106,7 +106,6 @@
     <string name="media">Volumen Multimedia =</string>
     <string name="mute_media">Silenciar medios</string>
     <string name="need_dnd">Permisos requeridos modo no molestar </string>
-    <string name="no">No</string>
     <string name="not_found">No se detecta ninguna actividad, por favor, ve a los Ajustes y concede los permisos manualmente </string>
     <string name="notif_access"><u>Acceso a notificaciones</u>
         \n\n\u2022 Este permiso nos permite detectar transmisiones Cast o de Streaming.
@@ -151,10 +150,8 @@
     <string name="show_ring_panel">Mostrar panel de timbre</string>
     <string name="silent">Silenciar</string>
     <string name="slide_heightx">Escala de panel X = %1$d%%</string>
-    <string name="slide_heightxs">Escala de panel X</string>
     <string name="slide_heights">Escala de panel</string>
     <string name="slide_heighty">Escala de panel Y = %1$d%%</string>
-    <string name="slide_heightys">Escala de panel Y</string>
     <string name="slider_colour">Color del deslizador</string>
     <string name="start_collapsed">Iniciar contraído</string>
     <string name="suspend">Suspender</string>
@@ -169,10 +166,8 @@
     <string name="trigger_cat">Activador</string>
     <string name="trigger_colour">Color del activador</string>
     <string name="trigger_scale_tx">Escala del deslizador X = %1$d%%</string>
-    <string name="trigger_scale_txs">Escala del deslizador X</string>
     <string name="trigger_scale_ts">Escala del deslizador</string>
     <string name="trigger_scale_ty">Escala del deslizador Y = %1$d%%</string>
-    <string name="trigger_scale_tys">Escala del deslizador Y</string>
     <string name="up_launch">Iniciar solo presionando Vol +</string>
     <string name="up_launch_sum">\u2022 El panel solo se iniciará cuando se presione Vol +.</string>
     <string name="usage_access">
@@ -189,6 +184,8 @@
     <string name="vol_timeout">Tiempo de espera del panel = %1$ds</string>
     <string name="vol_timeouts">Tiempo de espera del panel</string>
     <string name="volumeui">Panel de sistema</string>
-    <string name="yes">Si</string>
     <string name="show_call">Mostrar siempre el volumen de llamada</string>
+    <string name="show_bluetooth">Mostrar botón Bluetooth</string>
+    <string name="block_vold_up_lp">Bloquear pulsación larga Vol +</string>
+    <string name="show_media">Show Media Controls</string>
 </resources>

@@ -112,7 +112,6 @@
     <string name="media">Medya Sesi =</string>
     <string name="mute_media">Medyayı Kıs</string>
     <string name="need_dnd">Rahatsız Etmeyin İzni Gerekli</string>
-    <string name="no">Hayır</string>
     <string name="not_found">Etkinlik bulunamadı, lütfen Ayarlar\'a gidin ve elle izin verin</string>
     <string name="notif_access">
         <u>Bildirim Erişimi</u>
@@ -159,10 +158,8 @@
     <string name="show_ring_panel">Zil Sesi Panelini Göster</string>
     <string name="silent">Sessiz</string>
     <string name="slide_heightx">Panel Ölçeği X = %1$d%%</string>
-    <string name="slide_heightxs">Panel Ölçeği X</string>
     <string name="slide_heights">Panel Ölçeği</string>
     <string name="slide_heighty">Panel Ölçeği Y = %1$d%%</string>
-    <string name="slide_heightys">Panel Ölçeği Y</string>
     <string name="slider_colour">Kaydırıcı Rengi</string>
     <string name="start_collapsed">Daraltılmış Başlat</string>
     <string name="suspend">Askıya Al</string>
@@ -179,10 +176,8 @@
     <string name="trigger_cat">Tetikleyici</string>
     <string name="trigger_colour">Tetikleyici Rengi</string>
     <string name="trigger_scale_tx">Tetikleyici Ölçeği X = %1$d%%</string>
-    <string name="trigger_scale_txs">Tetikleyici Ölçeği X</string>
     <string name="trigger_scale_ts">Tetikleyici Ölçeği</string>
     <string name="trigger_scale_ty">Tetikleyici Ölçeği Y = %1$d%%</string>
-    <string name="trigger_scale_tys">Tetikleyici Ölçeği Y</string>
     <string name="up_launch">Yalnızca Ses Açmaya Basıldığında Başlat</string>
     <string name="up_launch_sum">\u2022 Panel yalnızca Ses Açma tuşuna basıldığında açılır.</string>
     <string name="usage_access">
@@ -199,6 +194,8 @@
     <string name="vol_timeout">Panel Zaman Aşımı = %1$ds</string>
     <string name="vol_timeouts">Panel Zaman Aşımı</string>
     <string name="volumeui">Ses Arayüzü</string>
-    <string name="yes">Evet</string>
     <string name="show_call">Her Zaman Çağrı Sesini Göster</string>
+    <string name="show_bluetooth">Bluetooth Düğmesini Göster</string>
+    <string name="block_vold_up_lp">Ses Yukarı Uzun Basmayı Engelle</string>
+    <string name="show_media">Show Media Controls</string>
 </resources>
