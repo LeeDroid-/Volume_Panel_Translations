@@ -196,6 +196,6 @@
     <string name="volumeui">Ses Arayüzü</string>
     <string name="show_call">Her Zaman Çağrı Sesini Göster</string>
     <string name="show_bluetooth">Bluetooth Düğmesini Göster</string>
-    <string name="block_vold_up_lp">Ses Yukarı Uzun Basmayı Engelle</string>
-    <string name="show_media">Show Media Controls</string>
+    <string name="block_vold_up_lp">Ses Artırmaya Uzun Basmayı Engelle</string>
+    <string name="show_media">Medya Kontrollerini Göster</string>
 </resources>
