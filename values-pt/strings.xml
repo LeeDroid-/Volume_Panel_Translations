@@ -198,5 +198,6 @@
     <string name="show_call">Mostrar Sempre Volume de Chamada</string>
     <string name="show_bluetooth">Mostrar Botão Bluetooth</string>
     <string name="block_vold_up_lp">Bloquear Premir e Segurar Vol-</string>
-    <string name="show_media">Show Media Controls</string>
+    <string name="show_media">Mostrar Controlo de Média</string>
+    <string name="change_first_click">Mudar o Volume de Imediato</string>
 </resources>

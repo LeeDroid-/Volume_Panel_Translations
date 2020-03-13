@@ -196,5 +196,6 @@
     <string name="show_call">Всегда отображать громкость звонка</string>
     <string name="show_bluetooth">Отображать кнопку Bluetooth</string>
     <string name="block_vold_up_lp">Блокировать долгое нажатие кнопки Громкость +</string>
-    <string name="show_media">Show Media Controls</string>
+    <string name="show_media">Отображать управления медиа</string>
+    <string name="change_first_click">Change Volume On First Click</string>
 </resources>

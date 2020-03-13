@@ -194,5 +194,6 @@
     <string name="show_call">Zawsze Pokazuj Głośność Połączeń</string>
     <string name="show_bluetooth">Pokaż Przycisk Bluetooth</string>
     <string name="block_vold_up_lp">Zablokuj głośność + długie naciśnięcie</string>
-    <string name="show_media">Show Media Controls</string>
+    <string name="show_media">Pokaż Sterowanie Multimediami</string>
+    <string name="change_first_click">Change Volume On First Click</string>
 </resources>

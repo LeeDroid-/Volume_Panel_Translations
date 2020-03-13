@@ -38,8 +38,8 @@
         <br/><br/>Click \"Close\" to run optimised or click \"Action Now\" followed by \"All Apps\" then disable Battery Optimisation for Volume Panel.
         <br/><br/>If you find that the service is still being killed by the system, try enabling the "Force Keep Services Alive" Option.]]></string>
     <string name="behaviour">Behaviour</string>
-    <string name="block_vold_lp">Block Vol Down Long Press</string>
-    <string name="block_vold_lp_sum">\u2022 Fixes Vol + Power screenshot issues.</string>
+    <string name="block_vold_lp">Block Volume Down Long Press</string>
+    <string name="block_vold_lp_sum">\u2022 Fixes Volume + Power screenshot issues.</string>
     <string name="border_colour">Border Colour</string>
     <string name="border_thickness">Border Thickness = %1$d dp</string>
     <string name="border_thicknesss">Border Thicknes</string>
@@ -112,7 +112,7 @@
     <string name="mapper_sum">\u2022 Click here for more information</string>
     <string name="margin">Panel Margin = %1$d dp</string>
     <string name="margins">Panel Margin</string>
-    <string name="media">Media Vol = </string>
+    <string name="media">Media Volume = </string>
     <string name="mute_media">Mute Media</string>
     <string name="need_dnd">Do Not Disturb Permissions Required</string>
     <string name="not_found">Activity not found, please navigate to Settings and grant manually</string>
@@ -181,8 +181,8 @@
     <string name="trigger_scale_tx">Trigger Scale X = %1$d%%</string>
     <string name="trigger_scale_ts">Trigger Scale</string>
     <string name="trigger_scale_ty">Trigger Scale Y = %1$d%%</string>
-    <string name="up_launch">Launch On Vol + Press Only</string>
-    <string name="up_launch_sum">\u2022 The panel will only launch when Vol + is pressed.</string>
+    <string name="up_launch">Launch On Volume + Press Only</string>
+    <string name="up_launch_sum">\u2022 The panel will only launch when Volume + is pressed.</string>
     <string name="usage_access">
         <u>Usage Access</u>
         \n\nThis permission allows us to detect the application currently in use via package usage stats &amp; check if you have excluded it.
@@ -208,6 +208,7 @@
     <string name="vol_timeoutv" translatable="false">%1$ds</string>
     <string name="show_call">Always Show Call Volume</string>
     <string name="show_bluetooth">Show Bluetooth Button</string>
-    <string name="block_vold_up_lp">Block Vol Up Long Press</string>
+    <string name="block_vold_up_lp">Block Volume Up Long Press</string>
     <string name="show_media">Show Media Controls</string>
+    <string name="change_first_click">Change Volume On First Click</string>
 </resources>
