@@ -188,5 +188,7 @@
     <string name="show_bluetooth">Mostrar botón Bluetooth</string>
     <string name="block_vold_up_lp">Bloquear pulsación larga Vol +</string>
     <string name="show_media">Mostrar controles multimedia</string>
-    <string name="change_first_click">Change Volume On First Click</string>
+    <string name="change_first_click">Cambiar volumen al primer toque</string>
+    <string name="show_system">Show System Panel</string>
+    <string name="show_levels">Show Level Text</string>
 </resources>
