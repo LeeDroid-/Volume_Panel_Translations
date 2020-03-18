@@ -189,6 +189,6 @@
     <string name="block_vold_up_lp">Bloquear pulsación larga Vol +</string>
     <string name="show_media">Mostrar controles multimedia</string>
     <string name="change_first_click">Cambiar volumen al primer toque</string>
-    <string name="show_system">Show System Panel</string>
-    <string name="show_levels">Show Level Text</string>
+    <string name="show_system">Mostrar panel de sistema</string>
+    <string name="show_levels">Mostrar niveles</string>
 </resources>

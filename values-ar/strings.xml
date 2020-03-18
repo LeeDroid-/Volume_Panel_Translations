@@ -201,5 +201,5 @@
     <string name="show_media">أظهر لوحة التحكم بصوت الوسائط</string>
     <string name="change_first_click">قم بتغيير مستوى الصوت على الفور</string>
     <string name="show_system">Show System Panel</string>
-    <string name="show_levels">Show Level Text</string>
+    <string name="show_levels">Show Level Labels</string>
 </resources>

@@ -212,5 +212,5 @@
     <string name="show_media">Show Media Controls</string>
     <string name="change_first_click">Change Volume On First Click</string>
     <string name="show_system">Show System Panel</string>
-    <string name="show_levels">Show Level Text</string>
+    <string name="show_levels">Show Level Labels</string>
 </resources>
