@@ -199,6 +199,6 @@
     <string name="block_vold_up_lp">Ses Artırmaya Uzun Basmayı Engelle</string>
     <string name="show_media">Medya Kontrollerini Göster</string>
     <string name="change_first_click">İlk Tıklamada Sesi Değiştir</string>
-    <string name="show_system">Show System Panel</string>
-    <string name="show_levels">Show Level Labels</string>
+    <string name="show_system">Sistem Panelini Göster</string>
+    <string name="show_levels">Seviye Etiketlerini Göster</string>
 </resources>

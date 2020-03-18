@@ -198,6 +198,6 @@
     <string name="block_vold_up_lp">Блокировать долгое нажатие кнопки Громкость +</string>
     <string name="show_media">Отображать управления медиа</string>
     <string name="change_first_click">Изменить громкость при первом нажатии</string>
-    <string name="show_system">Show System Panel</string>
-    <string name="show_levels">Show Level Labels</string>
+    <string name="show_system">Отображать системную панель</string>
+    <string name="show_levels">Отображать уровни меток</string>
 </resources>

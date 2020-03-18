@@ -196,6 +196,6 @@
     <string name="block_vold_up_lp">Zablokuj głośność + długie naciśnięcie</string>
     <string name="show_media">Pokaż Sterowanie Multimediami</string>
     <string name="change_first_click">Zmień Głośność Przy Pierwszym Kliknięciu</string>
-    <string name="show_system">Show System Panel</string>
-    <string name="show_levels">Show Level Labels</string>
+    <string name="show_system">Pokaż Panel Systemowy</string>
+    <string name="show_levels">Pokaż Etykiety Poziomów</string>
 </resources>

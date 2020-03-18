@@ -200,6 +200,6 @@
     <string name="block_vold_up_lp">تعطيل حجم + الضغط لفترة طويلة</string>
     <string name="show_media">أظهر لوحة التحكم بصوت الوسائط</string>
     <string name="change_first_click">قم بتغيير مستوى الصوت على الفور</string>
-    <string name="show_system">Show System Panel</string>
-    <string name="show_levels">Show Level Labels</string>
+    <string name="show_system">أظهر لوحة النظام</string>
+    <string name="show_levels">أظهر مسميات مستويات اللوحة</string>
 </resources>
