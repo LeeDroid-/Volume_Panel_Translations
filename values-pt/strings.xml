@@ -82,7 +82,7 @@
     <string name="flash_light">Mostrar Botão de Lanterna</string>
     <string name="floating_trigger">Atalho de Deslize para Cima/Baixo</string>
     <string name="force_close">Fechar Caixas de Diálogo à Força</string>
-    <string name="free">Disable Free Version</string>
+    <string name="free">Desativar Versão Grátis</string>
     <string name="free_installed">Volume Panel Free está a sobrepôr-se ao painel de volume do sistema, por favor desative-a para evitar conflitos.</string>
     <string name="google_assistant">Mostrar botão de Assistente</string>
     <string name="grant">Conceder Permissão</string>
