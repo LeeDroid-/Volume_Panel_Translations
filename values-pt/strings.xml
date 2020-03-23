@@ -9,10 +9,12 @@
         <br/>\u2022 Ereza por Custom Activity On Crash.
         <br/>\u2022 D-Max por Spots Dialog.
         <br/>Traduções Por:
-        <br/>\u2022 Linar10 - Polaco
-        <br/>\u2022 Fatih Firinci - Turco
-		<br/>\u2022 guillerag - Espanhol
-		<br/>\u2022 Nuno Nebeker - Português
+        <br/>\u2022 Linar10 - Polish
+        <br/>\u2022 Fatih Firinci - Turkish
+        <br/>\u2022 guillerag - Spanish
+        <br/>\u2022 Nuno Nebeker - Portuguese
+        <br/>\u2022 Игорь Иринин - Russian
+	<br/>\u2022 Emad Ayad - Arabic
         <br/><br/>Pode entrar em contacto comigo pela opção \"Dar Feedback por Email\" &amp; não se esqueça de deixar uma crítica &#128512;]]></string>
     <string name="about_title">Sobre</string>
     <string name="accessibility_description">
@@ -59,7 +61,6 @@
     <string name="disable">Desativar</string>
     <string name="disable_acc">POR FAVOR DESATIVE O SERVIÇO DE ACESSIBILIDADE.</string>
     <string name="disable_notif">POR FAVOR DESATIVE ACESSO A NOTIFICAÇÕES</string>
-    <string name="disabling">Esta aplicação não foi instalada pelo Google Play &amp; será desativada em breve.</string>
     <string name="dismiss">Ignorar</string>
     <string name="dnd_access">
         <u>Acesso Não Incomodar</u>
@@ -202,4 +203,7 @@
     <string name="change_first_click">Mudar o Volume de Imediato</string>
     <string name="show_system">Mostrar Painel do Sistema</string>
     <string name="show_levels">Mostrar Indicadores de Nível</string>
+    <string name="when_notif">Somente quando Notificação Ativa</string>
+    <string name="volume_plus">Volume +</string>
+    <string name="volume_minus">Volume -</string>
 </resources>

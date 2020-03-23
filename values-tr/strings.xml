@@ -9,9 +9,12 @@
         <br/>\u2022 Özel Çökme Etkinliği için Ereza\'ya.
         <br/>\u2022 Spots Dialog için D-Max\'e.
         <br/>Çeviriler:
-        <br/>Linar10 - Lehçe
-        <br/>Fatih Fırıncı - Türkçe
-	<br/>guillerag - İspanyolca
+        <br/>\u2022 Linar10 - Polish
+        <br/>\u2022 Fatih Firinci - Turkish
+        <br/>\u2022 guillerag - Spanish
+        <br/>\u2022 Nuno Nebeker - Portuguese
+        <br/>\u2022 Игорь Иринин - Russian
+	<br/>\u2022 Emad Ayad - Arabic
         <br/><br/>Doğrudan benimle temas kurmaktan çekinmeyin &amp; bir inceleme bırakmayı unutmayın &#128512;]]></string>
     <string name="about_title">Hakkında</string>
     <string name="accessibility_description">
@@ -58,7 +61,6 @@
     <string name="disable">Devre dışı bırak</string>
     <string name="disable_acc">LÜTFEN ERİŞİLEBİLİRLİK HİZMETİNİ DEVRE DIŞI BIRAKIN.</string>
     <string name="disable_notif">LÜTFEN BİLDİRİM ERİŞİMİNİ DEVRE DIŞI BIRAKIN</string>
-    <string name="disabling">Bu uygulama Google Play\'den yüklenmedi &amp; yakında devre dışı bırakılacak.</string>
     <string name="dismiss">Kapat</string>
     <string name="dnd_access">
         <u>Rahatsız Etmeyin Erişimi</u>
@@ -201,4 +203,7 @@
     <string name="change_first_click">İlk Tıklamada Sesi Değiştir</string>
     <string name="show_system">Sistem Panelini Göster</string>
     <string name="show_levels">Seviye Etiketlerini Göster</string>
+    <string name="when_notif">Yalnızca Bildirim Etkinken</string>
+    <string name="volume_plus">Volume +</string>
+    <string name="volume_minus">Volume -</string>
 </resources>

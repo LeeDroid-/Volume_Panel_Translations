@@ -11,7 +11,7 @@
         <br/>Translations By:
         <br/>\u2022 Linar10 - Polish
         <br/>\u2022 Fatih Firinci - Turkish
-        <br/>guillerag - Spanish
+        <br/>\u2022 guillerag - Spanish
         <br/>\u2022 Nuno Nebeker - Portuguese
         <br/>\u2022 Игорь Иринин - Russian
 	    <br/>\u2022 Emad Ayad - Arabic
@@ -42,7 +42,7 @@
     <string name="block_vold_lp_sum">\u2022 Fixes Volume + Power screenshot issues.</string>
     <string name="border_colour">Border Colour</string>
     <string name="border_thickness">Border Thickness = %1$d dp</string>
-    <string name="border_thicknesss">Border Thicknes</string>
+    <string name="border_thicknesss">Border Thickness</string>
     <string name="bright_calibrate">
         <b>i</b>: Recalibrate Maximum Brightness:
         \n\u2022 Set your screen brightness to Max then long press here.</string>
@@ -61,7 +61,6 @@
     <string name="disable">Disable</string>
     <string name="disable_acc">PLEASE DISABLE THE ACCESSIBILITY SERVICE.</string>
     <string name="disable_notif">PLEASE DISABLE NOTIFICATION ACCESS</string>
-    <string name="disabling">This app was not installed from Google Play &amp; will soon be disabled.</string>
     <string name="dismiss">Dismiss</string>
     <string name="dnd_access">
         <u>Do Not Disturb Access</u>
@@ -122,7 +121,7 @@
         \n\u2022 If you wish to run without controlling cast streams, feel free to skip this permission.
         \n\nNo notification content is captured.
         \n\n</string>
-    <string name="notif_panel"><![CDATA[Not all devices support splitting Notification & Ring volume.
+    <string name="notif_panel"><![CDATA[Not all devices support splitting Notification, System & Ring volume.
         <br/><br/>If both sliders change together, this is due to your system configuration and nothing to do with Volume Panel.]]></string>
     <string name="notification_listener">Volume Panel Notification Listener</string>
     <string name="oops_error">Oops.. It looks like something went wrong and Volume Panel crashed, please hit \"SEND REPORT\" below to let me know.</string>
@@ -213,4 +212,7 @@
     <string name="change_first_click">Change Volume On First Click</string>
     <string name="show_system">Show System Panel</string>
     <string name="show_levels">Show Level Labels</string>
+    <string name="when_notif">Only When Notification Active</string>
+    <string name="volume_plus">Volume +</string>
+    <string name="volume_minus">Volume -</string>
 </resources>

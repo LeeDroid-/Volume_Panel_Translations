@@ -11,7 +11,7 @@
         <br/>قام بالترجمة :
         <br/>\u2022 Linar10 - البولندية
         <br/>\u2022 Fatih Firinci - التركية
-        <br/>guillerag - الإسبانية
+        <br/>\u2022 guillerag - الإسبانية
         <br/>\u2022 Nuno Nebeker - البرتغالية 
         <br/>\u2022 Игорь Иринин - الروسية
         <br/>\u2022 العربية - عماد عياد  
@@ -61,7 +61,6 @@
     <string name="disable">تعطيل </string>
     <string name="disable_acc">يرجي تعطيل خدمة الوصول </string>
     <string name="disable_notif">يرجى تعطيل وصول للإشعارات</string>
-    <string name="disabling">هذا التطبيق لم يتم تثبيته من متجر تطبيقات جوجل . &amp; سوف يتم تعطيله قريبا .</string>
     <string name="dismiss">رفض</string>
     <string name="dnd_access">
         <u>الوصول لإعدادت عدم الإزعاج</u>
@@ -202,4 +201,7 @@
     <string name="change_first_click">قم بتغيير مستوى الصوت على الفور</string>
     <string name="show_system">أظهر لوحة النظام</string>
     <string name="show_levels">أظهر مسميات مستويات اللوحة</string>
+    <string name="when_notif">فقط عند تفعيل الاشعارات</string>
+    <string name="volume_plus">Volume +</string>
+    <string name="volume_minus">Volume -</string>
 </resources>

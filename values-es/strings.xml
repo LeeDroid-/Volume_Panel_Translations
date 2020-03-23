@@ -8,10 +8,12 @@
 	  <br/>\u2022 Ereza for Custom Activity On Crash.
 	  <br/>\u2022 D-Max for Spots Dialog.
 	  <br/>Traducciones por:
-	  <br/>Linar10 - Polish
-	  <br/>Fatih Firinci - Turkish
-	  <br/>guillerag - Spanish
-	  <br/>
+        <br/>\u2022 Linar10 - Polish
+        <br/>\u2022 Fatih Firinci - Turkish
+        <br/>\u2022 guillerag - Spanish
+        <br/>\u2022 Nuno Nebeker - Portuguese
+        <br/>\u2022 Игорь Иринин - Russian
+	<br/>\u2022 Emad Ayad - Arabic
 	  <br/><No dudes en contactarme directamente y no olvides de dejarme un comentario &#128512;]]></string>
     <string name="about_title">Acerca de</string>
     <string name="accessibility_description"><u>Acceso de Accesibilidad</u>
@@ -56,7 +58,6 @@
     <string name="disable">Deshabilitar</string>
     <string name="disable_acc">POR FAVOR, DESACTIVA EL SERVICIO DE ACCESIBILIDAD.</string>
     <string name="disable_notif">POR FAVOR, DESACTIVA EL ACCESO A LAS NOTIFICACIONES</string>
-    <string name="disabling">Esta aplicación no fue instalada desde Google Play, pronto será deshabilitada.</string>
     <string name="dismiss">Rechazar</string>
     <string name="dnd_access"><u>Acceso a No molestar</u>
         \n\nEste permiso nos permite modificar la configuración de No molestar.\n\n</string>
@@ -191,4 +192,7 @@
     <string name="change_first_click">Cambiar volumen al primer toque</string>
     <string name="show_system">Mostrar panel de sistema</string>
     <string name="show_levels">Mostrar niveles</string>
+    <string name="when_notif">Sólo cuando la notificación está activa</string>
+    <string name="volume_plus">Volume +</string>
+    <string name="volume_minus">Volume -</string>
 </resources>

@@ -9,9 +9,12 @@
         <br/>\u2022 Ereza for Custom Activity On Crash.
         <br/>\u2022 D-Max for Spots Dialog.
         <br/>Tłumaczenie:
-        <br/>Linar10 - Polish
+        <br/>\u2022 Linar10 - Polish
         <br/>\u2022 Fatih Firinci - Turkish
-	    <br/>guillerag - Spanish
+        <br/>\u2022 guillerag - Spanish
+        <br/>\u2022 Nuno Nebeker - Portuguese
+        <br/>\u2022 Игорь Иринин - Russian
+	<br/>\u2022 Emad Ayad - Arabic
         <br/><br/>Skontaktuj się ze mną bezpośrednio &amp; Nie zapomnij zostawić opinii &#128512;]]></string>
     <string name="about_title">Informacje</string>
     <string name="accessibility_description">
@@ -57,7 +60,6 @@
     <string name="disable">Zamknij</string>
     <string name="disable_acc"> PROSZĘ WYŁĄCZYĆ USŁUGĘ DOSTĘPNOŚCI.</string>
     <string name="disable_notif">PROSZĘ O WYŁACZENIE DOSTĘPU DO POWIADOMIEŃ</string>
-    <string name="disabling">Ta aplikacja nie została zainstalowana z Google Play &amp; wkrótce zostanie wyłączona.</string>
     <string name="dismiss">Odrzuć</string>
     <string name="dnd_access">
         <u>Dostęp Do Nie Przeszkadzać</u>
@@ -198,4 +200,7 @@
     <string name="change_first_click">Zmień Głośność Przy Pierwszym Kliknięciu</string>
     <string name="show_system">Pokaż Panel Systemowy</string>
     <string name="show_levels">Pokaż Etykiety Poziomów</string>
+    <string name="when_notif">Tylko Przy Aktywnych Powiadomieniach</string>
+    <string name="volume_plus">Volume +</string>
+    <string name="volume_minus">Volume -</string>
 </resources>

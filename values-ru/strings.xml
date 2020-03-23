@@ -7,10 +7,13 @@
         <br/><b>Дополнительные благодарности:</b><br/>\u2022 Создателям вступления для приложения.
         <br/>\u2022 Ereza за пользовательские активити при сбое.
         <br/>\u2022 D-Max за определение диалога.
-        <br/><b>Переводчики:</b><br/>\u2022 Linar10 - Польский
-        <br/>\u2022 Fatih Firinci - Турецкий
-	    <br/>\u2022  guillerag - Испанский
-	    <br/>\u2022  Игорь Иринин - Русский
+        <br/><b>Переводчики:</b><br/>
+        <br/>\u2022 Linar10 - Polish
+        <br/>\u2022 Fatih Firinci - Turkish
+        <br/>\u2022 guillerag - Spanish
+        <br/>\u2022 Nuno Nebeker - Portuguese
+        <br/>\u2022 Игорь Иринин - Russian
+	<br/>\u2022 Emad Ayad - Arabic
         <br/><br/>Не стесняйтесь связываться со мной через \"Обратную связь\", и не забудьте оставить отзыв! &#128512;]]></string>
     <string name="about_title">О программе</string>
     <string name="accessibility_description">
@@ -57,7 +60,6 @@
     <string name="disable">Отключить</string>
     <string name="disable_acc">ПОЖАЛУЙСТА, ОТКЛЮЧИТЕ СЛУЖБУ СПЕЦИАЛЬНЫХ ВОЗМОЖНОСТЕЙ.</string>
     <string name="disable_notif">ПОЖАЛУЙСТА, ОТКЛЮЧИТЕ СЛУЖБУ ДОСТУПА К УВЕДОМЛЕНИЯМ</string>
-    <string name="disabling">Это приложение не было установлено из Play Маркета и вскоре будет отключено.</string>
     <string name="dismiss">Отклонить</string>
     <string name="dnd_access">
         <u>Доступ к функции "Не беспокоить"</u>
@@ -200,4 +202,7 @@
     <string name="change_first_click">Изменить громкость при первом нажатии</string>
     <string name="show_system">Отображать системную панель</string>
     <string name="show_levels">Отображать уровни меток</string>
+    <string name="when_notif">Только при активном уведомлении</string>
+    <string name="volume_plus">Volume +</string>
+    <string name="volume_minus">Volume -</string>
 </resources>
