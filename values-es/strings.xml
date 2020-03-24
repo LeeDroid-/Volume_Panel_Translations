@@ -193,6 +193,9 @@
     <string name="show_system">Mostrar panel de sistema</string>
     <string name="show_levels">Mostrar niveles</string>
     <string name="when_notif">Sólo cuando la notificación está activa</string>
-    <string name="volume_plus">Volume +</string>
-    <string name="volume_minus">Volume -</string>
+    <string name="volume_plus">Volumen +</string>
+    <string name="volume_minus">Volumen -</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
 </resources>
