@@ -14,9 +14,9 @@
         <br/>\u2022	guillerag - Spanisch
         <br/>\u2022 Nuno Nebeker - Portugiesisch
         <br/>\u2022 Игорь Иринин - Russisch
-	    <br/>\u2022 Emad Ayad - Arabisch
-		<br/>\u2022 vm - Deutsch
-        <br/><br/>Senden sie mir eine Email \"Email Feedback\" &amp; nicht die Bewertung vergessen &#128512;]]></string>
+	<br/>\u2022 Emad Ayad - Arabisch
+	<br/>\u2022 vm - Deutsch
+        <br/><br/>Sie können mir gerne über \"Email-Feedback\" eine Email schreiben &amp; bitte die Bewertung nicht vergessen &#128512;]]></string>
     <string name="about_title">Über</string>
     <string name="accessibility_description">
         <u>Eingabehilfe</u>
@@ -25,22 +25,22 @@
         \n\nEinige Geräte benötigen zum Start des Dienstes einen Neustart.</string>
     <string name="action">Handeln</string>
     <string name="add_border">Bedienfeld-Rahmen aktivieren</string>
-    <string name="add_shortcut">Launcher-Verknüpfung</string>
+    <string name="add_shortcut">Launcher-Shortcut</string>
     <string name="additonal_perms_req">Zusätzliche Berechtigungen benötigt</string>
-    <string name="alert">Warnmeldungen anpassen</string>
+    <string name="alert">System-Warnmeldungen</string>
     <string name="anim_duration">Animations-Dauer = %.2fs</string>
-    <string name="anim_durations">Dauer der Animationen</string>
+    <string name="anim_durations">Animations-Dauer</string>
     <string name="app_name">Volume Panel</string>
     <string name="auto_dark_sum">\u2022 System-Einstellungen für Dunklen/Hellen-Modus verwenden.
-        \n\u2022 Muss vom Hersteller unterstützt werden.</string>
+        \n\u2022 Muss vom Gerät unterstützt werden.</string>
     <string name="background_colour">Hintergrund-Farbe</string>
-    <string name="bat_opt"><![CDATA[<b>Volume Panel wird von der System-Akku-Optimierung überwacht &amp; wird möglicherweise im Hintergrund gestoppt</b>.
-        <br/><br/>Keiner der Dienste von Volume Panel ist Akku-intensiv, das Ausschalten der Akku-Optimierunug für Volume Panel erhöht die Zuverlässigleit.
-        <br/><br/>Klicke auf \"Schliessen\" für Akku-Optimierte Nutzung oder \"Handeln\" gefolgt von \"Alle Apps\". Danach die Akku-Optimierung für Volume Panel deaktivieren.
-        <br/><br/>Falls der Dienst weiterhin vom Systemm gestoppt werden sollte, aktivieren Sie die "Aufrechterhaltung des Dienstes erzwingen" Option.]]></string>
+    <string name="bat_opt"><![CDATA[<b>Volume Panel wird von der System-Akku-Optimierung überwacht &amp; und der Dienst möglicherweise im Hintergrund gestoppt</b>.
+        <br/><br/>Keiner der Dienste von Volume Panel ist Batterie-intensiv, das Ausschalten der Akku-Optimierunug für Volume Panel erhöht die Zuverlässigleit der App.
+        <br/><br/>Klicken Sie auf \"Schließen\" für die Akku-optimierte Nutzung der App oder auf \"Handeln\", gefolgt von \"Alle Apps\". Danach die Akku-Optimierung für Volume Panel deaktivieren.
+        <br/><br/>Falls der Dienst weiterhin vom Systemm gestoppt werden sollte, aktivieren Sie bitte die \"Aufrechterhaltung des Dienstes erzwingen\" Option.]]></string>
     <string name="behaviour">Verhalten</string>
     <string name="block_vold_lp">Langes Drücken der Lautstärke-Taste blockieren</string>
-    <string name="block_vold_lp_sum">\u2022 Beheben von Lautstärke- und Sreenshot-Problemen.</string>
+    <string name="block_vold_lp_sum">\u2022 Beheben von Lautstärke- und Screenshot-Problemen.</string>
     <string name="border_colour">Rahmen-Farbe</string>
     <string name="border_thickness">Rahmen-Breite = %1$d dp</string>
     <string name="border_thicknesss">Rahmen-Breite</string>
@@ -49,23 +49,23 @@
         \n\u2022 Stellen Sie die Bildschirmhellikeit auf die höchste Stufe und drücken Sie etwas länger auf diesen Text.</string>
     <string name="cancel">Abbrechen</string>
     <string name="cast">Cast-Lautstärke steuern</string>
-    <string name="click_out">Zum Schließen außerhalb tippen</string>
-    <string name="click_out_sum">\u2022 Bei Aktivierung mögliche Störungen mit anderen Apps.</string>
+    <string name="click_out">Zum Schließen außerhalb des Bedienfeldes tippen</string>
+    <string name="click_out_sum">\u2022 Die Aktivierung kann zu möglichen Störungen mit anderen Apps führen.</string>
     <string name="close">Schließen</string>
     <string name="corner_scale">Eckenrundung = %1$d%%</string>
     <string name="corner_scales">Ecken abrunden</string>
-    <string name="cp_head">Zur Bestätigung auf die MITTE tippen</string>
+    <string name="cp_head">Zur Bestätigung auf die Kreismitte tippen</string>
     <string name="dark_mode">Dunkler Modus</string>
     <string name="default_to_ring_volume">Standardmässig auf Klingelton-Lautstärke</string>
     <string name="design">Design</string>
-    <string name="detect_keys">Tastendruck erkennen wenn geöffnet</string>
+    <string name="detect_keys">Tasten erkennen bei geöffneter App</string>
     <string name="disable">Deaktivieren</string>
     <string name="disable_acc">BITTE BEDIENUNGSHILFEN DEAKTIVIEREN.</string>
     <string name="disable_notif">BITTE BENACHRICHTIGUNGSZUGRIFF DEAKTIVIEREN</string>
     <string name="dismiss">Verwerfen</string>
     <string name="dnd_access">
         <u>Nicht-Stören Zugriff</u>
-        \n\nDiese Berechtigung erlaubt es, die Nicht-Stören-Einstellungen zu verändern.
+        \n\nDiese Berechtigung erlaubt Volume Panel, die Nicht-Stören-Einstellungen zu verändern.
         \n\n</string>
     <string name="do_not_kill">Aufrechterhaltung des Dienstes erzwingen</string>
     <string name="do_not_kill_desc"><![CDATA[<b>Diese Option bitte nur nutzen, wenn Volume Panel weiterhin gestoppt wird.
@@ -73,11 +73,11 @@
 		<br/><br/>Das aktivieren der Administrator-Rechte für Volume Panel hält den Dienst am laufen.
         <br/><br/>Wenn Sie die App deinstallieren wollen, müssen Sie diese Option zuerst deaktivieren.]]></string>
     <string name="done">Erledigt</string>
-    <string name="email_feedback">Email Feedback</string>
+    <string name="email_feedback">Email-Feedback</string>
     <string name="enable_blacklist">App-Ausnahmen erlauben</string>
-    <string name="enable_volume_panel">Lautstärke-Tasten übergehen</string>
+    <string name="enable_volume_panel">Lautstärke-Tasten belegen</string>
     <string name="exclude_applications">Apps ausschließen</string>
-    <string name="exclude_applications_sum">\u2022 Volume panel wird von diesen Apps nicht aufgerufen.</string>
+    <string name="exclude_applications_sum">\u2022 Volume Panel wird von diesen Apps nicht aufgerufen.</string>
     <string name="excluded">Volume Panel: App ausgeschlossen</string>
     <string name="failed_window_add">Fenster nicht hinzugefügt. Bitte App öffnen und prüfen, ob die Berechtigung \"Über andere Apps einblenden\" aktiviert ist</string>
     <string name="fill_style">Solide Regler</string>
@@ -89,7 +89,7 @@
     <string name="google_assistant">Assistant-Button anzeigen</string>
     <string name="grant">Berechtigung zulassen</string>
     <string name="hide_full">Im Vollbild-Modus unsichtbar</string>
-    <string name="hide_settings">Verknüpfung für Einstellungen verstecken</string>
+    <string name="hide_settings">Icon für Einstellungen ausblenden</string>
     <string name="icon_colour">Icon-Farbe</string>
     <string name="invert_buttons">Lautstärke-Buttons invertieren</string>
     <string name="killed">Der Volume Panel-Dienst wurde vom System gestoppt oder entfernt.
@@ -98,27 +98,27 @@
         http://www.dontkillmyapp.com/]]></string>
     <string name="latest">Bitte überprüfen, ob Sie die aktuellste Version nutzen.</string>
     <string name="launch">Volume Panel anzeigen</string>
-    <string name="launch_opts">Optionen öffnen</string>
+    <string name="launch_opts">Optionen wählen</string>
     <string name="layout">Layout</string>
     <string name="loading_apps">Lade Anwendungen</string>
     <string name="lock_ring_vol">Klingelton-Regler sperren bei Vibration/Lautlos</string>
     <string name="long_press"><![CDATA[Lange drücken & bewegen um die Felder neu zu arrangieren.]]></string>
-    <string name="mapper">Mögliche Störungen</string>
+    <string name="mapper">Mögliche Störung</string>
     <string name="mapper_detail">Möglicherweise eine App zur Tasten-Belegung \"Button Remapping\" entdeckt .
-        \n\nApps zur Tasten-Belegung, sog. \"Button Remapper\" nutzen Bedienungshilfen-Dienste, um zu erkennen, ob eine Taste gedrückt ist.
+        \n\nApps zur Tasten-Belegung, sog. \"Button Remapper\" nutzen Bedienungshilfen-Dienste, um zu erkennen wenn eine Taste gedrückt wird.
         \n\nAndere Bedienungshilfen-Dienste, die es erlauben die Lautstärke-Tasten abzufragen/anzupassen, können möglicherweise zu Konflikten mit den entsprechenden Volume-Panel-Funktionen führen.
         \n\nZiehen Sie bitte in Erwägung, die Lautstärketasten-Anpassungen in diesen Apps zu deaktivieren.
         \n\nAlternativ können Sie auch die \"Volume Panel\" Launcher-Verknüpfung aktivieren und mit einer Neubelegung öffnen!</string>
-    <string name="mapper_sum">\u2022 Für weitere Informationen hier klicken</string>
+    <string name="mapper_sum">\u2022 Für weitere Informationen bitte hier klicken</string>
     <string name="margin">Abstand Bedienfelder = %1$d dp</string>
     <string name="margins">Bedienfelder-Abstand</string>
     <string name="media">Medien-Lautstärke = </string>
     <string name="mute_media">Medien Lautlos</string>
     <string name="need_dnd">\"Nicht stören\"-Berechtigung erfordelich</string>
-    <string name="not_found">Aktion nicht gefunden, gehen Sie bitte in die Einstellungen und setzen Sie die Berechtigung manuell.</string>
+    <string name="not_found">Aktion nicht gefunden - gehen Sie bitte in die Einstellungen und setzen Sie die Berechtigung manuell.</string>
     <string name="notif_access">
         <u>Benachrichtungs-Zugriff</u>
-        \n\n\u2022 Diese Berechtigung erlaubt es, aktive Cast-Streams zu erkennen.
+        \n\n\u2022 Diese Berechtigung erlaubt Volume Panel, aktive Cast-Streams zu erkennen.
         \n\u2022 Wenn Sie Cast-Streams nicht steuern möchten, können Sie diese Berechtigung überspringen.
         \n\nInhalte von Benachrichtigungen werden nicht abgefangen.
         \n\n</string>
@@ -136,10 +136,10 @@
         \n\nAuf den nächsten Seiten finden Sie Infos zu den jeweiligen Berechtigungen &amp; einen Button um sie zu aktivieren.
         \n\n</string>
     <string name="play_sound">Regler mit Sound</string>
-    <string name="position_left">Linkshändler</string>
+    <string name="position_left">Linkshänder</string>
     <string name="position_left_land">Linkshändig im Landschaftsmodus</string>
     <string name="press_back">Wenn fertig, auf "\Back\" klicken um zur App zurückzukehren.</string>
-    <string name="preview"><![CDATA[Preview Mode: Anruf & Cast Felder werden nur bei Bedarf angezeigt.]]></string>
+    <string name="preview"><![CDATA[Vorschau-Modus: Anruf & Cast Felder werden nur bei Bedarf angezeigt.]]></string>
     <string name="pro">Upgrade auf Volume Panel Pro!</string>
     <string name="pro_only"> - Pro Only</string>
     <string name="pro_un">Werbung entfernen &amp; alle Features freischalten.</string>
@@ -160,35 +160,35 @@
     <string name="show_notif">Benachrichtigungs-Feld anzeigen</string>
     <string name="show_ring_panel">Klingelton-Feld anzeigen</string>
     <string name="silent">Lautlos</string>
-    <string name="slide_heightx">Feld-Skala X = %1$d%%</string>
-    <string name="slide_heights">Feld-Skala</string>
-    <string name="slide_heighty">Feld-Skala Y = %1$d%%</string>
+    <string name="slide_heightx">Feld-Größe X = %1$d%%</string>
+    <string name="slide_heights">Feld-Größe</string>
+    <string name="slide_heighty">Feld-Größe Y = %1$d%%</string>
     <string name="slider_colour">Regler-Farbe</string>
-    <string name="start_collapsed">Beim Start zusammengeklappt</string>
+    <string name="start_collapsed">Bei Start zusammengeklappt</string>
     <string name="suspend">Ruhezustand</string>
     <string name="switch_theme">Thema wechseln</string>
     <string name="system_perms_message">Volume Panel benötigt die Berechtigung, Systemeinstellungen zu verändern. Zum Fortfahren bitte auf "\Weiter\" klicken.\n</string>
     <string name="system_warn">Wenn man einen Bedienungshilfen-Dienst aktiviert, gibt Android immer eine generische System-Warnung aus. Um Sie zu beruhigen: Volume Panel speichert keine Inhalte &amp; benötigt auch keine Internet-Berechtigung.</string>
     <string name="tips"><![CDATA[<b>Tips:</b>
         <br/><br/><b>Der Ton ändert sich in einigen Apps nicht:<br/>
-        </b><br/>Einige Apps wie Instagram & Snapchat übernehmen den kompletten Audio-Fokus & fangen die Lautstärke-Buttons selbst ab. Wenn dieses Problem auftritt, bitte die \"Apps ausschliessen\" Option aktivieren und die betreffende App auf die Liste setzen.
-        <br/><br/><b>Die System-Lautstärkeregelung läuft weiter:</B>
-        <br/><br/>Wenn es so aussieht, das Ihr System den Zugriffs-Dienst für Volume Panel immer wieder stoppt, versichern Sie sich bitte, das Akku- und Speicherotimierungen für diese App deaktiviert sind. Das Aktivieren der \"Auf/Ab-Wischen\"-Funktion kann ebenfalls helfen.
-        <br/>For more information visit: http://www.dontkillmyapp.com/]]></string>
+        </b><br/>Einige Apps wie Instagram & Snapchat übernehmen den kompletten Audio-Fokus & fangen die Lautstärke-Buttons selbst ab. Wenn dieses Problem auftritt, bitte die \"Apps ausschließen\" Option aktivieren und die betreffende App auf die Liste setzen.
+        <br/><br/><b>Die System-Lautstärkeregelung wird weiterhin angezeigt:</B>
+        <br/><br/>Wenn das Android-Betriebssystem den Zugriffs-Dienst für Volume Panel immer wieder stoppt, versichern Sie sich bitte, dass alle Akku- und Speicherotimierungen für Volume Panel deaktiviert sind. Das Aktivieren der \"Auf/Ab-Wischen\"-Funktion kann ebenfalls Abhilfe schaffen.
+        <br/>Für mehr Informationen besuchen Sie bitte: http://www.dontkillmyapp.com/]]></string>
     <string name="transparency">Transparenz</string>
     <string name="trigger_cat">Trigger</string>
     <string name="trigger_colour">Trigger Farbe</string>
-    <string name="trigger_scale_tx">Trigger-Skala X = %1$d%%</string>
-    <string name="trigger_scale_ts">Trigger-Skala</string>
-    <string name="trigger_scale_ty">Trigger-Skala Y = %1$d%%</string>
-    <string name="up_launch">Nur starten wenn Lautstärke + gedrückt wird</string>
-    <string name="up_launch_sum">\u2022 Das Bedienfeld startet nur, wenn die Lautstärketaste + gedrückt ist.</string>
+    <string name="trigger_scale_tx">Trigger-Feld X = %1$d%%</string>
+    <string name="trigger_scale_ts">Trigger-Feld-Größe</string>
+    <string name="trigger_scale_ty">Trigger-Feld Y = %1$d%%</string>
+    <string name="up_launch">Nur starten, wenn die +Lautstärketaste gedrückt wird</string>
+    <string name="up_launch_sum">\u2022 Das Bedienfeld startet nur, wenn die +Lautstärketaste gedrückt wird.</string>
     <string name="usage_access">
         <u>Nutzungszugang</u>
         \n\nDiese Berechtigung erlaubt es, über die Paket-Nutzungs-Statistiken zu erkennen, welche App gerade läuft &amp; ob sie ausgeschlossen wurde.
         \n\nWenn Sie keine Apps ausschließen wollen, wird diese Berechtigung nicht benötigt.
         \n\n</string>
-    <string name="use_system">Automatisch Dunkler/Heller Modus</string>
+    <string name="use_system">Auto Dunkler/Heller Modus</string>
     <string name="ver_pos">Vertikale Position = %1$d%%</string>
     <string name="ver_poss">Vertikale Position</string>
     <string name="vibe_duration">Vibrations-Dauer = %.2fs</string>
@@ -208,7 +208,7 @@
     <string name="vol_timeoutv" translatable="false">%1$ds</string>
     <string name="show_call">Anruf-Lautstärke immer anzeigen</string>
     <string name="show_bluetooth">Bluetooth-Button anzeigen</string>
-    <string name="block_vold_up_lp">Langes Drücken der Lautstärke-Hoch-Taste blockieren</string>
+    <string name="block_vold_up_lp">Langes Drücken der +Lautstärketaste blockieren</string>
     <string name="show_media">Medien-Steuerung anzeigen</string>
     <string name="change_first_click">Lautstärke beim ersten Klick ändern</string>
     <string name="show_system">System-Feld anzeigen</string>
@@ -216,7 +216,7 @@
     <string name="when_notif">Nur bei aktiven Benachrichtigungen</string>
     <string name="volume_plus">Volume +</string>
     <string name="volume_minus">Volume -</string>
-    <string name="red">Red</string>
-    <string name="green">Green</string>
-    <string name="blue">Blue</string>
+    <string name="red">Rot</string>
+    <string name="green">Grün</string>
+    <string name="blue">Blau</string>
 </resources>

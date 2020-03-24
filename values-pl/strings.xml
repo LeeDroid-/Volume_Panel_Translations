@@ -203,7 +203,7 @@
     <string name="when_notif">Tylko Przy Aktywnych Powiadomieniach</string>
     <string name="volume_plus">Volume +</string>
     <string name="volume_minus">Volume -</string>
-    <string name="red">Red</string>
-    <string name="green">Green</string>
-    <string name="blue">Blue</string>
+    <string name="red">Czerwony</string>
+    <string name="green">Zielony</string>
+    <string name="blue">Niebieski</string>
 </resources>

@@ -206,7 +206,7 @@
     <string name="when_notif">Somente quando Notificação Ativa</string>
     <string name="volume_plus">Volume +</string>
     <string name="volume_minus">Volume -</string>
-    <string name="red">Red</string>
-    <string name="green">Green</string>
-    <string name="blue">Blue</string>
+    <string name="red">Vermelha</string>
+    <string name="green">Verde</string>
+    <string name="blue">Azul</string>
 </resources>

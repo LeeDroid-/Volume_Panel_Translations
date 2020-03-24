@@ -204,7 +204,7 @@
     <string name="when_notif">فقط عند تفعيل الاشعارات</string>
     <string name="volume_plus">Volume +</string>
     <string name="volume_minus">Volume -</string>
-    <string name="red">Red</string>
-    <string name="green">Green</string>
-    <string name="blue">Blue</string>
+    <string name="red">أحمر</string>
+    <string name="green">أخضر</string>
+    <string name="blue">أزرق</string>
 </resources>
