@@ -209,4 +209,8 @@
     <string name="red">Vermelha</string>
     <string name="green">Verde</string>
     <string name="blue">Azul</string>
+    <string name="hide">Hide Me</string>
+    <string name="skip">Skip</string>
+    <string name="app_sign">This application has been modified and will not run, re-directing to the play store</string>
+    <string name="fill_vertically">Fill Vertically</string>
 </resources>

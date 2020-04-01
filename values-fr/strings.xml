@@ -8,13 +8,13 @@
         \n\nSur certains appareils il est nécessaire de redémarrer pour valider la permission.</string>
     <string name="action">Action Immédiate</string>
     <string name="add_border">Activer les options Contour</string>
-    <string name="add_shortcut">Raccourci Launcher</string>
+    <string name="add_shortcut">Raccourci Accueil</string>
     <string name="additonal_perms_req">Permissions supplémentaires nécessaires</string>
     <string name="alert">Alerte Optimisation</string>
     <string name="anim_duration">Durée de l\'animation = %.2fs</string>
     <string name="anim_durations">Durée de l\'animation</string>
     <string name="app_name">Volume Panel</string>
-    <string name="auto_dark_sum">\u2022 Suivre le mode Sombre/Lumineux du syst\u00e8me.\n\n\u2022 Support constructeur n\u00e9cessaire.</string>
+    <string name="auto_dark_sum">\u2022 Suivre le mode Sombre/Clair du syst\u00e8me.\n\n\u2022 Support constructeur n\u00e9cessaire.</string>
     <string name="background_colour">Couleur de fond</string>
     <string name="bat_opt"><![CDATA[<b>Volume Panel est optimisé par le système &amp; et peut ne pas rester actif en tache de fond</b>.
         <br/><br/>Aucun des service de Volume Panel ne fait un usage intensif de la batterie, mais désactiver l’optimisation améliore la fiabilité.
@@ -44,24 +44,24 @@
     <string name="disable_notif">MERCI DE DESACTIVER L\'ACCES AUX NOTIFICATIONS</string>
     <string name="dismiss">Ignorer</string>
     <string name="dnd_access"><u>Accès Ne pas Déranger</u>
-        \n\nCette permission autorise de modifier les réglages Ne pas Déranger.
+        \n\nCette permission permet de modifier les réglages Ne pas Déranger.
         \n\n</string>
     <string name="do_not_kill">Forcer Garder Service Actif</string>
     <string name="do_not_kill_desc"><![CDATA[<b>Utilisez cette option seulement si Volume Panel s\'arrête en permanence.
-        </b><br/><br/>Certains appareils sont trop agressif pour libérer la mémoire et arrêter des services, les applications lancée en mode Admin sont rarement arrêtées.
-        <br/><br/>Activer le mode Admin pour Volume Pane va lui permettre de garder son service actif.
+        </b><br/><br/>Certains appareils sont trop agressif pour libérer la mémoire et arrêter des services, les applications lancées en mode Admin sont rarement arrêtées.
+        <br/><br/>Activer le mode Admin pour Volume Panel va lui permettre de garder son service actif.
         <br/><br/>Vous devrez désactiver cette option pour désinstaller l\'application.]]></string>
     <string name="done">Fait</string>
     <string name="email_feedback">Retour par Email</string>
     <string name="enable_blacklist">Activer Exclusions App</string>
-    <string name="enable_volume_panel">Prendre le contrôle du bouton Volume</string>
+    <string name="enable_volume_panel">Prise de contrôle boutons Volume</string>
     <string name="exclude_applications">Exclure Applications</string>
     <string name="exclude_applications_sum">\u2022 Volume panel ne s\'ouvrira pas dans ces applications.</string>
     <string name="excluded">Volume Panel: Application Exclue</string>
-    <string name="failed_window_add">Impossible d\'ajouter, merci d\'ouvrir l\'application et de vérifier que la permission Recouvrement d\'écran (Screen Overlay) est bien autorisée</string>
-    <string name="fill_style">Utiliser des Curseurs Pleins</string>
+    <string name="failed_window_add">Impossible d\'afficher, merci d\'ouvrir l\'application et de vérifier que la permission Superposition d\'écran (Screen Overlay) est bien autorisée</string>
+    <string name="fill_style">Utiliser des Curseurs pleins</string>
     <string name="flash_light">Afficher l\'icône Lampe</string>
-    <string name="floating_trigger">Déclencheur Glisser Haut/bas</string>
+    <string name="floating_trigger">Déclencheur Glisse haut/bas</string>
     <string name="force_close">Forcer les fenêtres de fermeture</string>
     <string name="free">Désactiver la version gratuite</string>
     <string name="free_installed">Volume Panel Free suplante actuellement le contrôle du volume système, désactivez le pour éviter les conflits.</string>
@@ -95,8 +95,8 @@
     <string name="mute_media">Couper le son Média</string>
     <string name="need_dnd">Permission Ne pas Déranger nécessaire</string>
     <string name="not_found">Activité non trouvée, veuillez aller dans les paramètre et autoriser manuellement</string>
-    <string name="notif_access"><u>Acc\u00e9s aux Notifications (Notification Access)</u>\n        \n\n\u2022 Cette permission autorise \u00e0 d\u00e9tecter un Cast ou un Stream actif.\n        \n\u2022 Si vous ne souhaitez pas contr\u00f4ler le volume des Cast/Stream ignorer cette permission.\n        \n\nAucun contenu des notifications n\'est captur\u00e9.\n        \n\n</string>
-    <string name="notif_panel"><![CDATA[Tous les appareils ne supportent pas de différencier le volume des Notifications et celui de la sonnerie.
+    <string name="notif_access"><u>Acc\u00e8s aux Notifications (Notification Access)</u>\n\n\n\u2022 Cette permission autorise \u00e0 d\u00e9tecter un Cast ou un Stream actif.\n\n\u2022 Si vous ne souhaitez pas contr\u00f4ler le volume des Cast/Stream ignorer cette permission.\n\n\nAucun contenu des notifications n\'est captur\u00e9.\n\n\n</string>
+    <string name="notif_panel"><![CDATA[Tous les appareils ne supportent pas la séparation du volume des Notifications et celui de la sonnerie.
 <br/><br/>Si les deux curseurs bougent en même temps, c\'est votre configuration système qui est ainsi et cela n\'a rien à voir avec Volume Panel.]]></string>
     <string name="notification_listener">Volume Panel récepteur d\'événement Notification</string>
     <string name="oops_error">Houps… Il semble que quelque chose s\'est mal passé et que Volume Panel s\'est planté, pressez \"ENVOYER RAPPORT\" pour m\'en informer.</string>
@@ -110,7 +110,7 @@
     <string name="play_sound">Entendre les modifications</string>
     <string name="position_left">Gaucher</string>
     <string name="position_left_land">Gaucher en mode Paysage</string>
-    <string name="press_back">Une fois terminé, pressez Retour pour revenir à l\'application.</string>
+    <string name="press_back">Une fois terminé, utilisez Retour pour revenir à l\'application.</string>
     <string name="preview"><![CDATA[Mode Prévisualisation: Les panneaux Appel & Cast ne s\'affichent que si nécessaire.]]></string>
     <string name="pro">Passez à Volume Panel Pro!</string>
     <string name="pro_only">- Pro seulement</string>
@@ -121,7 +121,7 @@
     <string name="reenable">Re-Autoriser</string>
     <string name="ring">Sonnerie</string>
     <string name="ring_mode">Mode sonnerie</string>
-    <string name="screen_shot">Montrer l\'icone Capture d\'écran</string>
+    <string name="screen_shot">Afficher l\'icone Capture d\'écran</string>
     <string name="select_apps">Sélectionner les applications</string>
     <string name="send_report">Envoyer Rapport</string>
     <string name="show_alarm_panel">Afficher le panneau Alarme</string>
@@ -134,16 +134,16 @@
     <string name="slide_heights">Echelle des panneaux</string>
     <string name="slide_heighty">Echelle Y du panneau =  %1$d%%</string>
     <string name="slider_colour">Couleur des curseurs</string>
-    <string name="start_collapsed">Démarrer réduit</string>
+    <string name="start_collapsed">Démarre réduit</string>
     <string name="suspend">Suspendre</string>
     <string name="switch_theme">Changer de Thème</string>
     <string name="system_perms_message">Volume Panel a besoin d\'avoir accès et de modifier les paramètres systèmes, merci de confirmer pour continuer.\n</string>
-    <string name="system_warn">Lorsque vous activer un service d\'accessibilité, un avertissement standard d\'Android vous alerte. Pour votre tranquillité, Volume Panel ne capture aucun contenu, et n\'intercepte que l\'appui sur les boutons, et ne demande pas la permission/n\'a pas accès à Internet.</string>
+    <string name="system_warn">Lorsque vous activer un service d\'accessibilité, un avertissement standard d\'Android est affiché. Pour votre tranquillité, sachez que Volume Panel ne capture aucun contenu, n\'intercepte que l\'appui sur les boutons, ne demande pas et n\'a pas la permission d\'accès à Internet.</string>
     <string name="tips"><![CDATA[<b>Conseils:</b>
         <br/><br/><b>Le volume Audio ne change pas dans certaines apps:<br/>
-        </b><br/>Certaines apps comme Instagram ou Snapchat prennent le contrôle complet de l\'audio & capturent l\'utilisation des boutons de volume pour elles-mêmes.Si vous rencontrez ce problème, veuillez activer l\'option \"Exclure Applications\" et ajouter l\'application concernée à la liste.
-        <br/><br/><b>Retour du panneau Audio système :</B>
-        <br/><br/>C\'est très certainement du au fait que votre système ferme le service d\'Accessibilité Volume Panel, si cela se produit, vérifier que l\'optimisation batterie et mémoire et désactivée pour cette application, activer \"Déclencheur Glisser Haut/Bas\" peut aussi aider.
+        </b><br/>Certaines apps comme Instagram ou Snapchat prennent le contrôle complet de l\'audio & capturent l\'utilisation des boutons de volume pour elles-mêmes. Si vous rencontrez ce problème, veuillez activer l\'option \"Exclure Applications\" et ajouter l\'application concernée à la liste.
+        <br/><br/><b>Retour du panneau audio système :</B>
+        <br/><br/>C\'est très certainement du au fait que votre système ferme le service Accessibilité Volume Panel, si cela se produit, vérifier que l\'optimisation batterie et mémoire et désactivée pour cette application, utiliser \"Déclencheur Glisse Haut/Bas\" peut aussi aider.
         <br/>Pour plus d\'informations, consulter: http://www.dontkillmyapp.com/]]></string>
     <string name="transparency">Transparence</string>
     <string name="trigger_cat">Déclencheur</string>
@@ -169,7 +169,7 @@
     <string name="show_call">Toujours afficher le volume des appels</string>
     <string name="show_bluetooth">Afficher l\'icone Bluetooth</string>
     <string name="block_vold_up_lp">Bloquer pression longue sur Volume +</string>
-    <string name="show_media">Afficher Contrôles Media</string>
+    <string name="show_media">Afficher Contrôles media</string>
     <string name="change_first_click">Changer le volume au premier clic</string>
     <string name="show_system">Afficher le panneau Système</string>
     <string name="show_levels">Afficher les étiquettes des niveaux</string>
@@ -179,4 +179,8 @@
     <string name="red">Rouge</string>
     <string name="green">Vert</string>
     <string name="blue">Bleu</string>
+    <string name="hide">Hide Me</string>
+    <string name="skip">Skip</string>
+    <string name="app_sign">This application has been modified and will not run, re-directing to the play store</string>
+    <string name="fill_vertically">Fill Vertically</string>
 </resources>

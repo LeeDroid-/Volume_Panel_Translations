@@ -17,6 +17,7 @@
         <br/>\u2022 Sylm - Français
 	    <br/>\u2022 Emad Ayad - Arabic
 	    <br/>\u2022 VM - German
+	    <br/>\u2022 Alpert7 - Chinese
         <br/><br/>Feel free to contact me via the \"Email Feedback\" option &amp; don\'t forget to leave a review &#128512;]]></string>
     <string name="about_title">About</string>
     <string name="accessibility_description">
@@ -220,4 +221,8 @@
     <string name="red">Red</string>
     <string name="green">Green</string>
     <string name="blue">Blue</string>
+    <string name="hide">Hide Me</string>
+    <string name="skip">Skip</string>
+    <string name="app_sign">This application has been modified and will not run, re-directing to the play store</string>
+    <string name="fill_vertically">Fill Vertically</string>
 </resources>

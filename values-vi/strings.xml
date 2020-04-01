@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="about"><![CDATA[<b>\u0110i\u1ec1u khi\u1ec3n \u00e2m l\u01b0\u1ee3ng:</b>\n<br/>\u2022 M\u1ed9t s\u1ef1 thay th\u1ebf linh ho\u1ea1t cho c\u00e1c \u0111i\u1ec1u khi\u1ec3n \u00e2m l\u01b0\u1ee3ng h\u1ec7 th\u1ed1ng c\u1ee7a b\u1ea1n.\n<br/><br/><b>Thi\u1ebft k\u1ebf &amp; Ph\u00e1t tri\u1ec3n b\u1edfi: </b>\n<br/>\u2022 Lee Bailey (AKA @LeeDrOiD)\n<br/> Xin \u0111\u1ed3ng c\u1ea3m \u01a1n:\n<br/>\u2022 Ng\u01b0\u1eddi t\u1ea1o ra Gi\u1edbi thi\u1ec7u \u1ee9ng d\u1ee5ng.\n<br/>\u2022 Ereza cho ho\u1ea1t \u0111\u1ed9ng t\u00f9y ch\u1ec9nh tr\u00ean s\u1ef1 c\u1ed1.\n<br/>\u2022 H\u1ed9p tho\u1ea1i D-Max cho Spots.\n<br/>D\u1ecbch thu\u1eadt b\u1edfi:\n<br/>\u2022 Linar10 - Polish\n<br/>\u2022 Fatih Firinci - Turkish\n<br/>\u2022 guillerag - Spanish\n<br/>\u2022 Nuno Nebeker - Portuguese\n<br/>\u2022 \u0418\u0433\u043e\u0440\u044c \u0418\u0440\u0438\u043d\u0438\u043d - Russian\n<br/>\u2022 Sylm - Fran\u00e7ais\n<br/>\u2022 Emad Ayad - Arabic\n<br/>\u2022 VM - German\n<br/>\u2022 Alpert7 - Chinese\n<br/>\u2022 Nguy\u1ec5n Lam - Vietnamese\n<br/><br/>Vui l\u00f2ng li\u00ean h\u1ec7 v\u1edbi t\u00f4i qua t\u00f9y ch\u1ecdn \"Ph\u1ea3n h\u1ed3i qua email\" &amp; \u0111\u1eebng qu\u00ean \u0111\u1ec3 l\u1ea1i \u0111\u00e1nh gi\u00e1 &#128512;]]></string>
+    <string name="about_title">Thông tin</string>
+    <string name="accessibility_description"><u>Khả năng truy cập</u>
+\n\nQuyền này cho phép chúng tôi phát hiện âm lượng + \ - khi nhấn phím.
+\n\nKhông có nội dung khác được thu thập.
+\n\nVài thiết bị có thể yêu cầu khởi động lại để bắt đầu dịch vụ.</string>
+    <string name="action">Thực hiện ngay</string>
+    <string name="add_border">Bật viền điều khiển</string>
+    <string name="add_shortcut">Phím tắt Trình khởi chạy</string>
+    <string name="additonal_perms_req">Quyền bổ sung được yêu cầu</string>
+    <string name="alert">Cảnh báo tối ưu hóa</string>
+    <string name="anim_duration">Thời lượng hoạt ảnh = %.2fs</string>
+    <string name="anim_durations">Thời lượng hoạt ảnh</string>
+    <string name="app_name">Điều khiển Âm thanh</string>
+    <string name="auto_dark_sum">\u2022 Th\u1ef1c hi\u1ec7n theo h\u1ec7 th\u1ed1ng Ch\u1ebf \u0111\u1ed9 t\u1ed1i/s\u00e1ng.\n\n\u2022 Y\u00eau c\u1ea7u h\u1ed7 tr\u1ee3 nh\u00e0 s\u1ea3n xu\u1ea5t.</string>
+    <string name="background_colour">Màu nền</string>
+    <string name="bat_opt"><![CDATA[<b>Điều khiển Âm lượng đã được hệ thống tối ưu hóa &amp; và có thể bị đóng dưới nền </b>.<br/><br/>Không có dịch vụ nào trong Điều khiển Âm lượng bị tốn pin, nhưng vô hiệu hóa tối ưu hóa sẽ cải thiện độ tin cậy.
+<br/><br/>Nhấn \"Đóng\" để chạy tối ưu hóa hoặc nhấn \"Thực hiện ngay\" được theo dõi bởi \"Tất cả ứng dụng\" sau đó tắt Tối ưu hóa Pin cho Điều khiển Âm lượng.
+<br/><br/>Nếu bạn nhận thấy dịch vụ vẫn còn bị đóng bởi hệ thống, hãy thử bật tùy chọn \"Buộc giữ dịch vụ hoạt động\".]]></string>
+    <string name="behaviour">Hành vi</string>
+    <string name="block_vold_lp">Chặn nhấn giữ giảm âm lượng</string>
+    <string name="block_vold_lp_sum">\u2022 Kh\u1eafc ph\u1ee5c s\u1ef1 c\u1ed1 \u00c2m l\u01b0\u1ee3ng + \u1ea2nh ch\u1ee5p ngu\u1ed3n.</string>
+    <string name="border_colour">Màu viền</string>
+    <string name="border_thickness">Độ dày viền = %1$d dp</string>
+    <string name="border_thicknesss">Độ dày viền</string>
+    <string name="bright_calibrate"><b>i</b>: Hi\u1ec7u ch\u1ec9nh l\u1ea1i \u0111\u1ed9 s\u00e1ng t\u1ed1i \u0111a:\n\n\u2022 \u0110\u1eb7t \u0111\u1ed9 s\u00e1ng m\u00e0n h\u00ecnh c\u1ee7a b\u1ea1n th\u00e0nh t\u1ed1i \u0111a, sau \u0111\u00f3 nh\u1ea5n v\u00e0 gi\u1eef \u1edf \u0111\u00e2y.</string>
+    <string name="cancel">Hủy bỏ</string>
+    <string name="cast">Điều khiển truyền âm</string>
+    <string name="click_out">Nhấn bên ngoài để đóng</string>
+    <string name="click_out_sum">\u2022 C\u00f3 th\u1ec3 can thi\u1ec7p v\u00e0o c\u00e1c \u1ee9ng d\u1ee5ng kh\u00e1c khi \u0111\u01b0\u1ee3c b\u1eadt.</string>
+    <string name="close">Đóng</string>
+    <string name="corner_scale">Bán kính góc = %1$d%%</string>
+    <string name="corner_scales">Bán kính góc</string>
+    <string name="cp_head">Nhấn TRUNG TÂM để xác nhận</string>
+    <string name="dark_mode">Chế độ tối</string>
+    <string name="default_to_ring_volume">Mặc định cho âm lượng chuông</string>
+    <string name="design">Thiết kế</string>
+    <string name="detect_keys">Phát hiện các phím nhấn khi mở</string>
+    <string name="disable">Tắt</string>
+    <string name="disable_acc">VUI LÒNG TẮT DỊCH VỤ TIẾP CẬN.</string>
+    <string name="disable_notif">VUI LÒNG TẮT THÔNG BÁO TRUY CẬP</string>
+    <string name="dismiss">Bỏ qua</string>
+    <string name="dnd_access"><u>Truy cập Không làm phiền</u>
+\n\nQuyền này cho phép chúng ta thay đổi Cài đặt Không làm phiền.
+\n\n</string>
+    <string name="do_not_kill">Buộc giữ dịch vụ hoạt động</string>
+    <string name="do_not_kill_desc"><![CDATA[<b>Chỉ sử dụng tùy chọn này nếu bảng điều khiển âm lượng tiếp tục dừng.
+</b><br/><br/>Một số thiết bị quá phiền toái khi giải phóng bộ nhớ và đóng các dịch vụ quan trọng, các ứng dụng có quyền Quản trị hiếm khi bị đóng.
+<br/><br/>Kích hoạt quyền Quản trị cơ bản cho Bảng điều khiển âm lượng sẽ giữ cho các dịch vụ của chúng tôi hoạt động.
+<br/><br/>Bạn sẽ phải tắt tùy chọn này nếu bạn cần gỡ cài đặt ứng dụng.]]></string>
+    <string name="done">Đã xong</string>
+    <string name="email_feedback">Phản hồi qua email</string>
+    <string name="enable_blacklist">Bật Loại trừ ứng dụng</string>
+    <string name="enable_volume_panel">Ghi đè nút âm lượng</string>
+    <string name="exclude_applications">Không bao gồm các ứng dụng</string>
+    <string name="exclude_applications_sum">\u2022 B\u1ea3ng \u0111i\u1ec1u khi\u1ec3n \u00e2m l\u01b0\u1ee3ng s\u1ebd kh\u00f4ng m\u1edf trong c\u00e1c \u1ee9ng d\u1ee5ng n\u00e0y.</string>
+    <string name="excluded">Bảng điều khiển âm lượng: Không bao gồm ứng dụng</string>
+    <string name="failed_window_add">Không thể thêm cửa sổ, vui lòng mở ứng dụng và đảm bảo quyền Lớp phủ màn hình đã được cấp</string>
+    <string name="fill_style">Sử dụng thanh trượt cứng</string>
+    <string name="flash_light">Hiện nút Đèn pin</string>
+    <string name="floating_trigger">Kích hoạt vuốt lên/xuống</string>
+    <string name="force_close">Buộc đóng hộp thoại</string>
+    <string name="free">Tắt phiên bản miễn phí</string>
+    <string name="free_installed">Điều khiển Âm lượng bản miễn phí hiện đang ghi đè bảng âm lượng hệ thống, vui lòng tắt nó để tránh xung đột.</string>
+    <string name="google_assistant">Hiển thị nút trợ lý</string>
+    <string name="grant">Cấp quyền</string>
+    <string name="hide_full">Ẩn khi dùng toàn màn hình</string>
+    <string name="hide_settings">Ẩn Cài đặt Phím tắt</string>
+    <string name="icon_colour">Màu biểu tượng</string>
+    <string name="invert_buttons">Đảo ngược nút Âm lượng</string>
+    <string name="killed">Dịch vụ trợ năng của Điều khiển Âm lượng đã bị hệ thống dừng hoặc xóa.
+\n\nNếu điều này không cố ý, vui lòng thử tùy chọn \"Buộc giữ dịch vụ hoạt động\" trong ứng dụng và đảm bảo tối ưu hóa pin được tắt cho Điều khiển âm lượng.</string>
+    <string name="killer_info"><![CDATA[Để biết nhiều thông tin hơn, hãy truy cập:<br/>
+http://www.dontkillmyapp.com/]]></string>
+    <string name="latest">Hãy chắc chắn rằng bạn đang sử dụng phiên bản mới nhất.</string>
+    <string name="launch">Hiện Bảng điều khiển Âm lượng</string>
+    <string name="launch_opts">Tùy chọn Trình khởi chạy</string>
+    <string name="layout">Bố trí</string>
+    <string name="loading_apps">Đang tải các ứng dụng</string>
+    <string name="lock_ring_vol">Khóa thanh trượt vòng trong Rung/Im lặng</string>
+    <string name="long_press"><![CDATA[Nhấn giữ & kéo bảng để sắp xếp lại.]]></string>
+    <string name="mapper">Có thể can thiệp</string>
+    <string name="mapper_detail">Chúng tôi có thể đã phát hiện ra một ứng dụng ánh xạ nút.
+\n\nNút ánh xạ sử dụng dịch vụ trợ năng để phát hiện các nút bấm.
+\n\nCác dịch vụ trợ năng khác chụp/tùy chỉnh các nút bấm âm lượng sẽ can thiệp vào khả năng Điều khiển Âm lượng để chặn các nút âm lượng.
+\n\nVui lòng xem xét việc vô hiệu hóa tùy chỉnh nút âm lượng cho các ứng dụng đó.
+\n\nHoặc, bật phím tắt trình khởi chạy \"Bảng điều khiển âm lượng\" và mở lại bằng bản ánh xạ!</string>
+    <string name="mapper_sum">\u2022 Nh\u1ea5n v\u00e0o \u0111\u00e2y \u0111\u1ec3 c\u00f3 th\u00eam th\u00f4ng tin</string>
+    <string name="margin">Lề bảng điều khiển = %1$d dp</string>
+    <string name="margins">Lề bảng điều khiển</string>
+    <string name="media">Âm lượng truyền thông =</string>
+    <string name="mute_media">Tắt âm truyền thông</string>
+    <string name="need_dnd">Quyền truy cập Không làm phiền được yêu cầu</string>
+    <string name="not_found">Không tìm thấy hoạt động, vui lòng điều hướng đến Cài đặt và cấp quyền thủ công</string>
+    <string name="notif_access"><u>Truy c\u1eadp th\u00f4ng b\u00e1o</u>\n\n\n\u2022 Quy\u1ec1n n\u00e0y cho ph\u00e9p ch\u00fang t\u00f4i ph\u00e1t hi\u1ec7n Truy\u1ec1n ho\u1eb7c Truy\u1ec1n th\u00f4ng.\n\n\u2022 N\u1ebfu b\u1ea1n mu\u1ed1n ch\u1ea1y m\u00e0 kh\u00f4ng ki\u1ec3m so\u00e1t lu\u1ed3ng truy\u1ec1n, vui l\u00f2ng b\u1ecf qua quy\u1ec1n n\u00e0y.\n\n\nKh\u00f4ng c\u00f3 n\u1ed9i dung th\u00f4ng b\u00e1o n\u00e0o \u0111\u01b0\u1ee3c ghi l\u1ea1i.\n\n\n</string>
+    <string name="notif_panel"><![CDATA[Không phải tất cả các thiết bị đều hỗ trợ chia nhỏ âm lượng Thông báo, Hệ thống & Âm lượng chuông.
+<br/><br/>Nếu cả hai thanh trượt thay đổi cùng nhau, điều này là do cấu hình hệ thống của bạn và không liên quan gì đến Bảng điều khiển âm lượng.]]></string>
+    <string name="notification_listener">Trình nghe thông báo bảng điều khiển âm lượng</string>
+    <string name="oops_error">Rất tiếc .. Có vẻ như đã xảy ra sự cố và Bảng điều khiển âm lượng bị hỏng, vui lòng nhấn \"GỬI BÁO CÁO\" bên dưới để cho tôi biết.</string>
+    <string name="order">Thay đổi thứ tự bảng điều khiển</string>
+    <string name="overlay_needed"><u>Lớp phủ hệ thống</u>
+\n\nQuyền này là bắt buộc để chúng tôi hiển thị Bảng điều khiển âm lượng trên các ứng dụng khác.</string>
+    <string name="perms"><u>Quyền được yêu cầu</u>
+\n\nĐể ghi đè bảng âm lượng hệ thống, cần có một số quyền.
+\n\nBây giờ chúng tôi sẽ hiển thị cho bạn một số màn hình chi tiết các quyền đó, cách sử dụng của chúng &amp; một nút để bật chúng.
+\n\n</string>
+    <string name="play_sound">Thay đổi Âm thanh</string>
+    <string name="position_left">Thuận tay trái</string>
+    <string name="position_left_land">Thuận tay trái trong Màn hình ngang</string>
+    <string name="press_back">Sau khi hoàn thành, nhấn trở lại để trở lại ứng dụng.</string>
+    <string name="preview"><![CDATA[Chế độ xem trước: Bảng gọi & Truyền sẽ chỉ hiển thị khi cần.]]></string>
+    <string name="pro">Nâng cấp lên Bảng điều khiển Âm lượng Pro!</string>
+    <string name="pro_only">- Chỉ dành cho Pro</string>
+    <string name="pro_un">Xóa quảng cáo và mở khóa tất cả các tính năng.</string>
+    <string name="proceed">Tiến hành</string>
+    <string name="rate_app">Đánh giá ứng dụng</string>
+    <string name="rate_it"><![CDATA[<p style="text-align:center"><b>Th\u01b0\u1edfng th\u1ee9c B\u1ea3ng \u0111i\u1ec1u khi\u1ec3n \u00c2m l\u01b0\u1ee3ng.\n</b><br/><br/>Vui l\u00f2ng \u0111\u1ec3 l\u1ea1i \u0111\u00e1nh gi\u00e1 tr\u00ean C\u1eeda h\u00e0ng Play!\n<br/><br/>\u2b50\u2b50\u2b50\u2b50\u2b50</p>]]></string>
+    <string name="reenable">Bật lại</string>
+    <string name="ring">Đổ chuông</string>
+    <string name="ring_mode">Chế độ Đổ chuông</string>
+    <string name="screen_shot">Hiện nút chụp màn hình</string>
+    <string name="select_apps">Chọn ứng dụng</string>
+    <string name="send_report">Gửi báo cáo</string>
+    <string name="show_alarm_panel">Hiện Điều khiển Báo thức</string>
+    <string name="show_bright_panel">Điều khiển độ sáng màn hình</string>
+    <string name="show_lock">Hiện trong màn hình khóa</string>
+    <string name="show_notif">Hiện bảng điều khiển thông báo</string>
+    <string name="show_ring_panel">Hiển thị điều khiển Đổ chuông</string>
+    <string name="silent">Im lặng</string>
+    <string name="slide_heightx">Tỉ lệ bảng điều khiển X = %1$d%%</string>
+    <string name="slide_heights">Tỉ lệ bảng điều khiển</string>
+    <string name="slide_heighty">Tỉ lệ bảng điều khiển Y = %1$d%%</string>
+    <string name="slider_colour">Màu thanh trượt</string>
+    <string name="start_collapsed">Bắt đầu thu gọn</string>
+    <string name="suspend">Đình chỉ</string>
+    <string name="switch_theme">Chuyển đổi chủ đề</string>
+    <string name="system_perms_message">Bảng điều khiển âm lượng cần được cấp quyền truy cập để ghi Cài đặt hệ thống, vui lòng nhấn tiến hành để tiếp tục.\n</string>
+    <string name="system_warn">Khi bật bất kỳ dịch vụ trợ năng nào, bạn sẽ được cảnh báo hệ thống Android chung, để bạn yên tâm, Điều khiển Âm lượng sẽ không thu thập bất kỳ khóa hoặc nội dung nào khác &amp; không có hoặc yêu cầu quyền kết nối với internet.</string>
+    <string name="tips"><![CDATA[<b>Mẹo:</b>
+<br/><br/><b>Âm thanh không thay đổi trong một số ứng dụng
+:<br/>
+</b><br/>Một số ứng dụng như Instagram & Snapchat hoàn toàn tập trung âm thanh & cố gắng chụp các nút âm thanh mà chúng chọn, nếu bạn gặp phải sự cố này, vui lòng bật tùy chọn \"Loại trừ ứng dụng\" và thêm các ứng dụng vi phạm vào danh sách.
+<br/><br/><b>Bảng điều khiển âm thanh hệ thống tiếp tục trở lại:</B>
+<br/><br/>Rất có khả năng hệ thống của bạn đang đóng dịch vụ trợ năng của Bảng điều khiển âm lượng, nếu điều này xảy ra, vui lòng đảm bảo tối ưu hóa pin & bộ nhớ cho ứng dụng, cho phép
+\"Kích hoạt vuốt lên/xuống\" có thể cũng giúp ích.
+<br/>Để biết thêm thông tin, vui lòng truy cập: http://www.dontkillmyapp.com/]]></string>
+    <string name="transparency">Trong suốt</string>
+    <string name="trigger_cat">Kích hoạt</string>
+    <string name="trigger_colour">Màu kích hoạt</string>
+    <string name="trigger_scale_tx">Tỉ lệ kích hoạt X = %1$d%%</string>
+    <string name="trigger_scale_ts">Tỉ lệ kích hoạt</string>
+    <string name="trigger_scale_ty">Tỉ lệ kích hoạt Y = %1$d%%</string>
+    <string name="up_launch">Khởi chạy với Âm lượng + Chỉ nhấn</string>
+    <string name="up_launch_sum">\u2022 B\u1ea3ng \u0111i\u1ec1u khi\u1ec3n s\u1ebd ch\u1ec9 kh\u1edfi ch\u1ea1y khi nh\u1ea5n Volume +.</string>
+    <string name="usage_access"><u>Truy cập sử dụng</u>
+\n\nQuyền này cho phép chúng tôi phát hiện ứng dụng hiện đang sử dụng thông qua số liệu thống kê sử dụng gói &amp; kiểm tra xem bạn đã loại trừ chưa.
+\n\nNếu bạn muốn chạy mà không loại trừ các ứng dụng, vui lòng bỏ qua quyền này.
+\n\n</string>
+    <string name="use_system">Chế độ tự động Tối/Sáng</string>
+    <string name="ver_pos">Vị trí dọc = %1$d%%</string>
+    <string name="ver_poss">Vị trí dọc</string>
+    <string name="vibe_duration">Thời lượng rung = %.2fs</string>
+    <string name="vibe_durations">Thời lượng rung</string>
+    <string name="vibrate">Rung</string>
+    <string name="vol_timeouts">Thời gian chờ điều khiển</string>
+    <string name="vol_timeout">Thời gian chờ điều khiển = %1$ds</string>
+    <string name="volumeui">Giao diện người dùng Âm lượng</string>
+    <string name="show_call">Luôn hiển thị âm lượng cuộc gọi</string>
+    <string name="show_bluetooth">Hiển thị nút Bluetooth</string>
+    <string name="block_vold_up_lp">Chặn nhấn giữ tăng âm lượng</string>
+    <string name="show_media">Hiển thị điều khiển truyền thông</string>
+    <string name="change_first_click">Thay đổi âm lượng khi nhấn lần đầu</string>
+    <string name="show_system">Hiển thị bảng điều khiển hệ thống</string>
+    <string name="show_levels">Hiển thị nhãn cấp độ</string>
+    <string name="when_notif">Chỉ khi thông báo hoạt động</string>
+    <string name="volume_plus">Âm lượng +</string>
+    <string name="volume_minus">Âm lượng -</string>
+    <string name="red">Đỏ</string>
+    <string name="green">Xanh lá</string>
+    <string name="blue">Xanh da trời</string>
+    <string name="hide">Ẩn tôi</string>
+    <string name="skip">Bỏ qua</string>
+    <string name="fill_vertically">Fill Vertically</string>
+</resources>

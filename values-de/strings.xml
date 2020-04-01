@@ -25,7 +25,7 @@
         \n\nEinige Geräte benötigen zum Start des Dienstes einen Neustart.</string>
     <string name="action">Handeln</string>
     <string name="add_border">Bedienfeld-Rahmen aktivieren</string>
-    <string name="add_shortcut">Launcher-Shortcut</string>
+    <string name="add_shortcut">Launcher Shortcut</string>
     <string name="additonal_perms_req">Zusätzliche Berechtigungen benötigt</string>
     <string name="alert">System-Warnmeldungen</string>
     <string name="anim_duration">Animations-Dauer = %.2fs</string>
@@ -82,7 +82,7 @@
     <string name="failed_window_add">Fenster nicht hinzugefügt. Bitte App öffnen und prüfen, ob die Berechtigung \"Über andere Apps einblenden\" aktiviert ist</string>
     <string name="fill_style">Solide Regler</string>
     <string name="flash_light">Taschenlampe anzeigen</string>
-    <string name="floating_trigger">\"Auf/Ab-Wischen\"- aktivieren</string>
+    <string name="floating_trigger">\"Auf/Ab-Wischen\" aktivieren</string>
     <string name="force_close">Schließen-Erzwingen Dialog</string>
     <string name="free">Volume Panel Free deaktivieren</string>
     <string name="free_installed">Volume Panel Free überschreibt derzeit die Systemlautstärke-Bedienung. Bitte deaktivieren, um Probleme zu vermeiden.</string>
@@ -219,4 +219,8 @@
     <string name="red">Rot</string>
     <string name="green">Grün</string>
     <string name="blue">Blau</string>
+    <string name="hide">Hide Me</string>
+    <string name="skip">Skip</string>
+    <string name="app_sign">This application has been modified and will not run, re-directing to the play store</string>
+    <string name="fill_vertically">Fill Vertically</string>
 </resources>

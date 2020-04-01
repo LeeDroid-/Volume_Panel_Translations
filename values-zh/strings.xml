@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="about"><![CDATA[<b>\u97f3\u91cf\u9762\u677f\uff1a</b>\n    <br/>\u2022\u53ef\u81ea\u5b9a\u4e49\u7684\u97f3\u91cf\u9762\u677f\u5e94\u7528\uff0c\u53ef\u66ff\u4ee3\u7cfb\u7edf\u97f3\u91cf\u9762\u677f\u3002\n        <br/><br/><b>\u8bbe\u8ba1 &amp; \u5f00\u53d1\uff1a</b>\n        <br/>\u2022 Lee Bailey (AKA @LeeDrOiD)\n        <br/> \u611f\u8c22\uff1a\n        <br/>\u2022 \u4e3a\u5e94\u7528\u8bbe\u8ba1\u7b80\u4ecb\u7684\u8bbe\u8ba1\u5e08\u4eec\n        <br/>\u2022 Ereza for Custom Activity On Crash.\n        <br/>\u2022 D-Max for Spots Dialog.\n        <br/>\u7ffb\u8bd1\uff1a\n        <br/>\u2022 Linar10 - Polish\n        <br/>\u2022 Fatih Firinci - Turkish\n        <br/>\u2022 guillerag - Spanish\n        <br/>\u2022 Nuno Nebeker - Portuguese\n        <br/>\u2022 \u0418\u0433\u043e\u0440\u044c \u0418\u0440\u0438\u043d\u0438\u043d - Russian\n        <br/>\u2022 Sylm - Fran\u00e7ais\n\t <br/>\u2022 Emad Ayad - Arabic\n\t <br/>\u2022 VM - German\n         <br/>\u2022 Alpert7 - \u7b80\u4f53\u4e2d\u6587\n         <br/><br/>\u5982\u6709\u7591\u95ee\u6b22\u8fce\u901a\u8fc7 \"\u7535\u90ae\u53cd\u9988\" \u6765\u8054\u7cfb\u6211 &amp; \u559c\u6b22\u7684\u8bdd\u522b\u5fd8\u4e86\u5728Play\u5546\u5e97\u91cc\u7ed9\u4e0e\u597d\u8bc4 &#128512;]]></string>
+    <string name="about_title">关于</string>
+    <string name="accessibility_description"><u>无障碍选项</u>
+\n\n此选项被用于检测音量上下键的按压。
+\n\n绝不会收集其他信息。
+\n\n某些设备可能需要重新启动以启用此选项。</string>
+    <string name="action">现在操作</string>
+    <string name="add_border">启用面板边框</string>
+    <string name="add_shortcut">启动器快捷方式</string>
+    <string name="additonal_perms_req">需要额外的权限</string>
+    <string name="alert">优化提醒</string>
+    <string name="anim_duration">动画时长=%.2fs</string>
+    <string name="anim_durations">动画时长</string>
+    <string name="app_name">音量面板</string>
+    <string name="auto_dark_sum">\u2022 \u8ddf\u968f\u7cfb\u7edf\u660e\u4eae/\u9ed1\u6697\u6a21\u5f0f\u3002\n\n\u2022 \u9700\u8981\u624b\u673a\u7cfb\u7edf\u652f\u6301\u3002</string>
+    <string name="background_colour">背景颜色</string>
+    <string name="bat_opt"><![CDATA[<b>音量面板正在被系统进行优化 &amp; 其进程可能会在后台被关闭</b>.
+<br/><br/>本应用的所有服务进程均不会消耗多余的电量，禁用优化会让本应用运行更稳定。
+<br/><br/>点击\"关闭\" 来继续进行优化， 或点击 \"现在操作\"后并选择\"所有应用\"来禁用本应用的电池优化。
+<br/><br/>如果您发现本应用的服务进程仍然被系统关闭，那么请启用\"强制运行应用\" 选项。]]></string>
+    <string name="behaviour">行为</string>
+    <string name="block_vold_lp">阻止音量下键的长按</string>
+    <string name="block_vold_lp_sum">\u2022 \u53ef\u4fee\u590d\u97f3\u91cf\u952e\u4e0e\u7535\u6e90\u952e\u7ec4\u5408\u952e\u622a\u56fe\u7684\u95ee\u9898\u3002</string>
+    <string name="border_colour">边框颜色</string>
+    <string name="border_thickness">边框厚度= %1$d dp</string>
+    <string name="border_thicknesss">边框厚度</string>
+    <string name="bright_calibrate"><b>i</b>\uff1a\u6821\u51c6\u6700\u9ad8\u4eae\u5ea6\uff1a\n\n\u2022 \u8bf7\u5c06\u60a8\u7684\u5c4f\u5e55\u4eae\u5ea6\u624b\u52a8\u8c03\u81f3\u6700\u9ad8\u7136\u540e\u957f\u6309\u8fd9\u91cc\u3002</string>
+    <string name="cancel">取消</string>
+    <string name="cast">控制投屏音量</string>
+    <string name="click_out">点击外面以关闭</string>
+    <string name="click_out_sum">\u2022 \u5f00\u542f\u540e\u53ef\u80fd\u4f1a\u4e0e\u5176\u4ed6\u5e94\u7528\u6709\u51b2\u7a81</string>
+    <string name="close">关闭</string>
+    <string name="corner_scale">圆角半径 = %1$d%%</string>
+    <string name="corner_scales">圆角半径</string>
+    <string name="cp_head">点击中心以确认</string>
+    <string name="dark_mode">黑暗模式</string>
+    <string name="default_to_ring_volume">默认为铃声模式</string>
+    <string name="design">设计</string>
+    <string name="detect_keys">打开时检测按键按压</string>
+    <string name="disable">禁用</string>
+    <string name="disable_acc">请禁用无障碍选项。</string>
+    <string name="disable_notif">请禁用通知接入权限。</string>
+    <string name="dismiss">清除</string>
+    <string name="dnd_access"><u>勿扰模式接入</u>
+\n\n此设置将允许本应用修改勿扰模式设置。
+\n\n</string>
+    <string name="do_not_kill">强制运行应用</string>
+    <string name="do_not_kill_desc"><![CDATA[<b>仅在音量面板应用意外停止运行时启动此选项。
+</b><br/><br/>某些设备会较积极地停止进程清理缓存，但被授予管理员权限的应用不会被停止。
+<br/><br/>因此请为音量面板启用基本的管理员权限以保证进程正常运行。
+<br/><br/>如果您需要卸载本应用，请事前禁用此选项。]]></string>
+    <string name="done">完成</string>
+    <string name="email_feedback">电邮反馈</string>
+    <string name="enable_blacklist">添加应用黑名单</string>
+    <string name="enable_volume_panel">接管音量键</string>
+    <string name="exclude_applications">被排除的应用</string>
+    <string name="exclude_applications_sum">\u2022 \u97f3\u91cf\u9762\u677f\u4e0d\u4f1a\u5728\u8fd9\u4e9b\u5e94\u7528\u4e2d\u542f\u7528\u3002</string>
+    <string name="excluded">音量面板：应用已排除</string>
+    <string name="failed_window_add">添加窗口失败，请打开应用确认”在应用上层绘制“权限已开启</string>
+    <string name="fill_style">使用固定滑条</string>
+    <string name="flash_light">显示手电筒按钮</string>
+    <string name="floating_trigger">上滑/下滑触发器</string>
+    <string name="force_close">强制关闭对话</string>
+    <string name="free">禁用免费版</string>
+    <string name="free_installed">音量面板免费版已被启用且已接管系统音量面板，请将其禁用以避免冲突。</string>
+    <string name="google_assistant">显示助手按钮</string>
+    <string name="grant">授予权限</string>
+    <string name="hide_full">全屏显示中隐藏</string>
+    <string name="hide_settings">隐藏设置快捷方式</string>
+    <string name="icon_colour">图标颜色</string>
+    <string name="invert_buttons">倒置音量按钮</string>
+    <string name="killed">音量面板的无障碍选项已停止或被系统移除。
+\n\n如果这并非您的操作，请尝试开启“强制运行”选项和禁用电池优化选项以解决问题。</string>
+    <string name="killer_info"><![CDATA[更多详情请访问：<br/>
+http://www.dontkillmyapp.com/]]></string>
+    <string name="latest">请确认您已升级至最新版。</string>
+    <string name="launch">显示音量面板</string>
+    <string name="launch_opts">启动选项</string>
+    <string name="layout">布局</string>
+    <string name="loading_apps">正在加载应用</string>
+    <string name="lock_ring_vol">在震动和静音模式中锁定铃声滑条</string>
+    <string name="long_press"><![CDATA[长按并拖动面板以重新排布。]]></string>
+    <string name="mapper">可能的冲突</string>
+    <string name="mapper_detail">我们检测到一个按键重设应用。
+\n\n按键重设应用使用无障碍选项检测按键按压。
+\n\n但其他的应用可能会与本应用的按键检测冲突。
+\n\n因此请您禁用其他按键重设应用。
+\n\n或者，您可以在音量面板应用设置启动器快捷方式，并使用按键重设应用打开它。</string>
+    <string name="mapper_sum">\u2022 \u70b9\u6b64\u4ee5\u83b7\u5f97\u66f4\u591a\u4fe1\u606f</string>
+    <string name="margin">面板间隙 = %1$d dp</string>
+    <string name="margins">面板间隙</string>
+    <string name="media">媒体音量 =</string>
+    <string name="mute_media">媒体静音</string>
+    <string name="need_dnd">需要勿扰权限</string>
+    <string name="not_found">活动未找到，请前往设置并手动授予权限。</string>
+    <string name="notif_access"><u>\u901a\u77e5\u6743\u9650\u63a5\u5165</u>\n\n\n\u2022 \u8fd9\u5c06\u88ab\u7528\u4e8e\u4fa6\u6d4b\u6295\u5c4f\u6216\u6d41\u5a92\u4f53\u64ad\u653e\u3002\n\n\u2022 \u5982\u679c\u60a8\u4e0d\u5e0c\u671b\u6388\u4e88\u6b64\u6743\u9650\uff0c\u53ef\u4ee5\u9009\u62e9\u8df3\u8fc7\u3002\n\n\n\u6ca1\u6709\u4efb\u4f55\u901a\u77e5\u5c06\u4f1a\u88ab\u672c\u5e94\u7528\u622a\u53d6\u5185\u5bb9\u3002\n\n\n</string>
+    <string name="notif_panel"><![CDATA[并非所有设备都支持将通知、系统、铃声的音量分别显示与控制。
+<br/><br/>如果某两个滑条同时变化，那么这应该是您设备系统的问题。]]></string>
+    <string name="notification_listener">音量面板通知侦测</string>
+    <string name="oops_error">出现了某些错误致使音量面板崩溃，请点击下方的“发送报告”以便开发者了解详情。</string>
+    <string name="order">更改面板顺序</string>
+    <string name="overlay_needed"><u>系统上层显示</u>
+\n\n此权限被用于使音量面板在其他应用的上层绘制。</string>
+    <string name="perms"><u>需要权限授予</u>
+\n\n如果您需要覆盖系统的音量面板，有些权限需要您的授予。
+\n\n我们会引导您开启所需的权限并给与您相应的解释，包括它们的使用情况以及如何授予。
+\n\n</string>
+    <string name="play_sound">有声相关的变化</string>
+    <string name="position_left">左手控制</string>
+    <string name="position_left_land">横屏下左手进行控制</string>
+    <string name="press_back">如果完成，请点按返回按钮</string>
+    <string name="preview"><![CDATA[预览模式：通话与投屏面板仅在被使用的时候显示。]]></string>
+    <string name="pro">升级至高级版！</string>
+    <string name="pro_only">- 限高级版</string>
+    <string name="pro_un">去除广告和解锁所有功能。</string>
+    <string name="proceed">继续</string>
+    <string name="rate_app">评价本应用</string>
+    <string name="rate_it"><![CDATA[<p style="text-align:center"><b>\u559c\u6b22\u97f3\u91cf\u9762\u677f\u5e94\u7528\u5417\uff1f\n</b><br/><br/>\u8bf7\u5728\u8c37\u6b4cPlay\u5546\u5e97\u5199\u4e0b\u597d\u8bc4\u5427\uff01\n<br/><br/>\u2b50\u2b50\u2b50\u2b50\u2b50</p>]]></string>
+    <string name="reenable">重新开启</string>
+    <string name="ring">铃声</string>
+    <string name="ring_mode">铃音模式</string>
+    <string name="screen_shot">显示截屏按钮</string>
+    <string name="select_apps">选择应用程序</string>
+    <string name="send_report">发送报告</string>
+    <string name="show_alarm_panel">显示闹铃面板</string>
+    <string name="show_bright_panel">屏幕亮度面板</string>
+    <string name="show_lock">锁屏中显示</string>
+    <string name="show_notif">显示通知面板</string>
+    <string name="show_ring_panel">显示铃音面板</string>
+    <string name="silent">静音</string>
+    <string name="slide_heightx">面板比例 X = %1$d%%</string>
+    <string name="slide_heights">面板比例</string>
+    <string name="slide_heighty">面板比例 Y = %1$d%%</string>
+    <string name="slider_colour">滑条颜色</string>
+    <string name="start_collapsed">开启时收起</string>
+    <string name="suspend">暂停</string>
+    <string name="switch_theme">更换主题</string>
+    <string name="system_perms_message">音量面板应用需要系统设置写入权限，请授予并继续。\n</string>
+    <string name="system_warn">启用任何无障碍选项相关的应用时，您都会收到Android系统发出的安全警告。不过音量面板应用并不会截取记录除音量键操作外的任何内容，本应用并未接入网络。</string>
+    <string name="tips"><![CDATA[<b>提示：</b>
+<br/><br/><b>某些应用中音量不会被改变：<br/>
+</b><br/>类似于Instagram 和 Snapchat 的应用完全使用它们自己的音量控制与声音记录，如果您遇到该问题，请启用\"被排除的应用\"选项并将此类应用添加至列表。
+<br/><br/><b>系统音量面板始终出现：</B>
+<br/><br/>这很可能是因为系统终止了音量面板应用的进程引起的，请确认本应用已排除在电量优化列表和其他优化程序的列表中。如果开启\"上滑/下滑触发\"可能也会有所帮助。
+<br/>更多详情： http://www.dontkillmyapp.com/]]></string>
+    <string name="transparency">透明度</string>
+    <string name="trigger_cat">触发器</string>
+    <string name="trigger_colour">触发器颜色</string>
+    <string name="trigger_scale_tx">触发器比例 X= %1$d%%</string>
+    <string name="trigger_scale_ts">触发器比例</string>
+    <string name="trigger_scale_ty">触发器比例 Y = %1$d%%</string>
+    <string name="up_launch">仅在按压音量+键时启动</string>
+    <string name="up_launch_sum">\u2022 \u97f3\u91cf\u9762\u677f\u4ec5\u5728\u97f3\u91cf+\u952e\u88ab\u6309\u538b\u65f6\u542f\u52a8\u3002</string>
+    <string name="usage_access"><u>使用情况接入</u>
+\n\n此权限被用于侦测当前使用的应用 &amp; 在您选择排除应用时使用。
+\n\n如果您没有添加被排除的应用或不需要此功能，请直接跳过此权限的授予。
+\n\n</string>
+    <string name="use_system">自动切换明亮/黑暗模式</string>
+    <string name="ver_pos">垂直位置 = %1$d%%</string>
+    <string name="ver_poss">垂直位置</string>
+    <string name="vibe_duration">震动时长 = %.2fs</string>
+    <string name="vibe_durations">震动时长</string>
+    <string name="vibrate">震动</string>
+    <string name="vol_timeouts">面板隐藏延迟</string>
+    <string name="vol_timeout">面板隐藏延迟 = %1$ds</string>
+    <string name="volumeui">音量交互界面</string>
+    <string name="show_call">始终显示通话音量</string>
+    <string name="show_bluetooth">显示蓝牙按钮</string>
+    <string name="block_vold_up_lp">阻止音量+键的长按</string>
+    <string name="show_media">显示媒体控制</string>
+    <string name="change_first_click">第一次按压即改变音量</string>
+    <string name="show_system">显示系统面板</string>
+    <string name="show_levels">显示层级标签</string>
+    <string name="when_notif">仅在有通知活动时</string>
+    <string name="volume_plus">音量+</string>
+    <string name="volume_minus">音量-</string>
+    <string name="red">红色</string>
+    <string name="green">绿色</string>
+    <string name="blue">蓝色</string>
+    <string name="hide">隐藏</string>
+    <string name="skip">跳过</string>
+    <string name="app_sign">This application has been modified and will not run, re-directing to the play store</string>
+    <string name="fill_vertically">Fill Vertically</string>
+</resources>

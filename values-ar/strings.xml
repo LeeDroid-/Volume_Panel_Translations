@@ -207,4 +207,8 @@
     <string name="red">أحمر</string>
     <string name="green">أخضر</string>
     <string name="blue">أزرق</string>
+    <string name="hide">Hide Me</string>
+    <string name="skip">Skip</string>
+    <string name="app_sign">This application has been modified and will not run, re-directing to the play store</string>
+    <string name="fill_vertically">Fill Vertically</string>
 </resources>
