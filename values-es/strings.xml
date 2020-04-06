@@ -18,7 +18,7 @@
     <string name="about_title">Acerca de</string>
     <string name="accessibility_description"><u>Acceso de Accesibilidad</u>
         \n\nEste permiso permite detectar las pulsaciones en los botones de volumen.
-        \n\nNo se registran otros botones.
+        \n\nNo se registra ningún otro contenido.
         \n\nAlgunos dispositivos pueden requerir un reinicio para iniciar el servicio.</string>
     <string name="action">Actuar ahora</string>
     <string name="add_border">Habilitar bordes en panel</string>
@@ -195,11 +195,14 @@
     <string name="when_notif">Sólo cuando la notificación está activa</string>
     <string name="volume_plus">Volumen +</string>
     <string name="volume_minus">Volumen -</string>
-    <string name="red">Roja</string>
+    <string name="red">Rojo</string>
     <string name="green">Verde</string>
     <string name="blue">Azul</string>
-    <string name="hide">Hide Me</string>
-    <string name="skip">Skip</string>
-    <string name="app_sign">This application has been modified and will not run, re-directing to the play store</string>
-    <string name="fill_vertically">Fill Vertically</string>
+    <string name="hide">Ocultame</string>
+    <string name="skip">Saltar</string>
+    <string name="app_sign">Esta aplicación ha sido modificada y no se ejecutará, redireccionando a Play Store</string>
+    <string name="fill_vertically">Completar verticalmente</string>
+    <string name="horizontal">Horizontal Sliders</string>
+    <string name="fill_horizontal">Fill Horizontally</string>
+    <string name="bottom">Position Bottom</string>
 </resources>

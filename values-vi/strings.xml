@@ -13,7 +13,7 @@
     <string name="alert">Cảnh báo tối ưu hóa</string>
     <string name="anim_duration">Thời lượng hoạt ảnh = %.2fs</string>
     <string name="anim_durations">Thời lượng hoạt ảnh</string>
-    <string name="app_name">Điều khiển Âm thanh</string>
+    <string name="app_name">Volume Panel Pro</string>
     <string name="auto_dark_sum">\u2022 Th\u1ef1c hi\u1ec7n theo h\u1ec7 th\u1ed1ng Ch\u1ebf \u0111\u1ed9 t\u1ed1i/s\u00e1ng.\n\n\u2022 Y\u00eau c\u1ea7u h\u1ed7 tr\u1ee3 nh\u00e0 s\u1ea3n xu\u1ea5t.</string>
     <string name="background_colour">Màu nền</string>
     <string name="bat_opt"><![CDATA[<b>Điều khiển Âm lượng đã được hệ thống tối ưu hóa &amp; và có thể bị đóng dưới nền </b>.<br/><br/>Không có dịch vụ nào trong Điều khiển Âm lượng bị tốn pin, nhưng vô hiệu hóa tối ưu hóa sẽ cải thiện độ tin cậy.
@@ -183,4 +183,7 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="hide">Ẩn tôi</string>
     <string name="skip">Bỏ qua</string>
     <string name="fill_vertically">Fill Vertically</string>
+    <string name="horizontal">Horizontal Sliders</string>
+    <string name="fill_horizontal">Fill Horizontally</string>
+    <string name="bottom">Position Bottom</string>
 </resources>

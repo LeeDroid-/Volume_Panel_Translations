@@ -182,5 +182,8 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="hide">隐藏</string>
     <string name="skip">跳过</string>
     <string name="app_sign">This application has been modified and will not run, re-directing to the play store</string>
-    <string name="fill_vertically">Fill Vertically</string>
+    <string name="fill_vertically">垂直填充</string>
+    <string name="horizontal">Horizontal Sliders</string>
+    <string name="fill_horizontal">Fill Horizontally</string>
+    <string name="bottom">Position Bottom</string>
 </resources>

@@ -213,4 +213,7 @@
     <string name="skip">Skip</string>
     <string name="app_sign">This application has been modified and will not run, re-directing to the play store</string>
     <string name="fill_vertically">Fill Vertically</string>
+    <string name="horizontal">Horizontal Sliders</string>
+    <string name="fill_horizontal">Fill Horizontally</string>
+    <string name="bottom">Position Bottom</string>
 </resources>
