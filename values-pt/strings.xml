@@ -110,7 +110,7 @@
         \n\nEm alternativa, ative o atalho de ecrã inicial e abra-o com um remapeador!</string>
     <string name="mapper_sum">\u2022 Clique aqui par mais informações</string>
     <string name="margin">Margem do Painel = %1$d dp</string>
-    <string name="margins">Margem do Paine</string>
+    <string name="margins">Margem do Painel</string>
     <string name="media">"Vol Média = "</string>
     <string name="mute_media">Silenciar Multimédia</string>
     <string name="need_dnd">É Necessária Permissão de Não Incomodar</string>
@@ -136,7 +136,7 @@
         \n\n</string>
     <string name="play_sound">Som ao Ajustar</string>
     <string name="position_left">Modo Esquerdino</string>
-    <string name="position_left_land">Mode Esquerdino em Paisagem</string>
+    <string name="position_left_land">Modo Esquerdino em Paisagem</string>
     <string name="press_back">De seguida, prima voltar para regressar à aplicação.</string>
     <string name="preview"><![CDATA[Modo de Pré-visuzação: Painéis de Chamada & Transmissão só serão mostrados quando necessário.]]></string>
     <string name="pro">Obter Volume Panel Pro!</string>
@@ -191,7 +191,7 @@
     <string name="ver_pos">Posição Vertical = %1$d%%</string>
     <string name="ver_poss">Posição Vertical</string>
     <string name="vibe_duration">Duração de Vibração = %.2fs</string>
-    <string name="vibe_durations">Duração de Vibraçã</string>
+    <string name="vibe_durations">Duração de Vibração</string>
     <string name="vibrate">Vibrar</string>
     <string name="vol_timeout">Timeout do Painel = %1$ds</string>
     <string name="vol_timeouts">Timeout do Painel</string>
@@ -206,14 +206,14 @@
     <string name="when_notif">Somente quando Notificação Ativa</string>
     <string name="volume_plus">Volume +</string>
     <string name="volume_minus">Volume -</string>
-    <string name="red">Vermelha</string>
+    <string name="red">Vermelho</string>
     <string name="green">Verde</string>
     <string name="blue">Azul</string>
-    <string name="hide">Hide Me</string>
-    <string name="skip">Skip</string>
-    <string name="app_sign">This application has been modified and will not run, re-directing to the play store</string>
-    <string name="fill_vertically">Fill Vertically</string>
-    <string name="horizontal">Horizontal Sliders</string>
-    <string name="fill_horizontal">Fill Horizontally</string>
-    <string name="bottom">Position Bottom</string>
+    <string name="hide">Esconder=me</string>
+    <string name="skip">Saltar</string>
+    <string name="app_sign">Esta aplicação foi modificada e não irá funcionar. A redirecionar para a Play Store.</string>
+    <string name="fill_vertically">Preencher Verticalmente</string>
+    <string name="horizontal">Barra Horizontal</string>
+    <string name="fill_horizontal">Preencher Horizontalmente</string>
+    <string name="bottom">Posição Fundo</string>
 </resources>
