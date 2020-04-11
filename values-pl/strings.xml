@@ -38,7 +38,7 @@
         <br/><br/>Żadna z usług w Panelu głośności nie wymaga użycia baterii, ale wyłączenie optymalizacji poprawi niezawodność.
         <br/><br/>Kliknij \"Zamknij\" aby uruchomić optymalizację lub kliknij „Wykonaj Teraz”, a następnie „Wszystkie aplikacje”, a następnie wyłącz Optymalizację baterii dla Panelu Głośności.]]></string>
     <string name="behaviour">Zachowanie</string>
-    <string name="block_vold_lp">Zablokuj głośność - długie naciśnięcie</string>
+    <string name="block_vold_lp">Zablokuj głośność - Długie Naciśnięcie</string>
     <string name="block_vold_lp_sum">\u2022 Naprawiono problemy ze zrzutami ekranu Vol + Power.</string>
     <string name="border_colour">Kolor Ramki</string>
     <string name="border_thickness">Grubość Ramki = %1$d dp</string>
@@ -51,7 +51,7 @@
     <string name="click_out_sum">\u2022 Po włączeniu może zakłócać działanie innych aplikacji.</string>
     <string name="close">Zamknij</string>
     <string name="corner_scale">Promień narożnika = %1$d%%</string>
-    <string name="corner_scales">Promień narożnika</string>
+    <string name="corner_scales">Promień Narożnika</string>
     <string name="cp_head">Dotknij NA ŚRODKU, aby potwierdzić</string>
     <string name="dark_mode">Tryb Ciemny</string>
     <string name="default_to_ring_volume">Domyślna Głośność Dzwonka</string>
@@ -175,7 +175,7 @@
     <string name="trigger_cat">Wyzwalacz</string>
     <string name="trigger_colour">Kolor Wyzwalacza</string>
     <string name="trigger_scale_tx">Skala wyzwalania X = %1$d%%</string>
-    <string name="trigger_scale_ts">Skala wyzwalania</string>
+    <string name="trigger_scale_ts">Skala Wyzwalania</string>
     <string name="trigger_scale_ty">Skala wyzwalania Y = %1$d%%</string>
     <string name="up_launch">Uruchom po Nacisnięciu Vol +</string>
     <string name="up_launch_sum">\u2022 Panel uruchomi się tylko po naciśnięciu Vol +.</string>
@@ -195,7 +195,7 @@
     <string name="volumeui">Volume UI</string>
     <string name="show_call">Zawsze Pokazuj Głośność Połączeń</string>
     <string name="show_bluetooth">Pokaż Przycisk Bluetooth</string>
-    <string name="block_vold_up_lp">Zablokuj głośność + długie naciśnięcie</string>
+    <string name="block_vold_up_lp">Zablokuj Głośność + Długie Naciśnięcie</string>
     <string name="show_media">Pokaż Sterowanie Multimediami</string>
     <string name="change_first_click">Zmień Głośność Przy Pierwszym Kliknięciu</string>
     <string name="show_system">Pokaż Panel Systemowy</string>
@@ -206,13 +206,13 @@
     <string name="red">Czerwony</string>
     <string name="green">Zielony</string>
     <string name="blue">Niebieski</string>
-    <string name="hide">Hide Me</string>
-    <string name="skip">Skip</string>
-    <string name="app_sign">This application has been modified and will not run, re-directing to the play store</string>
-    <string name="fill_vertically">Fill Vertically</string>
-    <string name="horizontal">Horizontal Sliders</string>
-    <string name="fill_horizontal">Fill Horizontally</string>
-    <string name="bottom">Position Bottom</string>
-    <string name="dont_allow">Invalid Licence</string>
-    <string name="text_colour">Text Colour</string>
+    <string name="hide">Ukryj</string>
+    <string name="skip">Pomiń</string>
+    <string name="app_sign">Ta aplikacja została zmodyfikowana i nie będzie działać, przekierowuję do Sklepu Play</string>
+    <string name="fill_vertically">Wypełnij Pionowo</string>
+    <string name="horizontal">Poziome Suwaki</string>
+    <string name="fill_horizontal">Wypełnij Poziomo</string>
+    <string name="bottom">Pozycja Na Dole</string>
+    <string name="dont_allow">Nieprawidłowa Licencja</string>
+    <string name="text_colour">Kolor Tekstu</string>
 </resources>
