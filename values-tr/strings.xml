@@ -1,26 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resources>
-    <string name="about"><![CDATA[<b>Volume Panel:</b>
-        <br/>\u2022Sistem ses kontrolleriniz için esnek bir değiştirme.
-        <br/><br/><b>Tasarlayan &amp; Geliştiren:</b>
-        <br/>\u2022 Lee Bailey (AKA @LeeDrOiD)
-        <br/> Ekstra Teşekkürler:
-        <br/>\u2022 App Into\'yu yapanlara.
-        <br/>\u2022 Özel Çökme Etkinliği için Ereza\'ya.
-        <br/>\u2022 Spots Dialog için D-Max\'e.
-        <br/>Çeviriler:
-        <br/>\u2022 Linar10 - Polish
-        <br/>\u2022 Fatih Firinci - Turkish
-        <br/>\u2022 guillerag - Spanish
-        <br/>\u2022 Nuno Nebeker - Portuguese
-        <br/>\u2022 Игорь Иринин - Russian
-	<br/>\u2022 Emad Ayad - Arabic
-        <br/><br/>Doğrudan benimle temas kurmaktan çekinmeyin &amp; bir inceleme bırakmayı unutmayın &#128512;]]></string>
+    <string name="about"><![CDATA[<b>Volume Panel:</b>\n    <br/>\u2022Sistem ses kontrolleriniz i\u00e7in esnek bir de\u011fi\u015ftirme.\n        <br/><br/><b>Tasarlayan &amp; Geli\u015ftiren:</b>\n        <br/>\u2022 Lee Bailey (AKA @LeeDrOiD)\n        <br/> Ekstra Te\u015fekk\u00fcrler:\n        <br/>\u2022 App Intro\'nun yap\u0131mc\u0131lar\u0131na.\n        <br/>\u2022 Custom Activity On Crash i\u00e7in Ereza\'ya.\n        <br/>\u2022 Spots Dialog i\u00e7in D-Max\'e.\n        <br/>\u00c7eviriler:\n        <br/>\u2022 Linar10 - Polish\n        <br/>\u2022 Fatih F\u0131r\u0131nc\u0131 - Turkish\n        <br/>\u2022 guillerag - Spanish\n        <br/>\u2022 Nuno Nebeker - Portuguese\n        <br/>\u2022 \u0418\u0433\u043e\u0440\u044c \u0418\u0440\u0438\u043d\u0438\u043d - Russian\n        <br/>\u2022 Sylm - Fran\u00e7ais    <br/>\u2022 Emad Ayad - Arabic    <br/>\u2022 VM - German    <br/>\u2022 Alpert7 - Chinese        <br/><br/>\"Geri Bildirim G\u00f6nder\" se\u00e7ene\u011fi ile benimle ileti\u015fime ge\u00e7mekten \u00e7ekinmeyin &amp; bir inceleme b\u0131rakmay\u0131 unutmay\u0131n &#128512;]]></string>
     <string name="about_title">Hakkında</string>
-    <string name="accessibility_description">
-        <u>Erişilebilirlik Erişimi</u>
-        \n\n\u2022 Ses açma kısma tuşlarına basmayı algılama.
-        \n\u2022 Hariç tutulan uygulamaların ne zaman kullanıldığını algılama.
+    <string name="accessibility_description"><u>Erişilebilirlik Erişimi</u>
+        \n\n• Ses açma kısma tuşlarına basmayı algılama.
+        \n• Hariç tutulan uygulamaların ne zaman kullanıldığını algılama.
         \n\nBaşka hiçbir tuşa basılmaz.
         \n\nHizmeti başlatmak için bazı cihazların yeniden başlatılması gerekebilir.</string>
     <string name="action">Şimdi Yap</string>
@@ -31,25 +15,23 @@
     <string name="anim_duration">Animasyon Süresi = %.2fs</string>
     <string name="anim_durations">Animasyon Süresi</string>
     <string name="app_name">Volume Panel</string>
-    <string name="auto_dark_sum">\u2022 Sistem Koyu/Açık modunu takip eder.
-        \n\u2022 Üretici desteği gerekir.</string>
+    <string name="auto_dark_sum">\u2022 Sistem Koyu/A\u00e7\u0131k modunu takip eder.\n        \n\u2022 \u00dcretici deste\u011fi gerekir.</string>
     <string name="background_colour">Arka Plan Rengi</string>
     <string name="bat_opt"><![CDATA[<b>Volume Panel sistem tarafından optimize ediliyor &amp; arka planda sonlandırılabilir</b>.
         <br/><br/>Volume Panel\'deki hizmetlerin hiçbiri pili yoğun kullanmaz, ancak optimizasyonu devre dışı bırakmak güvenilirliği artıracaktır.
-        <br/><br/>Optimize edilmiş çalıştırmak için \"Kapat\"ı tıklayın veya \"Şimdi Yap\"ı tıklayarak \"Tüm Uygulamalar\"a gidip Volume Panel için Pil Optimizasyonunu devre dışı bırakın.]]></string>
+        <br/><br/>Optimize edilmiş çalıştırmak için \"Kapat\"ı tıklayın veya \"Şimdi Yap\"ı tıklayarak \"Tüm Uygulamalar\"a gidip Volume Panel için Pil Optimizasyonunu devre dışı bırakın.
+<br/><br/>Hizmetin hala sistem tarafından sonlandırıldığını fark ederseniz, \"Hizmetleri Çalışır Tutmaya Zorla\" seçeneğini etkinleştirmeyi deneyin.]]></string>
     <string name="behaviour">Davranış</string>
     <string name="block_vold_lp">Ses Kısmaya Uzun Basmayı Engelle</string>
-    <string name="block_vold_lp_sum">\u2022 Ses + Güç tuşuyla olan ekran görüntüsü sorunlarını giderir.</string>
+    <string name="block_vold_lp_sum">\u2022 Ses + G\u00fc\u00e7 tu\u015fuyla olan ekran g\u00f6r\u00fcnt\u00fcs\u00fc sorunlar\u0131n\u0131 giderir.</string>
     <string name="border_colour">Kenarlık Rengi</string>
     <string name="border_thickness">Kenarlık Kalınlığı = %1$d dp</string>
     <string name="border_thicknesss">Kenarlık Kalınlığı</string>
-    <string name="bright_calibrate">
-        <b>i</b>: Maksimum Parlaklığı Yeniden Ayarla:
-        \n\u2022 Ekran parlaklığınızı Maksimuma ayarlayın, ardından buraya uzun basın.</string>
+    <string name="bright_calibrate"><b>i</b>: Maksimum Parlakl\u0131\u011f\u0131 Yeniden Ayarla:\n        \n\u2022 Ekran parlakl\u0131\u011f\u0131n\u0131z\u0131 Maksimuma ayarlay\u0131n, ard\u0131ndan buraya uzun bas\u0131n.</string>
     <string name="cancel">İptal</string>
     <string name="cast">Yayın Sesi Kontrolü</string>
     <string name="click_out">Kapatmak İçin Dışarı Tıkla</string>
-    <string name="click_out_sum">\u2022 Etkinleştirildiğinde diğer uygulamalara müdahale edebilir.</string>
+    <string name="click_out_sum">\u2022 Etkinle\u015ftirildi\u011finde di\u011fer uygulamalara m\u00fcdahale edebilir.</string>
     <string name="close">Kapat</string>
     <string name="corner_scale">Köşe Yarıçapı = %1$d%%</string>
     <string name="corner_scales">Köşe Yarıçapı</string>
@@ -62,9 +44,8 @@
     <string name="disable_acc">LÜTFEN ERİŞİLEBİLİRLİK HİZMETİNİ DEVRE DIŞI BIRAKIN.</string>
     <string name="disable_notif">LÜTFEN BİLDİRİM ERİŞİMİNİ DEVRE DIŞI BIRAKIN</string>
     <string name="dismiss">Kapat</string>
-    <string name="dnd_access">
-        <u>Rahatsız Etmeyin Erişimi</u>
-        \n\nBu izin, Rahatsız Etme Ayarlarını değiştirmemize izin verir.
+    <string name="dnd_access"><u>Rahatsız Etmeyin Erişimi</u>
+        \n\nBu izin, Rahatsız Etmeyin Ayarlarını değiştirmemize izin verir.
         \n\n</string>
     <string name="do_not_kill">Hizmetleri Çalışır Tutmaya Zorla</string>
     <string name="do_not_kill_desc"><![CDATA[<b>Bu seçeneği yalnızca ses panelinin durmaya devam etmesi durumunda kullanın.</b>
@@ -76,7 +57,7 @@
     <string name="enable_blacklist">Uygulama Hariç Tutmayı Etkinleştir</string>
     <string name="enable_volume_panel">Ses Tuşlarını Geçersiz Kıl</string>
     <string name="exclude_applications">Uygulamaları Hariç Tut</string>
-    <string name="exclude_applications_sum">\u2022 Bu uygulamalarda volume panel açılmaz.</string>
+    <string name="exclude_applications_sum">\u2022 Bu uygulamalarda volume panel a\u00e7\u0131lmaz.</string>
     <string name="excluded">Volume Panel: Uygulama Hariç Tutuldu</string>
     <string name="failed_window_add">Pencere eklenemedi, lütfen uygulamayı açın ve Ekran Yerleşimi izinlerinin verildiğinden emin olun</string>
     <string name="fill_style">Katı Kaydırıcıları Kullan</string>
@@ -101,52 +82,43 @@
     <string name="layout">Düzen</string>
     <string name="loading_apps">Uygulamalar Yükleniyor</string>
     <string name="lock_ring_vol">Sessiz/Titreşimde Zil Sesi Kaydırıcıyı Engelle</string>
-    <string name="long_press"><![CDATA[Panelleri yeniden sıralamak için uzun basın ve sürükleyin.]]></string>
+    <string name="long_press"><![CDATA[Panelleri yeniden sıralamak için uzun basıp sürükleyin.]]></string>
     <string name="mapper">Olası Girişim</string>
     <string name="mapper_detail">Tuş Değiştirici tespit etmiş olabiliriz.
         \n\nTuş Değiştiriciler, tuş tıklamalarını algılamak için erişilebilirlik hizmetlerini kullanır.
         \n\nSes tuşu tıklamalarını yakalayan/kişiselleştiren diğer erişilebilirlik hizmetleri, ses panellerini engelleme özelliği ile ses panellerini etkiler.
         \n\nLütfen bu uygulamalar için ses tuşu özelleştirmesini devre dışı bırakmayı düşünün.
         \n\nAlternatif olarak, başlatıcı kısayolunu etkinleştirin ve bir tuş değiştirici ile açın!</string>
-    <string name="mapper_sum">\u2022 Daha fazla bilgi için buraya tıklayın</string>
+    <string name="mapper_sum">\u2022 Daha fazla bilgi i\u00e7in buraya t\u0131klay\u0131n</string>
     <string name="margin">Panel Boşluğu = %1$d dp</string>
     <string name="margins">Panel Boşluğu</string>
     <string name="media">Medya Sesi =</string>
     <string name="mute_media">Medyayı Kıs</string>
     <string name="need_dnd">Rahatsız Etmeyin İzni Gerekli</string>
     <string name="not_found">Etkinlik bulunamadı, lütfen Ayarlar\'a gidin ve elle izin verin</string>
-    <string name="notif_access">
-        <u>Bildirim Erişimi</u>
-        \n\n\u2022 Bu izin, aktif Yayın veya Akışı tespit etmemize izin verir.
-        \n\u2022 Yayın akışlarını kontrol etmeden çalıştırmak isterseniz, bu izni atlamaktan çekinmeyin.
-        \n\nHiçbir bildirim içeriği yakalanmaz.
-        \n\n</string>
+    <string name="notif_access"><u>Bildirim Eri\u015fimi</u>\n        \n\n\u2022 Bu izin, aktif Yay\u0131n veya Ak\u0131\u015f\u0131 tespit etmemize izin verir.\n        \n\u2022 Yay\u0131n ak\u0131\u015flar\u0131n\u0131 kontrol etmeden \u00e7al\u0131\u015ft\u0131rmak isterseniz, bu izni atlamaktan \u00e7ekinmeyin.\n        \n\nHi\u00e7bir bildirim i\u00e7eri\u011fi yakalanmaz.\n        \n\n</string>
     <string name="notif_panel"><![CDATA[Tüm cihazlar, Bildirim & Zil sesinin bölünmesini desteklemez.
         <br/><br/>Her iki akış birlikte değişirse, bunun nedeni sistem yapılandırmanızdır ve Volume Panel ile ilgisi yoktur.]]></string>
     <string name="notification_listener">Volume Panel Bildirim Dinleyici</string>
-    <string name="oops_error">Olamaz.. Bir şeyler ters gitti ve Volume Panel çöktü, lütfen bana bildirmek için aşağıdaki \"RAPOR GÖNDER"\'e basın.</string>
+    <string name="oops_error">Olamaz.. Bir şeyler ters gitti ve Volume Panel çöktü, lütfen bana bildirmek için aşağıdaki \"RAPOR GÖNDER\"\'e basın.</string>
     <string name="order">Panel Sırasını Değiştir</string>
-    <string name="overlay_needed">
-        <u>Sistem Yerleşimi</u>
+    <string name="overlay_needed"><u>Sistem Yerleşimi</u>
         \n\nBu izin Volume Panel\'i diğer uygulamaların üzerinde görüntülemek için gerekmektedir.</string>
-    <string name="perms">
-        <u>İzinler Gerekli</u>
+    <string name="perms"><u>İzinler Gerekli</u>
         \n\nSistem ses panelini geçersiz kılmak için çeşitli izinler gerekir.
-        \n\nŞimdi bunları etkinleştirmek için bir düğme ile bu izinleri detaylandıran bir ekran göstereceğim.
-        \n\nİzin etkinleştirildiğinde, uygulamaya geri dönmek için lütfen geriye basın.</string>
+        \n\nŞimdi size bu izinleri, kullanımlarını &amp; bunları etkinleştirmek için bir düğmeyi ayrıntılı olarak anlatan birkaç ekran göstereceğiz.
+\n\n</string>
     <string name="play_sound">Ses Ayarlama Sesi</string>
     <string name="position_left">Solak</string>
     <string name="position_left_land">Yatay Modda Solak</string>
     <string name="press_back">Tamamlandığında, uygulamaya geri dönmek için geriye basın.</string>
     <string name="preview"><![CDATA[Önizleme Modu: Çağrı ve Yayın panelleri yalnızca gerektiğinde gösterilir.]]></string>
     <string name="pro">Volume Panel Pro\'ya Yükselt!</string>
-    <string name="pro_only"> - Yalnızca Pro</string>
+    <string name="pro_only">- Yalnızca Pro</string>
     <string name="pro_un">Reklamları Kaldır &amp; Tüm Özelliklerin Kilidini Aç.</string>
     <string name="proceed">Devam et</string>
     <string name="rate_app">Uygulamayı Oyla</string>
-    <string name="rate_it"><![CDATA[<p style="text-align:center"><b>Volume Panel\'i beğendiniz mi?</b>
-        <br/><br/>Lütfen play store\'da bir inceleme bırakın!
-        <br/><br/>\u2b50\u2b50\u2b50\u2b50\u2b50</p>]]></string>
+    <string name="rate_it"><![CDATA[<p style="text-align:center"><b>Volume Panel\'i be\u011fendiniz mi?</b>\n        <br/><br/>L\u00fctfen play store\'da bir inceleme b\u0131rak\u0131n!\n        <br/><br/>\u2b50\u2b50\u2b50\u2b50\u2b50</p>]]></string>
     <string name="reenable">Yeniden Etkinleştir</string>
     <string name="ring">Zil Sesi</string>
     <string name="ring_mode">Zil Modu</string>
@@ -181,9 +153,8 @@
     <string name="trigger_scale_ts">Tetikleyici Ölçeği</string>
     <string name="trigger_scale_ty">Tetikleyici Ölçeği Y = %1$d%%</string>
     <string name="up_launch">Yalnızca Ses Açmaya Basıldığında Başlat</string>
-    <string name="up_launch_sum">\u2022 Panel yalnızca Ses Açma tuşuna basıldığında açılır.</string>
-    <string name="usage_access">
-        <u>Kullanım Erişimi</u>
+    <string name="up_launch_sum">\u2022 Panel yaln\u0131zca Ses A\u00e7ma tu\u015funa bas\u0131ld\u0131\u011f\u0131nda a\u00e7\u0131l\u0131r.</string>
+    <string name="usage_access"><u>Kullanım Erişimi</u>
         \n\nBu izin, o anda kullanmakta olduğunuz uygulamayı tespit etmemizi &amp; hariç tutup tutmadığınızı kontrol etmemizi sağlar.
         \n\nUygulamaları hariç tutmadan çalıştırmak istiyorsanız, bu izni atlamaktan çekinmeyin.
         \n\n</string>
@@ -193,8 +164,8 @@
     <string name="vibe_duration">Titreşim Süresi = %.2fs</string>
     <string name="vibe_durations">Titreşim Süresi</string>
     <string name="vibrate">Titreşim</string>
-    <string name="vol_timeout">Panel Zaman Aşımı = %1$ds</string>
     <string name="vol_timeouts">Panel Zaman Aşımı</string>
+    <string name="vol_timeout">Panel Zaman Aşımı = %1$ds</string>
     <string name="volumeui">Ses Arayüzü</string>
     <string name="show_call">Her Zaman Çağrı Sesini Göster</string>
     <string name="show_bluetooth">Bluetooth Düğmesini Göster</string>
@@ -204,16 +175,18 @@
     <string name="show_system">Sistem Panelini Göster</string>
     <string name="show_levels">Seviye Etiketlerini Göster</string>
     <string name="when_notif">Yalnızca Bildirim Etkinken</string>
-    <string name="volume_plus">Volume +</string>
-    <string name="volume_minus">Volume -</string>
+    <string name="volume_plus">Ses +</string>
+    <string name="volume_minus">Ses -</string>
     <string name="red">Kırmızı</string>
     <string name="green">Yeşil</string>
     <string name="blue">Mavi</string>
-    <string name="hide">Hide Me</string>
-    <string name="skip">Skip</string>
-    <string name="app_sign">This application has been modified and will not run, re-directing to the play store</string>
-    <string name="fill_vertically">Fill Vertically</string>
-    <string name="horizontal">Horizontal Sliders</string>
-    <string name="fill_horizontal">Fill Horizontally</string>
-    <string name="bottom">Position Bottom</string>
+    <string name="hide">Beni Gizle</string>
+    <string name="skip">Atla</string>
+    <string name="app_sign">Bu uygulama değiştirildi ve çalışamaz, play store\'a yeniden yönlendiriliyor</string>
+    <string name="fill_vertically">Dikey Doldur</string>
+    <string name="horizontal">Yatay Kaydırıcılar</string>
+    <string name="fill_horizontal">Yatay Olarak Doldur</string>
+    <string name="bottom">Alt Konum</string>
+    <string name="dont_allow">Invalid Licence</string>
+    <string name="text_colour">Text Colour</string>
 </resources>

@@ -193,7 +193,7 @@
     <string name="vibrate">الإهتزاز</string>
     <string name="vol_timeout">%1$ds = مهلة اللوحة</string>
     <string name="vol_timeouts">% مهلة اللوحة </string>
-    <string name="volumeui">Volume Panel</string>
+    <string name="volumeui">لوحة التحكم في الصوت</string>
     <string name="show_call">إظهار حجم المكالمات دائمًا</string>
     <string name="show_bluetooth">أظهر زر البلوتوث</string>
     <string name="block_vold_up_lp">تعطيل حجم + الضغط لفترة طويلة</string>
@@ -202,16 +202,18 @@
     <string name="show_system">أظهر لوحة النظام</string>
     <string name="show_levels">أظهر مسميات مستويات اللوحة</string>
     <string name="when_notif">فقط عند تفعيل الاشعارات</string>
-    <string name="volume_plus">Volume +</string>
-    <string name="volume_minus">Volume -</string>
+    <string name="volume_plus">الصوت لأعلي +</string>
+    <string name="volume_minus">الصوت لأسفل -</string>
     <string name="red">أحمر</string>
     <string name="green">أخضر</string>
     <string name="blue">أزرق</string>
-    <string name="hide">Hide Me</string>
-    <string name="skip">Skip</string>
+    <string name="hide">قم بإخفاءي </string>
+    <string name="skip">تجاوز </string>
+    <string name="fill_vertically">إملأ بشكل عمودي </string>
+    <string name="horizontal">المؤشر الأفقي </string>
+    <string name="fill_horizontal">إملأ بشكل أفقي</string>
+    <string name="bottom">الموضع بالأسفل</string>
+    <string name="dont_allow">Invalid Licence</string>
+    <string name="text_colour">Text Colour</string>
     <string name="app_sign">This application has been modified and will not run, re-directing to the play store</string>
-    <string name="fill_vertically">Fill Vertically</string>
-    <string name="horizontal">Horizontal Sliders</string>
-    <string name="fill_horizontal">Fill Horizontally</string>
-    <string name="bottom">Position Bottom</string>
 </resources>

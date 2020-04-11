@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resources>
-    <string name="about"><![CDATA[<b>\u97f3\u91cf\u9762\u677f\uff1a</b>\n    <br/>\u2022\u53ef\u81ea\u5b9a\u4e49\u7684\u97f3\u91cf\u9762\u677f\u5e94\u7528\uff0c\u53ef\u66ff\u4ee3\u7cfb\u7edf\u97f3\u91cf\u9762\u677f\u3002\n        <br/><br/><b>\u8bbe\u8ba1 &amp; \u5f00\u53d1\uff1a</b>\n        <br/>\u2022 Lee Bailey (AKA @LeeDrOiD)\n        <br/> \u611f\u8c22\uff1a\n        <br/>\u2022 \u4e3a\u5e94\u7528\u8bbe\u8ba1\u7b80\u4ecb\u7684\u8bbe\u8ba1\u5e08\u4eec\n        <br/>\u2022 Ereza for Custom Activity On Crash.\n        <br/>\u2022 D-Max for Spots Dialog.\n        <br/>\u7ffb\u8bd1\uff1a\n        <br/>\u2022 Linar10 - Polish\n        <br/>\u2022 Fatih Firinci - Turkish\n        <br/>\u2022 guillerag - Spanish\n        <br/>\u2022 Nuno Nebeker - Portuguese\n        <br/>\u2022 \u0418\u0433\u043e\u0440\u044c \u0418\u0440\u0438\u043d\u0438\u043d - Russian\n        <br/>\u2022 Sylm - Fran\u00e7ais\n\t <br/>\u2022 Emad Ayad - Arabic\n\t <br/>\u2022 VM - German\n         <br/>\u2022 Alpert7 - \u7b80\u4f53\u4e2d\u6587\n         <br/><br/>\u5982\u6709\u7591\u95ee\u6b22\u8fce\u901a\u8fc7 \"\u7535\u90ae\u53cd\u9988\" \u6765\u8054\u7cfb\u6211 &amp; \u559c\u6b22\u7684\u8bdd\u522b\u5fd8\u4e86\u5728Play\u5546\u5e97\u91cc\u7ed9\u4e0e\u597d\u8bc4 &#128512;]]></string>
+    <string name="about"><![CDATA[<b>\u97f3\u91cf\u9762\u677f\uff1a</b>\n    <br/>\u2022\u53ef\u81ea\u5b9a\u4e49\u7684\u97f3\u91cf\u9762\u677f\u5e94\u7528\uff0c\u53ef\u66ff\u4ee3\u7cfb\u7edf\u97f3\u91cf\u9762\u677f\u3002\n        <br/><br/><b>\u8bbe\u8ba1 &amp; \u5f00\u53d1\uff1a</b>\n        <br/>\u2022 Lee Bailey (AKA @LeeDrOiD)\n        <br/> \u611f\u8c22\uff1a\n        <br/>\u2022 \u4e3a\u5e94\u7528\u8bbe\u8ba1\u7b80\u4ecb\u7684\u8bbe\u8ba1\u5e08\u4eec\n        <br/>\u2022 Ereza for Custom Activity On Crash.\n        <br/>\u2022 D-Max for Spots Dialog.\n        <br/>\u7ffb\u8bd1\uff1a\n        <br/>\u2022 Linar10 - Polish\n        <br/>\u2022 Fatih Firinci - Turkish\n        <br/>\u2022 guillerag - Spanish\n        <br/>\u2022 Nuno Nebeker - Portuguese\n        <br/>\u2022 \u0418\u0433\u043e\u0440\u044c \u0418\u0440\u0438\u043d\u0438\u043d - Russian\n        <br/>\u2022 Sylm - Fran\u00e7ais<br/>\u2022 Emad Ayad - Arabic <br/>\u2022 VM - German\n         <br/>\u2022 Alpert7 - \u7b80\u4f53\u4e2d\u6587\n         <br/>\u2022 Nguy\u1ec5n Lam - Vietnamese\n         <br/><br/>\u5982\u6709\u7591\u95ee\u6b22\u8fce\u901a\u8fc7 \"\u7535\u90ae\u53cd\u9988\" \u6765\u8054\u7cfb\u6211 &amp; \u559c\u6b22\u7684\u8bdd\u522b\u5fd8\u4e86\u5728Play\u5546\u5e97\u91cc\u7ed9\u4e0e\u597d\u8bc4 &#128512;]]></string>
     <string name="about_title">关于</string>
     <string name="accessibility_description"><u>无障碍选项</u>
 \n\n此选项被用于检测音量上下键的按压。
@@ -181,9 +181,11 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="blue">蓝色</string>
     <string name="hide">隐藏</string>
     <string name="skip">跳过</string>
-    <string name="app_sign">This application has been modified and will not run, re-directing to the play store</string>
     <string name="fill_vertically">垂直填充</string>
-    <string name="horizontal">Horizontal Sliders</string>
-    <string name="fill_horizontal">Fill Horizontally</string>
-    <string name="bottom">Position Bottom</string>
+    <string name="horizontal">水平滑条</string>
+    <string name="fill_horizontal">水平填充</string>
+    <string name="bottom">底部位置</string>
+    <string name="dont_allow">Invalid Licence</string>
+    <string name="text_colour">Text Colour</string>
+    <string name="app_sign">This application has been modified and will not run, re-directing to the play store</string>
 </resources>

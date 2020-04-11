@@ -182,8 +182,11 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="blue">Xanh da trời</string>
     <string name="hide">Ẩn tôi</string>
     <string name="skip">Bỏ qua</string>
+    <string name="app_sign">Ứng dụng này đã được sửa đổi và sẽ không chạy, hoặc chuyển hướng đến Cửa hàng Play.</string>
+    <string name="horizontal">Thanh trượt ngang</string>
+    <string name="fill_horizontal">Điền theo chiều ngang</string>
+    <string name="bottom">Vị trí dưới cùng</string>
+    <string name="dont_allow">Invalid Licence</string>
+    <string name="text_colour">Text Colour</string>
     <string name="fill_vertically">Fill Vertically</string>
-    <string name="horizontal">Horizontal Sliders</string>
-    <string name="fill_horizontal">Fill Horizontally</string>
-    <string name="bottom">Position Bottom</string>
 </resources>

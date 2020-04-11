@@ -213,4 +213,6 @@
     <string name="horizontal">Horizontal Sliders</string>
     <string name="fill_horizontal">Fill Horizontally</string>
     <string name="bottom">Position Bottom</string>
+    <string name="dont_allow">Invalid Licence</string>
+    <string name="text_colour">Text Colour</string>
 </resources>

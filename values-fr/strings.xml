@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resources>
-    <string name="about"><![CDATA[<b>Volume Panel:</b>\n<br/>\u2022Remplacement pratique du contr\u00f4le de volume syst\u00e8me.\n<br/><br/><b>Con\u00e7u &amp; d\u00e9velopp\u00e9 par:</b>\n<br/>\u2022 Lee Bailey (alias @LeeDrOiD)\n<br/> Remerciements :\n<br/>\u2022 Les cr\u00e9ateurs de App Intro.\n<br/>\u2022 Ereza for Custom Activity On Crash.\n<br/>\u2022 D-Max for Spots Dialog.\n<br/>Traductions par:\n<br/>\u2022 Linar10 - Polonais\n<br/>\u2022 Fatih Firinci - Turque\n<br/>\u2022 guillerag - Espagnol\n<br/>\u2022 Nuno Nebeker - Portugais\n<br/>\u2022 \u0418\u0433\u043e\u0440\u044c \u0418\u0440\u0438\u043d\u0438\u043d - Russe\n<br/>\u2022 Emad Ayad - Arabe\n<br/>\u2022 Sylm - Fran\u00e7ais\n<br/><br/>N\'h\u00e9sitez pas \u00e0 me contacter via \"Retour par Email\" &amp; n\'oubliez de laissez une appr\u00e9ciation &#128512;]]></string>
+    <string name="about"><![CDATA[<b>Volume Panel:</b>\n<br/>\u2022Remplacement pratique du contr\u00f4le de volume syst\u00e8me.\n<br/><br/><b>Con\u00e7u &amp; d\u00e9velopp\u00e9 par:</b>\n<br/>\u2022 Lee Bailey (alias @LeeDrOiD)\n<br/> Remerciements :\n<br/>\u2022 Les cr\u00e9ateurs de App Intro.\n<br/>\u2022 Ereza for Custom Activity On Crash.\n<br/>\u2022 D-Max for Spots Dialog.\n<br/>Traductions par:\n<br/>\u2022 Linar10 - Polonais\n<br/>\u2022 Fatih Firinci - Turque\n<br/>\u2022 guillerag - Espagnol\n<br/>\u2022 Nuno Nebeker - Portugais\n<br/>\u2022 \u0418\u0433\u043e\u0440\u044c \u0418\u0440\u0438\u043d\u0438\u043d - Russe\n<br/>\u2022 Sylm - Fran\u00e7ais\n<br/>\u2022 Emad Ayad - Arabe\n<br/>\u2022 VM - Allemand\n<br/>\u2022 Alpert7 - Chinois\n<br/>\u2022 Nguy\u1ec5n Lam - Vietnamien \n<br/><br/>N\'h\u00e9sitez pas \u00e0 me contacter via \"Retour par Email\" &amp; n\'oubliez de laissez une appr\u00e9ciation &#128512;]]></string>
     <string name="about_title">A Propos</string>
     <string name="accessibility_description"><u>Accessibilité</u>
         \n\nCette permission permet de détecter lorsque les boutons volume +\\- sont utilisés.
@@ -99,7 +99,7 @@
     <string name="notif_panel"><![CDATA[Tous les appareils ne supportent pas la séparation du volume des Notifications et celui de la sonnerie.
 <br/><br/>Si les deux curseurs bougent en même temps, c\'est votre configuration système qui est ainsi et cela n\'a rien à voir avec Volume Panel.]]></string>
     <string name="notification_listener">Volume Panel récepteur d\'événement Notification</string>
-    <string name="oops_error">Houps… Il semble que quelque chose s\'est mal passé et que Volume Panel s\'est planté, pressez \"ENVOYER RAPPORT\" pour m\'en informer.</string>
+    <string name="oops_error">Houps… Il semble que quelque chose s\'est mal passé et que Volume Panel s\'est planté, utilisez \"ENVOYER RAPPORT\" pour m\'en informer.</string>
     <string name="order">Changer l\'ordre des panneaux</string>
     <string name="overlay_needed"><u>System Overlay</u>
         \n\nCette permission est nécessaire pour que Volume Panel s\'affiche dans toutes les autres applications.</string>
@@ -179,11 +179,13 @@
     <string name="red">Rouge</string>
     <string name="green">Vert</string>
     <string name="blue">Bleu</string>
-    <string name="hide">Hide Me</string>
-    <string name="skip">Skip</string>
-    <string name="app_sign">This application has been modified and will not run, re-directing to the play store</string>
-    <string name="fill_vertically">Fill Vertically</string>
-    <string name="horizontal">Horizontal Sliders</string>
-    <string name="fill_horizontal">Fill Horizontally</string>
-    <string name="bottom">Position Bottom</string>
+    <string name="hide">Cacher</string>
+    <string name="skip">Passer</string>
+    <string name="app_sign">Cette application a été modifiée et ne fonctionne plus, redirection vers Play Store</string>
+    <string name="fill_vertically">Remplir verticalement</string>
+    <string name="horizontal">Curseurs horizontaux</string>
+    <string name="fill_horizontal">Remplir horizontalement</string>
+    <string name="bottom">Position bas</string>
+    <string name="dont_allow">Invalid Licence</string>
+    <string name="text_colour">Text Colour</string>
 </resources>

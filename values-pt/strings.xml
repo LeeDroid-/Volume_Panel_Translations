@@ -216,4 +216,6 @@
     <string name="horizontal">Barra Horizontal</string>
     <string name="fill_horizontal">Preencher Horizontalmente</string>
     <string name="bottom">Posição Fundo</string>
+    <string name="dont_allow">Invalid Licence</string>
+    <string name="text_colour">Text Colour</string>
 </resources>

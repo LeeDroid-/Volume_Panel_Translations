@@ -1,23 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resources>
     <string name="about"><![CDATA[<b>Volume Panel:</b>
-        <br/>\u2022 Гибкая замена для вашей системной панели управления громкостью.
-        <br/><br/><b>Спроектировано и разработано:</b>
-        <br/>\u2022 Lee Bailey (AKA @LeeDrOiD)
-        <br/><b>Дополнительные благодарности:</b><br/>\u2022 Создателям вступления для приложения.
-        <br/>\u2022 Ereza за пользовательские активити при сбое.
-        <br/>\u2022 D-Max за определение диалога.
-        <br/><b>Переводчики:</b><br/>
-        <br/>\u2022 Linar10 - Polish
-        <br/>\u2022 Fatih Firinci - Turkish
-        <br/>\u2022 guillerag - Spanish
-        <br/>\u2022 Nuno Nebeker - Portuguese
-        <br/>\u2022 Игорь Иринин - Russian
-	<br/>\u2022 Emad Ayad - Arabic
-        <br/><br/>Не стесняйтесь связываться со мной через \"Обратную связь\", и не забудьте оставить отзыв! &#128512;]]></string>
+    <br/>\u2022 \u0413\u0438\u0431\u043a\u0430\u044f \u0437\u0430\u043c\u0435\u043d\u0430 \u0434\u043b\u044f \u0432\u0430\u0448\u0435\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0439 \u043f\u0430\u043d\u0435\u043b\u0438 \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0433\u0440\u043e\u043c\u043a\u043e\u0441\u0442\u044c\u044e.<br/><br/><b>\u0421\u043f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u043e \u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0430\u043d\u043e:</b><br/>\u2022 Lee Bailey (AKA @LeeDrOiD)<br/><b>\u0414\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u0431\u043b\u0430\u0433\u043e\u0434\u0430\u0440\u043d\u043e\u0441\u0442\u0438:</b><br/>\u2022 \u0421\u043e\u0437\u0434\u0430\u0442\u0435\u043b\u044f\u043c \u0432\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u044f \u0434\u043b\u044f \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f.<br/>\u2022 Ereza \u0437\u0430 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u0441\u043a\u0438\u0435 \u0430\u043a\u0442\u0438\u0432\u0438\u0442\u0438 \u043f\u0440\u0438 \u0441\u0431\u043e\u0435.<br/>\u2022 D-Max \u0437\u0430 \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u0434\u0438\u0430\u043b\u043e\u0433\u0430.<br/><b>\u041f\u0435\u0440\u0435\u0432\u043e\u0434\u0447\u0438\u043a\u0438:</b><br/><br/>\u2022 Linar10 - Polish<br/>\u2022 Fatih Firinci - Turkish<br/>\u2022 guillerag - Spanish<br/>\u2022 Nuno Nebeker - Portuguese<br/>\u2022 \u0418\u0433\u043e\u0440\u044c \u0418\u0440\u0438\u043d\u0438\u043d - Russian<br/>\u2022 Emad Ayad - Arabic<br/><br/>\u041d\u0435 \u0441\u0442\u0435\u0441\u043d\u044f\u0439\u0442\u0435\u0441\u044c \u0441\u0432\u044f\u0437\u044b\u0432\u0430\u0442\u044c\u0441\u044f \u0441\u043e \u043c\u043d\u043e\u0439 \u0447\u0435\u0440\u0435\u0437 \"\u041e\u0431\u0440\u0430\u0442\u043d\u0443\u044e \u0441\u0432\u044f\u0437\u044c\", \u0438 \u043d\u0435 \u0437\u0430\u0431\u0443\u0434\u044c\u0442\u0435 \u043e\u0441\u0442\u0430\u0432\u0438\u0442\u044c \u043e\u0442\u0437\u044b\u0432! &#128512;]]></string>
     <string name="about_title">О программе</string>
-    <string name="accessibility_description">
-        <u>Служба специальных возможностей</u>
+    <string name="accessibility_description"><u>Служба специальных возможностей</u>
         \n\nЭто разрешение позволяет определять громкость после нажатия кнопок +\\-.
         \n\nНикакой другой контент не определяется.
         \n\nНекоторым аппаратам потребуется перезагрузка для запуска службы.</string>
@@ -29,26 +15,25 @@
     <string name="anim_duration">Длительность анимации = %.2fs</string>
     <string name="anim_durations">Длительность анимации</string>
     <string name="app_name">Volume Panel</string>
-    <string name="auto_dark_sum">В зависимости от системного режима.
-	    \n\u2022 Требуется поддержка производителем.</string>
+    <string name="auto_dark_sum">\u0412 \u0437\u0430\u0432\u0438\u0441\u0438\u043c\u043e\u0441\u0442\u0438 \u043e\u0442 \u0441\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0433\u043e \u0440\u0435\u0436\u0438\u043c\u0430.
+        \n\u2022 \u0422\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044f \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u0435\u043c.</string>
     <string name="background_colour">Цвет фона</string>
     <string name="bat_opt"><![CDATA[<b>Volume Panel оптимизируется системой и может быть отключена в фоновом режиме</b>.
         <br/><br/>Ни одна из служб Volume Panel не потребляет много заряда, но отключение оптимизации повышает надежность работы.
         <br/><br/>Нажмите \"Закрыть\", чтобы пропустить отключение оптимизации, или нажмите \"Перейти\", найдите Volume Panel в списке \"Всех приложений\" и отключите экономию заряда батареи.
-        <br/><br/>Если вы обнаружите, что служба все еще отключается системой, попробуйте включить опцию "Принудительно заставлять службы продолжать работать".]]></string>
+        <br/><br/>Если вы обнаружите, что служба все еще отключается системой, попробуйте включить опцию \"Принудительно заставлять службы продолжать работать\".]]></string>
     <string name="behaviour">Поведение</string>
     <string name="block_vold_lp">Блокировать долгое нажатие кнопки Громкость -</string>
-    <string name="block_vold_lp_sum">\u2022 Исправление ошибки после нажатия кнопок Громкость и Питание для скриншота.</string>
+    <string name="block_vold_lp_sum">\u2022 \u0418\u0441\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043e\u0448\u0438\u0431\u043a\u0438 \u043f\u043e\u0441\u043b\u0435 \u043d\u0430\u0436\u0430\u0442\u0438\u044f \u043a\u043d\u043e\u043f\u043e\u043a \u0413\u0440\u043e\u043c\u043a\u043e\u0441\u0442\u044c \u0438 \u041f\u0438\u0442\u0430\u043d\u0438\u0435 \u0434\u043b\u044f \u0441\u043a\u0440\u0438\u043d\u0448\u043e\u0442\u0430.</string>
     <string name="border_colour">Цвет границы</string>
     <string name="border_thickness">Толщина границы = %1$d dp</string>
     <string name="border_thicknesss">Толщина границы</string>
-    <string name="bright_calibrate">
-        <b>i</b>: Калибровка максимальной яркости:
-        \n\u2022 Установите яркость на максимум, затем сделайте здесь долгое нажатие.</string>
+    <string name="bright_calibrate"><b>i</b>: \u041a\u0430\u043b\u0438\u0431\u0440\u043e\u0432\u043a\u0430 \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0439 \u044f\u0440\u043a\u043e\u0441\u0442\u0438:
+        \n\u2022 \u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u044f\u0440\u043a\u043e\u0441\u0442\u044c \u043d\u0430 \u043c\u0430\u043a\u0441\u0438\u043c\u0443\u043c, \u0437\u0430\u0442\u0435\u043c \u0441\u0434\u0435\u043b\u0430\u0439\u0442\u0435 \u0437\u0434\u0435\u0441\u044c \u0434\u043e\u043b\u0433\u043e\u0435 \u043d\u0430\u0436\u0430\u0442\u0438\u0435.</string>
     <string name="cancel">Отмена</string>
     <string name="cast">Управление громкостью трансляции</string>
     <string name="click_out">Нажать в любом месте для закрытия</string>
-    <string name="click_out_sum">\u2022 Может мешать другим приложениям.</string>
+    <string name="click_out_sum">\u2022 \u041c\u043e\u0436\u0435\u0442 \u043c\u0435\u0448\u0430\u0442\u044c \u0434\u0440\u0443\u0433\u0438\u043c \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f\u043c.</string>
     <string name="close">Закрыть</string>
     <string name="corner_scale">Радиус скругления углов = %1$d%%</string>
     <string name="corner_scales">Радиус скругления углов</string>
@@ -61,8 +46,7 @@
     <string name="disable_acc">ПОЖАЛУЙСТА, ОТКЛЮЧИТЕ СЛУЖБУ СПЕЦИАЛЬНЫХ ВОЗМОЖНОСТЕЙ.</string>
     <string name="disable_notif">ПОЖАЛУЙСТА, ОТКЛЮЧИТЕ СЛУЖБУ ДОСТУПА К УВЕДОМЛЕНИЯМ</string>
     <string name="dismiss">Отклонить</string>
-    <string name="dnd_access">
-        <u>Доступ к функции "Не беспокоить"</u>
+    <string name="dnd_access"><u>Доступ к функции \"Не беспокоить\"</u>
         \n\nЭто разрешение позволяет изменять настройки функции Не беспокоить.
         \n\n</string>
     <string name="do_not_kill">Принудительно заставлять службы продолжать работать</string>
@@ -75,7 +59,7 @@
     <string name="enable_blacklist">Включить исключение приложений</string>
     <string name="enable_volume_panel">Переопределить кнопку громкости</string>
     <string name="exclude_applications">Исключить приложения</string>
-    <string name="exclude_applications_sum">\u2022 Volume panel не будет открываться в этих приложениях.</string>
+    <string name="exclude_applications_sum">\u2022 Volume panel \u043d\u0435 \u0431\u0443\u0434\u0435\u0442 \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0442\u044c\u0441\u044f \u0432 \u044d\u0442\u0438\u0445 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f\u0445.</string>
     <string name="excluded">Volume Panel: Приложение исключено</string>
     <string name="failed_window_add">Не удалось добавить окно, пожалуйста, откройте приложение и убедитесь, что разрешение Поверх других приложений предоставлено</string>
     <string name="fill_style">Сплошной цвет ползунков</string>
@@ -107,29 +91,25 @@
         \n\nДругие службы специальных возможностей для захвата/настройки нажатий кнопок громкости будут мешать Volume Panels перехватывать эти кнопки.
         \n\nПожалуйста, подумайте над отключением настройки кнопки громкости для этих приложений.
         \n\nКроме того, включите ярлык для лаунчера и откройте его с помощью переназначения!</string>
-    <string name="mapper_sum">\u2022 Нажмите здесь для подробной информации</string>
+    <string name="mapper_sum">\u2022 \u041d\u0430\u0436\u043c\u0438\u0442\u0435 \u0437\u0434\u0435\u0441\u044c \u0434\u043b\u044f \u043f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0439 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438</string>
     <string name="margin">Грани панели = %1$d dp</string>
     <string name="margins">Грани панели</string>
     <string name="media">Громкость медиа =</string>
     <string name="mute_media">Отключить медиа</string>
     <string name="need_dnd">Требуется разрешение Не беспокоить</string>
     <string name="not_found">Активити не найден, пожалуйста, перейдите в настройки и предоставьте вручную</string>
-    <string name="notif_access">
-        <u>Доступ к уведомлениям</u>
-        \n\n\u2022 Это разрешение позволяет обнаруживать активный Casting или Streaming.
-        \n\u2022 Если вы хотите работать без контроля потоков трансляции, просто пропустите это разрешение.
-        \n\nНикакой другой контент из уведомлений не определяется.
-        \n\n</string>
+    <string name="notif_access"><u>\u0414\u043e\u0441\u0442\u0443\u043f \u043a \u0443\u0432\u0435\u0434\u043e\u043c\u043b\u0435\u043d\u0438\u044f\u043c</u>
+        \n\n\u2022 \u042d\u0442\u043e \u0440\u0430\u0437\u0440\u0435\u0448\u0435\u043d\u0438\u0435 \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0438\u0432\u0430\u0442\u044c \u0430\u043a\u0442\u0438\u0432\u043d\u044b\u0439 Casting \u0438\u043b\u0438 Streaming.
+        \n\u2022 \u0415\u0441\u043b\u0438 \u0432\u044b \u0445\u043e\u0442\u0438\u0442\u0435 \u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c \u0431\u0435\u0437 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044f \u043f\u043e\u0442\u043e\u043a\u043e\u0432 \u0442\u0440\u0430\u043d\u0441\u043b\u044f\u0446\u0438\u0438,\u043f\u0440\u043e\u0441\u0442\u043e \u043f\u0440\u043e\u043f\u0443\u0441\u0442\u0438\u0442\u0435 \u044d\u0442\u043e \u0440\u0430\u0437\u0440\u0435\u0448\u0435\u043d\u0438\u0435.
+        \n\n\u041d\u0438\u043a\u0430\u043a\u043e\u0439 \u0434\u0440\u0443\u0433\u043e\u0439 \u043a\u043e\u043d\u0442\u0435\u043d\u0442 \u0438\u0437 \u0443\u0432\u0435\u0434\u043e\u043c\u043b\u0435\u043d\u0438\u0439 \u043d\u0435 \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u0435\u0442\u0441\u044f.\n\n</string>
     <string name="notif_panel"><![CDATA[Не все устройства поддерживают разделение уведомлений и громкости звонка.
         <br/><br/>Если оба ползунка меняются вместе, это происходит из-за конфигурации вашей системы и не имеет отношения к Volume Panel.]]></string>
     <string name="notification_listener">Доступ к уведомлениям для Volume Panel</string>
     <string name="oops_error">Ой.. Похоже, что-то пошло не так и Volume Panel прекратила работу, пожалуйста, нажмите ниже \"ОТПРАВИТЬ ОТЧЕТ\", чтобы сообщить мне.</string>
     <string name="order">Изменить порядок панелей</string>
-    <string name="overlay_needed">
-        <u>Системные наложения</u>
+    <string name="overlay_needed"><u>Системные наложения</u>
         \n\nЭто разрешение необходимо для отображения Volume Panel поверх других приложений.</string>
-    <string name="perms">
-        <u>Требуется разрешение</u>
+    <string name="perms"><u>Требуется разрешение</u>
         \n\nЧтобы заменить системную панель громкости, требуется несколько разрешений.
         \n\nСейчас мы покажем вам несколько экранов, подробно описывающих эти разрешения, их использование и кнопку для их включения.
         \n\n</string>
@@ -139,13 +119,13 @@
     <string name="press_back">По завершению, нажмите назад для возвращения в приложение.</string>
     <string name="preview"><![CDATA[Режим предпросмотра: Панели Вызова и Трансляции будут отображаться только при необходимости.]]></string>
     <string name="pro">Обновить до Volume Panel Pro!</string>
-    <string name="pro_only"> - Только Pro</string>
+    <string name="pro_only">- Только Pro</string>
     <string name="pro_un">Убрать рекламу и разблокировать все функции.</string>
     <string name="proceed">Продолжить</string>
     <string name="rate_app">Оценить</string>
-    <string name="rate_it"><![CDATA[<p style="text-align:center"><b>Нравится Volume Panel?</b>
-        <br/><br/>Пожалуйста, оставьте отзыв в Play Маркете!
-        <br/><br/>\u2b50\u2b50\u2b50\u2b50\u2b50</p>]]></string>
+    <string name="rate_it"><![CDATA[<p style="text-align:center"><b>\u041d\u0440\u0430\u0432\u0438\u0442\u0441\u044f Volume Panel?</b>
+    <br/><br/>\u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u043e\u0441\u0442\u0430\u0432\u044c\u0442\u0435 \u043e\u0442\u0437\u044b\u0432 \u0432 Play \u041c\u0430\u0440\u043a\u0435\u0442\u0435!
+    <br/><br/>\u2b50\u2b50\u2b50\u2b50\u2b50</p>]]></string>
     <string name="reenable">Повторное включение</string>
     <string name="ring">Звонок</string>
     <string name="ring_mode">Режим звонка</string>
@@ -171,7 +151,7 @@
         <br/><br/><b>Звук не меняется в некоторых приложениях:<br/>
         </b><br/>Некоторые приложения, такие как Instagram и Snapchat, полностью фокусируются на аудио и пытаются захватить аудио кнопки для самих себя. Если у вас возникла эта проблема, включите опцию \"Исключить приложения\" и добавьте в список нарушающие приложения.
         <br/><br/><b>Системная панель громкости продолжает возвращаться:<br/></B><br/>
-        Весьма вероятно, что ваша система убивает службу специальных возможностей для Volume Panel. Если это происходит, пожалуйста, убедитесь, что для приложения отключена оптимизация батареи и памяти, также может помочь включение "Триггера для жестов вверх/вниз".
+        Весьма вероятно, что ваша система убивает службу специальных возможностей для Volume Panel. Если это происходит, пожалуйста, убедитесь, что для приложения отключена оптимизация батареи и памяти, также может помочь включение \"Триггера для жестов вверх/вниз\".
         <br/>Для большей информации посетите: http://www.dontkillmyapp.com/]]></string>
     <string name="transparency">Прозрачность</string>
     <string name="trigger_cat">Триггер</string>
@@ -180,9 +160,8 @@
     <string name="trigger_scale_ts">Размер триггера</string>
     <string name="trigger_scale_ty">Размер триггера Y = %1$d%%</string>
     <string name="up_launch">Запускать только по нажатию кнопки Громкость +</string>
-    <string name="up_launch_sum">\u2022 Панель будет запускаться только при нажатии на кнопку громкости +.</string>
-    <string name="usage_access">
-        <u>Доступ к использованию</u>
+    <string name="up_launch_sum">\u2022 \u041f\u0430\u043d\u0435\u043b\u044c \u0431\u0443\u0434\u0435\u0442 \u0437\u0430\u043f\u0443\u0441\u043a\u0430\u0442\u044c\u0441\u044f \u0442\u043e\u043b\u044c\u043a\u043e \u043f\u0440\u0438 \u043d\u0430\u0436\u0430\u0442\u0438\u0438 \u043d\u0430 \u043a\u043d\u043e\u043f\u043a\u0443 \u0433\u0440\u043e\u043c\u043a\u043e\u0441\u0442\u0438 +.</string>
+    <string name="usage_access"><u>Доступ к использованию</u>
         \n\nЭто разрешение позволяет определять используемое в данный момент приложение по статистике его использования и проверять, исключили его или нет.
         \n\nЕсли вы хотите продолжать без исключения приложений, просто пропустите это разрешение.
         \n\n</string>
@@ -192,8 +171,8 @@
     <string name="vibe_duration">Длительность вибрации = %.2fs</string>
     <string name="vibe_durations">Длительность вибрации</string>
     <string name="vibrate">Вибрация</string>
-    <string name="vol_timeout">Тайм-аут панели = %1$ds</string>
     <string name="vol_timeouts">Тайм-аут панели</string>
+    <string name="vol_timeout">Тайм-аут панели = %1$ds</string>
     <string name="volumeui">Интерфейс громкости</string>
     <string name="show_call">Всегда отображать громкость звонка</string>
     <string name="show_bluetooth">Отображать кнопку Bluetooth</string>
@@ -205,14 +184,16 @@
     <string name="when_notif">Только при активном уведомлении</string>
     <string name="volume_plus">Volume +</string>
     <string name="volume_minus">Volume -</string>
-    <string name="red">красный</string>
-    <string name="green">зеленый</string>
-    <string name="blue">синий</string>
-    <string name="hide">Hide Me</string>
-    <string name="skip">Skip</string>
-    <string name="app_sign">This application has been modified and will not run, re-directing to the play store</string>
+    <string name="red">Красный</string>
+    <string name="green">Зелёный</string>
+    <string name="blue">Синий</string>
+    <string name="horizontal">Горизонтальные ползунки</string>
+    <string name="fill_horizontal">Заполнить</string>
+    <string name="bottom">Положение снизу</string>
     <string name="fill_vertically">Fill Vertically</string>
-    <string name="horizontal">Horizontal Sliders</string>
-    <string name="fill_horizontal">Fill Horizontally</string>
-    <string name="bottom">Position Bottom</string>
+    <string name="app_sign">This application has been modified and will not run, re-directing to the play store</string>
+    <string name="skip">Skip</string>
+    <string name="hide">Hide Me</string>
+    <string name="dont_allow">Invalid Licence</string>
+    <string name="text_colour">Text Colour</string>
 </resources>
