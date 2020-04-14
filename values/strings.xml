@@ -46,7 +46,6 @@
     <string name="block_vold_lp_sum">\u2022 Fixes Volume + Power screenshot issues.</string>
     <string name="border_colour">Border Colour</string>
     <string name="border_thickness">Border Thickness = %1$d dp</string>
-    <string name="border_thicknesss">Border Thickness</string>
     <string name="bright_calibrate">
         <b>i</b>: Recalibrate Maximum Brightness:
         \n\u2022 Set your screen brightness to Max then long press here.</string>
@@ -201,7 +200,6 @@
     <string name="vol_timeout">Panel Timeout = %1$ds</string>
     <string name="volumeui">Volume UI</string>
     <string name="anim_durationv" translatable="false">%.2fs</string>
-    <string name="border_thicknessv" translatable="false">%1$d dp</string>
     <string name="corner_scalev" translatable="false">%1$d%%</string>
     <string name="marginv" translatable="false">%1$d dp</string>
     <string name="slide_heightyv" translatable="false">%1$d%%</string>
@@ -232,4 +230,9 @@
     <string name="telegram" translatable="false"><![CDATA[<br/><br/><br/><b>Volume Panel @Telegram:<b/> http://www.t.me/volumepanel]]></string>
     <string name="dont_allow">Invalid Licence</string>
     <string name="text_colour">Text Colour</string>
+    <string name="force_english">Force English</string>
+    <string name="merge_panels">Merge Panels</string>
+    <string name="select">Select</string>
+    <string name="design_preset">Design Presets</string>
+    <string name="design_preset_summary">Choose your layout then customise your panel colours in the \"Design\" section.</string>
 </resources>

@@ -43,7 +43,6 @@
     <string name="block_vold_lp_sum">\u2022 Beheben von Lautstärke- und Screenshot-Problemen.</string>
     <string name="border_colour">Rahmen-Farbe</string>
     <string name="border_thickness">Rahmen-Breite = %1$d dp</string>
-    <string name="border_thicknesss">Rahmen-Breite</string>
     <string name="bright_calibrate">
         <b>i</b>: Maximale Helligkeit neu einstellen:
         \n\u2022 Stellen Sie die Bildschirmhellikeit auf die höchste Stufe und drücken Sie etwas länger auf diesen Text.</string>
@@ -197,15 +196,6 @@
     <string name="vol_timeouts">Bedienfeld-Timeout</string>
     <string name="vol_timeout">Bedienfeld-Timeout = %1$ds</string>
     <string name="volumeui">Lautstärke UI</string>
-    <string name="anim_durationv" translatable="false">%.2fs</string>
-    <string name="border_thicknessv" translatable="false">%1$d dp</string>
-    <string name="corner_scalev" translatable="false">%1$d%%</string>
-    <string name="marginv" translatable="false">%1$d dp</string>
-    <string name="slide_heightyv" translatable="false">%1$d%%</string>
-    <string name="trigger_scale_txv" translatable="false">%1$d%%</string>
-    <string name="ver_posv" translatable="false">%1$d%%</string>
-    <string name="vibe_durationv" translatable="false">%.2fs</string>
-    <string name="vol_timeoutv" translatable="false">%1$ds</string>
     <string name="show_call">Anruf-Lautstärke immer anzeigen</string>
     <string name="show_bluetooth">Bluetooth-Button anzeigen</string>
     <string name="block_vold_up_lp">Langes Drücken der +Lautstärketaste blockieren</string>
@@ -219,13 +209,17 @@
     <string name="red">Rot</string>
     <string name="green">Grün</string>
     <string name="blue">Blau</string>
-    <string name="hide">Hide Me</string>
-    <string name="skip">Skip</string>
-    <string name="app_sign">This application has been modified and will not run, re-directing to the play store</string>
-    <string name="fill_vertically">Fill Vertically</string>
-    <string name="horizontal">Horizontal Sliders</string>
-    <string name="fill_horizontal">Fill Horizontally</string>
-    <string name="bottom">Position Bottom</string>
-    <string name="dont_allow">Invalid Licence</string>
-    <string name="text_colour">Text Colour</string>
+    <string name="hide">Ausblenden</string>
+    <string name="skip">überspringen</string>
+    <string name="app_sign">Diese Anwendung wurde modifiziert und wird nicht ausgeführt.</string>
+    <string name="fill_vertically">Vertikal Füllen</string>
+    <string name="horizontal">Horizontale Schieberegler</string>
+    <string name="fill_horizontal">Horizontal Füllen</string>
+    <string name="bottom">Unterseite Stellung</string>
+    <string name="dont_allow">Ungültige Lizenz</string>
+    <string name="text_colour">Textfarbe</string>
+    <string name="merge_panels">Merge Panels</string>
+    <string name="select">Select</string>
+    <string name="design_preset">Design Presets</string>
+    <string name="design_preset_summary">Choose your layout then customise your panel colours in the \"Design\" section.</string>
 </resources>

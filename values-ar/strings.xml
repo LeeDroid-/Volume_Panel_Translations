@@ -42,7 +42,6 @@
     <string name="block_vold_lp_sum">\u2022 اصلاح مشاكل لقطة الشاشة عند الضغط علي زر الطاقة و زر رفع الصوت.</string>
     <string name="border_colour">لون الإطار</string>
     <string name="border_thickness">سماكة الإطار = %1$d dp</string>
-    <string name="border_thicknesss">سماكة الإطار</string>
     <string name="bright_calibrate">
         <b>i</b>: معايرة أقصي سطوع للشاشة:
         \n\u2022 اضبط سطوع الشاشة على أعلي إضاءة ثم اضغط هنا ضغطة مطولة.</string>
@@ -213,7 +212,11 @@
     <string name="horizontal">المؤشر الأفقي </string>
     <string name="fill_horizontal">إملأ بشكل أفقي</string>
     <string name="bottom">الموضع بالأسفل</string>
-    <string name="dont_allow">Invalid Licence</string>
-    <string name="text_colour">Text Colour</string>
-    <string name="app_sign">This application has been modified and will not run, re-directing to the play store</string>
+    <string name="dont_allow">ترخيص غير صالح</string>
+    <string name="text_colour">لون النص</string>
+    <string name="app_sign">تم تعديل هذا التطبيق ولن يعمل.</string>
+    <string name="merge_panels">Merge Panels</string>
+    <string name="select">Select</string>
+    <string name="design_preset">Design Presets</string>
+    <string name="design_preset_summary">Choose your layout then customise your panel colours in the \"Design\" section.</string>
 </resources>

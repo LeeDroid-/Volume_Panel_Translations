@@ -14,8 +14,7 @@
     <string name="anim_duration">Duración de la animación = %.2fs</string>
     <string name="anim_durations">Duración de la animación</string>
     <string name="app_name">Volume Panel</string>
-    <string name="auto_dark_sum">\u2022 Modo Claro/Oscuro definido por el sistema.
-        \n\u2022 Se necesita el soporte del fabricante.</string>
+    <string name="auto_dark_sum">\u2022 Modo Claro/Oscuro definido por el sistema.\r\n        \n\u2022 Se necesita el soporte del fabricante.</string>
     <string name="background_colour">Color de fondo</string>
     <string name="bat_opt"><![CDATA[<b>Volume Panel está siendo optimizado por el sistema y puede ser deshabilitado en segundo plano</b>.
     <br/><br/>Ninguno de los servicios de Volume Panel son de uso intensivo para la batería, pero la deshabilitación de la optimización mejorará la estabilidad.
@@ -26,9 +25,7 @@
     <string name="block_vold_lp_sum">\u2022 Soluciona los problemas de las capturas de pantalla mediante los botones de Volumen y Encendido.</string>
     <string name="border_colour">Color del borde</string>
     <string name="border_thickness">Espesor de los bordes = %1$d dp</string>
-    <string name="border_thicknesss">Espesor de los bordes</string>
-    <string name="bright_calibrate"><b>i</b>: Recalibrar el brillo m\u00e1ximo:
-        \n\u2022 Ajustar el brillo de la pantalla al m\u00e1ximo y luego mantener pulsado aqu\u00ed.</string>
+    <string name="bright_calibrate"><b>i</b>: Recalibrar el brillo m\u00e1ximo:\r\n        \n\u2022 Ajustar el brillo de la pantalla al m\u00e1ximo y luego mantener pulsado aqu\u00ed.</string>
     <string name="cancel">Cancelar</string>
     <string name="cast">Mostrar panel Cast</string>
     <string name="click_out">Pulsar fuera para cerrar</string>
@@ -95,11 +92,7 @@
     <string name="mute_media">Silenciar medios</string>
     <string name="need_dnd">Permisos requeridos modo no molestar</string>
     <string name="not_found">No se detecta ninguna actividad, por favor, ve a los Ajustes y concede los permisos manualmente</string>
-    <string name="notif_access"><u>Acceso a notificaciones</u>
-        \n\n\u2022 Este permiso nos permite detectar transmisiones Cast o de Streaming.
-        \n\u2022 Si deseas ejecutar sin controlarlas, no dudes en omitir este permiso.
-        \n\nNo se registrar\u00e1 ning\u00fan contenido de las notificaciones.
-        \n\n</string>
+    <string name="notif_access"><u>Acceso a notificaciones</u>\r\n        \n\n\u2022 Este permiso nos permite detectar transmisiones Cast o de Streaming.\r\n        \n\u2022 Si deseas ejecutar sin controlarlas, no dudes en omitir este permiso.\r\n        \n\nNo se registrar\u00e1 ning\u00fan contenido de las notificaciones.\r\n        \n\n</string>
     <string name="notif_panel"><![CDATA[No todos los dispositivos admiten la división del volumen de las notificaciones, sistema y del timbre.
     <br/><br/>Si ambos deslizadores cambian juntos, esto se debe a la configuración de tu sistema y no tiene nada que ver con Volume Panel.]]></string>
     <string name="notification_listener">Receptor de notificaciones de Volume Panel</string>
@@ -121,8 +114,7 @@
     <string name="pro_un">Elimina la publicidad y desbloquea todas las funciones.</string>
     <string name="proceed">Proceder</string>
     <string name="rate_app">Valora la aplicación</string>
-    <string name="rate_it"><![CDATA[<p style="text-align:center"><b>\u00bfDisfrutando de Volume Panel?</b>
-    <br/><br/>Por favor, deja tu valoraci\u00f3n en Play Store<br/><br/>\u2b50\u2b50\u2b50\u2b50\u2b50</p>]]></string>
+    <string name="rate_it"><![CDATA[<p style="text-align:center"><b>\u00bfDisfrutando de Volume Panel?</b>\r\n    <br/><br/>Por favor, deja tu valoraci\u00f3n en Play Store\r\n    <br/><br/>\u2b50\u2b50\u2b50\u2b50\u2b50</p>]]></string>
     <string name="reenable">Habilitar de nuevo</string>
     <string name="ring">Sonido</string>
     <string name="ring_mode">Modo de sonido</string>
@@ -189,6 +181,10 @@
     <string name="horizontal">Deslizadores horizontales</string>
     <string name="fill_horizontal">Ajustar horizontalmente</string>
     <string name="bottom">Posición inferior</string>
-    <string name="dont_allow">Invalid Licence</string>
-    <string name="text_colour">Text Colour</string>
+    <string name="dont_allow">Licencia no válida</string>
+    <string name="text_colour">Color del texto</string>
+    <string name="merge_panels">Merge Panels</string>
+    <string name="select">Select</string>
+    <string name="design_preset">Design Presets</string>
+    <string name="design_preset_summary">Choose your layout then customise your panel colours in the \"Design\" section.</string>
 </resources>

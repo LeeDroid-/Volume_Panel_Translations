@@ -25,7 +25,6 @@
     <string name="block_vold_lp_sum">Corrige les probl\u00e8mes de capture d\'\u00e9cran Volume + Allumage</string>
     <string name="border_colour">Couleur des contours</string>
     <string name="border_thickness">Épaisseur des contours = %1$d dp</string>
-    <string name="border_thicknesss">Épaisseur des contours</string>
     <string name="bright_calibrate"><b>i</b>: Recalibrer la luminosit\u00e9 maximum:\n\nR\u00e9gler la luminosit\u00e9 au maximum puis maintenez i\u00e7i.</string>
     <string name="cancel">Annuler</string>
     <string name="cast">Contrôle Volume Cast</string>
@@ -186,6 +185,10 @@
     <string name="horizontal">Curseurs horizontaux</string>
     <string name="fill_horizontal">Remplir horizontalement</string>
     <string name="bottom">Position bas</string>
-    <string name="dont_allow">Invalid Licence</string>
-    <string name="text_colour">Text Colour</string>
+    <string name="dont_allow">Licence non valide</string>
+    <string name="text_colour">Couleur du texte</string>
+    <string name="merge_panels">Merge Panels</string>
+    <string name="select">Select</string>
+    <string name="design_preset">Design Presets</string>
+    <string name="design_preset_summary">Choose your layout then customise your panel colours in the \"Design\" section.</string>
 </resources>

@@ -42,7 +42,6 @@
     <string name="block_vold_lp_sum">\u2022 Resolve problemas com captura de ecrã com Vol + Ligar/Desligar.</string>
     <string name="border_colour">Cor dos Contornos</string>
     <string name="border_thickness">Largura dos Contornos = %1$d dp</string>
-    <string name="border_thicknesss">Largura dos Contornos</string>
     <string name="bright_calibrate">
         <b>i</b>: Recalibrar Brilho Máximo:
         \n\u2022 Ajuste o brilho até ao máximo e de seguida prima e segure aqui.</string>
@@ -216,6 +215,10 @@
     <string name="horizontal">Barra Horizontal</string>
     <string name="fill_horizontal">Preencher Horizontalmente</string>
     <string name="bottom">Posição Fundo</string>
-    <string name="dont_allow">Invalid Licence</string>
-    <string name="text_colour">Text Colour</string>
+    <string name="dont_allow">Licença Inválida</string>
+    <string name="text_colour">Cor do Texto</string>
+    <string name="merge_panels">Merge Panels</string>
+    <string name="select">Select</string>
+    <string name="design_preset">Design Presets</string>
+    <string name="design_preset_summary">Choose your layout then customise your panel colours in the \"Design\" section.</string>
 </resources>

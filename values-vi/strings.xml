@@ -24,7 +24,6 @@
     <string name="block_vold_lp_sum">\u2022 Kh\u1eafc ph\u1ee5c s\u1ef1 c\u1ed1 \u00c2m l\u01b0\u1ee3ng + \u1ea2nh ch\u1ee5p ngu\u1ed3n.</string>
     <string name="border_colour">Màu viền</string>
     <string name="border_thickness">Độ dày viền = %1$d dp</string>
-    <string name="border_thicknesss">Độ dày viền</string>
     <string name="bright_calibrate"><b>i</b>: Hi\u1ec7u ch\u1ec9nh l\u1ea1i \u0111\u1ed9 s\u00e1ng t\u1ed1i \u0111a:\n\n\u2022 \u0110\u1eb7t \u0111\u1ed9 s\u00e1ng m\u00e0n h\u00ecnh c\u1ee7a b\u1ea1n th\u00e0nh t\u1ed1i \u0111a, sau \u0111\u00f3 nh\u1ea5n v\u00e0 gi\u1eef \u1edf \u0111\u00e2y.</string>
     <string name="cancel">Hủy bỏ</string>
     <string name="cast">Điều khiển truyền âm</string>
@@ -186,7 +185,11 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="horizontal">Thanh trượt ngang</string>
     <string name="fill_horizontal">Điền theo chiều ngang</string>
     <string name="bottom">Vị trí dưới cùng</string>
-    <string name="dont_allow">Invalid Licence</string>
-    <string name="text_colour">Text Colour</string>
-    <string name="fill_vertically">Fill Vertically</string>
+    <string name="dont_allow">Giấy phép không hợp lệ</string>
+    <string name="text_colour">Màu văn bản</string>
+    <string name="fill_vertically">Điền theo chiều dọc</string>
+    <string name="merge_panels">Merge Panels</string>
+    <string name="select">Select</string>
+    <string name="design_preset">Design Presets</string>
+    <string name="design_preset_summary">Choose your layout then customise your panel colours in the \"Design\" section.</string>
 </resources>

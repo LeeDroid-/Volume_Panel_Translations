@@ -42,7 +42,6 @@
     <string name="block_vold_lp_sum">\u2022 Naprawiono problemy ze zrzutami ekranu Vol + Power.</string>
     <string name="border_colour">Kolor Ramki</string>
     <string name="border_thickness">Grubość Ramki = %1$d dp</string>
-    <string name="border_thicknesss">Grubość Ramki</string>
     <string name="bright_calibrate">Ponownie Skalibruj Maksymalną Jasność:
         \n\u2022 Ustaw jasność ekranu na Max, a następnie długo naciśnij tutaj.</string>
     <string name="cancel">Anuluj</string>
@@ -215,4 +214,8 @@
     <string name="bottom">Pozycja Na Dole</string>
     <string name="dont_allow">Nieprawidłowa Licencja</string>
     <string name="text_colour">Kolor Tekstu</string>
+    <string name="merge_panels">Merge Panels</string>
+    <string name="select">Select</string>
+    <string name="design_preset">Design Presets</string>
+    <string name="design_preset_summary">Choose your layout then customise your panel colours in the \"Design\" section.</string>
 </resources>
