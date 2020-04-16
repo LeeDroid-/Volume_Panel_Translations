@@ -192,5 +192,5 @@
     <string name="select">Выбрать</string>
     <string name="design_preset">Предустановки дизайна</string>
     <string name="design_preset_summary">Выберите вашу разметку, затем настройте цвета вашей панели в разделе \"Дизайн\".</string>
-    <string name="block_touch_through">Block Touch Through</string>
+    <string name="block_back_touch">Block Background Touches</string>
 </resources>

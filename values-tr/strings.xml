@@ -193,5 +193,5 @@
     <string name="select">Seç</string>
     <string name="design_preset">Tasarım Hazır Ayarları</string>
     <string name="design_preset_summary">Düzeninizi seçin, ardından \"Tasarım\" bölümünde panel renklerinizi özelleştirin.</string>
-    <string name="block_touch_through">Block Touch Through</string>
+    <string name="block_back_touch">Block Background Touches</string>
 </resources>

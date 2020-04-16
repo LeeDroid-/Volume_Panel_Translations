@@ -189,5 +189,5 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="select">Seleccionar</string>
     <string name="design_preset">Diseños predeterminados</string>
     <string name="design_preset_summary">Elige tu diseño y luego personaliza los colores de los paneles en la sección \"Diseño\".</string>
-    <string name="block_touch_through">Block Touch Through</string>
+    <string name="block_back_touch">Block Background Touches</string>
 </resources>

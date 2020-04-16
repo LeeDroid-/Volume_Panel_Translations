@@ -236,4 +236,20 @@
     <string name="design_preset">Design Presets</string>
     <string name="design_preset_summary">Choose your layout then customise your panel colours in the \"Design\" section.</string>
     <string name="block_touch_through">Block Touch Through</string>
+    <string name="recent_changes">Recent Changes</string>
+    <string name="change_log" translatable="false"><![CDATA[
+    <b>V11.36:</b>
+        <br/>\u2022 Move to true accessibility overlay.
+        <br/>\u2022 New true lock screen overlay.
+        <br/>\u2022 Improve horizontal slider expand animation.
+        <br/>\u2022 New Vertical slider Merge Panels option.
+        <br/>\u2022 Auto scale panels if over height or width.
+        <br/>\u2022 True left handed support for horizontal sliders.
+        <br/>\u2022 Fix bleed in solid sliders with border.
+        <br/>\u2022 Improve tint methods to allow for transparency.
+        <br/>\u2022 Add option to block outside touches.
+        <br/>\u2022 Apply margin to shortcut container.
+        <br/>\u2022 Bug fixes.]]>
+    </string>
+    <string name="block_back_touch">Block Background Touches</string>
 </resources>

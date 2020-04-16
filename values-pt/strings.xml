@@ -192,5 +192,5 @@
     <string name="select">Selecionar</string>
     <string name="design_preset">Predefinições de Desenho</string>
     <string name="design_preset_summary">Escolha a organização e personalize as cores do seu painel na secção \"Desenho\".</string>
-    <string name="block_touch_through">Block Touch Through</string>
+    <string name="block_back_touch">Block Background Touches</string>
 </resources>

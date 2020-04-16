@@ -192,5 +192,5 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="select">Selectionner</string>
     <string name="design_preset">Design prédéfinis</string>
     <string name="design_preset_summary">Choisir votre thème puis personnaliser les couleurs des panneaux dans la section \"Design\"</string>
-    <string name="block_touch_through">Block Touch Through</string>
+    <string name="block_back_touch">Block Background Touches</string>
 </resources>

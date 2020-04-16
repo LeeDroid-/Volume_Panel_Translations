@@ -219,5 +219,5 @@
     <string name="select">Select</string>
     <string name="design_preset">Design Presets</string>
     <string name="design_preset_summary">Choose your layout then customise your panel colours in the \"Design\" section.</string>
-    <string name="block_touch_through">Block Touch Through</string>
+    <string name="block_back_touch">Block Background Touches</string>
 </resources>
