@@ -188,8 +188,10 @@
     <string name="bottom">Alt Konum</string>
     <string name="dont_allow">Geçersiz Lisans</string>
     <string name="text_colour">Metin Rengi</string>
-    <string name="merge_panels">Merge Panels</string>
-    <string name="select">Select</string>
-    <string name="design_preset">Design Presets</string>
-    <string name="design_preset_summary">Choose your layout then customise your panel colours in the \"Design\" section.</string>
+    <string name="force_english">İngilizceye Zorla</string>
+    <string name="merge_panels">Panelleri Birleştir</string>
+    <string name="select">Seç</string>
+    <string name="design_preset">Tasarım Hazır Ayarları</string>
+    <string name="design_preset_summary">Düzeninizi seçin, ardından \"Tasarım\" bölümünde panel renklerinizi özelleştirin.</string>
+    <string name="block_touch_through">Block Touch Through</string>
 </resources>

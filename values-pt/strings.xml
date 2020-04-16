@@ -1,24 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resources>
-    <string name="about"><![CDATA[<b>Volume Panel:</b>
-        <br/>\u2022Um substituto flexível para o controlo de volume do sistema.
-        <br/><br/><b>Desenhado &amp; Desenvolvido Por:</b>
-        <br/>\u2022 Lee Bailey (AKA @LeeDrOiD)
-        <br/> Agradecimentos Adicionais a:
-        <br/>\u2022 Os criadores de App Intro.
-        <br/>\u2022 Ereza por Custom Activity On Crash.
-        <br/>\u2022 D-Max por Spots Dialog.
-        <br/>Traduções Por:
-        <br/>\u2022 Linar10 - Polish
-        <br/>\u2022 Fatih Firinci - Turkish
-        <br/>\u2022 guillerag - Spanish
-        <br/>\u2022 Nuno Nebeker - Portuguese
-        <br/>\u2022 Игорь Иринин - Russian
-	<br/>\u2022 Emad Ayad - Arabic
-        <br/><br/>Pode entrar em contacto comigo pela opção \"Dar Feedback por Email\" &amp; não se esqueça de deixar uma crítica &#128512;]]></string>
+    <string name="about"><![CDATA[<b>Volume Panel:</b>\n        <br/>\u2022Um substituto flex\u00edvel para o controlo de volume do sistema.\n        <br/><br/><b>Desenhado &amp; Desenvolvido Por:</b>\n        <br/>\u2022 Lee Bailey (AKA @LeeDrOiD)\n        <br/> Agradecimentos Adicionais a:\n        <br/>\u2022 Os criadores de App Intro.\n        <br/>\u2022 Ereza por Custom Activity On Crash.\n        <br/>\u2022 D-Max por Spots Dialog.\n        <br/>Tradu\u00e7\u00f5es Por:\n        <br/>\u2022 Linar10 - Polaco\n        <br/>\u2022 Fatih Firinci - Turco\n        <br/>\u2022 guillerag - Espanhol\n        <br/>\u2022 Nuno Nebeker - Portugu\u00eas\n        <br/>\u2022 \u0418\u0433\u043e\u0440\u044c \u0418\u0440\u0438\u043d\u0438\u043d - Russo\n        <br/>\u2022 Sylm - Franc\u00eas\n\t<br/>\u2022 Emad Ayad - \u00c1rabe\n        <br/>\u2022 VM - Alem\u00e3o\n        <br/>\u2022 Alpert7 - Chin\u00eas\n        <br/>\u2022 Nguy\u1ec5n Lam - Vietnamita \n        <br/><br/>Pode entrar em contacto comigo pela op\u00e7\u00e3o \"Dar Feedback por Email\" &amp; n\u00e3o se esque\u00e7a de deixar uma cr\u00edtica &#128512;]]></string>
     <string name="about_title">Sobre</string>
-    <string name="accessibility_description">
-        <u>Acesso a Acessibilidade</u>
+    <string name="accessibility_description"><u>Acesso a Acessibilidade</u>
         \n\nEsta permissão permite detetar a utilização das teclas de volume.
         \n\nNão é detetado qualquer outro conteúdo.
         \n\nPode ser necessário reiniciar alguns aparelhos para iniciar este serviço.</string>
@@ -30,25 +14,22 @@
     <string name="anim_duration">Duração de Animações = %.2fs</string>
     <string name="anim_durations">Duração de Animações</string>
     <string name="app_name">Volume Panel</string>
-    <string name="auto_dark_sum">\u2022 Adaptar ao modo Escuro/Claro do sistema.
-        \n\u2022 Depende de suporte do fabricante.</string>
+    <string name="auto_dark_sum">\u2022 Adaptar ao modo Escuro/Claro do sistema.\n        \n\u2022 Depende de suporte do fabricante.</string>
     <string name="background_colour">Cor de Fundo</string>
     <string name="bat_opt"><![CDATA[<b>Volume Panel está a ser otimizado pelo sistema &amp; pode ser encerrada no fundo</b>.
         <br/><br/>Nenhum dos serviços de Volume Panel consome muita bateria, mas desativar otimização melhora a fiabilidade.
         <br/><br/>Clique em \"Fechar\" para continuar otimizado ou \"Ação Agora\" seguido de \"Todas as Aplicações\" e desative Otimização de Bateria para Volume Panel.
-        <br/><br/>If you find that the service is still being killed by the system, try enabling the "Force Keep Services Alive" Option.]]></string>
+        <br/><br/>If you find that the service is still being killed by the system, try enabling the \"Force Keep Services Alive\" Option.]]></string>
     <string name="behaviour">Comportamento</string>
     <string name="block_vold_lp">Bloquear Premir e Segurar Vol-</string>
-    <string name="block_vold_lp_sum">\u2022 Resolve problemas com captura de ecrã com Vol + Ligar/Desligar.</string>
+    <string name="block_vold_lp_sum">\u2022 Resolve problemas com captura de ecr\u00e3 com Vol + Ligar/Desligar.</string>
     <string name="border_colour">Cor dos Contornos</string>
     <string name="border_thickness">Largura dos Contornos = %1$d dp</string>
-    <string name="bright_calibrate">
-        <b>i</b>: Recalibrar Brilho Máximo:
-        \n\u2022 Ajuste o brilho até ao máximo e de seguida prima e segure aqui.</string>
+    <string name="bright_calibrate"><b>i</b>: Recalibrar Brilho M\u00e1ximo:\n        \n\u2022 Ajuste o brilho at\u00e9 ao m\u00e1ximo e de seguida prima e segure aqui.</string>
     <string name="cancel">Cancelar</string>
     <string name="cast">Controlar Volume a Transmitir</string>
     <string name="click_out">Clicar Fora para Fechar</string>
-    <string name="click_out_sum">\u2022 Pode interferir com outras aplicações quando ativado.</string>
+    <string name="click_out_sum">\u2022 Pode interferir com outras aplica\u00e7\u00f5es quando ativado.</string>
     <string name="close">Fechar</string>
     <string name="corner_scale">Raio dos Cantos = %1$d%%</string>
     <string name="corner_scales">Raio dos Cantos</string>
@@ -61,8 +42,7 @@
     <string name="disable_acc">POR FAVOR DESATIVE O SERVIÇO DE ACESSIBILIDADE.</string>
     <string name="disable_notif">POR FAVOR DESATIVE ACESSO A NOTIFICAÇÕES</string>
     <string name="dismiss">Ignorar</string>
-    <string name="dnd_access">
-        <u>Acesso Não Incomodar</u>
+    <string name="dnd_access"><u>Acesso Não Incomodar</u>
         \n\nEsta permissão deixa-nos modificar Definições de Não Incomodar.
         \n\n</string>
     <string name="do_not_kill">Manter Serviços Ativos</string>
@@ -75,7 +55,7 @@
     <string name="enable_blacklist">Ativar lista de Exclusão de Aplicações</string>
     <string name="enable_volume_panel">Substituição de Teclas de Volume</string>
     <string name="exclude_applications">Excluir Aplicações</string>
-    <string name="exclude_applications_sum">\u2022 Volume Panel não abrirá sobre estas aplicações.</string>
+    <string name="exclude_applications_sum">\u2022 Volume Panel n\u00e3o abrir\u00e1 sobre estas aplica\u00e7\u00f5es.</string>
     <string name="excluded">Volume Panel: Aplicação Excluída</string>
     <string name="failed_window_add">Falha a adicionar janela, por favor abra a aplicação e certifique-se de que a permissão Sobrepor a Ouras Aplicações foi concedida.</string>
     <string name="fill_style">Usar Barras Preenchidas</string>
@@ -107,29 +87,22 @@
         \n\nOutros serviços de acessibilidade que capturam/personalizam cliques nos botões de volume interferem com a capacidade de Volume Panel interceptar os botões de volume.
         \n\nPor favor considere desativar a personalização de botões de volume destas aplicações.
         \n\nEm alternativa, ative o atalho de ecrã inicial e abra-o com um remapeador!</string>
-    <string name="mapper_sum">\u2022 Clique aqui par mais informações</string>
+    <string name="mapper_sum">\u2022 Clique aqui par mais informa\u00e7\u00f5es</string>
     <string name="margin">Margem do Painel = %1$d dp</string>
     <string name="margins">Margem do Painel</string>
     <string name="media">"Vol Média = "</string>
     <string name="mute_media">Silenciar Multimédia</string>
     <string name="need_dnd">É Necessária Permissão de Não Incomodar</string>
     <string name="not_found">Atividade não encontrada, por favor vá a Definições e conceda manualmente</string>
-    <string name="notif_access">
-        <u>Acesso a Notificações</u>
-        \n\n\u2022 Esta permissão deixa-nos detetar quando Transmitir está ativo.
-        \n\u2022 Se quiser continuar sem controlar o volume ao transmitir, pode ignorar esta permissão.
-        \n\nNão é captado qualquer conteúdo de notificações.
-        \n\n</string>
+    <string name="notif_access"><u>Acesso a Notifica\u00e7\u00f5es</u>\n        \n\n\u2022 Esta permiss\u00e3o deixa-nos detetar quando Transmitir est\u00e1 ativo.\n        \n\u2022 Se quiser continuar sem controlar o volume ao transmitir, pode ignorar esta permiss\u00e3o.\n        \n\nN\u00e3o \u00e9 captado qualquer conte\u00fado de notifica\u00e7\u00f5es.\n        \n\n</string>
     <string name="notif_panel"><![CDATA[Nem todos os dispositivos suportam controlo de volume Notificações e Toque.
         <br/><br/>Se ambas as barras se moverem em conjunto, isso deve-se à configuração do seu sistema e Volume Panel não consegue fazer nada quanto a isso.]]></string>
     <string name="notification_listener">Serviço de Notificações de Volume Panel</string>
     <string name="oops_error">Oops.. Parece que alguma coisa correu mal e Volume Panel foi abaixo, por favor clique em \"ENVIAR RELATÓRIO\" abaixo para me avisar.</string>
     <string name="order">Alterar Ordem dos Painéis</string>
-    <string name="overlay_needed">
-        <u>Sobrepor a Outras Aplicações</u>
+    <string name="overlay_needed"><u>Sobrepor a Outras Aplicações</u>
         \n\nEsta permissão é necessária para mostrar Volume Panel por cima de outras aplicações.</string>
-    <string name="perms">
-        <u>São Necessárias Permissões</u>
+    <string name="perms"><u>São Necessárias Permissões</u>
         \n\nPara substituir o painel de volume do sistema, são necessárias várias permissões.
         \n\nIremos agora mostrar vários ecrãs com as permissões, a sua utilização &amp; um botão para as ativar.
         \n\n</string>
@@ -139,13 +112,11 @@
     <string name="press_back">De seguida, prima voltar para regressar à aplicação.</string>
     <string name="preview"><![CDATA[Modo de Pré-visuzação: Painéis de Chamada & Transmissão só serão mostrados quando necessário.]]></string>
     <string name="pro">Obter Volume Panel Pro!</string>
-    <string name="pro_only"> - Só Pro</string>
+    <string name="pro_only">- Só Pro</string>
     <string name="pro_un">Remover Publicidade &amp; Desbloquear Todas as Funcionalidades.</string>
     <string name="proceed">Avançar</string>
     <string name="rate_app">Classificar Aplicação</string>
-    <string name="rate_it"><![CDATA[<p style="text-align:center"><b>Está a gostar de Volume Panel?
-        </b><br/><br/>Por favor deixe uma crítica na Play Store!
-        <br/><br/>\u2b50\u2b50\u2b50\u2b50\u2b50</p>]]></string>
+    <string name="rate_it"><![CDATA[<p style="text-align:center"><b>Est\u00e1 a gostar de Volume Panel?\n        </b><br/><br/>Por favor deixe uma cr\u00edtica na Play Store!\n        <br/><br/>\u2b50\u2b50\u2b50\u2b50\u2b50</p>]]></string>
     <string name="reenable">Reativar</string>
     <string name="ring">Toque</string>
     <string name="ring_mode">Modo de Toque</string>
@@ -180,9 +151,8 @@
     <string name="trigger_scale_ts">Escala do Atalho</string>
     <string name="trigger_scale_ty">Escala do Atalho Y = %1$d%%</string>
     <string name="up_launch">Ativar Apenas com Vol +</string>
-    <string name="up_launch_sum">\u2022 O painel só será ativado ao premir Vol +.</string>
-    <string name="usage_access">
-        <u>Acesso de Utilização</u>
+    <string name="up_launch_sum">\u2022 O painel s\u00f3 ser\u00e1 ativado ao premir Vol +.</string>
+    <string name="usage_access"><u>Acesso de Utilização</u>
         \n\nEsta permissão deixa-nos detetar a aplicação em uso via estatísticas de utilização de pacotes &amp; verificar se a excluiu.
         \n\nSe não quiser excluir aplicações pode ignorar esta permissão.
         \n\n</string>
@@ -192,9 +162,9 @@
     <string name="vibe_duration">Duração de Vibração = %.2fs</string>
     <string name="vibe_durations">Duração de Vibração</string>
     <string name="vibrate">Vibrar</string>
-    <string name="vol_timeout">Timeout do Painel = %1$ds</string>
     <string name="vol_timeouts">Timeout do Painel</string>
-    <string name="volumeui">Volume UI</string>
+    <string name="vol_timeout">Timeout do Painel = %1$ds</string>
+    <string name="volumeui">Interface de Volume</string>
     <string name="show_call">Mostrar Sempre Volume de Chamada</string>
     <string name="show_bluetooth">Mostrar Botão Bluetooth</string>
     <string name="block_vold_up_lp">Bloquear Premir e Segurar Vol-</string>
@@ -216,9 +186,11 @@
     <string name="fill_horizontal">Preencher Horizontalmente</string>
     <string name="bottom">Posição Fundo</string>
     <string name="dont_allow">Licença Inválida</string>
-    <string name="text_colour">Cor do Texto</string>
-    <string name="merge_panels">Merge Panels</string>
-    <string name="select">Select</string>
-    <string name="design_preset">Design Presets</string>
-    <string name="design_preset_summary">Choose your layout then customise your panel colours in the \"Design\" section.</string>
+    <string name="text_colour">Cor de Texto</string>
+    <string name="force_english">Forçar Inglês</string>
+    <string name="merge_panels">Juntar Painéis</string>
+    <string name="select">Selecionar</string>
+    <string name="design_preset">Predefinições de Desenho</string>
+    <string name="design_preset_summary">Escolha a organização e personalize as cores do seu painel na secção \"Desenho\".</string>
+    <string name="block_touch_through">Block Touch Through</string>
 </resources>

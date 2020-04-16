@@ -3,9 +3,9 @@
     <string name="about"><![CDATA[</b>Volume Panel:</b>\n<br/>\u2022 Un reemplazo flexible para los controles de volumen de tu sistema.\n<br/><br/><b>Dise\u00f1ado y desarrollado por:</b>\n<br/>\u2022 Lee Bailey (alias @LeeDrOiD)\n<br/> Agradecimientos especiales:\n<br/>\u2022 The creators of App Intro.\n<br/>\u2022 Ereza for Custom Activity On Crash.\n<br/>\u2022 D-Max for Spots Dialog.\n<br/>Traducciones por:\n<br/>\u2022 Linar10 - Polish\n<br/>\u2022 Fatih Firinci - Turkish\n<br/>\u2022 guillerag - Spanish\n<br/>\u2022 Nuno Nebeker - Portuguese\n<br/>\u2022 \u0418\u0433\u043e\u0440\u044c \u0418\u0440\u0438\u043d\u0438\u043d - Russian\n<br/>\u2022 Sylm - Fran\u00e7ais\n<br/>\u2022 Emad Ayad - Arabic\n<br/>\u2022 VM - German\n<br/>\u2022 Alpert7 - Chinese\n<br/>\u2022 Nguy\u1ec5n Lam - Vietnamese\n<br/><br/>No dudes en contactar conmigo a trav\u00e9s de la opci\u00f3n \"Enviar comentarios\" y no olvides dejarme un comentario &#128512;]]></string>
     <string name="about_title">Acerca de</string>
     <string name="accessibility_description"><u>Acceso de Accesibilidad</u>
-        \n\nEste permiso permite detectar las pulsaciones en los botones de volumen.
-        \n\nNo se registra ningún otro contenido.
-        \n\nAlgunos dispositivos pueden requerir un reinicio para iniciar el servicio.</string>
+\n\nEste permiso permite detectar las pulsaciones en los botones de volumen.
+\n\nNo se registra ningún otro contenido.
+\n\nAlgunos dispositivos pueden requerir un reinicio para iniciar el servicio.</string>
     <string name="action">Actuar ahora</string>
     <string name="add_border">Habilitar bordes en panel</string>
     <string name="add_shortcut">Habilitar en Launcher</string>
@@ -14,18 +14,18 @@
     <string name="anim_duration">Duración de la animación = %.2fs</string>
     <string name="anim_durations">Duración de la animación</string>
     <string name="app_name">Volume Panel</string>
-    <string name="auto_dark_sum">\u2022 Modo Claro/Oscuro definido por el sistema.\r\n        \n\u2022 Se necesita el soporte del fabricante.</string>
+    <string name="auto_dark_sum">\u2022 Modo Claro/Oscuro definido por el sistema.\n\n\u2022 Se necesita el soporte del fabricante.</string>
     <string name="background_colour">Color de fondo</string>
     <string name="bat_opt"><![CDATA[<b>Volume Panel está siendo optimizado por el sistema y puede ser deshabilitado en segundo plano</b>.
-    <br/><br/>Ninguno de los servicios de Volume Panel son de uso intensivo para la batería, pero la deshabilitación de la optimización mejorará la estabilidad.
-    <br/><br/>Presiona \"Cerrar\" para ejecutar optimizado o \"Actuar Ahora\" seguido de \"Todas las aplicaciones\" y luego desactiva \" Optimización de la batería para Volume Panel.
-    <br/><br/>Si detectas que el servicio sigue siendo interrumpido por el sistema, intenta habilitar la opción \"Forzar mantener servicios activos\".]]></string>
+<br/><br/>Ninguno de los servicios de Volume Panel son de uso intensivo para la batería, pero la deshabilitación de la optimización mejorará la estabilidad.
+<br/><br/>Presiona \"Cerrar\" para ejecutar optimizado o \"Actuar Ahora\" seguido de \"Todas las aplicaciones\" y luego desactiva \" Optimización de la batería para Volume Panel.
+<br/><br/>Si detectas que el servicio sigue siendo interrumpido por el sistema, intenta habilitar la opción \"Forzar mantener servicios activos\".]]></string>
     <string name="behaviour">Comportamiento</string>
     <string name="block_vold_lp">Bloquear pulsación larga Vol -</string>
     <string name="block_vold_lp_sum">\u2022 Soluciona los problemas de las capturas de pantalla mediante los botones de Volumen y Encendido.</string>
     <string name="border_colour">Color del borde</string>
     <string name="border_thickness">Espesor de los bordes = %1$d dp</string>
-    <string name="bright_calibrate"><b>i</b>: Recalibrar el brillo m\u00e1ximo:\r\n        \n\u2022 Ajustar el brillo de la pantalla al m\u00e1ximo y luego mantener pulsado aqu\u00ed.</string>
+    <string name="bright_calibrate"><b>i</b>: Recalibrar el brillo m\u00e1ximo:\n\n\u2022 Ajustar el brillo de la pantalla al m\u00e1ximo y luego mantener pulsado aqu\u00ed.</string>
     <string name="cancel">Cancelar</string>
     <string name="cast">Mostrar panel Cast</string>
     <string name="click_out">Pulsar fuera para cerrar</string>
@@ -43,12 +43,13 @@
     <string name="disable_notif">POR FAVOR, DESACTIVA EL ACCESO A LAS NOTIFICACIONES</string>
     <string name="dismiss">Rechazar</string>
     <string name="dnd_access"><u>Acceso a No molestar</u>
-        \n\nEste permiso nos permite modificar la configuración de No molestar.\n\n</string>
+\n\nEste permiso nos permite modificar la configuración de No molestar.
+\n\n</string>
     <string name="do_not_kill">Forzar mantener servicios activos</string>
-    <string name="do_not_kill_desc"><![CDATA[<b>Utiliza esta opción solo si Volume Panel sigue sin funcionar.</b>
-    <br/><br/>Algunos dispositivos son demasiado agresivos cuando liberan memoria y eliminan servicios importantes, las aplicaciones con derechos de administrador rara vez se eliminan.
-    <br/><br/>Habilitar los derechos básicos de Administrador para Volume Panel mantendrá al servicio activo.
-    <br/><br/>Tendrás que desactivar esta opción si alguna vez necesitas desinstalar la aplicación.]]></string>
+    <string name="do_not_kill_desc"><![CDATA[<b>Utiliza esta opción solo si Volume Panel sigue sin funcionar.
+</b><br/><br/>Algunos dispositivos son demasiado agresivos cuando liberan memoria y eliminan servicios importantes, las aplicaciones con derechos de administrador rara vez se eliminan.
+<br/><br/>Habilitar los derechos básicos de Administrador para Volume Panel mantendrá al servicio activo.
+<br/><br/>Tendrás que desactivar esta opción si alguna vez necesitas desinstalar la aplicación.]]></string>
     <string name="done">Hecho</string>
     <string name="email_feedback">Enviar comentarios</string>
     <string name="enable_blacklist">Habilitar la exclusión de aplicaciones</string>
@@ -70,9 +71,9 @@
     <string name="icon_colour">Color del icono</string>
     <string name="invert_buttons">Invertir botones de volumen</string>
     <string name="killed">El servicio de accesibilidad de Volume Panel ha sido detenido o eliminado por el sistema.
-        \n\nSi no ha sido intencionado, por favor, prueba la opción \"Forzar mantener servicios activos\" en la aplicación y asegúrate de que la optimización de la batería está desactivada para Volume Panel.</string>
-    <string name="killer_info"><![CDATA[Para más información visita:
-    <br/>http://www.dontkillmyapp.com/]]></string>
+\n\nSi no ha sido intencionado, por favor, prueba la opción \"Forzar mantener servicios activos\" en la aplicación y asegúrate de que la optimización de la batería está desactivada para Volume Panel.</string>
+    <string name="killer_info"><![CDATA[Para más información visita:<br/>
+http://www.dontkillmyapp.com/]]></string>
     <string name="latest">Por favor, asegúrate de que estás utilizando la última versión.</string>
     <string name="launch">Mostrar Volume Panel</string>
     <string name="launch_opts">Opciones de Inicio</string>
@@ -92,9 +93,9 @@
     <string name="mute_media">Silenciar medios</string>
     <string name="need_dnd">Permisos requeridos modo no molestar</string>
     <string name="not_found">No se detecta ninguna actividad, por favor, ve a los Ajustes y concede los permisos manualmente</string>
-    <string name="notif_access"><u>Acceso a notificaciones</u>\r\n        \n\n\u2022 Este permiso nos permite detectar transmisiones Cast o de Streaming.\r\n        \n\u2022 Si deseas ejecutar sin controlarlas, no dudes en omitir este permiso.\r\n        \n\nNo se registrar\u00e1 ning\u00fan contenido de las notificaciones.\r\n        \n\n</string>
+    <string name="notif_access"><u>Acceso a notificaciones</u>\n\n\n\u2022 Este permiso nos permite detectar transmisiones Cast o de Streaming.\n\n\u2022 Si deseas ejecutar sin controlarlas, no dudes en omitir este permiso.\n\n\nNo se registrar\u00e1 ning\u00fan contenido de las notificaciones.\n\n\n</string>
     <string name="notif_panel"><![CDATA[No todos los dispositivos admiten la división del volumen de las notificaciones, sistema y del timbre.
-    <br/><br/>Si ambos deslizadores cambian juntos, esto se debe a la configuración de tu sistema y no tiene nada que ver con Volume Panel.]]></string>
+<br/><br/>Si ambos deslizadores cambian juntos, esto se debe a la configuración de tu sistema y no tiene nada que ver con Volume Panel.]]></string>
     <string name="notification_listener">Receptor de notificaciones de Volume Panel</string>
     <string name="oops_error">Vaya.. parece que algo ha salido mal, Volume Panel se ha cerrado, por favor, pulsa en \"ENVIAR INFORME\" para hacermelo saber.</string>
     <string name="order">Cambiar orden de los paneles</string>
@@ -183,8 +184,10 @@
     <string name="bottom">Posición inferior</string>
     <string name="dont_allow">Licencia no válida</string>
     <string name="text_colour">Color del texto</string>
-    <string name="merge_panels">Merge Panels</string>
-    <string name="select">Select</string>
-    <string name="design_preset">Design Presets</string>
-    <string name="design_preset_summary">Choose your layout then customise your panel colours in the \"Design\" section.</string>
+    <string name="force_english">Forzar Inglés</string>
+    <string name="merge_panels">Combinar paneles</string>
+    <string name="select">Seleccionar</string>
+    <string name="design_preset">Diseños predeterminados</string>
+    <string name="design_preset_summary">Elige tu diseño y luego personaliza los colores de los paneles en la sección \"Diseño\".</string>
+    <string name="block_touch_through">Block Touch Through</string>
 </resources>

@@ -187,8 +187,10 @@
     <string name="bottom">Положение снизу</string>
     <string name="dont_allow">Лицензия недействительная</string>
     <string name="text_colour">Цвет текста</string>
-    <string name="merge_panels">Merge Panels</string>
-    <string name="select">Select</string>
-    <string name="design_preset">Design Presets</string>
-    <string name="design_preset_summary">Choose your layout then customise your panel colours in the \"Design\" section.</string>
+    <string name="force_english">Использовать английский</string>
+    <string name="merge_panels">Объединить панели</string>
+    <string name="select">Выбрать</string>
+    <string name="design_preset">Предустановки дизайна</string>
+    <string name="design_preset_summary">Выберите вашу разметку, затем настройте цвета вашей панели в разделе \"Дизайн\".</string>
+    <string name="block_touch_through">Block Touch Through</string>
 </resources>
