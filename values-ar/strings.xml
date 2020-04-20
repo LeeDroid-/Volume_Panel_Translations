@@ -215,9 +215,17 @@
     <string name="dont_allow">ترخيص غير صالح</string>
     <string name="text_colour">لون النص</string>
     <string name="app_sign">تم تعديل هذا التطبيق ولن يعمل.</string>
-    <string name="merge_panels">Merge Panels</string>
-    <string name="select">Select</string>
-    <string name="design_preset">Design Presets</string>
-    <string name="design_preset_summary">Choose your layout then customise your panel colours in the \"Design\" section.</string>
-    <string name="block_back_touch">Block Background Touches</string>
+    <string name="merge_panels">دمج اللوحات</string>
+    <string name="select">تحديد</string>
+    <string name="design_preset">إعدادات التصميم المسبقة</string>
+    <string name="design_preset_summary">اختر التخطيط ثم قم بتخصيص ألوان اللوحة في قسم "التصميم".</string>
+    <string name="block_back_touch">منع اللمسات الخلفية</string>
+    <string name="trigger_acc"><b>Tip:</b> Click here to enable Volume Panel accessibility services, this will allow the floating trigger &amp; volume panel to be used in the lock screen.</string>
+    <string name="overwrite">This will overwrite your current layout, press proceed to continue.</string>
+    <string name="enter_name">Backup File Name</string>
+    <string name="restore">Import Configuration</string>
+    <string name="shortcutter_permissions_storage">Storage Permissions Required</string>
+    <string name="backup">Export Configuration</string>
+    <string name="recent_changes">Recent Changes</string>
+    <string name="force_english">Force English</string>
 </resources>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resources>
-    <string name="about"><![CDATA[<b>Volume Panel:</b>\n<br/>\u2022Remplacement pratique du contr\u00f4le de volume syst\u00e8me.\n<br/><br/><b>Con\u00e7u &amp; d\u00e9velopp\u00e9 par:</b>\n<br/>\u2022 Lee Bailey (alias @LeeDrOiD)\n<br/> Remerciements :\n<br/>\u2022 Les cr\u00e9ateurs de App Intro.\n<br/>\u2022 Ereza for Custom Activity On Crash.\n<br/>\u2022 D-Max for Spots Dialog.\n<br/>Traductions par:\n<br/>\u2022 Linar10 - Polonais\n<br/>\u2022 Fatih Firinci - Turque\n<br/>\u2022 guillerag - Espagnol\n<br/>\u2022 Nuno Nebeker - Portugais\n<br/>\u2022 \u0418\u0433\u043e\u0440\u044c \u0418\u0440\u0438\u043d\u0438\u043d - Russe\n<br/>\u2022 Sylm - Fran\u00e7ais\n<br/>\u2022 Emad Ayad - Arabe\n<br/>\u2022 VM - Allemand\n<br/>\u2022 Alpert7 - Chinois\n<br/>\u2022 Nguy\u1ec5n Lam - Vietnamien \n<br/><br/>N\'h\u00e9sitez pas \u00e0 me contacter via \"Retour par Email\" &amp; n\'oubliez de laissez une appr\u00e9ciation &#128512;]]></string>
+    <string name="about"><![CDATA[<b>Volume Panel:</b><br/>\u2022Remplacement pratique du contr\u00f4le de volume syst\u00e8me.<br/><br/><b>Con\u00e7u &amp; d\u00e9velopp\u00e9 par:</b><br/>\u2022 Lee Bailey (alias @LeeDrOiD)<br/> Remerciements :<br/>\u2022 Les cr\u00e9ateurs de App Intro.<br/>\u2022 Ereza for Custom Activity On Crash.<br/>\u2022 D-Max for Spots Dialog.<br/>Traductions par:<br/>\u2022 Linar10 - Polonais<br/>\u2022 Fatih Firinci - Turque<br/>\u2022 guillerag - Espagnol<br/>\u2022 Nuno Nebeker - Portugais<br/>\u2022 \u0418\u0433\u043e\u0440\u044c \u0418\u0440\u0438\u043d\u0438\u043d - Russe<br/>\u2022 Sylm - Fran\u00e7ais<br/>\u2022 Emad Ayad - Arabe<br/>\u2022 VM - Allemand<br/>\u2022 Alpert7 - Chinois<br/>\u2022 Nguy\u1ec5n Lam - Vietnamien <br/><br/>N\'h\u00e9sitez pas \u00e0 me contacter via \"Retour par Email\" &amp; n\'oubliez de laissez une appr\u00e9ciation &#128512;]]></string>
     <string name="about_title">A Propos</string>
     <string name="accessibility_description"><u>Accessibilité</u>
 \n\nCette permission permet de détecter lorsque les boutons volume +\\- sont utilisés.
@@ -116,7 +116,7 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="pro_un">Supprimer les pubs &amp; débloquer toutes les fonctions.</string>
     <string name="proceed">Continuer</string>
     <string name="rate_app">Noter l\'application</string>
-    <string name="rate_it"><![CDATA[<p style="text-align:center"><b>Vous appr\u00e9ciez Volume Panel\n</b><br/><br/>Merci de laisser un avis sur le play store!\n<br/><br/>\u2b50\u2b50\u2b50\u2b50\u2b50</p>]]></string>
+    <string name="rate_it"><![CDATA[<p style="text-align:center"><b>Vous appr\u00e9ciez Volume Panel\n</b><br/><br/>Merci de laisser un avis sur le play store!<br/><br/>\u2b50\u2b50\u2b50\u2b50\u2b50</p>]]></string>
     <string name="reenable">Re-Autoriser</string>
     <string name="ring">Sonnerie</string>
     <string name="ring_mode">Mode sonnerie</string>
@@ -192,5 +192,12 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="select">Selectionner</string>
     <string name="design_preset">Design prédéfinis</string>
     <string name="design_preset_summary">Choisir votre thème puis personnaliser les couleurs des panneaux dans la section \"Design\"</string>
-    <string name="block_back_touch">Block Background Touches</string>
+    <string name="recent_changes">Évolutions récentes</string>
+    <string name="block_back_touch">Bloquer l\'interaction en arrière-plan</string>
+    <string name="backup">Exporter Configuration</string>
+    <string name="shortcutter_permissions_storage">Permission Stockage Nécessaire</string>
+    <string name="restore">Importer Configuration</string>
+    <string name="enter_name">Fichier Backup</string>
+    <string name="trigger_acc"><b>Tip:</b> Click here to enable Volume Panel accessibility services, this will allow the floating trigger &amp; volume panel to be used in the lock screen.</string>
+    <string name="overwrite">This will overwrite your current layout, press proceed to continue.</string>
 </resources>

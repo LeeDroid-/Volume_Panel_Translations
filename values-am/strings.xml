@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="about"><![CDATA[<b>Volume Panel:</b>
+    <br/>\u2022A flexible replacement for your system volume controls.
+        <br/><br/><b>Designed &amp; Developed By:</b>
+        <br/>\u2022 Lee Bailey (AKA @LeeDrOiD)
+        <br/> Additional Thanks:
+        <br/>\u2022 The creators of App Intro.
+        <br/>\u2022 Ereza for Custom Activity On Crash.
+        <br/>\u2022 D-Max for Spots Dialog.
+        <br/>Translations By:
+        <br/>\u2022 Linar10 - Polish
+        <br/>\u2022 Fatih Firinci - Turkish
+        <br/>\u2022 guillerag - Spanish
+        <br/>\u2022 Nuno Nebeker - Portuguese
+        <br/>\u2022 Игорь Иринин - Russian
+        <br/>\u2022 Sylm - Français
+	    <br/>\u2022 Emad Ayad - Arabic
+	    <br/>\u2022 VM - German
+	    <br/>\u2022 Alpert7 - Chinese
+	    <br/>\u2022 Nguy\u1ec5n Lam - Vietnamese
+	   <br/>\u2022 Michael Bekele(AKA Mikesew1320) - Amharic
+        <br/><br/>Feel free to contact me via the \"Email Feedback\" option &amp; don\'t forget to leave a review &#128512;]]></string>
+    <string name="about_title">ስለ</string>
+    <string name="accessibility_description">
+        <u>Accessibility Access</u>
+        \n\nThis permission allows us to detect volume +\\- key presses.
+        \n\nNo other content is captured.
+        \n\nSome devices may require a reboot to start the service.</string>
+    <string name="action">እርምጃ አሁን</string>
+    <string name="add_border">የፓነል ድንበሮችን ያንቁ</string>
+    <string name="add_shortcut">ማስጀመሪያ አቋራጭ</string>
+    <string name="additonal_perms_req">ተጨማሪ ፈቃዶች ያስፈልጋሉ</string>
+    <string name="alert">የማመቻቸት ማንቂያ</string>
+    <string name="anim_duration">የእነማ ቆይታ =%.2fs</string>
+    <string name="anim_durations">የእነማ ቆይታ</string>
+    <string name="app_name">የድምፅ ፓነል</string>
+    <string name="auto_dark_sum">\u2022 Follow system Dark/Light mode.
+        \n\u2022 Manufacturer support required.</string>
+    <string name="background_colour">የበስተጀርባ ቀለም</string>
+    <string name="bat_opt"><![CDATA[<b>Volume Panel is being optimised by the system &amp; may be killed in the background</b>.
+        <br/><br/>None of the services in Volume Panel are battery intensive, but disabling optimisation will improve reliability.
+        <br/><br/>Click \"Close\" to run optimised or click \"Action Now\" followed by \"All Apps\" then disable Battery Optimisation for Volume Panel.
+        <br/><br/>If you find that the service is still being killed by the system, try enabling the "Force Keep Services Alive" Option.]]></string>
+    <string name="behaviour">ባህሪይ</string>
+    <string name="block_vold_lp">ድምጽን ወደ ታች ረጅሙ ፕሬስ አግድ</string>
+    <string name="block_vold_lp_sum">\ u2022 ድምጽን + ጥራትን + የኃይል ቅጽበታዊ ገጽ እይታዎችን ያስተካክላል።</string>
+    <string name="border_colour">የድንበር ቀለም</string>
+    <string name="border_thickness">የድንበር ውፍረት =%1$d dp</string>
+    <string name="bright_calibrate">
+        <b>i</b>: Recalibrate Maximum Brightness:
+        \n\u2022 Set your screen brightness to Max then long press here.</string>
+    <string name="cancel">ይቅር</string>
+    <string name="cast">የ Cast ድምጽን ይቆጣጠሩ</string>
+    <string name="click_out">ለመዝጋት ውጪ ጠቅ ያድርጉ</string>
+    <string name="click_out_sum">\ u2022 ሲነቃ ከሌሎች መተግበሪያዎች ጋር ጣልቃ ሊገባ ይችላል።</string>
+    <string name="close">ገጠመ</string>
+    <string name="corner_scale">የማዕዘን ራዲየስ =%1$d%%</string>
+    <string name="corner_scales">ማዕዘን ራዲየስ</string>
+    <string name="cp_head">ለማረጋገጥ CENTER ን መታ ያድርጉ</string>
+    <string name="dark_mode">ጨለማ ሁኔታ</string>
+    <string name="default_to_ring_volume">ነባሪው የደወል ድምጽ ለማሰማት</string>
+    <string name="design">ዲዛይን</string>
+    <string name="detect_keys">ሲከፈት ቁልፍ ማተሚያዎችን ይፈልጉ</string>
+    <string name="disable">አሰናክል</string>
+    <string name="disable_acc">የተጓዳኝነት አገልግሎቱን ያሰናክሉ።</string>
+    <string name="disable_notif">እባክዎን የአሰራር መግለጫዎችን ያባብሱ</string>
+    <string name="dismiss">አሰናብት</string>
+    <string name="dnd_access">
+        <u>Do Not Disturb Access</u>
+        \n\nThis permission allows us to modify Do Not Disturb Settings.
+        \n\n</string>
+    <string name="do_not_kill">አገልግሎቶች እንዲቀጥሉ ያስገድዱ</string>
+    <string name="do_not_kill_desc"><![CDATA[<b>Only use this option if volume panel keeps stopping.
+        </b><br/><br/>Some devices are too aggressive when freeing up memory and kill important services, applications with Admin rights are rarely killed.
+        <br/><br/>Enabling basic Admin rights for Volume Panel will keep our services alive.
+        <br/><br/>You will have to disable this option if you ever need to uninstall the app.]]></string>
+    <string name="done">ተጠናቅቋል</string>
+    <string name="email_feedback">የኢሜል ግብረመልስ</string>
+    <string name="enable_blacklist">የመተግበሪያ ማግኛዎችን ያንቁ</string>
+    <string name="enable_volume_panel">የድምፅ መጠን አዝራር ሻር</string>
+    <string name="exclude_applications">ማመልከቻዎችን አያካትቱ</string>
+    <string name="exclude_applications_sum">በእነዚህ መተግበሪያዎች ውስጥ \ u2022 የድምፅ ፓነል አይከፈትም።</string>
+    <string name="excluded">የድምፅ ፓነል: ማመልከቻ አልተካተተም</string>
+    <string name="failed_window_add">መስኮት ማከል አልተሳካም ፣ እባክዎ መተግበሪያውን ይክፈቱ እና የማያ ገጽ ተደራቢ ፈቃዶች እንደተሰጣቸው ያረጋግጡ</string>
+    <string name="fill_style">ጠንካራ ተንሸራታቾችን ይጠቀሙ</string>
+    <string name="flash_light">የባትሪ ብርሃን ቁልፍን አሳይ</string>
+    <string name="floating_trigger">ወደ ላይ / ታች ወደ ታች ያንሸራትቱ</string>
+    <string name="force_close">የመዝጊያ መዝጊያዎችን ያስገድዱ</string>
+    <string name="free">ነፃ ሥሪት ያሰናክሉ</string>
+    <string name="free_installed">የድምፅ ፓነል ነፃ በአሁኑ ጊዜ የስርዓት ክፍሉን ፓነል እየተሻረ ነው ፣ እባክዎ ግጭቶችን ለማስወገድ እባክዎ ያሰናክሉ።</string>
+    <string name="google_assistant">ረዳት ቁልፍን አሳይ</string>
+    <string name="grant">ፈቃድ መስጠቱ</string>
+    <string name="hide_full">በሙሉ ማያ ገጽ ውስጥ የማይታይ</string>
+    <string name="hide_settings">አቋራጭ ደብቅ ቅንጅቶች</string>
+    <string name="icon_colour">አዶ ቀለም</string>
+    <string name="invert_buttons">የድምፅ መጠን ቁልፎችን አዙር</string>
+    <string name="killed">The Volume Panel accessibility service has been stopped or removed by the system.
+        \n\nIf this was not intentional, please try the \"Force Keep Services Alive\" option in the app and ensure battery optimisation is disabled for Volume Panel.</string>
+    <string name="killer_info"><![CDATA[For more information visit:<br/>
+        http://www.dontkillmyapp.com/]]></string>
+    <string name="latest">እባክዎ የቅርብ ጊዜውን ስሪት እየተጠቀሙ መሆንዎን ያረጋግጡ።</string>
+    <string name="launch">የድምፅ ፓነል አሳይ</string>
+    <string name="launch_opts">አማራጮች አስጀምር</string>
+    <string name="layout">አቀማመጥ</string>
+    <string name="loading_apps">መተግበሪያዎችን በመጫን ላይ</string>
+    <string name="lock_ring_vol">የመቆለፊያ ቀለበት ተንሸራታች በንዝረት / ፀጥታ</string>
+    <string name="long_press"><![CDATA[ፓነል-ተስተካክሎ እንዲሠራ ለማድረግ ፓነሎችን በረጅም ተጭነው ይጫኑት ፡፡]]></string>
+    <string name="mapper">ሊሆን የሚችል ጣልቃ ገብነት</string>
+    <string name="mapper_detail">We may have detected a Button Remapping application.
+        \n\nButton Remappers use accessibility services to detect button clicks.
+        \n\nOther accessibility services capturing/customising volume button clicks will interfere with Volume Panels ability to intercept the volume buttons.
+        \n\nPlease consider disabling volume button customisation for those apps.
+        \n\nAlternatively, enable the \"Volume Panel\" launcher shortcut and open it with a remap!</string>
+    <string name="mapper_sum">ለተጨማሪ መረጃ እዚህ ጠቅ ያድርጉ</string>
+    <string name="margin">የፓነል ኅዳግ =%1$d dp</string>
+    <string name="margins">የፓነል ኅዳግ</string>
+    <string name="media">የሚዲያ ድምጽ =</string>
+    <string name="mute_media">ሚዲያ ድምፅ-ከል አድርግ</string>
+    <string name="need_dnd">አይረብሽ ፈቃድ አያስፈልግም</string>
+    <string name="not_found">እንቅስቃሴ አልተገኘም ፣ እባክዎ ወደ ቅንብሮች ያስሱ እና በእጅ ይስጡት</string>
+    <string name="notif_access">
+        <u>Notification Access</u>
+        \n\n\u2022 This permission allows us to detect active Casting or Streaming.
+        \n\u2022 If you wish to run without controlling cast streams, feel free to skip this permission.
+        \n\nNo notification content is captured.
+        \n\n</string>
+    <string name="notif_panel"><![CDATA[Not all devices support splitting Notification, System & Ring volume.
+        <br/><br/>If both sliders change together, this is due to your system configuration and nothing to do with Volume Panel.]]></string>
+    <string name="notification_listener">የድምፅ ፓነል ማስታወቂያ አድማጭ</string>
+    <string name="oops_error">ውይ .. የሆነ የሆነ ነገር የተበላሸ ይመስላል እና የድምፅ ፓነል የተበላሸ ፣ እባክዎን ለማሳወቅ ከዚህ በታች \ "ላክ ሪፖርት ያድርጉ" ን ይምቱ ፡፡</string>
+    <string name="order">የፓነል ቅደም ተከተል ይቀይሩ</string>
+    <string name="overlay_needed">
+        <u>System Overlay</u>
+        \n\nThis permission is required for us to display the Volume Panel over other apps.</string>
+    <string name="perms">
+        <u>Permissions Required</u>
+        \n\nIn order to override the system volume panel, several permissions are required.
+        \n\nWe will now show you several screens detailing those permissions, their usage &amp; a button to enable them.
+        \n\n</string>
+    <string name="play_sound">ሊሰሙ የሚችሉ ለውጦች</string>
+    <string name="position_left">ግራኝ</string>
+    <string name="position_left_land">በወርድ ገጽታ ውስጥ ግራ እጅ</string>
+    <string name="press_back">አንዴ እንደ ተጠናቀቀ ወደ መተግበሪያው ለመመለስ ተመለስን ተጫን።</string>
+    <string name="preview"><![CDATA[የቅድመ እይታ ሞድ: የጥሪ እና የመውጫ ፓነሎች አስፈላጊ ሲሆኑ ሲታዩ ብቻ ነው]]></string>
+    <string name="pro">ወደ ድምጽ ፓነል Pro ያሻሽሉ!</string>
+    <string name="pro_only">- Pro ብቻ</string>
+    <string name="pro_un">ማስታወቂያውን ያስወግዱ &amp; ሁሉንም ገጽታዎች ይክፈቱ።</string>
+    <string name="proceed">ይቀጥሉ</string>
+    <string name="rate_app">መተግበሪያን ደረጃ ይስጡ</string>
+    <string name="rate_it"><![CDATA[<p style="text-align:center"><b>Enjoying Volume Panel.
+        </b><br/><br/>Please leave a review in the play store!
+        <br/><br/>\u2b50\u2b50\u2b50\u2b50\u2b50</p>]]></string>
+    <string name="reenable">ድጋሚ አንቃ</string>
+    <string name="ring">ደውል</string>
+    <string name="ring_mode">የደወል ሁኔታ</string>
+    <string name="screen_shot">የማያ ቅጽበታዊ ገጽ እይታን አሳይ</string>
+    <string name="select_apps">መተግበሪያዎችን ይምረጡ</string>
+    <string name="send_report">ሪፖርት ይላኩ</string>
+    <string name="show_alarm_panel">የማንቂያ ደወል አሳይ</string>
+    <string name="show_bright_panel">የማያ ብሩህነት ፓነል</string>
+    <string name="show_lock">መቆለፊያ ማያ ገጽ ውስጥ አሳይ</string>
+    <string name="show_notif">የማሳወቂያ ፓነል አሳይ</string>
+    <string name="show_ring_panel">የቀለበት ፓነል አሳይ</string>
+    <string name="silent">ፀጥታ</string>
+    <string name="slide_heightx">የፓነል ልኬት X =%1$d%%</string>
+    <string name="slide_heights">የፓነል ሚዛን</string>
+    <string name="slide_heighty">የፓነል ልኬት Y =%1$d%%</string>
+    <string name="slider_colour">የተንሸራታች ቀለም</string>
+    <string name="start_collapsed">መሰባበር ይጀምሩ</string>
+    <string name="suspend">ተንጠልጠል</string>
+    <string name="switch_theme">ገጽታ ቀይር</string>
+    <string name="system_perms_message">የስርዓት ቅንጅቶችን ለመፃፍ የድምፅ ፓነል መዳረሻ መሰጠት አለበት ፣ እባክዎ ለመቀጠል ቀጥልን ይጫኑ። \ n</string>
+    <string name="system_warn">ማንኛውንም የተደራሽነት አገልግሎት በሚነቁበት ጊዜ ለአጠቃላይ ሰላምዎ የ Android ስርዓት ማስጠንቀቂያ ይቀርቡልዎታል ፣ የድምፅ ፓነል ሌሎች ቁልፎችን ወይም ይዘቶችን አይይዝም &amp; ከበይነመረቡ ጋር የመገናኘት ፍቃድ የለውም ወይም ፍቃድ አይጠይቅም።</string>
+    <string name="tips"><![CDATA[<b>Tips:</b>
+        <br/><br/><b>Audio doesn\'t change in some apps:<br/>
+        </b><br/>Some apps like Instagram & Snapchat take complete audio focus & attempt to capture audio buttons them selves, if you experience this issue, please enable the \"Exclude Applications\" option and add the offending apps to the list.
+        <br/><br/><b>The system audio panel keeps returning:</B>
+        <br/><br/>It\'s highly likely that your system is killing the Volume Panel accessibility service, if this happens, please make sure battery & memory optimisation is disabled for the app, enabling the \"Swipe Up/Down Trigger\" may help too.
+        <br/>For more information visit: http://www.dontkillmyapp.com/]]></string>
+    <string name="transparency">ግልጽነት</string>
+    <string name="trigger_cat">ትሪገር</string>
+    <string name="trigger_colour">ቀስቅሴ ቀለም</string>
+    <string name="trigger_scale_tx">ትራይገር ልኬት X =%1$d%%</string>
+    <string name="trigger_scale_ts">ቀስቅሴ ልኬት</string>
+    <string name="trigger_scale_ty">ትግሪገር ልኬት Y =%1$d%%</string>
+    <string name="up_launch">በድምጽ + ላይ ያስጀምሩ</string>
+    <string name="up_launch_sum">\ u2022 ፓነል የሚጀምረው ድምጽ + ሲጫን ብቻ ነው።</string>
+    <string name="usage_access">
+        <u>Usage Access</u>
+        \n\nThis permission allows us to detect the application currently in use via package usage stats &amp; check if you have excluded it.
+        \n\nIf you wish to run without excluding applications, feel free to skip this permission.
+        \n\n</string>
+    <string name="use_system">ራስ-ጨለማ / ቀላል ሁነታ</string>
+    <string name="ver_pos">አቀባዊ አቀማመጥ =%1$d%%</string>
+    <string name="ver_poss">አቀባዊ አቀማመጥ</string>
+    <string name="vibe_duration">የንዝረት ቆይታ =%.2fs</string>
+    <string name="vibe_durations">የንዝረት ቆይታ</string>
+    <string name="vibrate">ንዘር</string>
+    <string name="vol_timeouts">የፓነል እረፍት ጊዜ</string>
+    <string name="vol_timeout">የፓነል እረፍት ጊዜ =%1$ds</string>
+    <string name="volumeui">የድምፅ በይነገጽ</string>
+    <string name="show_call">የጥሪ ድምፅ ሁልጊዜ አሳይ</string>
+    <string name="show_bluetooth">የብሉቱዝ ቁልፍን አሳይ</string>
+    <string name="block_vold_up_lp">ድምጽን ወደላይ ረጅም ፕሬስ አግድ</string>
+    <string name="show_media">የሚዲያ መቆጣጠሪያዎችን አሳይ</string>
+    <string name="change_first_click">በመጀመሪያ ጠቅታ ላይ ድምጽን ይቀይሩ</string>
+    <string name="show_system">የስርዓት ፓነል አሳይ</string>
+    <string name="show_levels">የደረጃ መለያን አሳይ</string>
+    <string name="when_notif">ማሳወቂያ ገባሪ ሲሆን ብቻ</string>
+    <string name="volume_plus">ድምጽ +</string>
+    <string name="volume_minus">ድምጽ -</string>
+    <string name="red">ቀይ</string>
+    <string name="green">አረንጓዴ</string>
+    <string name="blue">ሰማያዊ</string>
+    <string name="hide">ደብቅልኝ</string>
+    <string name="skip">ዝለል</string>
+    <string name="app_sign">ይህ መተግበሪያ ተለው hasል ፣ እና ወደ መጫወቻው ቦታ በመሄድ አይሄድም</string>
+    <string name="fill_vertically">በአቀባዊ ይሙሉ</string>
+    <string name="horizontal">አግድም ተንሸራታቾች</string>
+    <string name="fill_horizontal">በአግድመት ሙላ</string>
+    <string name="bottom">የሥራ መደቡ ታች</string>
+    <string name="dont_allow">ልክ ያልሆነ ፈቃድ</string>
+    <string name="text_colour">የጽሑፍ ቀለም</string>
+    <string name="force_english">እንግሊዝኛ አስገድድ</string>
+    <string name="merge_panels">ፓነሎችን ያዋህዱ</string>
+    <string name="select">ይምረጡ</string>
+    <string name="design_preset">የዲዛይን ቅድመ-ቅምጦች</string>
+    <string name="design_preset_summary">አቀማመጥዎን ይምረጡ ከዚያ በ \ "ንድፍ \" ክፍሉ ውስጥ የፓነል ቀለሞችዎን ያበጁ።</string>
+    <string name="recent_changes">የቅርብ ጊዜ ለውጦች</string>
+    <string name="block_back_touch">የጀርባ አሻንጉሊቶችን አግድ</string>
+    <string name="backup">ወደ ውጪ ላክ ውቅር</string>
+    <string name="shortcutter_permissions_storage">የማጠራቀሚያ ፈቃዶች ያስፈልጋሉ</string>
+    <string name="restore">ውቅር አስመጣ</string>
+    <string name="enter_name">የመጠባበቂያ ፋይል ስም</string>
+    <string name="trigger_acc"><b>Tip:</b> Click here to enable Volume Panel accessibility services, this will allow the floating trigger &amp; volume panel to be used in the lock screen.</string>
+    <string name="overwrite">This will overwrite your current layout, press proceed to continue.</string>
+</resources>

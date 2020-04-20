@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resources>
-    <string name="about"><![CDATA[<b>Volume Panel:</b>\n        <br/>\u2022Um substituto flex\u00edvel para o controlo de volume do sistema.\n        <br/><br/><b>Desenhado &amp; Desenvolvido Por:</b>\n        <br/>\u2022 Lee Bailey (AKA @LeeDrOiD)\n        <br/> Agradecimentos Adicionais a:\n        <br/>\u2022 Os criadores de App Intro.\n        <br/>\u2022 Ereza por Custom Activity On Crash.\n        <br/>\u2022 D-Max por Spots Dialog.\n        <br/>Tradu\u00e7\u00f5es Por:\n        <br/>\u2022 Linar10 - Polaco\n        <br/>\u2022 Fatih Firinci - Turco\n        <br/>\u2022 guillerag - Espanhol\n        <br/>\u2022 Nuno Nebeker - Portugu\u00eas\n        <br/>\u2022 \u0418\u0433\u043e\u0440\u044c \u0418\u0440\u0438\u043d\u0438\u043d - Russo\n        <br/>\u2022 Sylm - Franc\u00eas\n\t<br/>\u2022 Emad Ayad - \u00c1rabe\n        <br/>\u2022 VM - Alem\u00e3o\n        <br/>\u2022 Alpert7 - Chin\u00eas\n        <br/>\u2022 Nguy\u1ec5n Lam - Vietnamita \n        <br/><br/>Pode entrar em contacto comigo pela op\u00e7\u00e3o \"Dar Feedback por Email\" &amp; n\u00e3o se esque\u00e7a de deixar uma cr\u00edtica &#128512;]]></string>
+    <string name="about"><![CDATA[<b>Volume Panel:</b><br/>\u2022Um substituto flex\u00edvel para o controlo de volume do sistema.<br/><br/><b>Desenhado &amp; Desenvolvido Por:</b><br/>\u2022 Lee Bailey (AKA @LeeDrOiD)<br/> Agradecimentos Adicionais a:<br/>\u2022 Os criadores de App Intro.<br/>\u2022 Ereza por Custom Activity On Crash.<br/>\u2022 D-Max por Spots Dialog.<br/>Tradu\u00e7\u00f5es Por:<br/>\u2022 Linar10 - Polaco<br/>\u2022 Fatih Firinci - Turco<br/>\u2022 guillerag - Espanhol<br/>\u2022 Nuno Nebeker - Portugu\u00eas<br/>\u2022 \u0418\u0433\u043e\u0440\u044c \u0418\u0440\u0438\u043d\u0438\u043d - Russo<br/>\u2022 Sylm - Franc\u00eas\n<br/>\u2022 Emad Ayad - \u00c1rabe<br/>\u2022 VM - Alem\u00e3o<br/>\u2022 Alpert7 - Chin\u00eas<br/>\u2022 Nguy\u1ec5n Lam - Vietnamita <br/><br/>Pode entrar em contacto comigo pela op\u00e7\u00e3o \"Dar Feedback por Email\" &amp; n\u00e3o se esque\u00e7a de deixar uma cr\u00edtica &#128512;]]></string>
     <string name="about_title">Sobre</string>
     <string name="accessibility_description"><u>Acesso a Acessibilidade</u>
         \n\nEsta permissão permite detetar a utilização das teclas de volume.
@@ -116,7 +116,7 @@
     <string name="pro_un">Remover Publicidade &amp; Desbloquear Todas as Funcionalidades.</string>
     <string name="proceed">Avançar</string>
     <string name="rate_app">Classificar Aplicação</string>
-    <string name="rate_it"><![CDATA[<p style="text-align:center"><b>Est\u00e1 a gostar de Volume Panel?\n        </b><br/><br/>Por favor deixe uma cr\u00edtica na Play Store!\n        <br/><br/>\u2b50\u2b50\u2b50\u2b50\u2b50</p>]]></string>
+    <string name="rate_it"><![CDATA[<p style="text-align:center"><b>Est\u00e1 a gostar de Volume Panel?\n        </b><br/><br/>Por favor deixe uma cr\u00edtica na Play Store!<br/><br/>\u2b50\u2b50\u2b50\u2b50\u2b50</p>]]></string>
     <string name="reenable">Reativar</string>
     <string name="ring">Toque</string>
     <string name="ring_mode">Modo de Toque</string>
@@ -192,5 +192,12 @@
     <string name="select">Selecionar</string>
     <string name="design_preset">Predefinições de Desenho</string>
     <string name="design_preset_summary">Escolha a organização e personalize as cores do seu painel na secção \"Desenho\".</string>
-    <string name="block_back_touch">Block Background Touches</string>
+    <string name="block_back_touch">Interacção em bloco de fundo</string>
+    <string name="trigger_acc"><b>Tip:</b> Click here to enable Volume Panel accessibility services, this will allow the floating trigger &amp; volume panel to be used in the lock screen.</string>
+    <string name="overwrite">This will overwrite your current layout, press proceed to continue.</string>
+    <string name="enter_name">Backup File Name</string>
+    <string name="restore">Import Configuration</string>
+    <string name="shortcutter_permissions_storage">Storage Permissions Required</string>
+    <string name="backup">Export Configuration</string>
+    <string name="recent_changes">Recent Changes</string>
 </resources>

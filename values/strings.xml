@@ -5,6 +5,7 @@
         <br/><br/><b>Designed &amp; Developed By:</b>
         <br/>\u2022 Lee Bailey (AKA @LeeDrOiD)
         <br/> Additional Thanks:
+        <br/>\u2022 The Great Dane - AKA Bo.
         <br/>\u2022 The creators of App Intro.
         <br/>\u2022 Ereza for Custom Activity On Crash.
         <br/>\u2022 D-Max for Spots Dialog.
@@ -234,12 +235,33 @@
     <string name="merge_panels">Merge Panels</string>
     <string name="select">Select</string>
     <string name="design_preset">Design Presets</string>
-    <string name="design_preset_summary">Choose your layout then customise your panel colours in the \"Design\" section.</string>
-    <string name="block_touch_through">Block Touch Through</string>
+    <string name="design_preset_summary">Choose your base layout then customise your panel colours in the \"Design\" section.</string>
     <string name="recent_changes">Recent Changes</string>
     <string name="change_log" translatable="false"><![CDATA[
-    <b>V11.36:</b>
-        <br/>\u2022 Move to true accessibility overlay.
+    <b>V11.48 Beta:</b>
+        <br/>\u2022 Introduce "Design Presets".
+        <br/>\u2022 Click outside to close corrections.
+        <br/>\u2022 Add Import/Export configuration.
+        <br/>\u2022 Enable floating trigger everywhere when accessibility enabled.
+        <br/>\u2022 Do not disable accessibility when turning button override off.
+        <br/>\u2022 Amharic translations test.
+        <br/><br/>
+    <b>V11.44:</b>
+        <br/>\u2022 Fix horizontal slider direction in right handed mode.
+        <br/>\u2022 Fix dialog crash when no overlay permissions granted.
+        <br/>\u2022 Translation Corrections
+        <br/><br/>
+    <b>V11.39:</b>
+        <br/>\u2022 Introduce custom SeekBar class.
+        <br/>\u2022 Fix thumb shadow in solid sliders.
+        <br/>\u2022 Fix horizontal SeekBar device compatibility.
+        <br/>\u2022 Add padding when merged panels enabled.
+        <br/>\u2022 Animation adjustments.
+        <br/>\u2022 Preview mode corrections.
+        <br/><br/>
+    <b>V11.38:</b>
+        <br/>\u2022 Swipe to open panels when collapsed.
+        <br/>\u2022 Move to accessibility overlays.
         <br/>\u2022 New true lock screen overlay.
         <br/>\u2022 Improve horizontal slider expand animation.
         <br/>\u2022 New Vertical slider Merge Panels option.
@@ -247,9 +269,36 @@
         <br/>\u2022 True left handed support for horizontal sliders.
         <br/>\u2022 Fix bleed in solid sliders with border.
         <br/>\u2022 Improve tint methods to allow for transparency.
-        <br/>\u2022 Add option to block outside touches.
-        <br/>\u2022 Apply margin to shortcut container.
-        <br/>\u2022 Bug fixes.]]>
+        <br/>\u2022 Add option to block background touches.
+        <br/>\u2022 Apply margin horizontal to shortcut container.
+        <br/>\u2022 Bug fixes.
+        <br/><br/>
+    <b>V11.28:</b>
+        <br/>\u2022 New Horizontal Sliders option!
+        <br/>\u2022 Optional level label colour.
+        <br/>\u2022 Separate solid fill border colour.
+        <br/>\u2022 Fix Colour Picker context menu.
+        <br/>\u2022 Permissions flow improvements.
+        <br/>\u2022 Sort panels logic improvements.
+        <br/>\u2022 UI adjustments & performance improvements.
+        <br/><br/>
+    <b>V11.17:</b>
+        <br/>\u2022 Add Vietnamese, Chinese, French & German translations.
+        <br/>\u2022 Add Solid Sliders option to fill vertically.
+        <br/>\u2022 UI & Dialog Enhancements.
+        <br/>\u2022 Translation Updates.
+        <br/>\u2022 Auto Dark enabled as default.
+        <br/>\u2022 Fix Media Controller showing when off.
+        <br/>\u2022 Add automatic backup/restore using google APIs.
+        <br/>\u2022 Fix Long Press Delays..
+        <br/><br/>]]>
     </string>
     <string name="block_back_touch">Block Background Touches</string>
+    <string name="backup">Export Configuration</string>
+    <string name="shortcutter_permissions_storage">Storage Permissions Required</string>
+    <string name="restore">Import Configuration</string>
+    <string name="file_name" translatable="false">Volume_Panel_Backup</string>
+    <string name="enter_name">Backup File Name</string>
+    <string name="trigger_acc"><b>Tip:</b> Click here to enable Volume Panel accessibility services, this will allow the floating trigger &amp; volume panel to be used in the lock screen.</string>
+    <string name="overwrite">This will overwrite your current layout, press proceed to continue.</string>
 </resources>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resources>
-    <string name="about"><![CDATA[<b>\u97f3\u91cf\u9762\u677f\uff1a</b>\n    <br/>\u2022\u53ef\u81ea\u5b9a\u4e49\u7684\u97f3\u91cf\u9762\u677f\u5e94\u7528\uff0c\u53ef\u66ff\u4ee3\u7cfb\u7edf\u97f3\u91cf\u9762\u677f\u3002\n        <br/><br/><b>\u8bbe\u8ba1 &amp; \u5f00\u53d1\uff1a</b>\n        <br/>\u2022 Lee Bailey (AKA @LeeDrOiD)\n        <br/> \u611f\u8c22\uff1a\n        <br/>\u2022 \u4e3a\u5e94\u7528\u8bbe\u8ba1\u7b80\u4ecb\u7684\u8bbe\u8ba1\u5e08\u4eec\n        <br/>\u2022 Ereza for Custom Activity On Crash.\n        <br/>\u2022 D-Max for Spots Dialog.\n        <br/>\u7ffb\u8bd1\uff1a\n        <br/>\u2022 Linar10 - Polish\n        <br/>\u2022 Fatih Firinci - Turkish\n        <br/>\u2022 guillerag - Spanish\n        <br/>\u2022 Nuno Nebeker - Portuguese\n        <br/>\u2022 \u0418\u0433\u043e\u0440\u044c \u0418\u0440\u0438\u043d\u0438\u043d - Russian\n        <br/>\u2022 Sylm - Fran\u00e7ais\n\t <br/>\u2022 Emad Ayad - Arabic\n\t <br/>\u2022 VM - German\n         <br/>\u2022 Alpert7 - \u7b80\u4f53\u4e2d\u6587\n         <br/>\u2022 Nguy\u1ec5n Lam - Vietnamese\n         <br/><br/>\u5982\u6709\u7591\u95ee\u6b22\u8fce\u901a\u8fc7 \"\u7535\u90ae\u53cd\u9988\" \u6765\u8054\u7cfb\u6211 &amp; \u559c\u6b22\u7684\u8bdd\u522b\u5fd8\u4e86\u5728Play\u5546\u5e97\u91cc\u7ed9\u4e0e\u597d\u8bc4 &#128512;]]></string>
+    <string name="about"><![CDATA[<b>\u97f3\u91cf\u9762\u677f\uff1a</b><br/>\u2022\u53ef\u81ea\u5b9a\u4e49\u7684\u97f3\u91cf\u9762\u677f\u5e94\u7528\uff0c\u53ef\u66ff\u4ee3\u7cfb\u7edf\u97f3\u91cf\u9762\u677f\u3002<br/><br/><b>\u8bbe\u8ba1 &amp; \u5f00\u53d1\uff1a</b><br/>\u2022 Lee Bailey (AKA @LeeDrOiD)<br/> \u611f\u8c22\uff1a<br/>\u2022 \u4e3a\u5e94\u7528\u8bbe\u8ba1\u7b80\u4ecb\u7684\u8bbe\u8ba1\u5e08\u4eec<br/>\u2022 Ereza for Custom Activity On Crash.<br/>\u2022 D-Max for Spots Dialog.<br/>\u7ffb\u8bd1\uff1a<br/>\u2022 Linar10 - Polish<br/>\u2022 Fatih Firinci - Turkish<br/>\u2022 guillerag - Spanish<br/>\u2022 Nuno Nebeker - Portuguese<br/>\u2022 \u0418\u0433\u043e\u0440\u044c \u0418\u0440\u0438\u043d\u0438\u043d - Russian<br/>\u2022 Sylm - Fran\u00e7ais\n <br/>\u2022 Emad Ayad - Arabic\n <br/>\u2022 VM - German<br/>\u2022 Alpert7 - \u7b80\u4f53\u4e2d\u6587<br/>\u2022 Nguy\u1ec5n Lam - Vietnamese<br/><br/>\u5982\u6709\u7591\u95ee\u6b22\u8fce\u901a\u8fc7 \"\u7535\u90ae\u53cd\u9988\" \u6765\u8054\u7cfb\u6211 &amp; \u559c\u6b22\u7684\u8bdd\u522b\u5fd8\u4e86\u5728Play\u5546\u5e97\u91cc\u7ed9\u4e0e\u597d\u8bc4 &#128512;]]></string>
     <string name="about_title">关于</string>
     <string name="accessibility_description"><u>无障碍选项</u>
 \n\n此选项被用于检测音量上下键的按压。
@@ -116,7 +116,7 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="pro_un">去除广告和解锁所有功能。</string>
     <string name="proceed">继续</string>
     <string name="rate_app">评价本应用</string>
-    <string name="rate_it"><![CDATA[<p style="text-align:center"><b>\u559c\u6b22\u97f3\u91cf\u9762\u677f\u5e94\u7528\u5417\uff1f\n</b><br/><br/>\u8bf7\u5728\u8c37\u6b4cPlay\u5546\u5e97\u5199\u4e0b\u597d\u8bc4\u5427\uff01\n<br/><br/>\u2b50\u2b50\u2b50\u2b50\u2b50</p>]]></string>
+    <string name="rate_it"><![CDATA[<p style="text-align:center"><b>\u559c\u6b22\u97f3\u91cf\u9762\u677f\u5e94\u7528\u5417\uff1f\n</b><br/><br/>\u8bf7\u5728\u8c37\u6b4cPlay\u5546\u5e97\u5199\u4e0b\u597d\u8bc4\u5427\uff01<br/><br/>\u2b50\u2b50\u2b50\u2b50\u2b50</p>]]></string>
     <string name="reenable">重新开启</string>
     <string name="ring">铃声</string>
     <string name="ring_mode">铃音模式</string>
@@ -187,9 +187,17 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="bottom">底部位置</string>
     <string name="dont_allow">证书无效</string>
     <string name="text_colour">文字颜色</string>
-    <string name="merge_panels">Merge Panels</string>
-    <string name="select">Select</string>
-    <string name="design_preset">Design Presets</string>
-    <string name="design_preset_summary">Choose your layout then customise your panel colours in the \"Design\" section.</string>
-    <string name="block_back_touch">Block Background Touches</string>
+    <string name="force_english">强制英语显示</string>
+    <string name="merge_panels">合并面板</string>
+    <string name="select">选择</string>
+    <string name="design_preset">设计预设</string>
+    <string name="design_preset_summary">选择您喜欢的布局然后在“设计”板块中进行自定义。</string>
+    <string name="recent_changes">最近更新内容</string>
+    <string name="block_back_touch">阻止背景点触</string>
+    <string name="trigger_acc"><b>Tip:</b> Click here to enable Volume Panel accessibility services, this will allow the floating trigger &amp; volume panel to be used in the lock screen.</string>
+    <string name="overwrite">This will overwrite your current layout, press proceed to continue.</string>
+    <string name="enter_name">Backup File Name</string>
+    <string name="restore">Import Configuration</string>
+    <string name="shortcutter_permissions_storage">Storage Permissions Required</string>
+    <string name="backup">Export Configuration</string>
 </resources>

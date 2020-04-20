@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resources>
-    <string name="about"><![CDATA[<b>Volume Panel:</b>\n    <br/>\u2022Sistem ses kontrolleriniz i\u00e7in esnek bir de\u011fi\u015ftirme.\n        <br/><br/><b>Tasarlayan &amp; Geli\u015ftiren:</b>\n        <br/>\u2022 Lee Bailey (AKA @LeeDrOiD)\n        <br/> Ekstra Te\u015fekk\u00fcrler:\n        <br/>\u2022 App Intro\'nun yap\u0131mc\u0131lar\u0131na.\n        <br/>\u2022 Custom Activity On Crash i\u00e7in Ereza\'ya.\n        <br/>\u2022 Spots Dialog i\u00e7in D-Max\'e.\n        <br/>\u00c7eviriler:\n        <br/>\u2022 Linar10 - Polish\n        <br/>\u2022 Fatih F\u0131r\u0131nc\u0131 - Turkish\n        <br/>\u2022 guillerag - Spanish\n        <br/>\u2022 Nuno Nebeker - Portuguese\n        <br/>\u2022 \u0418\u0433\u043e\u0440\u044c \u0418\u0440\u0438\u043d\u0438\u043d - Russian\n        <br/>\u2022 Sylm - Fran\u00e7ais\n\t    <br/>\u2022 Emad Ayad - Arabic\n\t    <br/>\u2022 VM - German\n\t    <br/>\u2022 Alpert7 - Chinese\n        <br/><br/>\"Geri Bildirim G\u00f6nder\" se\u00e7ene\u011fi ile benimle ileti\u015fime ge\u00e7mekten \u00e7ekinmeyin &amp; bir inceleme b\u0131rakmay\u0131 unutmay\u0131n &#128512;]]></string>
+    <string name="about"><![CDATA[<b>Volume Panel:</b><br/>\u2022Sistem ses kontrolleriniz i\u00e7in esnek bir de\u011fi\u015ftirme.<br/><br/><b>Tasarlayan &amp; Geli\u015ftiren:</b><br/>\u2022 Lee Bailey (AKA @LeeDrOiD)<br/> Ekstra Te\u015fekk\u00fcrler:<br/>\u2022 App Intro\'nun yap\u0131mc\u0131lar\u0131na.<br/>\u2022 Custom Activity On Crash i\u00e7in Ereza\'ya.<br/>\u2022 Spots Dialog i\u00e7in D-Max\'e.<br/>\u00c7eviriler:<br/>\u2022 Linar10 - Polish<br/>\u2022 Fatih F\u0131r\u0131nc\u0131 - Turkish<br/>\u2022 guillerag - Spanish<br/>\u2022 Nuno Nebeker - Portuguese<br/>\u2022 \u0418\u0433\u043e\u0440\u044c \u0418\u0440\u0438\u043d\u0438\u043d - Russian<br/>\u2022 Sylm - Fran\u00e7ais\n    <br/>\u2022 Emad Ayad - Arabic\n    <br/>\u2022 VM - German\n    <br/>\u2022 Alpert7 - Chinese<br/><br/>\"Geri Bildirim G\u00f6nder\" se\u00e7ene\u011fi ile benimle ileti\u015fime ge\u00e7mekten \u00e7ekinmeyin &amp; bir inceleme b\u0131rakmay\u0131 unutmay\u0131n &#128512;]]></string>
     <string name="about_title">Hakkında</string>
     <string name="accessibility_description"><u>Erişilebilirlik Erişimi</u>
         \n\n• Ses açma kısma tuşlarına basmayı algılama.
@@ -117,7 +117,7 @@
     <string name="pro_un">Reklamları Kaldır &amp; Tüm Özelliklerin Kilidini Aç.</string>
     <string name="proceed">Devam et</string>
     <string name="rate_app">Uygulamayı Oyla</string>
-    <string name="rate_it"><![CDATA[<p style="text-align:center"><b>Volume Panel\'i be\u011fendiniz mi?</b>\n        <br/><br/>L\u00fctfen play store\'da bir inceleme b\u0131rak\u0131n!\n        <br/><br/>\u2b50\u2b50\u2b50\u2b50\u2b50</p>]]></string>
+    <string name="rate_it"><![CDATA[<p style="text-align:center"><b>Volume Panel\'i be\u011fendiniz mi?</b><br/><br/>L\u00fctfen play store\'da bir inceleme b\u0131rak\u0131n!<br/><br/>\u2b50\u2b50\u2b50\u2b50\u2b50</p>]]></string>
     <string name="reenable">Yeniden Etkinleştir</string>
     <string name="ring">Zil Sesi</string>
     <string name="ring_mode">Zil Modu</string>
@@ -193,5 +193,12 @@
     <string name="select">Seç</string>
     <string name="design_preset">Tasarım Hazır Ayarları</string>
     <string name="design_preset_summary">Düzeninizi seçin, ardından \"Tasarım\" bölümünde panel renklerinizi özelleştirin.</string>
-    <string name="block_back_touch">Block Background Touches</string>
+    <string name="recent_changes">Son Değişiklikler</string>
+    <string name="block_back_touch">Arka Plan Dokunuşlarını Engelle</string>
+    <string name="backup">Yapılandırmayı Dışa Aktar</string>
+    <string name="shortcutter_permissions_storage">Depolama İzinleri Gerekli</string>
+    <string name="restore">Yapılandırmayı İçe Aktar</string>
+    <string name="enter_name">Yedek Dosya Adı</string>
+    <string name="trigger_acc"><b>İpucu:</b> Volume Panel erişilebilirlik hizmetlerini etkinleştirmek için buraya tıklayın, bu, yüzen tetikleyici &amp; ses panelinin kilit ekranında kullanılmasına izin verecektir.</string>
+    <string name="overwrite">This will overwrite your current layout, press proceed to continue.</string>
 </resources>
