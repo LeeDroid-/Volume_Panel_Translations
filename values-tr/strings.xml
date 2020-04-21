@@ -192,7 +192,7 @@
     <string name="merge_panels">Panelleri Birleştir</string>
     <string name="select">Seç</string>
     <string name="design_preset">Tasarım Hazır Ayarları</string>
-    <string name="design_preset_summary">Düzeninizi seçin, ardından \"Tasarım\" bölümünde panel renklerinizi özelleştirin.</string>
+    <string name="design_preset_summary">Temel düzeninizi seçin ve \"Tasarım\" bölümünden panel renklerinizi özelleştirin.</string>
     <string name="recent_changes">Son Değişiklikler</string>
     <string name="block_back_touch">Arka Plan Dokunuşlarını Engelle</string>
     <string name="backup">Yapılandırmayı Dışa Aktar</string>
@@ -200,5 +200,8 @@
     <string name="restore">Yapılandırmayı İçe Aktar</string>
     <string name="enter_name">Yedek Dosya Adı</string>
     <string name="trigger_acc"><b>İpucu:</b> Volume Panel erişilebilirlik hizmetlerini etkinleştirmek için buraya tıklayın, bu, yüzen tetikleyici &amp; ses panelinin kilit ekranında kullanılmasına izin verecektir.</string>
-    <string name="overwrite">This will overwrite your current layout, press proceed to continue.</string>
+    <string name="overwrite">Bu, mevcut düzeninizin üzerine yazacaktır, devam etmek için devam et\'e basın.</string>
+    <string name="merge_icons">Simgeleri Birleştir</string>
+    <string name="change_back">Kaydırıcı arka plan/kapalı modu rengini özelleştirmek istiyor musunuz?</string>
+    <string name="shortcuts_below">Kısayolları Aşağıya Yerleştir</string>
 </resources>

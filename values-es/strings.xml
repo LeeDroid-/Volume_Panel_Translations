@@ -189,12 +189,15 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="select">Seleccionar</string>
     <string name="design_preset">Diseños predeterminados</string>
     <string name="design_preset_summary">Elige tu diseño y luego personaliza los colores de los paneles en la sección \"Diseño\".</string>
-    <string name="block_back_touch">Bloquear los toques de fondo</string>
-    <string name="trigger_acc"><b>Tip:</b> Click here to enable Volume Panel accessibility services, this will allow the floating trigger &amp; volume panel to be used in the lock screen.</string>
-    <string name="overwrite">This will overwrite your current layout, press proceed to continue.</string>
-    <string name="enter_name">Backup File Name</string>
-    <string name="restore">Import Configuration</string>
-    <string name="shortcutter_permissions_storage">Storage Permissions Required</string>
-    <string name="backup">Export Configuration</string>
-    <string name="recent_changes">Recent Changes</string>
+    <string name="recent_changes">Cambios recientes</string>
+    <string name="block_back_touch">Bloquear pulsaciones en fondo</string>
+    <string name="backup">Exportar configuración</string>
+    <string name="shortcutter_permissions_storage">Se necesitan permisos de almacenamiento</string>
+    <string name="restore">Importar configuración</string>
+    <string name="enter_name">Nombre copia de seguridad</string>
+    <string name="trigger_acc"><b>Consejo:</b> Presiona aquí para habilitar los servicios de accesibilidad de Volume Panel, esto permitirá que el activador flotante y Volume Panel puedan ser usados en la pantalla de bloqueo.</string>
+    <string name="overwrite">Esto sobrescribirá tu diseño actual, presiona proceder para continuar.</string>
+    <string name="merge_icons">Combinar iconos</string>
+    <string name="shortcuts_below">Place Shortcuts Below</string>
+    <string name="change_back">Do you want to customise the slider background/off mode colour?</string>
 </resources>

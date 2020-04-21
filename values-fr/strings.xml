@@ -67,7 +67,7 @@
     <string name="google_assistant">Afficher l\'icone Assistant</string>
     <string name="grant">Autoriser la permission</string>
     <string name="hide_full">Invisible en plein écran</string>
-    <string name="hide_settings">Cacher le raccourci Paramètres</string>
+    <string name="hide_settings">Cacher raccourcis Paramètres</string>
     <string name="icon_colour">Icone Couleur</string>
     <string name="invert_buttons">Inverser les boutons de volume</string>
     <string name="killed">Le service Volume Panel Accessibility a été stoppé ou effacé du système.
@@ -191,13 +191,16 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="merge_panels">Fusionner les panneaux</string>
     <string name="select">Selectionner</string>
     <string name="design_preset">Design prédéfinis</string>
-    <string name="design_preset_summary">Choisir votre thème puis personnaliser les couleurs des panneaux dans la section \"Design\"</string>
+    <string name="design_preset_summary">Choisir votre thème de base puis personnaliser les  panneaux dans la section \"Design\"</string>
     <string name="recent_changes">Évolutions récentes</string>
     <string name="block_back_touch">Bloquer l\'interaction en arrière-plan</string>
     <string name="backup">Exporter Configuration</string>
     <string name="shortcutter_permissions_storage">Permission Stockage Nécessaire</string>
     <string name="restore">Importer Configuration</string>
     <string name="enter_name">Fichier Backup</string>
-    <string name="trigger_acc"><b>Tip:</b> Click here to enable Volume Panel accessibility services, this will allow the floating trigger &amp; volume panel to be used in the lock screen.</string>
-    <string name="overwrite">This will overwrite your current layout, press proceed to continue.</string>
+    <string name="trigger_acc"><b>Conseil:</b> Cliquer ici pour activer  Volume Panel services Accessibilité, cela activera les déclencheurs flottants &amp; volume panel sera utilisable sur l\'écran de verrouillage.</string>
+    <string name="overwrite">Cela va écraser vos préférences actuelles, cliquer Procéder pour continuer</string>
+    <string name="merge_icons">Fusion Icones</string>
+    <string name="change_back">Voulez-vous personnaliser ou non la couleur de fond du curseur?</string>
+    <string name="shortcuts_below">Placer les raccourcis ci-dessous</string>
 </resources>

@@ -228,4 +228,7 @@
     <string name="backup">Export Configuration</string>
     <string name="recent_changes">Recent Changes</string>
     <string name="force_english">Force English</string>
+    <string name="shortcuts_below">Place Shortcuts Below</string>
+    <string name="change_back">Do you want to customise the slider background/off mode colour?</string>
+    <string name="merge_icons">Merge Icons</string>
 </resources>

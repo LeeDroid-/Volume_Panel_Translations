@@ -193,13 +193,16 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="merge_panels">Hợp nhất Thanh điều khiển</string>
     <string name="select">Chọn</string>
     <string name="design_preset">Bộ cài Thiết kế</string>
-    <string name="design_preset_summary">Chọn bố cục sau đó tùy chỉnh màu bảng điều khiển của bạn trong phần \"Thiết kế\".</string>
+    <string name="design_preset_summary">Chọn bố cục cơ sở của bạn sau đó tùy chỉnh màu bảng điều khiển của bạn trong phần \"Thiết kế\".</string>
     <string name="recent_changes">Thay đổi gần đây</string>
     <string name="block_back_touch">Chặn chạm dưới nền</string>
-    <string name="trigger_acc"><b>Tip:</b> Click here to enable Volume Panel accessibility services, this will allow the floating trigger &amp; volume panel to be used in the lock screen.</string>
-    <string name="overwrite">This will overwrite your current layout, press proceed to continue.</string>
-    <string name="enter_name">Backup File Name</string>
-    <string name="restore">Import Configuration</string>
-    <string name="shortcutter_permissions_storage">Storage Permissions Required</string>
-    <string name="backup">Export Configuration</string>
+    <string name="backup">Xuất cấu hình</string>
+    <string name="shortcutter_permissions_storage">Quyền lưu trữ được yêu cầu</string>
+    <string name="restore">Nhập cấu hình</string>
+    <string name="enter_name">Sao lưu tên tệp</string>
+    <string name="trigger_acc"><b>Mẹo:</b> Nhấn vào đây để bật dịch vụ trợ năng của Bảng điều khiển âm lượng, điều này sẽ cho phép bảng kích hoạt &amp; âm lượng nổi được sử dụng trong màn hình khóa.</string>
+    <string name="overwrite">Điều này sẽ ghi đè lên bố cục hiện tại của bạn, nhấn tiến hành để tiếp tục.</string>
+    <string name="shortcuts_below">Place Shortcuts Below</string>
+    <string name="change_back">Do you want to customise the slider background/off mode colour?</string>
+    <string name="merge_icons">Merge Icons</string>
 </resources>

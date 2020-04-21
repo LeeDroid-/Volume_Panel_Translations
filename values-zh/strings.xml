@@ -191,13 +191,16 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="merge_panels">合并面板</string>
     <string name="select">选择</string>
     <string name="design_preset">设计预设</string>
-    <string name="design_preset_summary">选择您喜欢的布局然后在“设计”板块中进行自定义。</string>
+    <string name="design_preset_summary">选择您喜欢的基础布局然后在“设计”板块中进行颜色自定义。</string>
     <string name="recent_changes">最近更新内容</string>
     <string name="block_back_touch">阻止背景点触</string>
-    <string name="trigger_acc"><b>Tip:</b> Click here to enable Volume Panel accessibility services, this will allow the floating trigger &amp; volume panel to be used in the lock screen.</string>
-    <string name="overwrite">This will overwrite your current layout, press proceed to continue.</string>
-    <string name="enter_name">Backup File Name</string>
-    <string name="restore">Import Configuration</string>
-    <string name="shortcutter_permissions_storage">Storage Permissions Required</string>
-    <string name="backup">Export Configuration</string>
+    <string name="backup">导出设置</string>
+    <string name="shortcutter_permissions_storage">需要储存权限</string>
+    <string name="restore">导入设置</string>
+    <string name="enter_name">备份文件名称</string>
+    <string name="trigger_acc"><b>提示:</b> 点击这里以启用音量面板的无障碍选项，这将会被用于悬浮触发器&amp; 以及面板在锁屏状态下的控制。</string>
+    <string name="overwrite">这将会覆盖您当前的设计，点击以继续。</string>
+    <string name="merge_icons">融合图标</string>
+    <string name="shortcuts_below">Place Shortcuts Below</string>
+    <string name="change_back">Do you want to customise the slider background/off mode colour?</string>
 </resources>

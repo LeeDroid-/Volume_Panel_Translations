@@ -235,4 +235,7 @@
     <string name="enter_name">የመጠባበቂያ ፋይል ስም</string>
     <string name="trigger_acc"><b>Tip:</b> Click here to enable Volume Panel accessibility services, this will allow the floating trigger &amp; volume panel to be used in the lock screen.</string>
     <string name="overwrite">This will overwrite your current layout, press proceed to continue.</string>
+    <string name="merge_icons">Merge Icons</string>
+    <string name="change_back">Do you want to customise the slider background/off mode colour?</string>
+    <string name="shortcuts_below">Place Shortcuts Below</string>
 </resources>

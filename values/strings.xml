@@ -92,7 +92,7 @@
     <string name="google_assistant">Show Assistant Button</string>
     <string name="grant">Grant Permission</string>
     <string name="hide_full">Invisible In Full Screen</string>
-    <string name="hide_settings">Hide Settings Shortcut</string>
+    <string name="hide_settings">Hide Settings Shortcuts</string>
     <string name="icon_colour">Icon Colour</string>
     <string name="invert_buttons">Invert Volume Buttons</string>
     <string name="killed">The Volume Panel accessibility service has been stopped or removed by the system.
@@ -238,13 +238,18 @@
     <string name="design_preset_summary">Choose your base layout then customise your panel colours in the \"Design\" section.</string>
     <string name="recent_changes">Recent Changes</string>
     <string name="change_log" translatable="false"><![CDATA[
-    <b>V11.48 Beta:</b>
+    <b>V11.55 Beta:</b>
+        <br/>\u2022 Add option to merge icons into solid sliders.
         <br/>\u2022 Introduce "Design Presets".
         <br/>\u2022 Click outside to close corrections.
         <br/>\u2022 Add Import/Export configuration.
+        <br/>\u2022 Allow custom solid slider background.
         <br/>\u2022 Enable floating trigger everywhere when accessibility enabled.
         <br/>\u2022 Do not disable accessibility when turning button override off.
         <br/>\u2022 Amharic translations test.
+        <br/>\u2022 Correct horizontal sliders in Landscape.
+        <br/>\u2022 Correct height & width scaling.
+        <br/>\u2022 Fix shortcut position in horizontal sliders.
         <br/><br/>
     <b>V11.44:</b>
         <br/>\u2022 Fix horizontal slider direction in right handed mode.
@@ -301,4 +306,7 @@
     <string name="enter_name">Backup File Name</string>
     <string name="trigger_acc"><b>Tip:</b> Click here to enable Volume Panel accessibility services, this will allow the floating trigger &amp; volume panel to be used in the lock screen.</string>
     <string name="overwrite">This will overwrite your current layout, press proceed to continue.</string>
+    <string name="merge_icons">Merge Icons</string>
+    <string name="change_back">Do you want to customise the slider background/off mode colour?</string>
+    <string name="shortcuts_below">Place Shortcuts Below</string>
 </resources>

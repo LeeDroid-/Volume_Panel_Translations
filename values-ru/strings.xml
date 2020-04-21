@@ -199,5 +199,8 @@
     <string name="restore">Импорт настроек</string>
     <string name="enter_name">Имя рез.копии</string>
     <string name="trigger_acc"><b>Совет:</b> Нажмите здесь, чтобы включить службу спец.возможностей для Volume Panel, что позволит использовать плавающий триггер и панель громкости на экране блокировки.</string>
-    <string name="overwrite">This will overwrite your current layout, press proceed to continue.</string>
+    <string name="overwrite">Это перезапишет текущую разметку, чтобы начать, нажмите продолжить.</string>
+    <string name="merge_icons">Объединить значки</string>
+    <string name="shortcuts_below">Place Shortcuts Below</string>
+    <string name="change_back">Do you want to customise the slider background/off mode colour?</string>
 </resources>
