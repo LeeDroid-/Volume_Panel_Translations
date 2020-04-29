@@ -58,7 +58,6 @@
     <string name="design">التصميم</string>
     <string name="detect_keys">أكتشاف ضغطات المفاتيح عند الفتح</string>
     <string name="disable">تعطيل </string>
-    <string name="disable_acc">يرجي تعطيل خدمة الوصول </string>
     <string name="disable_notif">يرجى تعطيل وصول للإشعارات</string>
     <string name="dismiss">رفض</string>
     <string name="dnd_access">
@@ -220,15 +219,28 @@
     <string name="design_preset">إعدادات التصميم المسبقة</string>
     <string name="design_preset_summary">اختر التخطيط ثم قم بتخصيص ألوان اللوحة في قسم "التصميم".</string>
     <string name="block_back_touch">منع اللمسات الخلفية</string>
-    <string name="trigger_acc"><b>Tip:</b> Click here to enable Volume Panel accessibility services, this will allow the floating trigger &amp; volume panel to be used in the lock screen.</string>
-    <string name="overwrite">This will overwrite your current layout, press proceed to continue.</string>
-    <string name="enter_name">Backup File Name</string>
-    <string name="restore">Import Configuration</string>
-    <string name="shortcutter_permissions_storage">Storage Permissions Required</string>
-    <string name="backup">Export Configuration</string>
-    <string name="recent_changes">Recent Changes</string>
-    <string name="force_english">Force English</string>
-    <string name="shortcuts_below">Place Shortcuts Below</string>
-    <string name="change_back">Do you want to customise the slider background/off mode colour?</string>
-    <string name="merge_icons">Merge Icons</string>
+    <string name="trigger_acc"><b>ملحوظة:</b> انقر هنا لتمكين خدمات إمكانية الوصول ، وهذا سيسمح باستخدام المشغل العائم ولوحة الصوت في شاشة القفل.</string>
+    <string name="overwrite">سيؤدي هذا إلى استبدال التخطيط الحالي الخاص بك ، اضغط على متابعة للمتابعة.</string>
+    <string name="enter_name">اسم ملف النسخ الاحتياطي</string>
+    <string name="restore">تكوين الاستيراد</string>
+    <string name="shortcutter_permissions_storage">أذونات التخزين مطلوبة</string>
+    <string name="backup">تكوينات التصدير</string>
+    <string name="recent_changes">التغييرات الأخيرة</string>
+    <string name="force_english">استخدم الإنجليزية</string>
+    <string name="shortcuts_below">ضع اختصارات أدناه</string>
+    <string name="merge_icons">دمج الرموز</string>
+    <string name="thumb">لون الإبهام</string>
+    <string name="access_error">خطأ في الوصول ، يرجى تجربة دليل مختلف.</string>
+    <string name="dim_behind">خافت وراء</string>
+    <string name="dim_amount">مستوى خافت = %1$d%%</string>
+    <string name="change_path">موقع جديد</string>
+    <string name="save">حفظ</string>
+    <string name="flip_icons">قم بتغيير مكان الرمز</string>
+    <string name="show_lock_short">شاشة قفل الاختصار</string>
+    <string name="show_split">اختصار تقسيم الشاشة</string>
+    <string name="show_orient">اختصار التدوير التلقائي</string>
+    <string name="round_top_solid_sliders">Rounded Progress Bar</string>
+    <string name="design_solid_sliders">Customise Solid Sliders</string>
+    <string name="design_borders">Customise Panel Borders</string>
+    <string name="mute_shortcut">Mute Microphone Shortcut</string>
 </resources>

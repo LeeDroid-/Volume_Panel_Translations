@@ -3,7 +3,10 @@
     <string name="about"><![CDATA[<b>Volume Panel:</b><br/>\u2022Um substituto flex\u00edvel para o controlo de volume do sistema.<br/><br/><b>Desenhado &amp; Desenvolvido Por:</b><br/>\u2022 Lee Bailey (AKA @LeeDrOiD)<br/> Agradecimentos Adicionais a:<br/>\u2022 Os criadores de App Intro.<br/>\u2022 Ereza por Custom Activity On Crash.<br/>\u2022 D-Max por Spots Dialog.<br/>Tradu\u00e7\u00f5es Por:<br/>\u2022 Linar10 - Polaco<br/>\u2022 Fatih Firinci - Turco<br/>\u2022 guillerag - Espanhol<br/>\u2022 Nuno Nebeker - Portugu\u00eas<br/>\u2022 \u0418\u0433\u043e\u0440\u044c \u0418\u0440\u0438\u043d\u0438\u043d - Russo<br/>\u2022 Sylm - Franc\u00eas\n<br/>\u2022 Emad Ayad - \u00c1rabe<br/>\u2022 VM - Alem\u00e3o<br/>\u2022 Alpert7 - Chin\u00eas<br/>\u2022 Nguy\u1ec5n Lam - Vietnamita <br/><br/>Pode entrar em contacto comigo pela op\u00e7\u00e3o \"Dar Feedback por Email\" &amp; n\u00e3o se esque\u00e7a de deixar uma cr\u00edtica &#128512;]]></string>
     <string name="about_title">Sobre</string>
     <string name="accessibility_description"><u>Acesso a Acessibilidade</u>
-        \n\nEsta permissão permite detetar a utilização das teclas de volume.
+ \n\nEsta permissão permite:
+ \n• Detetar a utilização das teclas de volume.
+ \n• Mostrar a aplicação no ecrã de bloqueio.
+ \n• Ofrerecer atalhos adicionais.
         \n\nNão é detetado qualquer outro conteúdo.
         \n\nPode ser necessário reiniciar alguns aparelhos para iniciar este serviço.</string>
     <string name="action">Ação Agora</string>
@@ -13,7 +16,7 @@
     <string name="alert">Alerta de Otimização</string>
     <string name="anim_duration">Duração de Animações = %.2fs</string>
     <string name="anim_durations">Duração de Animações</string>
-    <string name="app_name">Volume Panel</string>
+    <string name="app_name">Painel de Volume</string>
     <string name="auto_dark_sum">\u2022 Adaptar ao modo Escuro/Claro do sistema.\n        \n\u2022 Depende de suporte do fabricante.</string>
     <string name="background_colour">Cor de Fundo</string>
     <string name="bat_opt"><![CDATA[<b>Volume Panel está a ser otimizado pelo sistema &amp; pode ser encerrada no fundo</b>.
@@ -36,10 +39,9 @@
     <string name="cp_head">Toque em CENTRO para confirmar.</string>
     <string name="dark_mode">Modo Escuro</string>
     <string name="default_to_ring_volume">Ajustar Volume de Toque por Defeito</string>
-    <string name="design">Desenho</string>
+    <string name="design">Estilo</string>
     <string name="detect_keys">Detetar Botões Enquanto Aberto</string>
     <string name="disable">Desativar</string>
-    <string name="disable_acc">POR FAVOR DESATIVE O SERVIÇO DE ACESSIBILIDADE.</string>
     <string name="disable_notif">POR FAVOR DESATIVE ACESSO A NOTIFICAÇÕES</string>
     <string name="dismiss">Ignorar</string>
     <string name="dnd_access"><u>Acesso Não Incomodar</u>
@@ -59,15 +61,15 @@
     <string name="excluded">Volume Panel: Aplicação Excluída</string>
     <string name="failed_window_add">Falha a adicionar janela, por favor abra a aplicação e certifique-se de que a permissão Sobrepor a Ouras Aplicações foi concedida.</string>
     <string name="fill_style">Usar Barras Preenchidas</string>
-    <string name="flash_light">Mostrar Botão de Lanterna</string>
+    <string name="flash_light">Atalho de Lanterna</string>
     <string name="floating_trigger">Atalho de Deslize para Cima/Baixo</string>
     <string name="force_close">Fechar Caixas de Diálogo à Força</string>
     <string name="free">Desativar Versão Grátis</string>
     <string name="free_installed">Volume Panel Free está a sobrepôr-se ao painel de volume do sistema, por favor desative-a para evitar conflitos.</string>
-    <string name="google_assistant">Mostrar botão de Assistente</string>
+    <string name="google_assistant">Atalho de Assistente</string>
     <string name="grant">Conceder Permissão</string>
     <string name="hide_full">Invisível Em Ecrã Inteiro</string>
-    <string name="hide_settings">Esconder Atalho de Definições</string>
+    <string name="hide_settings">Esconder Atalhos de Definições</string>
     <string name="icon_colour">Cor de Ícones</string>
     <string name="invert_buttons">Inverter Botões de Volume</string>
     <string name="killed">O serviço de acessibilidade de Volume Panel foi parado ou removido pelo sistema.
@@ -120,19 +122,19 @@
     <string name="reenable">Reativar</string>
     <string name="ring">Toque</string>
     <string name="ring_mode">Modo de Toque</string>
-    <string name="screen_shot">Mostrar botão de Captura de Ecrã</string>
+    <string name="screen_shot">Atalho de Captura de Ecrã</string>
     <string name="select_apps">Selecionar Aplicações</string>
     <string name="send_report">Enviar Relatório</string>
-    <string name="show_alarm_panel">Mostrar Painel de Alarme</string>
+    <string name="show_alarm_panel">Painel de Volume de Alarme</string>
     <string name="show_bright_panel">Painel de Brilho do Ecrã</string>
     <string name="show_lock">Mostrar no Ecrã de Bloqueio</string>
-    <string name="show_notif">Mostrar Painel de Notificações</string>
-    <string name="show_ring_panel">Mostrar Painel de Toque</string>
+    <string name="show_notif">Painel de Volume de Notificações</string>
+    <string name="show_ring_panel">Painel de Volume de Toque</string>
     <string name="silent">Silêncio</string>
     <string name="slide_heightx">Escala do Painel X = %1$d%%</string>
     <string name="slide_heights">Escala do Painel</string>
     <string name="slide_heighty">Escala do Painel Y = %1$d%%</string>
-    <string name="slider_colour">Cor da Barra</string>
+    <string name="slider_colour">Cores das Barras</string>
     <string name="start_collapsed">Iniciar Minimizado</string>
     <string name="suspend">Suspender</string>
     <string name="switch_theme">Mudar Tema</string>
@@ -166,11 +168,11 @@
     <string name="vol_timeout">Timeout do Painel = %1$ds</string>
     <string name="volumeui">Interface de Volume</string>
     <string name="show_call">Mostrar Sempre Volume de Chamada</string>
-    <string name="show_bluetooth">Mostrar Botão Bluetooth</string>
+    <string name="show_bluetooth">Atalho de Bluetooth</string>
     <string name="block_vold_up_lp">Bloquear Premir e Segurar Vol-</string>
     <string name="show_media">Mostrar Controlo de Média</string>
     <string name="change_first_click">Mudar o Volume de Imediato</string>
-    <string name="show_system">Mostrar Painel do Sistema</string>
+    <string name="show_system">Painel de Volume do Sistema</string>
     <string name="show_levels">Mostrar Indicadores de Nível</string>
     <string name="when_notif">Somente quando Notificação Ativa</string>
     <string name="volume_plus">Volume +</string>
@@ -190,17 +192,30 @@
     <string name="force_english">Forçar Inglês</string>
     <string name="merge_panels">Juntar Painéis</string>
     <string name="select">Selecionar</string>
-    <string name="design_preset">Predefinições de Desenho</string>
-    <string name="design_preset_summary">Escolha a organização e personalize as cores do seu painel na secção \"Desenho\".</string>
+    <string name="design_preset">Estilos Predefinidos</string>
+    <string name="design_preset_summary">Escolha a organização base e personalize as cores do seu painel na secção \"Estilo\".</string>
+    <string name="recent_changes">Alterações Recentes</string>
     <string name="block_back_touch">Interacção em bloco de fundo</string>
-    <string name="trigger_acc"><b>Tip:</b> Click here to enable Volume Panel accessibility services, this will allow the floating trigger &amp; volume panel to be used in the lock screen.</string>
-    <string name="overwrite">This will overwrite your current layout, press proceed to continue.</string>
-    <string name="enter_name">Backup File Name</string>
-    <string name="restore">Import Configuration</string>
-    <string name="shortcutter_permissions_storage">Storage Permissions Required</string>
-    <string name="backup">Export Configuration</string>
-    <string name="recent_changes">Recent Changes</string>
-    <string name="shortcuts_below">Place Shortcuts Below</string>
-    <string name="change_back">Do you want to customise the slider background/off mode colour?</string>
-    <string name="merge_icons">Merge Icons</string>
+    <string name="backup">Exportar Configuração</string>
+    <string name="shortcutter_permissions_storage">É Necessária Permissão de Armazenamento</string>
+    <string name="restore">Importar Configuração</string>
+    <string name="enter_name">Nome do Ficheiro de Cópia de Segurança</string>
+    <string name="trigger_acc"><b>Dica:</b> Clique aqui para ativar os serviços de acessibilidade de Volume Panel. Isto permitirá utilizar o atalhoflutuante &amp; painel de volume no ecrã de bloqueio.</string>
+    <string name="overwrite">Vai substituir a sua organização atual, clique continuar para avançar.</string>
+    <string name="merge_icons">Juntar Ícones</string>
+    <string name="shortcuts_below">Colocar Atalhos Abaixo</string>
+    <string name="dim_behind">Escurecer Por Trás de Painel</string>
+    <string name="dim_amount">Nível de Escurecimento = %1$d%%</string>
+    <string name="change_path">Nova Pasta</string>
+    <string name="save">Guardar</string>
+    <string name="flip_icons">Inverter Posição dos Ícones</string>
+    <string name="access_error">Erro de acesso, por favor experimente outra pasta.</string>
+    <string name="thumb">Cor do Indicador</string>
+    <string name="show_lock_short">Atalho de Ecrã de Bloqueio</string>
+    <string name="show_split">Atalho de Dividir Ecrã</string>
+    <string name="show_orient">Atalho de Rotação Automática</string>
+    <string name="round_top_solid_sliders">Barra de progresso arredondada</string>
+    <string name="design_solid_sliders">Customise Solid Sliders</string>
+   <string name="design_borders">Customise Panel Borders</string>
+   <string name="mute_shortcut">Mute Microphone Shortcut</string>
 </resources>

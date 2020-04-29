@@ -2,11 +2,7 @@
 <resources>
     <string name="about"><![CDATA[<b>Volume Panel:</b><br/>\u2022Sistem ses kontrolleriniz i\u00e7in esnek bir de\u011fi\u015ftirme.<br/><br/><b>Tasarlayan &amp; Geli\u015ftiren:</b><br/>\u2022 Lee Bailey (AKA @LeeDrOiD)<br/> Ekstra Te\u015fekk\u00fcrler:<br/>\u2022 App Intro\'nun yap\u0131mc\u0131lar\u0131na.<br/>\u2022 Custom Activity On Crash i\u00e7in Ereza\'ya.<br/>\u2022 Spots Dialog i\u00e7in D-Max\'e.<br/>\u00c7eviriler:<br/>\u2022 Linar10 - Polish<br/>\u2022 Fatih F\u0131r\u0131nc\u0131 - Turkish<br/>\u2022 guillerag - Spanish<br/>\u2022 Nuno Nebeker - Portuguese<br/>\u2022 \u0418\u0433\u043e\u0440\u044c \u0418\u0440\u0438\u043d\u0438\u043d - Russian<br/>\u2022 Sylm - Fran\u00e7ais\n    <br/>\u2022 Emad Ayad - Arabic\n    <br/>\u2022 VM - German\n    <br/>\u2022 Alpert7 - Chinese<br/><br/>\"Geri Bildirim G\u00f6nder\" se\u00e7ene\u011fi ile benimle ileti\u015fime ge\u00e7mekten \u00e7ekinmeyin &amp; bir inceleme b\u0131rakmay\u0131 unutmay\u0131n &#128512;]]></string>
     <string name="about_title">Hakkında</string>
-    <string name="accessibility_description"><u>Erişilebilirlik Erişimi</u>
-        \n\n• Ses açma kısma tuşlarına basmayı algılama.
-        \n• Hariç tutulan uygulamaların ne zaman kullanıldığını algılama.
-        \n\nBaşka hiçbir tuşa basılmaz.
-        \n\nHizmeti başlatmak için bazı cihazların yeniden başlatılması gerekebilir.</string>
+    <string name="accessibility_description"><u>Eri\u015filebilirlik Eri\u015fimi</u>\n        \n\n\u2022 Ses a\u00e7ma k\u0131sma tu\u015flar\u0131na basmay\u0131 alg\u0131lama.\n        \n\u2022 Hari\u00e7 tutulan uygulamalar\u0131n ne zaman kullan\u0131ld\u0131\u011f\u0131n\u0131 alg\u0131lama.\n        \n\nBa\u015fka hi\u00e7bir tu\u015fa bas\u0131lmaz.\n        \n\nHizmeti ba\u015flatmak i\u00e7in baz\u0131 cihazlar\u0131n yeniden ba\u015flat\u0131lmas\u0131 gerekebilir.</string>
     <string name="action">Şimdi Yap</string>
     <string name="add_border">Panel Kenarlıklarını Etkinleştir</string>
     <string name="add_shortcut">Başlatıcı Kısayolunu Etkinleştir</string>
@@ -40,7 +36,6 @@
     <string name="design">Tasarım</string>
     <string name="detect_keys">Açıldığında Tuşlara Basmayı Algıla</string>
     <string name="disable">Devre dışı bırak</string>
-    <string name="disable_acc">LÜTFEN ERİŞİLEBİLİRLİK HİZMETİNİ DEVRE DIŞI BIRAKIN.</string>
     <string name="disable_notif">LÜTFEN BİLDİRİM ERİŞİMİNİ DEVRE DIŞI BIRAKIN</string>
     <string name="dismiss">Kapat</string>
     <string name="dnd_access"><u>Rahatsız Etmeyin Erişimi</u>
@@ -51,7 +46,7 @@
         <br/><br/>Bazı cihazlar belleği boşaltırken ve önemli hizmetleri sonlandırırken çok agresiftir, Yönetici haklarına sahip uygulamalar nadiren sonlandırılır.
         <br/><br/>Volume Panel için temel Yönetici haklarını etkinleştirmek, hizmetlerimizi çalışır tutacaktır.
         <br/><br/>Uygulamayı kaldırmanız gerekirse, bu seçeneği devre dışı bırakmanız gerekecektir.]]></string>
-    <string name="done">Bitti</string>
+    <string name="done">Tamam</string>
     <string name="email_feedback">Geri Bildirim Gönder</string>
     <string name="enable_blacklist">Uygulama Hariç Tutmayı Etkinleştir</string>
     <string name="enable_volume_panel">Ses Tuşlarını Geçersiz Kıl</string>
@@ -60,15 +55,15 @@
     <string name="excluded">Volume Panel: Uygulama Hariç Tutuldu</string>
     <string name="failed_window_add">Pencere eklenemedi, lütfen uygulamayı açın ve Ekran Yerleşimi izinlerinin verildiğinden emin olun</string>
     <string name="fill_style">Katı Kaydırıcıları Kullan</string>
-    <string name="flash_light">Fener Düğmesini Göster</string>
+    <string name="flash_light">Fener Kısayolu</string>
     <string name="floating_trigger">Yukarı/Aşağı Kaydırarak Tetikle</string>
     <string name="force_close">Pencereleri Kapatmaya Zorla</string>
     <string name="free">Ücretsiz Sürümü Devre Dışı Bırak</string>
     <string name="free_installed">Volume Panel Free şu anda sistem ses panelini geçersiz kılıyor, çakışmaları önlemek için lütfen devre dışı bırakın.</string>
-    <string name="google_assistant">Asistan Düğmesini Göster</string>
+    <string name="google_assistant">Asistan Kısayolu</string>
     <string name="grant">İzin Ver</string>
     <string name="hide_full">Tam Ekranda Gösterme</string>
-    <string name="hide_settings">Ayarlar Kısayolunu Gizle</string>
+    <string name="hide_settings">Ayarlar Kısayollarını Gizle</string>
     <string name="icon_colour">Simge Rengi</string>
     <string name="invert_buttons">Ses Tuşlarını Ters Çevir</string>
     <string name="killed">Volume Panel erişilebilirlik hizmeti sistem tarafından durduruldu veya kaldırıldı.
@@ -121,19 +116,19 @@
     <string name="reenable">Yeniden Etkinleştir</string>
     <string name="ring">Zil Sesi</string>
     <string name="ring_mode">Zil Modu</string>
-    <string name="screen_shot">Ekran Görüntüsü Düğmesini Göster</string>
+    <string name="screen_shot">Ekran Görüntüsü Kısayolu</string>
     <string name="select_apps">Uygulamaları Seç</string>
     <string name="send_report">Rapor Gönder</string>
-    <string name="show_alarm_panel">Alarm Panelini Göster</string>
+    <string name="show_alarm_panel">Alarm Sesi Paneli</string>
     <string name="show_bright_panel">Ekran Parlaklığı Paneli</string>
     <string name="show_lock">Kilitliyken Göster</string>
-    <string name="show_notif">Bildirim Panelini Göster</string>
-    <string name="show_ring_panel">Zil Sesi Panelini Göster</string>
+    <string name="show_notif">Bildirim Sesi Paneli</string>
+    <string name="show_ring_panel">Zil Sesi Paneli</string>
     <string name="silent">Sessiz</string>
     <string name="slide_heightx">Panel Ölçeği X = %1$d%%</string>
     <string name="slide_heights">Panel Ölçeği</string>
     <string name="slide_heighty">Panel Ölçeği Y = %1$d%%</string>
-    <string name="slider_colour">Kaydırıcı Rengi</string>
+    <string name="slider_colour">Kaydırıcı Renkleri</string>
     <string name="start_collapsed">Daraltılmış Başlat</string>
     <string name="suspend">Askıya Al</string>
     <string name="switch_theme">Temayı Değiştir</string>
@@ -167,11 +162,11 @@
     <string name="vol_timeout">Panel Zaman Aşımı = %1$ds</string>
     <string name="volumeui">Ses Arayüzü</string>
     <string name="show_call">Her Zaman Çağrı Sesini Göster</string>
-    <string name="show_bluetooth">Bluetooth Düğmesini Göster</string>
+    <string name="show_bluetooth">Bluetooth Kısayolu</string>
     <string name="block_vold_up_lp">Ses Artırmaya Uzun Basmayı Engelle</string>
     <string name="show_media">Medya Kontrollerini Göster</string>
     <string name="change_first_click">İlk Tıklamada Sesi Değiştir</string>
-    <string name="show_system">Sistem Panelini Göster</string>
+    <string name="show_system">Sistem Sesi Paneli</string>
     <string name="show_levels">Seviye Etiketlerini Göster</string>
     <string name="when_notif">Yalnızca Bildirim Etkinken</string>
     <string name="volume_plus">Ses +</string>
@@ -202,6 +197,19 @@
     <string name="trigger_acc"><b>İpucu:</b> Volume Panel erişilebilirlik hizmetlerini etkinleştirmek için buraya tıklayın, bu, yüzen tetikleyici &amp; ses panelinin kilit ekranında kullanılmasına izin verecektir.</string>
     <string name="overwrite">Bu, mevcut düzeninizin üzerine yazacaktır, devam etmek için devam et\'e basın.</string>
     <string name="merge_icons">Simgeleri Birleştir</string>
-    <string name="change_back">Kaydırıcı arka plan/kapalı modu rengini özelleştirmek istiyor musunuz?</string>
     <string name="shortcuts_below">Kısayolları Aşağıya Yerleştir</string>
+    <string name="dim_behind">Panelin Arkasını Karart</string>
+    <string name="dim_amount">Karartma Miktarı = %1$d%%</string>
+    <string name="change_path">Yeni Dizin</string>
+    <string name="save">Kaydet</string>
+    <string name="flip_icons">Simge Konumunu Ters Çevir</string>
+    <string name="access_error">Erişilemiyor, lütfen farklı bir dizin deneyin.</string>
+    <string name="thumb">Başparmak Rengi</string>
+    <string name="show_lock_short">Ekran Kilidi Kısayolu</string>
+    <string name="show_split">Bölünmüş Ekran Kısayolu</string>
+    <string name="show_orient">Otomatik Döndürme Kısayolu</string>
+    <string name="round_top_solid_sliders">Yuvarlak İlerleme Çubuğu</string>
+    <string name="design_solid_sliders">Customise Solid Sliders</string>
+    <string name="design_borders">Customise Panel Borders</string>
+    <string name="mute_shortcut">Mute Microphone Shortcut</string>
 </resources>

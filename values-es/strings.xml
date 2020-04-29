@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resources>
-    <string name="about"><![CDATA[</b>Volume Panel:</b><br/>\u2022 Un reemplazo flexible para los controles de volumen de tu sistema.<br/><br/><b>Dise\u00f1ado y desarrollado por:</b><br/>\u2022 Lee Bailey (alias @LeeDrOiD)<br/> Agradecimientos especiales:<br/>\u2022 The creators of App Intro.<br/>\u2022 Ereza for Custom Activity On Crash.<br/>\u2022 D-Max for Spots Dialog.<br/>Traducciones por:<br/>\u2022 Linar10 - Polish<br/>\u2022 Fatih Firinci - Turkish<br/>\u2022 guillerag - Spanish<br/>\u2022 Nuno Nebeker - Portuguese<br/>\u2022 \u0418\u0433\u043e\u0440\u044c \u0418\u0440\u0438\u043d\u0438\u043d - Russian<br/>\u2022 Sylm - Fran\u00e7ais<br/>\u2022 Emad Ayad - Arabic<br/>\u2022 VM - German<br/>\u2022 Alpert7 - Chinese<br/>\u2022 Nguy\u1ec5n Lam - Vietnamese<br/><br/>No dudes en contactar conmigo a trav\u00e9s de la opci\u00f3n \"Enviar comentarios\" y no olvides dejarme un comentario &#128512;]]></string>
+    <string name="about"><![CDATA[</b>Volume Panel:</b><br/>\u2022 Un reemplazo flexible para los controles de volumen de tu sistema.<br/><br/><b>Dise\u00f1ado y desarrollado por:</b><br/>\u2022 Lee Bailey (alias @LeeDrOiD)<br/> Agradecimientos especiales:\n<br/>\u2022 The Great Dane - AKA Bo.\n<br/>\u2022 The creators of App Intro.<br/>\u2022 Ereza for Custom Activity On Crash.<br/>\u2022 D-Max for Spots Dialog.<br/>Traducciones por:<br/>\u2022 Linar10 - Polish<br/>\u2022 Fatih Firinci - Turkish<br/>\u2022 guillerag - Spanish<br/>\u2022 Nuno Nebeker - Portuguese<br/>\u2022 \u0418\u0433\u043e\u0440\u044c \u0418\u0440\u0438\u043d\u0438\u043d - Russian<br/>\u2022 Sylm - Fran\u00e7ais<br/>\u2022 Emad Ayad - Arabic<br/>\u2022 VM - German<br/>\u2022 Alpert7 - Chinese<br/>\u2022 Nguy\u1ec5n Lam - Vietnamese<br/><br/>No dudes en contactar conmigo a trav\u00e9s de la opci\u00f3n \"Enviar comentarios\" y no olvides dejarme un comentario &#128512;]]></string>
     <string name="about_title">Acerca de</string>
-    <string name="accessibility_description"><u>Acceso de Accesibilidad</u>
-\n\nEste permiso permite detectar las pulsaciones en los botones de volumen.
-\n\nNo se registra ningún otro contenido.
-\n\nAlgunos dispositivos pueden requerir un reinicio para iniciar el servicio.</string>
+    <string name="accessibility_description"><u>Acceso de Accesibilidad</u>\n\nEste permiso permite:\n\u2022 Detectar las pulsaciones en los botones de volumen.\n\u2022 Proporcionar superposiciones en pantalla de bloqueo.\n\u2022 Proporcionar accesos directos adicionales.\n\n\nNo se registra ning\u00fan otro contenido.\n\n\nAlgunos dispositivos pueden requerir un reinicio para iniciar el servicio.</string>
     <string name="action">Actuar ahora</string>
     <string name="add_border">Habilitar bordes en panel</string>
     <string name="add_shortcut">Habilitar en Launcher</string>
@@ -14,7 +11,7 @@
     <string name="anim_duration">Duración de la animación = %.2fs</string>
     <string name="anim_durations">Duración de la animación</string>
     <string name="app_name">Volume Panel</string>
-    <string name="auto_dark_sum">\u2022 Modo Claro/Oscuro definido por el sistema.\n\n\u2022 Se necesita el soporte del fabricante.</string>
+    <string name="auto_dark_sum">\u2022 Modo Claro/Oscuro definido por el sistema.\n\n\u2022 Es necesario el soporte del fabricante.</string>
     <string name="background_colour">Color de fondo</string>
     <string name="bat_opt"><![CDATA[<b>Volume Panel está siendo optimizado por el sistema y puede ser deshabilitado en segundo plano</b>.
 <br/><br/>Ninguno de los servicios de Volume Panel son de uso intensivo para la batería, pero la deshabilitación de la optimización mejorará la estabilidad.
@@ -39,7 +36,6 @@
     <string name="design">Diseño</string>
     <string name="detect_keys">Detectar pulsaciones al iniciar</string>
     <string name="disable">Deshabilitar</string>
-    <string name="disable_acc">POR FAVOR, DESACTIVA EL SERVICIO DE ACCESIBILIDAD.</string>
     <string name="disable_notif">POR FAVOR, DESACTIVA EL ACCESO A LAS NOTIFICACIONES</string>
     <string name="dismiss">Rechazar</string>
     <string name="dnd_access"><u>Acceso a No molestar</u>
@@ -58,16 +54,16 @@
     <string name="exclude_applications_sum">\u2022 Volume Panel no se abrir\u00e1 en estas aplicaciones.</string>
     <string name="excluded">Volume Panel: Aplicación excluida</string>
     <string name="failed_window_add">No se ha podido agregar la ventana, por favor, abre la aplicación y asegúrate de que los permisos de la Pantalla de Superposición han sido concedidos.</string>
-    <string name="fill_style">Usar deslizador grueso</string>
-    <string name="flash_light">Mostrar botón de la linterna</string>
+    <string name="fill_style">Usar deslizadores gruesos</string>
+    <string name="flash_light">Acceso directo a la linterna</string>
     <string name="floating_trigger">Habilitar Activador Flotante</string>
     <string name="force_close">Forzar cierre de diálogos</string>
     <string name="free">Deshabilitar versión gratuita</string>
     <string name="free_installed">Volume Panel Free está actualmente sustituyendo el panel de volumen del sistema, por favor desactívalo para evitar conflictos.</string>
-    <string name="google_assistant">Mostrar botón del asistente</string>
+    <string name="google_assistant">Acceso directo al asistente</string>
     <string name="grant">Conceder permiso</string>
     <string name="hide_full">Invisible a pantalla completa</string>
-    <string name="hide_settings">Ocultar acceso directo a los ajustes</string>
+    <string name="hide_settings">Ocultar accesos directos a los ajustes</string>
     <string name="icon_colour">Color del icono</string>
     <string name="invert_buttons">Invertir botones de volumen</string>
     <string name="killed">El servicio de accesibilidad de Volume Panel ha sido detenido o eliminado por el sistema.
@@ -93,7 +89,7 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="mute_media">Silenciar medios</string>
     <string name="need_dnd">Permisos requeridos modo no molestar</string>
     <string name="not_found">No se detecta ninguna actividad, por favor, ve a los Ajustes y concede los permisos manualmente</string>
-    <string name="notif_access"><u>Acceso a notificaciones</u>\n\n\n\u2022 Este permiso nos permite detectar transmisiones Cast o de Streaming.\n\n\u2022 Si deseas ejecutar sin controlarlas, no dudes en omitir este permiso.\n\n\nNo se registrar\u00e1 ning\u00fan contenido de las notificaciones.\n\n\n</string>
+    <string name="notif_access"><u>Acceso a notificaciones</u>\n\n\n\u2022 Este permiso nos permite detectar transmisiones Cast o de Streaming.\n\n\u2022 Si deseas ejecutar sin controlarlas, no dudes en omitir este permiso.\n\n\nNo se registrar\u00e1 ning\u00fan contenido de las notificaciones.\n\n</string>
     <string name="notif_panel"><![CDATA[No todos los dispositivos admiten la división del volumen de las notificaciones, sistema y del timbre.
 <br/><br/>Si ambos deslizadores cambian juntos, esto se debe a la configuración de tu sistema y no tiene nada que ver con Volume Panel.]]></string>
     <string name="notification_listener">Receptor de notificaciones de Volume Panel</string>
@@ -109,7 +105,7 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="position_left">Posición izquierda</string>
     <string name="position_left_land">Posición izquierda en modo horizontal</string>
     <string name="press_back">Una vez completado, presiona atrás para volver a la aplicación.</string>
-    <string name="preview"><![CDATA[Vista Previa: Los paneles de llamada y Cast solo se mostrarán cuando sea necesario.]]></string>
+    <string name="preview"><![CDATA[Vista Previa: Los paneles de llamada y Cast solo se mostrarán cuando sean necesarios.]]></string>
     <string name="pro">¡Actualiza a Volume Panel Pro!</string>
     <string name="pro_only">- Solo Pro</string>
     <string name="pro_un">Elimina la publicidad y desbloquea todas las funciones.</string>
@@ -119,28 +115,30 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="reenable">Habilitar de nuevo</string>
     <string name="ring">Sonido</string>
     <string name="ring_mode">Modo de sonido</string>
-    <string name="screen_shot">Mostrar botón de captura de pantalla</string>
+    <string name="screen_shot">Acceso directo a captura de pantalla</string>
     <string name="select_apps">Seleccionar aplicaciones</string>
     <string name="send_report">Enviar informe</string>
-    <string name="show_alarm_panel">Mostrar panel de alarma</string>
-    <string name="show_bright_panel">Mostrar panel de brillo</string>
+    <string name="show_alarm_panel">Panel de volumen de la alarma</string>
+    <string name="show_bright_panel">Panel de brillo de pantalla</string>
     <string name="show_lock">Mostrar en pantalla de bloqueo</string>
-    <string name="show_notif">Mostrar panel de notificaciones</string>
-    <string name="show_ring_panel">Mostrar panel de timbre</string>
+    <string name="show_notif">Panel de volumen de las notificaciones</string>
+    <string name="show_ring_panel">Panel de volumen del timbre</string>
     <string name="silent">Silenciar</string>
-    <string name="slide_heightx">Escala de panel X = %1$d%%</string>
-    <string name="slide_heights">Escala de panel</string>
-    <string name="slide_heighty">Escala de panel Y = %1$d%%</string>
-    <string name="slider_colour">Color del deslizador</string>
+    <string name="slide_heightx">Escala del panel X = %1$d%%</string>
+    <string name="slide_heights">Escala del panel</string>
+    <string name="slide_heighty">Escala del panel Y = %1$d%%</string>
+    <string name="slider_colour">Color de los deslizadores</string>
     <string name="start_collapsed">Iniciar contraído</string>
     <string name="suspend">Suspender</string>
     <string name="switch_theme">Cambiar tema</string>
     <string name="system_perms_message">Volume Panel necesita tener permiso para cambiar los ajustes del sistema, por favor presionar en proceder para continuar.\n</string>
     <string name="system_warn">Al habilitar cualquier servicio de accesibilidad se te presentará un aviso genérico del sistema, para tu tranquilidad, Volume Panel no captura ninguna otra tecla o contenido y no tiene ni solicita permiso para conectarse a Internet.</string>
-    <string name="tips"><![CDATA[<b>Consejos:</b><br/><br/><b>El audio no cambia en algunas aplicaciones:
-    <br/></b><br/>Algunas aplicaciones como Instagram y Snapchat toman un enfoque de audio completo e intentan capturar los botones de audio, si experimentas este problema, por favor habilita la opción \"Excluir aplicaciones\" y agrega las aplicaciones causantes a la lista.
-    <br/><br/><b>El panel de audio del sistema sigue apareciendo:
-    <br/></B><br/>Es muy probable que tu sistema esté anulando el servicio de acceso al panel de volumen, si esto ocurre,por favor, asegúrate de que la optimización de la batería y la memoria está desactivada para la aplicación, habilitar el \"Activador Flotante\" también puede ayudar.<br/>Para más información visita: http://www.dontkillmyapp.com/]]></string>
+    <string name="tips"><![CDATA[<b>Consejos:</b>
+<br/><br/><b>El audio no cambia en algunas aplicaciones:<br/>
+</b><br/>Algunas aplicaciones como Instagram y Snapchat toman un enfoque de audio completo e intentan capturar los botones de audio, si experimentas este problema, por favor habilita la opción \"Excluir aplicaciones\" y agrega las aplicaciones causantes a la lista.
+<br/><br/><b>El panel de audio del sistema sigue apareciendo: </B>
+<br/><br/>Es muy probable que tu sistema esté anulando el servicio de acceso al panel de volumen, si esto ocurre,por favor, asegúrate de que la optimización de la batería y la memoria está desactivada para la aplicación, habilitar el \"Activador Flotante\" también puede ayudar.
+<br/>Para más información visita: http://www.dontkillmyapp.com/]]></string>
     <string name="transparency">Transparencia</string>
     <string name="trigger_cat">Activador</string>
     <string name="trigger_colour">Color del activador</string>
@@ -163,11 +161,11 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="vol_timeout">Tiempo de espera del panel = %1$ds</string>
     <string name="volumeui">Panel de sistema</string>
     <string name="show_call">Mostrar siempre el volumen de llamada</string>
-    <string name="show_bluetooth">Mostrar botón Bluetooth</string>
+    <string name="show_bluetooth">Acceso directo al Bluetooth</string>
     <string name="block_vold_up_lp">Bloquear pulsación larga Vol +</string>
     <string name="show_media">Mostrar controles multimedia</string>
-    <string name="change_first_click">Cambiar volumen al primer toque</string>
-    <string name="show_system">Mostrar panel de sistema</string>
+    <string name="change_first_click">Cambiar el volumen en la primera pulsación</string>
+    <string name="show_system">Panel de volumen del sistema</string>
     <string name="show_levels">Mostrar niveles</string>
     <string name="when_notif">Sólo cuando la notificación esté activa</string>
     <string name="volume_plus">Volumen +</string>
@@ -190,7 +188,7 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="design_preset">Diseños predeterminados</string>
     <string name="design_preset_summary">Elige tu diseño y luego personaliza los colores de los paneles en la sección \"Diseño\".</string>
     <string name="recent_changes">Cambios recientes</string>
-    <string name="block_back_touch">Bloquear pulsaciones en fondo</string>
+    <string name="block_back_touch">Bloquear pulsaciones en segundo plano</string>
     <string name="backup">Exportar configuración</string>
     <string name="shortcutter_permissions_storage">Se necesitan permisos de almacenamiento</string>
     <string name="restore">Importar configuración</string>
@@ -198,6 +196,19 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="trigger_acc"><b>Consejo:</b> Presiona aquí para habilitar los servicios de accesibilidad de Volume Panel, esto permitirá que el activador flotante y Volume Panel puedan ser usados en la pantalla de bloqueo.</string>
     <string name="overwrite">Esto sobrescribirá tu diseño actual, presiona proceder para continuar.</string>
     <string name="merge_icons">Combinar iconos</string>
-    <string name="shortcuts_below">Place Shortcuts Below</string>
-    <string name="change_back">Do you want to customise the slider background/off mode colour?</string>
+    <string name="shortcuts_below">Situar los accesos directos debajo de los paneles</string>
+    <string name="dim_behind">Oscurecer detras del panel</string>
+    <string name="dim_amount">Cantidad = %1$d%%</string>
+    <string name="change_path">Nuevo Directorio</string>
+    <string name="save">Guardar</string>
+    <string name="flip_icons">Voltear posición del icono</string>
+    <string name="access_error">Error de acceso, por favor intenta un directorio diferente</string>
+    <string name="thumb">Color botón</string>
+    <string name="show_lock_short">Acceso directo al bloqueo de pantalla</string>
+    <string name="show_split">Acceso directo a pantalla dividida</string>
+    <string name="show_orient">Acceso directo a rotación automática</string>
+    <string name="round_top_solid_sliders">Barra de progreso redondeada</string>
+    <string name="design_solid_sliders">Customise Solid Sliders</string>
+    <string name="design_borders">Customise Panel Borders</string>
+    <string name="mute_shortcut">Mute Microphone Shortcut</string>
 </resources>

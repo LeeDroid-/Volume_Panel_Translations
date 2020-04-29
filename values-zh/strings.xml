@@ -39,7 +39,6 @@
     <string name="design">设计</string>
     <string name="detect_keys">打开时检测按键按压</string>
     <string name="disable">禁用</string>
-    <string name="disable_acc">请禁用无障碍选项。</string>
     <string name="disable_notif">请禁用通知接入权限。</string>
     <string name="dismiss">清除</string>
     <string name="dnd_access"><u>勿扰模式接入</u>
@@ -201,6 +200,19 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="trigger_acc"><b>提示:</b> 点击这里以启用音量面板的无障碍选项，这将会被用于悬浮触发器&amp; 以及面板在锁屏状态下的控制。</string>
     <string name="overwrite">这将会覆盖您当前的设计，点击以继续。</string>
     <string name="merge_icons">融合图标</string>
-    <string name="shortcuts_below">Place Shortcuts Below</string>
-    <string name="change_back">Do you want to customise the slider background/off mode colour?</string>
+    <string name="shortcuts_below">将快捷方式放在下面</string>
+    <string name="flip_icons">翻转图标位置</string>
+    <string name="save">拯救</string>
+    <string name="change_path">新地点</string>
+    <string name="dim_amount">调光水平 = %1$d%%</string>
+    <string name="dim_behind">深色背景</string>
+    <string name="access_error">访问错误，请换个目录。</string>
+    <string name="thumb">拇指颜色</string>
+    <string name="show_lock_short">屏幕锁定快捷方式</string>
+    <string name="show_split">分屏捷径</string>
+    <string name="show_orient">自动旋转快捷方式</string>
+    <string name="round_top_solid_sliders">四舍五入的进步条</string>
+    <string name="design_solid_sliders">Customise Solid Sliders</string>
+    <string name="design_borders">Customise Panel Borders</string>
+    <string name="mute_shortcut">Mute Microphone Shortcut</string>
 </resources>

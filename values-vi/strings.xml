@@ -2,10 +2,7 @@
 <resources>
     <string name="about"><![CDATA[<b>\u0110i\u1ec1u khi\u1ec3n \u00e2m l\u01b0\u1ee3ng:</b><br/>\u2022 M\u1ed9t s\u1ef1 thay th\u1ebf linh ho\u1ea1t cho c\u00e1c \u0111i\u1ec1u khi\u1ec3n \u00e2m l\u01b0\u1ee3ng h\u1ec7 th\u1ed1ng c\u1ee7a b\u1ea1n.<br/><br/><b>Thi\u1ebft k\u1ebf &amp; Ph\u00e1t tri\u1ec3n b\u1edfi: </b><br/>\u2022 Lee Bailey (AKA @LeeDrOiD)<br/> Xin \u0111\u1ed3ng c\u1ea3m \u01a1n:<br/>\u2022 Ng\u01b0\u1eddi t\u1ea1o ra Gi\u1edbi thi\u1ec7u \u1ee9ng d\u1ee5ng.<br/>\u2022 Ereza cho ho\u1ea1t \u0111\u1ed9ng t\u00f9y ch\u1ec9nh tr\u00ean s\u1ef1 c\u1ed1.<br/>\u2022 H\u1ed9p tho\u1ea1i D-Max cho Spots.<br/>D\u1ecbch thu\u1eadt b\u1edfi:<br/>\u2022 Linar10 - Polish<br/>\u2022 Fatih Firinci - Turkish<br/>\u2022 guillerag - Spanish<br/>\u2022 Nuno Nebeker - Portuguese<br/>\u2022 \u0418\u0433\u043e\u0440\u044c \u0418\u0440\u0438\u043d\u0438\u043d - Russian<br/>\u2022 Sylm - Fran\u00e7ais<br/>\u2022 Emad Ayad - Arabic<br/>\u2022 VM - German<br/>\u2022 Alpert7 - Chinese<br/>\u2022 Nguy\u1ec5n Lam - Vietnamese<br/><br/>Vui l\u00f2ng li\u00ean h\u1ec7 v\u1edbi t\u00f4i qua t\u00f9y ch\u1ecdn \"Ph\u1ea3n h\u1ed3i qua email\" &amp; \u0111\u1eebng qu\u00ean \u0111\u1ec3 l\u1ea1i \u0111\u00e1nh gi\u00e1 &#128512;]]></string>
     <string name="about_title">Thông tin</string>
-    <string name="accessibility_description"><u>Khả năng truy cập</u>
-\n\nQuyền này cho phép chúng tôi phát hiện âm lượng + \ - khi nhấn phím.
-\n\nKhông có nội dung khác được thu thập.
-\n\nVài thiết bị có thể yêu cầu khởi động lại để bắt đầu dịch vụ.</string>
+    <string name="accessibility_description"><u>Kh\u1ea3 n\u0103ng truy c\u1eadp</u>\n\n\nQuy\u1ec1n n\u00e0y cho ph\u00e9p ch\u00fang t\u00f4i ph\u00e1t hi\u1ec7n \u00e2m l\u01b0\u1ee3ng + \ - khi nh\u1ea5n ph\u00edm.\n\n\nKh\u00f4ng c\u00f3 n\u1ed9i dung kh\u00e1c \u0111\u01b0\u1ee3c thu th\u1eadp.\n\n\nV\u00e0i thi\u1ebft b\u1ecb c\u00f3 th\u1ec3 y\u00eau c\u1ea7u kh\u1edfi \u0111\u1ed9ng l\u1ea1i \u0111\u1ec3 b\u1eaft \u0111\u1ea7u d\u1ecbch v\u1ee5.</string>
     <string name="action">Thực hiện ngay</string>
     <string name="add_border">Bật viền điều khiển</string>
     <string name="add_shortcut">Phím tắt Trình khởi chạy</string>
@@ -13,7 +10,7 @@
     <string name="alert">Cảnh báo tối ưu hóa</string>
     <string name="anim_duration">Thời lượng hoạt ảnh = %.2fs</string>
     <string name="anim_durations">Thời lượng hoạt ảnh</string>
-    <string name="app_name">Volume Panel</string>
+    <string name="app_name">Điều khiển Âm thanh</string>
     <string name="auto_dark_sum">\u2022 Th\u1ef1c hi\u1ec7n theo h\u1ec7 th\u1ed1ng Ch\u1ebf \u0111\u1ed9 t\u1ed1i/s\u00e1ng.\n\n\u2022 Y\u00eau c\u1ea7u h\u1ed7 tr\u1ee3 nh\u00e0 s\u1ea3n xu\u1ea5t.</string>
     <string name="background_colour">Màu nền</string>
     <string name="bat_opt"><![CDATA[<b>Điều khiển Âm lượng đã được hệ thống tối ưu hóa &amp; và có thể bị đóng dưới nền </b>.
@@ -39,7 +36,6 @@
     <string name="design">Thiết kế</string>
     <string name="detect_keys">Phát hiện các phím nhấn khi mở</string>
     <string name="disable">Tắt</string>
-    <string name="disable_acc">VUI LÒNG TẮT DỊCH VỤ TIẾP CẬN.</string>
     <string name="disable_notif">VUI LÒNG TẮT THÔNG BÁO TRUY CẬP</string>
     <string name="dismiss">Bỏ qua</string>
     <string name="dnd_access"><u>Truy cập Không làm phiền</u>
@@ -59,15 +55,15 @@
     <string name="excluded">Bảng điều khiển âm lượng: Không bao gồm ứng dụng</string>
     <string name="failed_window_add">Không thể thêm cửa sổ, vui lòng mở ứng dụng và đảm bảo quyền Lớp phủ màn hình đã được cấp</string>
     <string name="fill_style">Sử dụng thanh trượt cứng</string>
-    <string name="flash_light">Hiện nút Đèn pin</string>
+    <string name="flash_light">Phím tắt đèn pin</string>
     <string name="floating_trigger">Kích hoạt vuốt lên/xuống</string>
     <string name="force_close">Buộc đóng hộp thoại</string>
     <string name="free">Tắt phiên bản miễn phí</string>
     <string name="free_installed">Điều khiển Âm lượng bản miễn phí hiện đang ghi đè bảng âm lượng hệ thống, vui lòng tắt nó để tránh xung đột.</string>
-    <string name="google_assistant">Hiển thị nút trợ lý</string>
+    <string name="google_assistant">Phím tắt trợ lý</string>
     <string name="grant">Cấp quyền</string>
     <string name="hide_full">Ẩn khi dùng toàn màn hình</string>
-    <string name="hide_settings">Ẩn Cài đặt Phím tắt</string>
+    <string name="hide_settings">Ẩn cài đặt các phím tắt</string>
     <string name="icon_colour">Màu biểu tượng</string>
     <string name="invert_buttons">Đảo ngược nút Âm lượng</string>
     <string name="killed">Dịch vụ trợ năng của Điều khiển Âm lượng đã bị hệ thống dừng hoặc xóa.
@@ -120,19 +116,19 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="reenable">Bật lại</string>
     <string name="ring">Đổ chuông</string>
     <string name="ring_mode">Chế độ Đổ chuông</string>
-    <string name="screen_shot">Hiện nút chụp màn hình</string>
+    <string name="screen_shot">Phím tắt chụp màn hình</string>
     <string name="select_apps">Chọn ứng dụng</string>
     <string name="send_report">Gửi báo cáo</string>
-    <string name="show_alarm_panel">Hiện Điều khiển Báo thức</string>
+    <string name="show_alarm_panel">Thanh điều khiển âm lượng báo thức</string>
     <string name="show_bright_panel">Điều khiển độ sáng màn hình</string>
     <string name="show_lock">Hiện trong màn hình khóa</string>
-    <string name="show_notif">Hiện bảng điều khiển thông báo</string>
-    <string name="show_ring_panel">Hiển thị điều khiển Đổ chuông</string>
+    <string name="show_notif">Thanh điều khiển âm lượng thông báo</string>
+    <string name="show_ring_panel">Thanh điều khiển âm lượng đổ chuông</string>
     <string name="silent">Im lặng</string>
     <string name="slide_heightx">Tỉ lệ bảng điều khiển X = %1$d%%</string>
     <string name="slide_heights">Tỉ lệ bảng điều khiển</string>
     <string name="slide_heighty">Tỉ lệ bảng điều khiển Y = %1$d%%</string>
-    <string name="slider_colour">Màu thanh trượt</string>
+    <string name="slider_colour">Màu Thanh trượt</string>
     <string name="start_collapsed">Bắt đầu thu gọn</string>
     <string name="suspend">Đình chỉ</string>
     <string name="switch_theme">Chuyển đổi chủ đề</string>
@@ -168,11 +164,11 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="vol_timeout">Thời gian chờ điều khiển = %1$ds</string>
     <string name="volumeui">Giao diện người dùng Âm lượng</string>
     <string name="show_call">Luôn hiển thị âm lượng cuộc gọi</string>
-    <string name="show_bluetooth">Hiển thị nút Bluetooth</string>
+    <string name="show_bluetooth">Phím tắt Bluetooth</string>
     <string name="block_vold_up_lp">Chặn nhấn giữ tăng âm lượng</string>
     <string name="show_media">Hiển thị điều khiển truyền thông</string>
     <string name="change_first_click">Thay đổi âm lượng khi nhấn lần đầu</string>
-    <string name="show_system">Hiển thị bảng điều khiển hệ thống</string>
+    <string name="show_system">Thanh điều khiển âm lượng hệ thống</string>
     <string name="show_levels">Hiển thị nhãn cấp độ</string>
     <string name="when_notif">Chỉ khi thông báo hoạt động</string>
     <string name="volume_plus">Âm lượng +</string>
@@ -202,7 +198,20 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="enter_name">Sao lưu tên tệp</string>
     <string name="trigger_acc"><b>Mẹo:</b> Nhấn vào đây để bật dịch vụ trợ năng của Bảng điều khiển âm lượng, điều này sẽ cho phép bảng kích hoạt &amp; âm lượng nổi được sử dụng trong màn hình khóa.</string>
     <string name="overwrite">Điều này sẽ ghi đè lên bố cục hiện tại của bạn, nhấn tiến hành để tiếp tục.</string>
-    <string name="shortcuts_below">Place Shortcuts Below</string>
-    <string name="change_back">Do you want to customise the slider background/off mode colour?</string>
-    <string name="merge_icons">Merge Icons</string>
+    <string name="merge_icons">Hợp nhất biểu tượng</string>
+    <string name="shortcuts_below">Đặt phím tắt bên dưới</string>
+    <string name="dim_behind">Làm mờ phía sau bản điều khiển</string>
+    <string name="dim_amount">Tổng lượng mờ = %1$d%%</string>
+    <string name="change_path">Thư mục mới</string>
+    <string name="save">Lưu</string>
+    <string name="flip_icons">Lật vị trí biểu tượng</string>
+    <string name="access_error">Lỗi truy cập, vui lòng thử một thư mục khác.</string>
+    <string name="thumb">Màu hình thu nhỏ</string>
+    <string name="show_lock_short">Phím tắt khóa màn hình</string>
+    <string name="show_split">Phím tắt chia màn hình</string>
+    <string name="show_orient">Phím tắt tự động xoay</string>
+    <string name="round_top_solid_sliders">Thanh tiến trình tròn</string>
+    <string name="design_solid_sliders">Customise Solid Sliders</string>
+    <string name="design_borders">Customise Panel Borders</string>
+    <string name="mute_shortcut">Mute Microphone Shortcut</string>
 </resources>

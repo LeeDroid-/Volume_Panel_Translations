@@ -39,7 +39,6 @@
     <string name="design">Design</string>
     <string name="detect_keys">Détecter les touches pressées à l\'ouverture</string>
     <string name="disable">Désactiver</string>
-    <string name="disable_acc">MERCI DE DESACTIVER LE SERVICE ACCESSIBILITE.</string>
     <string name="disable_notif">MERCI DE DESACTIVER L\'ACCES AUX NOTIFICATIONS</string>
     <string name="dismiss">Ignorer</string>
     <string name="dnd_access"><u>Accès Ne pas Déranger</u>
@@ -59,12 +58,12 @@
     <string name="excluded">Volume Panel: Application Exclue</string>
     <string name="failed_window_add">Impossible d\'afficher, merci d\'ouvrir l\'application et de vérifier que la permission Superposition d\'écran (Screen Overlay) est bien autorisée</string>
     <string name="fill_style">Utiliser des Curseurs pleins</string>
-    <string name="flash_light">Afficher l\'icône Lampe</string>
+    <string name="flash_light">Raccourci Torche</string>
     <string name="floating_trigger">Déclencheur Glisse haut/bas</string>
     <string name="force_close">Forcer les fenêtres de fermeture</string>
     <string name="free">Désactiver la version gratuite</string>
     <string name="free_installed">Volume Panel Free suplante actuellement le contrôle du volume système, désactivez le pour éviter les conflits.</string>
-    <string name="google_assistant">Afficher l\'icone Assistant</string>
+    <string name="google_assistant">Raccourci Assistant</string>
     <string name="grant">Autoriser la permission</string>
     <string name="hide_full">Invisible en plein écran</string>
     <string name="hide_settings">Cacher raccourcis Paramètres</string>
@@ -120,19 +119,19 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="reenable">Re-Autoriser</string>
     <string name="ring">Sonnerie</string>
     <string name="ring_mode">Mode sonnerie</string>
-    <string name="screen_shot">Afficher l\'icone Capture d\'écran</string>
+    <string name="screen_shot">Raccourci Capture d\'écran</string>
     <string name="select_apps">Sélectionner les applications</string>
     <string name="send_report">Envoyer Rapport</string>
-    <string name="show_alarm_panel">Afficher le panneau Alarme</string>
+    <string name="show_alarm_panel">Raccourci Panneau Alarme</string>
     <string name="show_bright_panel">Panneau Luminosité de l\'écran</string>
     <string name="show_lock">Afficher sur l\'écran de verouillage</string>
-    <string name="show_notif">Afficher le Panneau Notification</string>
-    <string name="show_ring_panel">Afficher le panneau Sonnerie</string>
+    <string name="show_notif">Panneau Volume Notification</string>
+    <string name="show_ring_panel">Panneau Sonnerie</string>
     <string name="silent">Silence</string>
     <string name="slide_heightx">Echelle X des panneaux = %1$d%%</string>
     <string name="slide_heights">Echelle des panneaux</string>
     <string name="slide_heighty">Echelle Y du panneau =  %1$d%%</string>
-    <string name="slider_colour">Couleur des curseurs</string>
+    <string name="slider_colour">Couleurs du curseur</string>
     <string name="start_collapsed">Démarre réduit</string>
     <string name="suspend">Suspendre</string>
     <string name="switch_theme">Changer de Thème</string>
@@ -166,11 +165,11 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="vol_timeout">Durée d\'affichage = %1$ds</string>
     <string name="volumeui">Interface Volume</string>
     <string name="show_call">Toujours afficher le volume des appels</string>
-    <string name="show_bluetooth">Afficher l\'icone Bluetooth</string>
+    <string name="show_bluetooth">Raccourci Bluetooth</string>
     <string name="block_vold_up_lp">Bloquer pression longue sur Volume +</string>
     <string name="show_media">Afficher Contrôles media</string>
     <string name="change_first_click">Changer le volume au premier clic</string>
-    <string name="show_system">Afficher le panneau Système</string>
+    <string name="show_system">Raccourci Panneau Volume Système</string>
     <string name="show_levels">Afficher les étiquettes des niveaux</string>
     <string name="when_notif">Seulement lorsque les notifications sont actives</string>
     <string name="volume_plus">Volume +</string>
@@ -201,6 +200,19 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="trigger_acc"><b>Conseil:</b> Cliquer ici pour activer  Volume Panel services Accessibilité, cela activera les déclencheurs flottants &amp; volume panel sera utilisable sur l\'écran de verrouillage.</string>
     <string name="overwrite">Cela va écraser vos préférences actuelles, cliquer Procéder pour continuer</string>
     <string name="merge_icons">Fusion Icones</string>
-    <string name="change_back">Voulez-vous personnaliser ou non la couleur de fond du curseur?</string>
     <string name="shortcuts_below">Placer les raccourcis ci-dessous</string>
+    <string name="dim_behind">Estomper arrière du panneau</string>
+    <string name="dim_amount">Estompe  = %1$d%%</string>
+    <string name="change_path">Nouveau Répertoire</string>
+    <string name="save">Sauver</string>
+    <string name="flip_icons">Inverser position des icones</string>
+    <string name="access_error">Accès impossible, merci d\'essayer un autre dossier</string>
+    <string name="thumb">Couleur</string>
+    <string name="show_lock_short">Raccourci Écran de verrouillage</string>
+    <string name="show_split">Raccourci partage d\'écran</string>
+    <string name="show_orient">Raccourci Rotation automatique</string>
+    <string name="round_top_solid_sliders">Barre de progrès arrondie</string>
+    <string name="design_solid_sliders">Customise Solid Sliders</string>
+    <string name="design_borders">Customise Panel Borders</string>
+    <string name="mute_shortcut">Mute Microphone Shortcut</string>
 </resources>

@@ -24,7 +24,10 @@
     <string name="about_title">About</string>
     <string name="accessibility_description">
         <u>Accessibility Access</u>
-        \n\nThis permission allows us to detect volume +\\- key presses.
+        \n\nThis permission allows us to:
+        \n\u2022 Detect volume +\\- key presses.
+        \n\u2022 Provide lock screen overlays.
+        \n\u2022 Provide additional shortcuts.
         \n\nNo other content is captured.
         \n\nSome devices may require a reboot to start the service.</string>
     <string name="action">Action Now</string>
@@ -63,7 +66,6 @@
     <string name="design">Design</string>
     <string name="detect_keys">Detect Key Presses When Open</string>
     <string name="disable">Disable</string>
-    <string name="disable_acc">PLEASE DISABLE THE ACCESSIBILITY SERVICE.</string>
     <string name="disable_notif">PLEASE DISABLE NOTIFICATION ACCESS</string>
     <string name="dismiss">Dismiss</string>
     <string name="dnd_access">
@@ -84,12 +86,12 @@
     <string name="excluded">Volume Panel: Application Excluded</string>
     <string name="failed_window_add">Failed to add window, please open the app and make sure Screen Overlay permissions have been granted</string>
     <string name="fill_style">Use Solid Sliders</string>
-    <string name="flash_light">Show Flashlight Button</string>
+    <string name="flash_light">Flashlight Shortcut</string>
     <string name="floating_trigger">Swipe Up/Down Trigger</string>
     <string name="force_close">Force Close Dialogs</string>
     <string name="free">Disable Free Version</string>
     <string name="free_installed">Volume Panel Free is currently overriding the system volume panel, please disable it to avoid conflicts.</string>
-    <string name="google_assistant">Show Assistant Button</string>
+    <string name="google_assistant">Assistant Shortcut</string>
     <string name="grant">Grant Permission</string>
     <string name="hide_full">Invisible In Full Screen</string>
     <string name="hide_settings">Hide Settings Shortcuts</string>
@@ -154,19 +156,19 @@
     <string name="reenable">Re-Enable</string>
     <string name="ring">Ring</string>
     <string name="ring_mode">Ring Mode</string>
-    <string name="screen_shot">Show Screenshot Button</string>
+    <string name="screen_shot">Screenshot Shortcut</string>
     <string name="select_apps">Select Applications</string>
     <string name="send_report">Send Report</string>
-    <string name="show_alarm_panel">Show Alarm Panel</string>
+    <string name="show_alarm_panel">Alarm Volume Panel</string>
     <string name="show_bright_panel">Screen Brightness Panel</string>
     <string name="show_lock">Show In Lock Screen</string>
-    <string name="show_notif">Show Notification Panel</string>
-    <string name="show_ring_panel">Show Ring Panel</string>
+    <string name="show_notif">Notification Volume Panel</string>
+    <string name="show_ring_panel">Ring Volume Panel</string>
     <string name="silent">Silent</string>
     <string name="slide_heightx">Panel Scale X = %1$d%%</string>
     <string name="slide_heights">Panel Scale</string>
     <string name="slide_heighty">Panel Scale Y = %1$d%%</string>
-    <string name="slider_colour">Slider colour</string>
+    <string name="slider_colour">Slider Colours</string>
     <string name="start_collapsed">Start Collapsed</string>
     <string name="suspend">Suspend</string>
     <string name="switch_theme">Switch Theme</string>
@@ -209,11 +211,11 @@
     <string name="vibe_durationv" translatable="false">%.2fs</string>
     <string name="vol_timeoutv" translatable="false">%1$ds</string>
     <string name="show_call">Always Show Call Volume</string>
-    <string name="show_bluetooth">Show Bluetooth Button</string>
+    <string name="show_bluetooth">Bluetooth Shortcut</string>
     <string name="block_vold_up_lp">Block Volume Up Long Press</string>
     <string name="show_media">Show Media Controls</string>
     <string name="change_first_click">Change Volume On First Click</string>
-    <string name="show_system">Show System Panel</string>
+    <string name="show_system">System Volume Panel</string>
     <string name="show_levels">Show Level Labels</string>
     <string name="when_notif">Only When Notification Active</string>
     <string name="volume_plus">Volume +</string>
@@ -238,7 +240,42 @@
     <string name="design_preset_summary">Choose your base layout then customise your panel colours in the \"Design\" section.</string>
     <string name="recent_changes">Recent Changes</string>
     <string name="change_log" translatable="false"><![CDATA[
-    <b>V11.55 Beta:</b>
+    <b>V11.81 Beta:</b>
+        <br/>\u2022 Hide call panel mute microphone button with settings icons.
+        <br/>\u2022 Add Mute Microphone shortcut.
+        <br/>\u2022 Reorganise settings layout.
+        <br/>\u2022 Do not fire panel close when seek bar is tracking.
+        <br/>\u2022 Panel scaling corrections.
+        <br/>\u2022 Do not move panel position when expanding with 2 shortcut rows.
+        <br/>\u2022 Correct scaled corner radius in merged & horizontal panels.
+        <br/>\u2022 Split merged panel shortcuts into 2 rows.
+        <br/>\u2022 Scale merged panel borders with solid slider fill width.
+        <br/><br/>
+    <b>V11.79:</b>
+        <br/>\u2022 Android 6 Crash fix.
+        <br/>\u2022 Translations update.
+        <br/><br/>
+    <b>V11.78:</b>
+        <br/>\u2022 Automatically obtain system max brightness value.
+        <br/>\u2022 Fix status and navigation bar overlaps.
+        <br/>\u2022 Make rounding the top of solid sliders optional.
+        <br/>\u2022 Fix merged icon tinting & default merged tint in dark mode.
+        <br/>\u2022 Bug fix in long press media toggle to launch media player.
+        <br/><br/>
+    <b>V11.77:</b>
+        <br/>\u2022 Add Split Screen, Lock Screen & Orientation Shortcuts.
+        <br/>\u2022 Use custom picker for configuration import/export.
+        <br/>\u2022 Add option to dim behind the panel.
+        <br/>\u2022 Only ask for storage path on first config export.
+        <br/>\u2022 Make floating trigger swipe omnidirectional.
+        <br/>\u2022 Add option to flip/change icon position.
+        <br/>\u2022 Allow customising seek bar on/off colours & thumb.
+        <br/>\u2022 Show slider colour pickers in sequence.
+        <br/>\u2022 Fix crash in audible feedback.
+        <br/>\u2022 Use compatibility themes to fix crashes on some devices.
+        <br/><br/>
+    <b>V11.64:</b>
+        <br/>\u2022 Horizontal slider layout adjustments.
         <br/>\u2022 Add option to merge icons into solid sliders.
         <br/>\u2022 Introduce "Design Presets".
         <br/>\u2022 Click outside to close corrections.
@@ -247,9 +284,9 @@
         <br/>\u2022 Enable floating trigger everywhere when accessibility enabled.
         <br/>\u2022 Do not disable accessibility when turning button override off.
         <br/>\u2022 Amharic translations test.
-        <br/>\u2022 Correct horizontal sliders in Landscape.
         <br/>\u2022 Correct height & width scaling.
         <br/>\u2022 Fix shortcut position in horizontal sliders.
+        <br/>\u2022 Shadow & margin corrections.
         <br/><br/>
     <b>V11.44:</b>
         <br/>\u2022 Fix horizontal slider direction in right handed mode.
@@ -307,6 +344,20 @@
     <string name="trigger_acc"><b>Tip:</b> Click here to enable Volume Panel accessibility services, this will allow the floating trigger &amp; volume panel to be used in the lock screen.</string>
     <string name="overwrite">This will overwrite your current layout, press proceed to continue.</string>
     <string name="merge_icons">Merge Icons</string>
-    <string name="change_back">Do you want to customise the slider background/off mode colour?</string>
     <string name="shortcuts_below">Place Shortcuts Below</string>
+    <string name="dim_behind">Dim Behind Panel</string>
+    <string name="dim_amount">Dim Amount = %1$d%%</string>
+    <string name="change_path">New Directory</string>
+    <string name="save">Save</string>
+    <string name="dir" translatable="false">"Dir: "</string>
+    <string name="flip_icons">Flip Icon Position</string>
+    <string name="access_error">Access error, please try a different directory.</string>
+    <string name="thumb">Thumb Colour</string>
+    <string name="show_lock_short">Screen Lock Shortcut</string>
+    <string name="show_split">Split Screen Shortcut</string>
+    <string name="show_orient">Auto Rotate Shortcut</string>
+    <string name="round_top_solid_sliders">Rounded Progress Bar</string>
+    <string name="design_solid_sliders">Customise Solid Sliders</string>
+    <string name="design_borders">Customise Panel Borders</string>
+    <string name="mute_shortcut">Mute Microphone Shortcut</string>
 </resources>

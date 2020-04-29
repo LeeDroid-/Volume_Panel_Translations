@@ -57,7 +57,6 @@
     <string name="design">Wygląd</string>
     <string name="detect_keys">Wykryj Naciśnięcia Klawiszy Po Otwarciu</string>
     <string name="disable">Zamknij</string>
-    <string name="disable_acc"> PROSZĘ WYŁĄCZYĆ USŁUGĘ DOSTĘPNOŚCI.</string>
     <string name="disable_notif">PROSZĘ O WYŁACZENIE DOSTĘPU DO POWIADOMIEŃ</string>
     <string name="dismiss">Odrzuć</string>
     <string name="dnd_access">
@@ -219,15 +218,28 @@
     <string name="design_preset">Wzornictwo Ustawienia wstępne</string>
     <string name="design_preset_summary">Wybierz swój układ, a następnie dostosuj kolory paneli w sekcji \"Design\".</string>
     <string name="block_back_touch">Blokuj tło Dotknij</string>
-    <string name="trigger_acc"><b>Tip:</b> Click here to enable Volume Panel accessibility services, this will allow the floating trigger &amp; volume panel to be used in the lock screen.</string>
-    <string name="overwrite">This will overwrite your current layout, press proceed to continue.</string>
-    <string name="enter_name">Backup File Name</string>
-    <string name="restore">Import Configuration</string>
-    <string name="shortcutter_permissions_storage">Storage Permissions Required</string>
-    <string name="backup">Export Configuration</string>
-    <string name="force_english">Force English</string>
-    <string name="recent_changes">Recent Changes</string>
-    <string name="shortcuts_below">Place Shortcuts Below</string>
-    <string name="change_back">Do you want to customise the slider background/off mode colour?</string>
-    <string name="merge_icons">Merge Icons</string>
+    <string name="trigger_acc"><b>Wskazówka:</b> Kliknij tutaj, aby włączyć Ułatwień Dostępu do panelu głośności, co pozwoli na korzystanie z panelu głośności na ekranie blokady.</string>
+    <string name="overwrite">Spowoduje to nadpisanie aktualnego układu, naciśnij przycisk kontynuuj, aby kontynuować.</string>
+    <string name="enter_name">Nazwa pliku kopii zapasowej</string>
+    <string name="restore">Konfiguracja importu</string>
+    <string name="shortcutter_permissions_storage">Wymagane pozwolenie na składowanie</string>
+    <string name="backup">Konfiguracja eksportu</string>
+    <string name="force_english">Używaj języka angielskiego</string>
+    <string name="recent_changes">Ostatnie zmiany</string>
+    <string name="shortcuts_below">Umieść skróty poniżej</string>
+    <string name="merge_icons">Łączyć Ikony</string>
+    <string name="flip_icons">Przerzucanie Ikony Pozycja</string>
+    <string name="save">Zapisz</string>
+    <string name="change_path">Nowa lokalizacja</string>
+    <string name="dim_amount">Dim Kwota = %1$d%%</string>
+    <string name="dim_behind">Dim za panelem</string>
+    <string name="access_error">Błąd dostępu, proszę spróbować innego katalogu.</string>
+    <string name="thumb">Kolor kciuka</string>
+    <string name="show_lock_short">Skrót do blokady ekranu</string>
+    <string name="show_split">"Podzielony ekran Skrót "</string>
+    <string name="show_orient">Auto Rotate Shortcut</string>
+    <string name="round_top_solid_sliders">Zaokrąglony pasek postępu</string>
+    <string name="design_solid_sliders">Customise Solid Sliders</string>
+    <string name="design_borders">Customise Panel Borders</string>
+    <string name="mute_shortcut">Mute Microphone Shortcut</string>
 </resources>

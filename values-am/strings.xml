@@ -34,7 +34,7 @@
     <string name="alert">የማመቻቸት ማንቂያ</string>
     <string name="anim_duration">የእነማ ቆይታ =%.2fs</string>
     <string name="anim_durations">የእነማ ቆይታ</string>
-    <string name="app_name">የድምፅ ፓነል</string>
+    <string name="app_name">Volume Panel</string>
     <string name="auto_dark_sum">\u2022 Follow system Dark/Light mode.
         \n\u2022 Manufacturer support required.</string>
     <string name="background_colour">የበስተጀርባ ቀለም</string>
@@ -63,7 +63,6 @@
     <string name="design">ዲዛይን</string>
     <string name="detect_keys">ሲከፈት ቁልፍ ማተሚያዎችን ይፈልጉ</string>
     <string name="disable">አሰናክል</string>
-    <string name="disable_acc">የተጓዳኝነት አገልግሎቱን ያሰናክሉ።</string>
     <string name="disable_notif">እባክዎን የአሰራር መግለጫዎችን ያባብሱ</string>
     <string name="dismiss">አሰናብት</string>
     <string name="dnd_access">
@@ -236,6 +235,19 @@
     <string name="trigger_acc"><b>Tip:</b> Click here to enable Volume Panel accessibility services, this will allow the floating trigger &amp; volume panel to be used in the lock screen.</string>
     <string name="overwrite">This will overwrite your current layout, press proceed to continue.</string>
     <string name="merge_icons">Merge Icons</string>
-    <string name="change_back">Do you want to customise the slider background/off mode colour?</string>
     <string name="shortcuts_below">Place Shortcuts Below</string>
+    <string name="flip_icons">Flip Icon Position</string>
+    <string name="save">Save</string>
+    <string name="change_path">New Directory</string>
+    <string name="dim_amount">Dim Amount = %1$d%%</string>
+    <string name="dim_behind">Dim Behind Panel</string>
+    <string name="access_error">Access error, please try a different directory.</string>
+    <string name="thumb">Thumb Colour</string>
+    <string name="show_lock_short">Screen Lock Shortcut</string>
+    <string name="show_split">Split Screen Shortcut</string>
+    <string name="show_orient">Auto Rotate Shortcut</string>
+    <string name="round_top_solid_sliders">Rounded Progress Bar</string>
+    <string name="design_solid_sliders">Customise Solid Sliders</string>
+    <string name="design_borders">Customise Panel Borders</string>
+    <string name="mute_shortcut">Mute Microphone Shortcut</string>
 </resources>

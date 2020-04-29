@@ -59,7 +59,6 @@
     <string name="design">Design</string>
     <string name="detect_keys">Tasten erkennen bei geöffneter App</string>
     <string name="disable">Deaktivieren</string>
-    <string name="disable_acc">BITTE BEDIENUNGSHILFEN DEAKTIVIEREN.</string>
     <string name="disable_notif">BITTE BENACHRICHTIGUNGSZUGRIFF DEAKTIVIEREN</string>
     <string name="dismiss">Verwerfen</string>
     <string name="dnd_access">
@@ -223,15 +222,28 @@
     <string name="design_preset">Design-Voreinstellungen</string>
     <string name="design_preset_summary">Wählen Sie Ihr Layout aus und passen Sie dann Ihre Panel-Farben im Abschnitt \"Design\" an.</string>
     <string name="block_back_touch">Block-Hintergrundberührungen</string>
-    <string name="trigger_acc"><b>Tip:</b> Click here to enable Volume Panel accessibility services, this will allow the floating trigger &amp; volume panel to be used in the lock screen.</string>
-    <string name="overwrite">This will overwrite your current layout, press proceed to continue.</string>
-    <string name="enter_name">Backup File Name</string>
-    <string name="restore">Import Configuration</string>
-    <string name="shortcutter_permissions_storage">Storage Permissions Required</string>
-    <string name="backup">Export Configuration</string>
-    <string name="force_english">Force English</string>
-    <string name="recent_changes">Recent Changes</string>
-    <string name="shortcuts_below">Place Shortcuts Below</string>
-    <string name="change_back">Do you want to customise the slider background/off mode colour?</string>
-    <string name="merge_icons">Merge Icons</string>
+    <string name="trigger_acc"><b>Tipp:</b> Klicken Sie hier um Volume Panel die Nutzung der Bediehungshilfen zu erlauben. Dies ermöglicht die Verwendung des Floating Trigger &amp; durch das Volume Panel im Sperrbildschirm.</string>
+    <string name="overwrite">Dadurch wird Ihr aktuelles Layout überschrieben, drücken Sie auf Weiter, um fortzufahren.</string>
+    <string name="enter_name">Name der Sicherungsdatei</string>
+    <string name="restore">Konfiguration Importieren</string>
+    <string name="shortcutter_permissions_storage">Speichererlaubnis erforderlich</string>
+    <string name="backup">Konfiguration Exportieren</string>
+    <string name="force_english">Englisch erzwingen</string>
+    <string name="recent_changes">Neue Funktionen:</string>
+    <string name="shortcuts_below">Schnellzugriffe unterhalb des Panels anzeigen</string>
+    <string name="merge_icons">Icons Zusammenführen</string>
+    <string name="flip_icons">Icon Position tauschen</string>
+    <string name="save">Speichern</string>
+    <string name="change_path">Neues Verzeichnis</string>
+    <string name="dim_amount">Verdunkelungsgrad = %1$d%%</string>
+    <string name="dim_behind">Hintergrund verdunkeln</string>
+    <string name="access_error">Zugriffsfehler, bitte versuchen Sie ein anderes Verzeichnis.</string>
+    <string name="thumb">Daumen Farbe</string>
+    <string name="round_top_solid_sliders">Abgerundeter Fortschrittsbalken</string>
+    <string name="show_orient">Auto Rotate Shortcut</string>
+    <string name="show_split">Verknüpfung zum geteilten Bildschirm</string>
+    <string name="show_lock_short">Verknüpfung zur Bildschirmsperre</string>
+    <string name="design_solid_sliders">Customise Solid Sliders</string>
+    <string name="design_borders">Customise Panel Borders</string>
+    <string name="mute_shortcut">Mute Microphone Shortcut</string>
 </resources>
