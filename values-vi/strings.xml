@@ -17,7 +17,6 @@
 <br/><br/>Không có dịch vụ nào trong Điều khiển Âm lượng bị tốn pin, nhưng vô hiệu hóa tối ưu hóa sẽ cải thiện độ tin cậy.
 <br/><br/>Nhấn \"Đóng\" để chạy tối ưu hóa hoặc nhấn \"Thực hiện ngay\" được theo dõi bởi \"Tất cả ứng dụng\" sau đó tắt Tối ưu hóa Pin cho Điều khiển Âm lượng.
 <br/><br/>Nếu bạn nhận thấy dịch vụ vẫn còn bị đóng bởi hệ thống, hãy thử bật tùy chọn \"Buộc giữ dịch vụ hoạt động\".]]></string>
-    <string name="behaviour">Hành vi</string>
     <string name="block_vold_lp">Chặn nhấn giữ giảm âm lượng</string>
     <string name="block_vold_lp_sum">\u2022 Kh\u1eafc ph\u1ee5c s\u1ef1 c\u1ed1 \u00c2m l\u01b0\u1ee3ng + \u1ea2nh ch\u1ee5p ngu\u1ed3n.</string>
     <string name="border_colour">Màu viền</string>
@@ -73,7 +72,6 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="latest">Hãy chắc chắn rằng bạn đang sử dụng phiên bản mới nhất.</string>
     <string name="launch">Hiện Bảng điều khiển Âm lượng</string>
     <string name="launch_opts">Tùy chọn Trình khởi chạy</string>
-    <string name="layout">Bố trí</string>
     <string name="loading_apps">Đang tải các ứng dụng</string>
     <string name="lock_ring_vol">Khóa thanh trượt vòng trong Rung/Im lặng</string>
     <string name="long_press"><![CDATA[Nhấn giữ & kéo bảng để sắp xếp lại.]]></string>
@@ -143,7 +141,6 @@ http://www.dontkillmyapp.com/]]></string>
 \"Kích hoạt vuốt lên/xuống\" có thể cũng giúp ích.
 <br/>Để biết thêm thông tin, vui lòng truy cập: http://www.dontkillmyapp.com/]]></string>
     <string name="transparency">Trong suốt</string>
-    <string name="trigger_cat">Kích hoạt</string>
     <string name="trigger_colour">Màu kích hoạt</string>
     <string name="trigger_scale_tx">Tỉ lệ kích hoạt X = %1$d%%</string>
     <string name="trigger_scale_ts">Tỉ lệ kích hoạt</string>
@@ -179,9 +176,7 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="hide">Ẩn tôi</string>
     <string name="skip">Bỏ qua</string>
     <string name="app_sign">Ứng dụng này đã được sửa đổi và sẽ không chạy, hoặc chuyển hướng đến Cửa hàng Play.</string>
-    <string name="fill_vertically">Fill Vertically</string>
     <string name="horizontal">Thanh trượt ngang</string>
-    <string name="fill_horizontal">Điền theo chiều ngang</string>
     <string name="bottom">Vị trí dưới cùng</string>
     <string name="dont_allow">Giấy phép không hợp lệ</string>
     <string name="text_colour">Màu văn bản</string>
@@ -211,7 +206,15 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="show_split">Phím tắt chia màn hình</string>
     <string name="show_orient">Phím tắt tự động xoay</string>
     <string name="round_top_solid_sliders">Thanh tiến trình tròn</string>
-    <string name="design_solid_sliders">Customise Solid Sliders</string>
-    <string name="design_borders">Customise Panel Borders</string>
-    <string name="mute_shortcut">Mute Microphone Shortcut</string>
+    <string name="design_solid_sliders">Tùy chỉnh thanh trượt rắn</string>
+    <string name="design_borders">Tùy chỉnh viền bảng điều khiển</string>
+    <string name="mute_shortcut">Lối tắt tắt âm mi-crô</string>
+    <string name="swipe_in">Bật vuốt vào trong</string>
+    <string name="design_layout">Panel Design &amp; Layout</string>
+    <string name="select_panels">Select Panels &amp; Shortcuts</string>
+    <string name="trigger_sets">Trigger Settings</string>
+    <string name="behaviour_sets">Behaviour Settings</string>
+    <string name="merge_icons_colour">Merged Icon Colour</string>
+    <string name="merge_text">Merge Level Labels</string>
+    <string name="fill_level">Slider Fill Level = %1$d%%</string>
 </resources>

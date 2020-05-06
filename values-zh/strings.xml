@@ -20,7 +20,6 @@
 <br/><br/>本应用的所有服务进程均不会消耗多余的电量，禁用优化会让本应用运行更稳定。
 <br/><br/>点击\"关闭\" 来继续进行优化， 或点击 \"现在操作\"后并选择\"所有应用\"来禁用本应用的电池优化。
 <br/><br/>如果您发现本应用的服务进程仍然被系统关闭，那么请启用\"强制运行应用\" 选项。]]></string>
-    <string name="behaviour">行为</string>
     <string name="block_vold_lp">阻止音量下键的长按</string>
     <string name="block_vold_lp_sum">\u2022 \u53ef\u4fee\u590d\u97f3\u91cf\u952e\u4e0e\u7535\u6e90\u952e\u7ec4\u5408\u952e\u622a\u56fe\u7684\u95ee\u9898\u3002</string>
     <string name="border_colour">边框颜色</string>
@@ -76,7 +75,6 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="latest">请确认您已升级至最新版。</string>
     <string name="launch">显示音量面板</string>
     <string name="launch_opts">启动选项</string>
-    <string name="layout">布局</string>
     <string name="loading_apps">正在加载应用</string>
     <string name="lock_ring_vol">在震动和静音模式中锁定铃声滑条</string>
     <string name="long_press"><![CDATA[长按并拖动面板以重新排布。]]></string>
@@ -144,7 +142,6 @@ http://www.dontkillmyapp.com/]]></string>
 <br/><br/>这很可能是因为系统终止了音量面板应用的进程引起的，请确认本应用已排除在电量优化列表和其他优化程序的列表中。如果开启\"上滑/下滑触发\"可能也会有所帮助。
 <br/>更多详情： http://www.dontkillmyapp.com/]]></string>
     <string name="transparency">透明度</string>
-    <string name="trigger_cat">触发器</string>
     <string name="trigger_colour">触发器颜色</string>
     <string name="trigger_scale_tx">触发器比例 X= %1$d%%</string>
     <string name="trigger_scale_ts">触发器比例</string>
@@ -180,9 +177,7 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="hide">隐藏</string>
     <string name="skip">跳过</string>
     <string name="app_sign">This application has been modified and will not run, re-directing to the play store</string>
-    <string name="fill_vertically">垂直填充</string>
     <string name="horizontal">水平滑条</string>
-    <string name="fill_horizontal">水平填充</string>
     <string name="bottom">底部位置</string>
     <string name="dont_allow">证书无效</string>
     <string name="text_colour">文字颜色</string>
@@ -201,18 +196,26 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="overwrite">这将会覆盖您当前的设计，点击以继续。</string>
     <string name="merge_icons">融合图标</string>
     <string name="shortcuts_below">将快捷方式放在下面</string>
-    <string name="flip_icons">翻转图标位置</string>
-    <string name="save">拯救</string>
-    <string name="change_path">新地点</string>
-    <string name="dim_amount">调光水平 = %1$d%%</string>
     <string name="dim_behind">深色背景</string>
+    <string name="dim_amount">调光水平 = %1$d%%</string>
+    <string name="change_path">新地点</string>
+    <string name="save">拯救</string>
+    <string name="flip_icons">翻转图标位置</string>
     <string name="access_error">访问错误，请换个目录。</string>
     <string name="thumb">拇指颜色</string>
     <string name="show_lock_short">屏幕锁定快捷方式</string>
     <string name="show_split">分屏捷径</string>
     <string name="show_orient">自动旋转快捷方式</string>
     <string name="round_top_solid_sliders">四舍五入的进步条</string>
-    <string name="design_solid_sliders">Customise Solid Sliders</string>
-    <string name="design_borders">Customise Panel Borders</string>
-    <string name="mute_shortcut">Mute Microphone Shortcut</string>
+    <string name="design_solid_sliders">自定义固态设计滑条</string>
+    <string name="design_borders">自定义面板边框</string>
+    <string name="mute_shortcut">麦克风静音快捷方式</string>
+    <string name="swipe_in">启用向内滑动</string>
+    <string name="design_layout">Panel Design &amp; Layout</string>
+    <string name="select_panels">Select Panels &amp; Shortcuts</string>
+    <string name="trigger_sets">Trigger Settings</string>
+    <string name="behaviour_sets">Behaviour Settings</string>
+    <string name="merge_icons_colour">Merged Icon Colour</string>
+    <string name="merge_text">Merge Level Labels</string>
+    <string name="fill_level">Slider Fill Level = %1$d%%</string>
 </resources>

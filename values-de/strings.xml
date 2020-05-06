@@ -38,7 +38,6 @@
         <br/><br/>Keiner der Dienste von Volume Panel ist Batterie-intensiv, das Ausschalten der Akku-Optimierunug für Volume Panel erhöht die Zuverlässigleit der App.
         <br/><br/>Klicken Sie auf \"Schließen\" für die Akku-optimierte Nutzung der App oder auf \"Handeln\", gefolgt von \"Alle Apps\". Danach die Akku-Optimierung für Volume Panel deaktivieren.
         <br/><br/>Falls der Dienst weiterhin vom Systemm gestoppt werden sollte, aktivieren Sie bitte die \"Aufrechterhaltung des Dienstes erzwingen\" Option.]]></string>
-    <string name="behaviour">Verhalten</string>
     <string name="block_vold_lp">Langes Drücken der Lautstärke-Taste blockieren</string>
     <string name="block_vold_lp_sum">\u2022 Beheben von Lautstärke- und Screenshot-Problemen.</string>
     <string name="border_colour">Rahmen-Farbe</string>
@@ -97,7 +96,6 @@
     <string name="latest">Bitte überprüfen, ob Sie die aktuellste Version nutzen.</string>
     <string name="launch">Volume Panel anzeigen</string>
     <string name="launch_opts">Optionen wählen</string>
-    <string name="layout">Layout</string>
     <string name="loading_apps">Lade Anwendungen</string>
     <string name="lock_ring_vol">Klingelton-Regler sperren bei Vibration/Lautlos</string>
     <string name="long_press"><![CDATA[Lange drücken & bewegen um die Felder neu zu arrangieren.]]></string>
@@ -174,7 +172,6 @@
         <br/><br/>Wenn das Android-Betriebssystem den Zugriffs-Dienst für Volume Panel immer wieder stoppt, versichern Sie sich bitte, dass alle Akku- und Speicherotimierungen für Volume Panel deaktiviert sind. Das Aktivieren der \"Auf/Ab-Wischen\"-Funktion kann ebenfalls Abhilfe schaffen.
         <br/>Für mehr Informationen besuchen Sie bitte: http://www.dontkillmyapp.com/]]></string>
     <string name="transparency">Transparenz</string>
-    <string name="trigger_cat">Trigger</string>
     <string name="trigger_colour">Trigger Farbe</string>
     <string name="trigger_scale_tx">Trigger-Feld X = %1$d%%</string>
     <string name="trigger_scale_ts">Trigger-Feld-Größe</string>
@@ -211,9 +208,7 @@
     <string name="hide">Ausblenden</string>
     <string name="skip">überspringen</string>
     <string name="app_sign">Diese Anwendung wurde modifiziert und wird nicht ausgeführt.</string>
-    <string name="fill_vertically">Vertikal Füllen</string>
     <string name="horizontal">Horizontale Schieberegler</string>
-    <string name="fill_horizontal">Horizontal Füllen</string>
     <string name="bottom">Unterseite Stellung</string>
     <string name="dont_allow">Ungültige Lizenz</string>
     <string name="text_colour">Textfarbe</string>
@@ -243,7 +238,15 @@
     <string name="show_orient">Auto Rotate Shortcut</string>
     <string name="show_split">Verknüpfung zum geteilten Bildschirm</string>
     <string name="show_lock_short">Verknüpfung zur Bildschirmsperre</string>
-    <string name="design_solid_sliders">Customise Solid Sliders</string>
-    <string name="design_borders">Customise Panel Borders</string>
-    <string name="mute_shortcut">Mute Microphone Shortcut</string>
+    <string name="design_solid_sliders">Solide Schieber anpassen</string>
+    <string name="design_borders">Panel-Rand anpassen</string>
+    <string name="mute_shortcut">Mikrophon stumm schalten</string>
+    <string name="swipe_in">Einwärts streichen</string>
+    <string name="design_layout">Panel Design &amp; Layout</string>
+    <string name="select_panels">Select Panels &amp; Shortcuts</string>
+    <string name="trigger_sets">Trigger Settings</string>
+    <string name="behaviour_sets">Behaviour Settings</string>
+    <string name="merge_icons_colour">Merged Icon Colour</string>
+    <string name="merge_text">Merge Level Labels</string>
+    <string name="fill_level">Slider Fill Level = %1$d%%</string>
 </resources>

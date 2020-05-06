@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="about"><![CDATA[<b>Volume Panel:</b>\n    <br/>\u2022Flexibiln\u00ed n\u00e1hrada syst\u00e9mov\u00e9ho ovl\u00e1d\u00e1n\u00ed hlasitosti.\n        <br/><br/><b>N\u00e1vrh &amp; v\u00fdvoj:</b>\n        <br/>\u2022 Lee Bailey (AKA @LeeDrOiD)\n        <br/> Dal\u0161\u00ed pod\u011bkov\u00e1n\u00ed:\n        <br/>\u2022 The Great Dane - AKA Bo.\n        <br/>\u2022 V\u00fdvoj\u00e1\u0159i App Intro.\n        <br/>\u2022 Ereza za Custom Activity On Crash.\n        <br/>\u2022 D-Max za Spots Dialog.\n        <br/>P\u0159eklady:\n        <br/>\u2022 Linar10 - Polish\n        <br/>\u2022 Fatih Firinci - Turkish\n        <br/>\u2022 guillerag - Spanish\n        <br/>\u2022 Nuno Nebeker - Portuguese\n        <br/>\u2022 \u0418\u0433\u043e\u0440\u044c \u0418\u0440\u0438\u043d\u0438\u043d - Russian\n        <br/>\u2022 Sylm - Fran\u00e7ais\n\t    <br/>\u2022 Emad Ayad - Arabic\n\t    <br/>\u2022 VM - German\n\t    <br/>\u2022 Alpert7 - Chinese\n\t    <br/>\u2022 Nguy\u1ec5n Lam - Vietnamese\n        <br/><br/Nev\u00e1hejte mne kontaktovat p\u0159es \"Napi\u0161te n\u00e1m\" &amp; nezapome\u0148te aplikaci ohodnotit &#128512;]]></string>
+    <string name="about_title">O aplikaci</string>
+    <string name="accessibility_description"><u>Usnadn\u011bn\u00ed p\u0159\u00edstupu</u>\n        \n\nToto nastaven\u00ed n\u00e1m umo\u017en\u00ed detekovat zm\u00e1\u010dknut\u00ed tla\u010d\u00edtek hlasitosti +\\- .\n        \n\nNic jin\u00e9ho nebude sledov\u00e1no.\n        \n\nN\u011bkter\u00e1 za\u0159\u00edzen\u00ed vy\u017eaduj\u00ed restart syst\u00e9mu, pro spr\u00e1vnou funkci.</string>
+    <string name="action">Provést teď</string>
+    <string name="add_border">Rámeček panelu</string>
+    <string name="add_shortcut">Zástupce na plochu</string>
+    <string name="additonal_perms_req">Vyžadována další povolení</string>
+    <string name="alert">Upozornění na optimalizaci</string>
+    <string name="anim_duration">Délka animace = %.2fs</string>
+    <string name="anim_durations">Délka animace</string>
+    <string name="app_name">Volume Panel</string>
+    <string name="auto_dark_sum">\u2022 P\u0159izsp\u016fsobit nastaven\u00ed Denn\u00edho/No\u010dn\u00edho m\u00f3du dle syst\u00e9mu.\n        \n\u2022 Mus\u00ed b\u00fdt podporov\u00e1no telefonem.</string>
+    <string name="background_colour">Barva pozadí</string>
+    <string name="bat_opt"><![CDATA[<b>Volume Panel je optimalizovaný systémem &amp; aplikace může být na pozadí vypnuta</b>.
+        <br/><br/>Žádná služba aplikace Volume Panel není náročná na baterii ale vypnutím optimalizace na pozadí, zvýší funkčnost aplikace.
+        <br/><br/>Vyberte \"Zavřít\" pokud chcete nechat optimalizaci zapnutou nebo vyberte \"Provést teď\" a \"Všechny aplikace\" poté vypněte optimalizaci spotřeby pro aplikaci Volume Panel.
+        <br/><br/>Pokud je aplikace i nadála vypínána systémem, zkuste zapnout volbu \"Force Keep Services Alive\".]]></string>
+    <string name="block_vold_lp">Blokovat dlouhé zmáčknutí tlačítka Hlasitost dolu</string>
+    <string name="block_vold_lp_sum">\u2022 Oprava zkratky Volume + Power pro sn\u00edmky obrazovky.</string>
+    <string name="border_colour">Barva rámečku</string>
+    <string name="border_thickness">Tloušťka rámečku = %1$d dp</string>
+    <string name="bright_calibrate"><b>i</b>: Rekalibrace maximaln\u00edho jasu:\n        \n\u2022 Nastavte jas na maximum a zapn\u011bte dlouh\u00fdm stiskem.</string>
+    <string name="cancel">Zrušit</string>
+    <string name="cast">Ovládat hlasitost streamu</string>
+    <string name="click_out">Klikněte mimo okno pro zavření</string>
+    <string name="click_out_sum">\u2022 Nemus\u00ed fungovat spr\u00e1vn\u011b, pokud jsou aktivn\u00ed jin\u00e9 aplikace.</string>
+    <string name="close">Zavřít</string>
+    <string name="corner_scale">Zaoblení rohů  = %1$d%%</string>
+    <string name="corner_scales">Zaoblení rohů</string>
+    <string name="cp_head">Klikněte doprostřed pro potvrzení</string>
+    <string name="dark_mode">Tmavý mód</string>
+    <string name="default_to_ring_volume">Hlasitost zvonění jako výchozí</string>
+    <string name="design">Vzhled</string>
+    <string name="detect_keys">Detekuj stisk tlačítka při otevření</string>
+    <string name="disable">Vypnout</string>
+    <string name="disable_notif">Prosím zakažte přistup k notifikacím</string>
+    <string name="dismiss">Zavřít</string>
+    <string name="dnd_access"><u>Nerušit</u>
+        \n\nToto nastavení nám umožní ovládat režim Nerušit.
+        \n\n</string>
+    <string name="do_not_kill">Udržovat aplikaci zapnutou na pozadí</string>
+    <string name="do_not_kill_desc"><![CDATA[<b>Toto nastavení použijte jen v případě, že se aplikace vypíná.
+        </b><br/><br/>Některá zařízení agresivně uvolňují paměť a vypínají důležité služby, aplikace s administrátorskými právy jsou vypínány sporadicky.
+        <br/><br/>Povolením základních administrátorských práv pro aplikaci Volume Panel zajistíte, že aplikace stále poběží na pozadí.
+        <br/><br/>Pokud budete chtít aplikaci odinstalovat, musíte toto nastavení zakázat.]]></string>
+    <string name="done">Hotovo</string>
+    <string name="email_feedback">Napište nám</string>
+    <string name="enable_blacklist">Ignorovat v některých aplikacích</string>
+    <string name="enable_volume_panel">Aktivovat Volume Panel</string>
+    <string name="exclude_applications">Ignorované aplikace</string>
+    <string name="exclude_applications_sum">\u2022 Volume panel se neotev\u0159e v t\u011bchto aplikac\u00edch. Bude pou\u017eito syst\u00e9mov\u00e9 ovl\u00e1d\u00e1n\u00ed hlasitosti.</string>
+    <string name="excluded">Volume Panel: Ignorované aplikace</string>
+    <string name="failed_window_add">Nepodařilo se přidat okno, prosím zkontrolujte jestli byla přidělena práva pro Zobrazování přes ostatní aplikace.</string>
+    <string name="fill_style">Velké posuvníky</string>
+    <string name="flash_light">Zástupce svítilny</string>
+    <string name="floating_trigger">Aktivovat lištu</string>
+    <string name="force_close">Vynutit zavření upozornění</string>
+    <string name="free">Vypněte bezplatnou verzi aplikace</string>
+    <string name="free_installed">Bezplatná verze aplikace Volume Panel má kontrolu nad ovládáním hlasitosti, prosím vypněte jí abyste předešli problémům.</string>
+    <string name="google_assistant">Zástupce Assistenta</string>
+    <string name="grant">Povolit</string>
+    <string name="hide_full">Nezobrazovat při režimu přes celou obrazovku</string>
+    <string name="hide_settings">Skryj odkaz pro nastavení</string>
+    <string name="icon_colour">Barva ikony</string>
+    <string name="invert_buttons">Prohoď tlačítka hlasitosti</string>
+    <string name="killed">Služba přistupnosti pro Volume Panel byla pozastavena nebo odstraněna systémem.
+        \n\nPokud to nebylo provedeno záměrně zkuste \"Vynutit běh aplikace na pozadí\" v nastavení aplikace a ujistěte se, že je vypnutá úspora baterie pro aplikaci Volume Panel.</string>
+    <string name="killer_info"><![CDATA[Pro více informací navštiv:<br/>
+        http://www.dontkillmyapp.com/]]></string>
+    <string name="latest">Prosím ujistěte se, že používáte aktuální verzi</string>
+    <string name="launch">Zobraz Volume Panel</string>
+    <string name="launch_opts">Možnosti spuštění</string>
+    <string name="loading_apps">Načítám Aplikace</string>
+    <string name="lock_ring_vol">Uzamkněte posuvník vyzvánění v režimu Vibrace/Tichý</string>
+    <string name="long_press"><![CDATA[Podrž a táhni pro přeskupení posuvníků]]></string>
+    <string name="mapper">Možné rušení</string>
+    <string name="mapper_detail">Detekovali jsme aplikaci, která může měnit chování tlačítek.
+        \n\nAplikace používá službu přístupnosti pro detekování stisku tlačítek.
+        \n\nTaková aplikace se bude navzájem rušit s aplikací Volume Panel.
+        \n\nProsím zvažte vypnutí takovéto aplikace.
+        \n\nAlternativou může být zapnutí aplikace \"Volume Panel\" odkazem na ploše s přemapováním!</string>
+    <string name="mapper_sum">\u2022 Klikn\u011bte zde pro v\u00edce informac\u00ed</string>
+    <string name="margin">Odsazení od kraje = %1$d dp</string>
+    <string name="margins">Odsazení od kraje</string>
+    <string name="media">Hlasitost médií =</string>
+    <string name="mute_media">Ztlumit média</string>
+    <string name="need_dnd">Požadované oprávnění pro režim nerušit</string>
+    <string name="not_found">Žádná aktivita nezjištěna, prosím přidělte práva v nastavení ručně</string>
+    <string name="notif_access"><u>P\u0159\u00edstup k notifikac\u00edm</u>\n        \n\n\u2022 Tato funkce n\u00e1m umo\u017en\u00ed sledovat jestli je Casting nebo Streaming aktivn\u00ed.\n        \n\u2022 Pokud nechcete ovl\u00e1dat Casting/Streaming, m\u016f\u017eete toto nastaven\u00ed p\u0159esko\u010dit.\n        \n\n\u017d\u00e1dn\u00e9 notifikace nebudou zaznamen\u00e1v\u00e1ny.\n        \n\n</string>
+    <string name="notif_panel"><![CDATA[Ne všichni výrobci umožňují rozdělení ovládaní hlasitosti pro notifikace, vyzvánění a zvuky systému.
+<br/><br/>Pokud se oba posuvníky posouvají najednou, je to způsobené nastavením systému a aplikace Volume Panel s tím nemůže nic udělat.]]></string>
+    <string name="notification_listener">Volume Panel sledování notifikací</string>
+    <string name="oops_error">Ups.. Vypadá to, že se něco pokazilo a aplikace spadla, prosím klikněte na \"ODESLAT CHYBU\" a my se na to podíváme.</string>
+    <string name="order">Změňte pořadí posuvníků</string>
+    <string name="overlay_needed"><u>Překrytí systému</u>
+\n\nToto povolení nám umožní vykreslit ovládání hlasitosti přes ostatní aplikace.</string>
+    <string name="perms"><u>Vyžadované oprávnění</u>
+        \n\nAbychom mohli nahradit systémové ovládaná hlasitosti, potřebujeme přidělit několik oprávnění.
+        \n\nNyní vám ukážeme několik obrazovek, kde vám tato oprávnění popíšeme s odkazem pro povolení.
+        \n\n</string>
+    <string name="play_sound">Zvuk při změně hlasitosti</string>
+    <string name="position_left">Ovládání pro leváky</string>
+    <string name="position_left_land">Ovládání pro leváky v režimu na šířku</string>
+    <string name="press_back">Jakmile budete hotovi, klikněte zpět pro návrat do aplikace.</string>
+    <string name="preview"><![CDATA[Režim náhledu: posuvníky pro Volání a Vysílání médií se zobrazí jen v případě nutnosti.]]></string>
+    <string name="pro">Zakoupit Volume Panel Pro!</string>
+    <string name="pro_only">- Pouze ve verzi Pro</string>
+    <string name="pro_un">Odstranit reklamy a Odemknout všechny funkce</string>
+    <string name="proceed">Pokračovat</string>
+    <string name="rate_app">Ohodnotit aplikaci</string>
+    <string name="rate_it"><![CDATA[<p style="text-align:center"><b>L\u00edb\u00ed se v\u00e1m Volume Panel?\n        </b><br/><br/>Pros\u00edm napi\u0161te recenzi v obchod\u011b Play.\n        <br/><br/>\u2b50\u2b50\u2b50\u2b50\u2b50</p>]]></string>
+    <string name="reenable">Znovu povolit</string>
+    <string name="ring">Vyzvánění</string>
+    <string name="ring_mode">Vyzváněcí režim</string>
+    <string name="screen_shot">Zástupce pro snímek obrazovky</string>
+    <string name="select_apps">Vybrat aplikace</string>
+    <string name="send_report">Poslat zprávu</string>
+    <string name="show_alarm_panel">Hlasitosti budíku</string>
+    <string name="show_bright_panel">Ovládnání jasu</string>
+    <string name="show_lock">Zobrazit na zamknuté obrazovce</string>
+    <string name="show_notif">Hlasitost notifikací</string>
+    <string name="show_ring_panel">Hlasitost zvonění</string>
+    <string name="silent">Tichý</string>
+    <string name="slide_heightx">Měřítko panelu X = %1$d%%</string>
+    <string name="slide_heights">Měřítko panelu</string>
+    <string name="slide_heighty">Velikost panelu Y = %1$d%%</string>
+    <string name="slider_colour">Barvy posuvníku</string>
+    <string name="start_collapsed">Zobraz sbalené</string>
+    <string name="suspend">Pozastavit</string>
+    <string name="switch_theme">Změna stylu</string>
+    <string name="system_perms_message">Volume Panel vyžaduje práva pro úpravu systémových nastavení, prosím klikněte na pokračovat.\n</string>
+    <string name="system_warn">Při zapnutí služby usnadnění bude zobrazeno obecné upozornění systému Android. Pro váš klid v duši, Volume Panel nesleduje nic jiného než zmáčknutí tlačítek hlasitosti. Aplikace nemá a ani nebude vyžadovat připojení k internetu.</string>
+    <string name="tips"><![CDATA[<b>Tipy</b>
+        <br/><br/><b>Hlasitost v některých aplikacích nelze ovládat:<br/>
+        </b><br/>Některé aplikace, jako například Instagram a Snapchat přebírají kontrolu nad tlačítky pro ovládání hlasitosti, pokud nějaká aplikace způsobuje problémy s ovládáním hlasitosti, zapněte funkci \"Ignorované aplikace\" a vyberte tu, která způsobuje problémy.
+        <br/><br/><b>Původní ovládání hlasitosti se stále objevuje:</B>
+        <br/><br/>Je velice pravděpodobné, že systém vypíná službu usnadnení aplikace Volume Panel, pokud máte tento problém, ujistěte, že jste vypnuly optimalizaci baterie pro tuto aplikaci, zapnutí funkce \"Aktivovat lištu\" může taky pomoci.
+        <br/>Pro více informací navštivte: http://www.dontkillmyapp.com/]]></string>
+    <string name="transparency">Průhlednost</string>
+    <string name="trigger_colour">Barva lišty</string>
+    <string name="trigger_scale_tx">Velikost lišty X = %1$d%%</string>
+    <string name="trigger_scale_ts">Velikost lišty</string>
+    <string name="trigger_scale_ty">Velikost lišty Y = %1$d%%</string>
+    <string name="up_launch">Zapnout pouze při stiknutí hlasitosti +</string>
+    <string name="up_launch_sum">\u2022 Volume Panel se spust\u00ed pouze p\u0159i stisknut\u00ed hlasitosti +</string>
+    <string name="usage_access"><u>Přístup k údajům o využití</u>
+        \n\nTato práva nám umožní sledovat, která aplikace je zrovna aktivní &amp; zkontrolujte, zda jste ji vyloučili.
+        \n\nPokud nechcete ignorovat aplikace, můžete toto přeskočit.
+        \n\n</string>
+    <string name="use_system">Auto světlý/tmavý režim</string>
+    <string name="ver_pos">Vertikální umístění = %1$d%%</string>
+    <string name="ver_poss">Vertikální umístění</string>
+    <string name="vibe_duration">Délka vibrací = %.2fs</string>
+    <string name="vibe_durations">Délka vibrací</string>
+    <string name="vibrate">Vibrace</string>
+    <string name="vol_timeouts">Čas zobrazení panelu</string>
+    <string name="vol_timeout">Čas zobrazení panelu = %1$ds</string>
+    <string name="volumeui">Volume UI</string>
+    <string name="show_call">Vždy zobrazit hlasitost hovoru</string>
+    <string name="show_bluetooth">Zástupce Bluetooth</string>
+    <string name="block_vold_up_lp">Blokovat dlouhé zmáčknutí tlačítka Hlasitost nahoru</string>
+    <string name="show_media">Zobraz ovládání médií</string>
+    <string name="change_first_click">Změň hlasitost prvním stiknutím</string>
+    <string name="show_system">Hlasitost systému</string>
+    <string name="show_levels">Úroveň hlasitosti v číslech</string>
+    <string name="when_notif">Pouze pokud je notifikace aktivní</string>
+    <string name="volume_plus">Hlasitost +</string>
+    <string name="volume_minus">Hlasitost -</string>
+    <string name="red">Červená</string>
+    <string name="green">Zelená</string>
+    <string name="blue">Modrá</string>
+    <string name="hide">Schovat</string>
+    <string name="skip">Přeskočit</string>
+    <string name="app_sign">Tato aplikace byla upravena a nebude fungovat, přesměrovávám do Play Store</string>
+    <string name="horizontal">Vodorovné posuvníky</string>
+    <string name="bottom">Spodní umístění</string>
+    <string name="dont_allow">Neplatná licence</string>
+    <string name="text_colour">Barva textu</string>
+    <string name="force_english">Vynutit angličtinu</string>
+    <string name="merge_panels">Sloučit panely</string>
+    <string name="select">Vybrat</string>
+    <string name="design_preset">Přednastavené vzhledy</string>
+    <string name="design_preset_summary">Vyberte si zde, váš základní vzhled ovládání hlasitosti.</string>
+    <string name="recent_changes">Seznam změn</string>
+    <string name="block_back_touch">Ignorovat doteky mimo panel</string>
+    <string name="backup">Exportovat nastavení</string>
+    <string name="shortcutter_permissions_storage">Vyžadován přístup k úložišti</string>
+    <string name="restore">Importovat nastavení</string>
+    <string name="enter_name">Jméno souboru zálohy</string>
+    <string name="trigger_acc"><b>Tip:</b> Klikněte sem pro zapnutí Volume Panel služby usnadnění, tím povolíte plovoucí lištu &amp; volume panel budete moc používat na uzamčené obrazovce.</string>
+    <string name="overwrite">Tato volba přepíše současná nastavení, klikněte pro nastavení nového vzhledu.</string>
+    <string name="merge_icons">Sloučit ikony</string>
+    <string name="shortcuts_below">Umístit odkazy dolů</string>
+    <string name="dim_behind">Snížení jasu kolem panelu</string>
+    <string name="dim_amount">Úroveň ztmavení = %1$d%%</string>
+    <string name="change_path">Nová složka</string>
+    <string name="save">Uložit</string>
+    <string name="flip_icons">Přesun ikony dolů</string>
+    <string name="access_error">Přístup odepřen, zkuste jiný adresář.</string>
+    <string name="thumb">Thumb Colour</string>
+    <string name="show_lock_short">Zástupce pro uzamknutí obrazovky</string>
+    <string name="show_split">Zástupce pro rozdělení obrazovky</string>
+    <string name="show_orient">Automaticky otočit zástupce</string>
+    <string name="round_top_solid_sliders">Oválný ukazatel průběhu</string>
+    <string name="design_solid_sliders">Přizpůsobte velké posuvníky</string>
+    <string name="design_borders">Přizpůsobte ohraničení panelů</string>
+    <string name="mute_shortcut">Zástupce pro ztlumení mikrofonu</string>
+    <string name="swipe_in">Zapnout potáhnutí dovnitř</string>
+    <string name="design_layout">Panel Design &amp; Layout</string>
+    <string name="select_panels">Select Panels &amp; Shortcuts</string>
+    <string name="trigger_sets">Trigger Settings</string>
+    <string name="behaviour_sets">Behaviour Settings</string>
+    <string name="merge_icons_colour">Merged Icon Colour</string>
+    <string name="merge_text">Merge Level Labels</string>
+    <string name="fill_level">Slider Fill Level = %1$d%%</string>
+</resources>

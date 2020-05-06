@@ -17,14 +17,13 @@
 <br/><br/>Ninguno de los servicios de Volume Panel son de uso intensivo para la batería, pero la deshabilitación de la optimización mejorará la estabilidad.
 <br/><br/>Presiona \"Cerrar\" para ejecutar optimizado o \"Actuar Ahora\" seguido de \"Todas las aplicaciones\" y luego desactiva \" Optimización de la batería para Volume Panel.
 <br/><br/>Si detectas que el servicio sigue siendo interrumpido por el sistema, intenta habilitar la opción \"Forzar mantener servicios activos\".]]></string>
-    <string name="behaviour">Comportamiento</string>
     <string name="block_vold_lp">Bloquear pulsación larga Vol -</string>
     <string name="block_vold_lp_sum">\u2022 Soluciona los problemas de las capturas de pantalla mediante los botones de Volumen y Encendido.</string>
     <string name="border_colour">Color del borde</string>
     <string name="border_thickness">Espesor de los bordes = %1$d dp</string>
     <string name="bright_calibrate"><b>i</b>: Recalibrar el brillo m\u00e1ximo:\n\n\u2022 Ajustar el brillo de la pantalla al m\u00e1ximo y luego mantener pulsado aqu\u00ed.</string>
     <string name="cancel">Cancelar</string>
-    <string name="cast">Mostrar panel Cast</string>
+    <string name="cast">Panel de volumen Cast</string>
     <string name="click_out">Pulsar fuera para cerrar</string>
     <string name="click_out_sum">\u2022 Puede interferir con otras aplicaciones al habilitarlo.</string>
     <string name="close">Cerrar</string>
@@ -73,7 +72,6 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="latest">Por favor, asegúrate de que estás utilizando la última versión.</string>
     <string name="launch">Mostrar Volume Panel</string>
     <string name="launch_opts">Opciones de Inicio</string>
-    <string name="layout">Disposición</string>
     <string name="loading_apps">Cargando aplicaciones</string>
     <string name="lock_ring_vol">Bloquear deslizador del panel de timbre en Vibración/Silencio</string>
     <string name="long_press"><![CDATA[Presiona y arrastra los paneles para reordenarlos.]]></string>
@@ -119,7 +117,7 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="select_apps">Seleccionar aplicaciones</string>
     <string name="send_report">Enviar informe</string>
     <string name="show_alarm_panel">Panel de volumen de la alarma</string>
-    <string name="show_bright_panel">Panel de brillo de pantalla</string>
+    <string name="show_bright_panel">Panel de brillo de la pantalla</string>
     <string name="show_lock">Mostrar en pantalla de bloqueo</string>
     <string name="show_notif">Panel de volumen de las notificaciones</string>
     <string name="show_ring_panel">Panel de volumen del timbre</string>
@@ -127,7 +125,7 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="slide_heightx">Escala del panel X = %1$d%%</string>
     <string name="slide_heights">Escala del panel</string>
     <string name="slide_heighty">Escala del panel Y = %1$d%%</string>
-    <string name="slider_colour">Color de los deslizadores</string>
+    <string name="slider_colour">Colores del deslizador</string>
     <string name="start_collapsed">Iniciar contraído</string>
     <string name="suspend">Suspender</string>
     <string name="switch_theme">Cambiar tema</string>
@@ -140,7 +138,6 @@ http://www.dontkillmyapp.com/]]></string>
 <br/><br/>Es muy probable que tu sistema esté anulando el servicio de acceso al panel de volumen, si esto ocurre,por favor, asegúrate de que la optimización de la batería y la memoria está desactivada para la aplicación, habilitar el \"Activador Flotante\" también puede ayudar.
 <br/>Para más información visita: http://www.dontkillmyapp.com/]]></string>
     <string name="transparency">Transparencia</string>
-    <string name="trigger_cat">Activador</string>
     <string name="trigger_colour">Color del activador</string>
     <string name="trigger_scale_tx">Escala del activador X = %1$d%%</string>
     <string name="trigger_scale_ts">Escala del activador</string>
@@ -164,7 +161,7 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="show_bluetooth">Acceso directo al Bluetooth</string>
     <string name="block_vold_up_lp">Bloquear pulsación larga Vol +</string>
     <string name="show_media">Mostrar controles multimedia</string>
-    <string name="change_first_click">Cambiar el volumen en la primera pulsación</string>
+    <string name="change_first_click">Cambiar el volumen al primer toque</string>
     <string name="show_system">Panel de volumen del sistema</string>
     <string name="show_levels">Mostrar niveles</string>
     <string name="when_notif">Sólo cuando la notificación esté activa</string>
@@ -176,16 +173,14 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="hide">Ocultame</string>
     <string name="skip">Saltar</string>
     <string name="app_sign">Esta aplicación ha sido modificada y no se ejecutará, redireccionando a Play Store</string>
-    <string name="fill_vertically">Ajustar verticalmente</string>
     <string name="horizontal">Deslizadores horizontales</string>
-    <string name="fill_horizontal">Ajustar horizontalmente</string>
     <string name="bottom">Posición inferior</string>
     <string name="dont_allow">Licencia no válida</string>
     <string name="text_colour">Color del texto</string>
     <string name="force_english">Forzar Inglés</string>
     <string name="merge_panels">Combinar paneles</string>
     <string name="select">Seleccionar</string>
-    <string name="design_preset">Diseños predeterminados</string>
+    <string name="design_preset">Diseños predefinidos</string>
     <string name="design_preset_summary">Elige tu diseño y luego personaliza los colores de los paneles en la sección \"Diseño\".</string>
     <string name="recent_changes">Cambios recientes</string>
     <string name="block_back_touch">Bloquear pulsaciones en segundo plano</string>
@@ -196,19 +191,27 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="trigger_acc"><b>Consejo:</b> Presiona aquí para habilitar los servicios de accesibilidad de Volume Panel, esto permitirá que el activador flotante y Volume Panel puedan ser usados en la pantalla de bloqueo.</string>
     <string name="overwrite">Esto sobrescribirá tu diseño actual, presiona proceder para continuar.</string>
     <string name="merge_icons">Combinar iconos</string>
-    <string name="shortcuts_below">Situar los accesos directos debajo de los paneles</string>
+    <string name="shortcuts_below">Situar los accesos directos bajo los paneles</string>
     <string name="dim_behind">Oscurecer detras del panel</string>
     <string name="dim_amount">Cantidad = %1$d%%</string>
     <string name="change_path">Nuevo Directorio</string>
     <string name="save">Guardar</string>
     <string name="flip_icons">Voltear posición del icono</string>
     <string name="access_error">Error de acceso, por favor intenta un directorio diferente</string>
-    <string name="thumb">Color botón</string>
+    <string name="thumb">Color indicador</string>
     <string name="show_lock_short">Acceso directo al bloqueo de pantalla</string>
     <string name="show_split">Acceso directo a pantalla dividida</string>
     <string name="show_orient">Acceso directo a rotación automática</string>
     <string name="round_top_solid_sliders">Barra de progreso redondeada</string>
-    <string name="design_solid_sliders">Customise Solid Sliders</string>
-    <string name="design_borders">Customise Panel Borders</string>
-    <string name="mute_shortcut">Mute Microphone Shortcut</string>
+    <string name="design_solid_sliders">Personalizar deslizadores gruesos</string>
+    <string name="design_borders">Personalizar bordes en panel</string>
+    <string name="mute_shortcut">Acceso directo a silenciar micrófono</string>
+    <string name="swipe_in">Enable Swipe Inwards</string>
+    <string name="design_layout">Panel Design &amp; Layout</string>
+    <string name="select_panels">Select Panels &amp; Shortcuts</string>
+    <string name="trigger_sets">Trigger Settings</string>
+    <string name="behaviour_sets">Behaviour Settings</string>
+    <string name="merge_icons_colour">Merged Icon Colour</string>
+    <string name="merge_text">Merge Level Labels</string>
+    <string name="fill_level">Slider Fill Level = %1$d%%</string>
 </resources>

@@ -37,7 +37,6 @@
     <br/><br/>جميع خدمات لوحة الصوت لا تستهلك طاقة البطارية , إزالة التطبيق من قائمه التطبيقات المحسنة سيحسن من أداء التطبيق 
     <br/><br/>أختر \"اغلق\" لتركه محسنا او اختر \"العمل الآن\" متبوعة ب \"كل التطبيقات\" ثم أزل تطبيق لوحة الصوت من قائمه تحسينات البطارية.
     <br/><br/>"إذا وجدت أن الخدمة لا تزال تغلق من قبل النظام, اختر تمكين خيار" اجبار استمرار الخدمات في الخلفيه ]]></string>
-    <string name="behaviour">سلوك </string>
     <string name="block_vold_lp">تعطيل حجم - الضغط لفترة طويلة</string>
     <string name="block_vold_lp_sum">\u2022 اصلاح مشاكل لقطة الشاشة عند الضغط علي زر الطاقة و زر رفع الصوت.</string>
     <string name="border_colour">لون الإطار</string>
@@ -96,7 +95,6 @@
     <string name="latest">من فضلك تأكد بأنك تستخدم أحدث إصدار </string>
     <string name="launch">أظهر لوحة التحكم في الصوت</string>
     <string name="launch_opts">خيارات التشغيل </string>
-    <string name="layout">النسق </string>
     <string name="loading_apps">تحميل التطبيقات</string>
     <string name="lock_ring_vol">تعطيل مؤشر الرنين في الوضع الصامت / الإهتزاز</string>
     <string name="long_press"><![CDATA[‏لإعادة ترتيب اللوحات اضغط مطولا ثم أسحب]]></string>
@@ -171,7 +169,6 @@
     يرجى التأكد من تعطيل تحسين البطارية والذاكرة للتطبيق , تفعيل خيار "السحب لأعلي وأسفل" قد يساعد أيضا .<br/>
     لمزيد من المعلومات برجاء زيارة: http://www.dontkillmyapp.com/]]></string>
     <string name="transparency">الشفافية </string>
-    <string name="trigger_cat">التفعيل </string>
     <string name="trigger_colour">لون التفعيل </string>
     <string name="trigger_scale_tx">%1$d%% = X مقياس التفعيل</string>
     <string name="trigger_scale_ts"> مقياس التفعيل</string>
@@ -207,9 +204,7 @@
     <string name="blue">أزرق</string>
     <string name="hide">قم بإخفاءي </string>
     <string name="skip">تجاوز </string>
-    <string name="fill_vertically">إملأ بشكل عمودي </string>
     <string name="horizontal">المؤشر الأفقي </string>
-    <string name="fill_horizontal">إملأ بشكل أفقي</string>
     <string name="bottom">الموضع بالأسفل</string>
     <string name="dont_allow">ترخيص غير صالح</string>
     <string name="text_colour">لون النص</string>
@@ -239,8 +234,16 @@
     <string name="show_lock_short">شاشة قفل الاختصار</string>
     <string name="show_split">اختصار تقسيم الشاشة</string>
     <string name="show_orient">اختصار التدوير التلقائي</string>
-    <string name="round_top_solid_sliders">Rounded Progress Bar</string>
-    <string name="design_solid_sliders">Customise Solid Sliders</string>
-    <string name="design_borders">Customise Panel Borders</string>
-    <string name="mute_shortcut">Mute Microphone Shortcut</string>
+    <string name="round_top_solid_sliders">شريط تقدم الجولة</string>
+    <string name="design_solid_sliders">منزلقات صلبة قابلة للتخصيص</string>
+    <string name="design_borders">تخصيص حدود اللوحة</string>
+    <string name="mute_shortcut">كتم اختصار الميكروفون</string>
+    <string name="swipe_in">تمكين التمرير إلى الداخل</string>
+    <string name="design_layout">Panel Design &amp; Layout</string>
+    <string name="select_panels">Select Panels &amp; Shortcuts</string>
+    <string name="trigger_sets">Trigger Settings</string>
+    <string name="behaviour_sets">Behaviour Settings</string>
+    <string name="merge_icons_colour">Merged Icon Colour</string>
+    <string name="merge_text">Merge Level Labels</string>
+    <string name="fill_level">Slider Fill Level = %1$d%%</string>
 </resources>

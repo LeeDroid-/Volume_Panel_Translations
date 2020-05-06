@@ -17,7 +17,6 @@
         <br/><br/>Volume Panel\'deki hizmetlerin hiçbiri pili yoğun kullanmaz, ancak optimizasyonu devre dışı bırakmak güvenilirliği artıracaktır.
         <br/><br/>Optimize edilmiş çalıştırmak için \"Kapat\"ı tıklayın veya \"Şimdi Yap\"ı tıklayarak \"Tüm Uygulamalar\"a gidip Volume Panel için Pil Optimizasyonunu devre dışı bırakın.
 <br/><br/>Hizmetin hala sistem tarafından sonlandırıldığını fark ederseniz, \"Hizmetleri Çalışır Tutmaya Zorla\" seçeneğini etkinleştirmeyi deneyin.]]></string>
-    <string name="behaviour">Davranış</string>
     <string name="block_vold_lp">Ses Kısmaya Uzun Basmayı Engelle</string>
     <string name="block_vold_lp_sum">\u2022 Ses + G\u00fc\u00e7 tu\u015fuyla olan ekran g\u00f6r\u00fcnt\u00fcs\u00fc sorunlar\u0131n\u0131 giderir.</string>
     <string name="border_colour">Kenarlık Rengi</string>
@@ -73,7 +72,6 @@
     <string name="latest">Lütfen en son sürümü kullandığınızdan emin olun.</string>
     <string name="launch">Ses Panelini Göster</string>
     <string name="launch_opts">Başlatma Seçenekleri</string>
-    <string name="layout">Düzen</string>
     <string name="loading_apps">Uygulamalar Yükleniyor</string>
     <string name="lock_ring_vol">Sessiz/Titreşimde Zil Sesi Kaydırıcıyı Engelle</string>
     <string name="long_press"><![CDATA[Panelleri yeniden sıralamak için uzun basıp sürükleyin.]]></string>
@@ -141,7 +139,6 @@
         <br/>Bu olursa, sisteminizin Volume Panel erişilebilirlik hizmetini sonlandırması büyük olasılıktır, lütfen uygulama için pil ve bellek optimizasyonunun devre dışı olduğundan emin olun, \"Yukarı/Aşağı Kaydırarak Tetikle\"nin etkinleştirilmesi de yardımcı olabilir.
         <br/>Daha fazla bilgi için şurayı ziyaret edin: http://www.dontkillmyapp.com/]]></string>
     <string name="transparency">Şeffaflık</string>
-    <string name="trigger_cat">Tetikleyici</string>
     <string name="trigger_colour">Tetikleyici Rengi</string>
     <string name="trigger_scale_tx">Tetikleyici Ölçeği X = %1$d%%</string>
     <string name="trigger_scale_ts">Tetikleyici Ölçeği</string>
@@ -177,9 +174,7 @@
     <string name="hide">Beni Gizle</string>
     <string name="skip">Atla</string>
     <string name="app_sign">Bu uygulama değiştirildi ve çalışamaz, play store\'a yeniden yönlendiriliyor</string>
-    <string name="fill_vertically">Dikey Doldur</string>
     <string name="horizontal">Yatay Kaydırıcılar</string>
-    <string name="fill_horizontal">Yatay Olarak Doldur</string>
     <string name="bottom">Alt Konum</string>
     <string name="dont_allow">Geçersiz Lisans</string>
     <string name="text_colour">Metin Rengi</string>
@@ -209,7 +204,15 @@
     <string name="show_split">Bölünmüş Ekran Kısayolu</string>
     <string name="show_orient">Otomatik Döndürme Kısayolu</string>
     <string name="round_top_solid_sliders">Yuvarlak İlerleme Çubuğu</string>
-    <string name="design_solid_sliders">Customise Solid Sliders</string>
-    <string name="design_borders">Customise Panel Borders</string>
-    <string name="mute_shortcut">Mute Microphone Shortcut</string>
+    <string name="design_solid_sliders">Katı Kaydırıcıları Özelleştir</string>
+    <string name="design_borders">Panel Kenarlıklarını Özelleştir</string>
+    <string name="mute_shortcut">Mikrofonu Kapatma Kısayolu</string>
+    <string name="swipe_in">İçe Doğru Kaydırmayı Etkinleştir</string>
+    <string name="design_layout">Panel Design &amp; Layout</string>
+    <string name="select_panels">Select Panels &amp; Shortcuts</string>
+    <string name="trigger_sets">Trigger Settings</string>
+    <string name="behaviour_sets">Behaviour Settings</string>
+    <string name="merge_icons_colour">Merged Icon Colour</string>
+    <string name="merge_text">Merge Level Labels</string>
+    <string name="fill_level">Slider Fill Level = %1$d%%</string>
 </resources>

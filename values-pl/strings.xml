@@ -37,7 +37,6 @@
     <string name="bat_opt"><![CDATA[<b>Panel głośności jest optymalizowany przez system i może zostać zamknięty w tle</b>.
         <br/><br/>Żadna z usług w Panelu głośności nie wymaga użycia baterii, ale wyłączenie optymalizacji poprawi niezawodność.
         <br/><br/>Kliknij \"Zamknij\" aby uruchomić optymalizację lub kliknij „Wykonaj Teraz”, a następnie „Wszystkie aplikacje”, a następnie wyłącz Optymalizację baterii dla Panelu Głośności.]]></string>
-    <string name="behaviour">Zachowanie</string>
     <string name="block_vold_lp">Zablokuj głośność - Długie Naciśnięcie</string>
     <string name="block_vold_lp_sum">\u2022 Naprawiono problemy ze zrzutami ekranu Vol + Power.</string>
     <string name="border_colour">Kolor Ramki</string>
@@ -95,7 +94,6 @@
     <string name="latest">Upewnij się, że używasz najnowszej wersji.</string>
     <string name="launch">Pokaż Panel Głośności</string>
     <string name="launch_opts">Opcje Aktywacji</string>
-    <string name="layout">Układ</string>
     <string name="loading_apps">Ładowanie Aplikacji</string>
     <string name="lock_ring_vol">Blokuj Suwak w Trybie Cichym/Wibracji</string>
     <string name="long_press"><![CDATA[Długo naciśnij & przeciągnij panele aby zmienić kolejność.]]></string>
@@ -170,7 +168,6 @@
         <br/>Jest bardzo prawdopodobne, że Twój system zabija usługę ułatwień dostępu Panelu Głośności, jeśli tak się stanie, upewnij się, że optymalizacja baterii i pamięci jest wyłączona w aplikacji, włączenie \ "Swypnięcie Wyzwalacza Góra/Dół \" może również pomóc.
         <br/>Po więcej informacji odwiedź: http://www.dontkillmyapp.com/]]></string>
     <string name="transparency">Przeźroczystość</string>
-    <string name="trigger_cat">Wyzwalacz</string>
     <string name="trigger_colour">Kolor Wyzwalacza</string>
     <string name="trigger_scale_tx">Skala wyzwalania X = %1$d%%</string>
     <string name="trigger_scale_ts">Skala Wyzwalania</string>
@@ -207,9 +204,7 @@
     <string name="hide">Ukryj</string>
     <string name="skip">Pomiń</string>
     <string name="app_sign">Ta aplikacja została zmodyfikowana i nie będzie działać, przekierowuję do Sklepu Play</string>
-    <string name="fill_vertically">Wypełnij Pionowo</string>
     <string name="horizontal">Poziome Suwaki</string>
-    <string name="fill_horizontal">Wypełnij Poziomo</string>
     <string name="bottom">Pozycja Na Dole</string>
     <string name="dont_allow">Nieprawidłowa Licencja</string>
     <string name="text_colour">Kolor Tekstu</string>
@@ -239,7 +234,15 @@
     <string name="show_split">"Podzielony ekran Skrót "</string>
     <string name="show_orient">Auto Rotate Shortcut</string>
     <string name="round_top_solid_sliders">Zaokrąglony pasek postępu</string>
-    <string name="design_solid_sliders">Customise Solid Sliders</string>
-    <string name="design_borders">Customise Panel Borders</string>
-    <string name="mute_shortcut">Mute Microphone Shortcut</string>
+    <string name="design_solid_sliders">Wyregulować suwaki stałe</string>
+    <string name="design_borders">Regulacja granic panelu</string>
+    <string name="mute_shortcut">Wyciszenie Skrót do mikrofonu</string>
+    <string name="swipe_in">Przesuń w lewo/prawo</string>
+    <string name="design_layout">Panel Design &amp; Layout</string>
+    <string name="select_panels">Select Panels &amp; Shortcuts</string>
+    <string name="trigger_sets">Trigger Settings</string>
+    <string name="behaviour_sets">Behaviour Settings</string>
+    <string name="merge_icons_colour">Merged Icon Colour</string>
+    <string name="merge_text">Merge Level Labels</string>
+    <string name="fill_level">Slider Fill Level = %1$d%%</string>
 </resources>

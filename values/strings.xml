@@ -16,10 +16,11 @@
         <br/>\u2022 Nuno Nebeker - Portuguese
         <br/>\u2022 Игорь Иринин - Russian
         <br/>\u2022 Sylm - Français
-	    <br/>\u2022 Emad Ayad - Arabic
-	    <br/>\u2022 VM - German
-	    <br/>\u2022 Alpert7 - Chinese
-	    <br/>\u2022 Nguy\u1ec5n Lam - Vietnamese
+	<br/>\u2022 Emad Ayad - Arabic
+	<br/>\u2022 VM - German
+	<br/>\u2022 Alpert7 - Chinese
+	<br/>\u2022 Nguy\u1ec5n Lam - Vietnamese
+	<br/>\u2022 Jakub - Chzech
         <br/><br/>Feel free to contact me via the \"Email Feedback\" option &amp; don\'t forget to leave a review &#128512;]]></string>
     <string name="about_title">About</string>
     <string name="accessibility_description">
@@ -45,7 +46,6 @@
         <br/><br/>None of the services in Volume Panel are battery intensive, but disabling optimisation will improve reliability.
         <br/><br/>Click \"Close\" to run optimised or click \"Action Now\" followed by \"All Apps\" then disable Battery Optimisation for Volume Panel.
         <br/><br/>If you find that the service is still being killed by the system, try enabling the "Force Keep Services Alive" Option.]]></string>
-    <string name="behaviour">Behaviour</string>
     <string name="block_vold_lp">Block Volume Down Long Press</string>
     <string name="block_vold_lp_sum">\u2022 Fixes Volume + Power screenshot issues.</string>
     <string name="border_colour">Border Colour</string>
@@ -94,7 +94,7 @@
     <string name="google_assistant">Assistant Shortcut</string>
     <string name="grant">Grant Permission</string>
     <string name="hide_full">Invisible In Full Screen</string>
-    <string name="hide_settings">Hide Settings Shortcuts</string>
+    <string name="hide_settings">Hide Settings Icons</string>
     <string name="icon_colour">Icon Colour</string>
     <string name="invert_buttons">Invert Volume Buttons</string>
     <string name="killed">The Volume Panel accessibility service has been stopped or removed by the system.
@@ -104,7 +104,6 @@
     <string name="latest">Please make sure you are using the latest version.</string>
     <string name="launch">Show Volume Panel</string>
     <string name="launch_opts">Launch Options</string>
-    <string name="layout">Layout</string>
     <string name="loading_apps">Loading Applications</string>
     <string name="lock_ring_vol">Lock Ring Slider In Vibrate/Silent</string>
     <string name="long_press"><![CDATA[Long press & drag panels to rearrange.]]></string>
@@ -181,7 +180,6 @@
         <br/><br/>It\'s highly likely that your system is killing the Volume Panel accessibility service, if this happens, please make sure battery & memory optimisation is disabled for the app, enabling the \"Swipe Up/Down Trigger\" may help too.
         <br/>For more information visit: http://www.dontkillmyapp.com/]]></string>
     <string name="transparency">Transparency</string>
-    <string name="trigger_cat">Trigger</string>
     <string name="trigger_colour">Trigger Colour</string>
     <string name="trigger_scale_tx">Trigger Scale X = %1$d%%</string>
     <string name="trigger_scale_ts">Trigger Scale</string>
@@ -226,9 +224,7 @@
     <string name="hide">Hide Me</string>
     <string name="skip">Skip</string>
     <string name="app_sign">This application has been modified and will not run, re-directing to the play store</string>
-    <string name="fill_vertically">Fill Vertically</string>
     <string name="horizontal">Horizontal Sliders</string>
-    <string name="fill_horizontal">Fill Horizontally</string>
     <string name="bottom">Position Bottom</string>
     <string name="telegram" translatable="false"><![CDATA[<br/><br/><br/><b>Volume Panel @Telegram:<b/> http://www.t.me/volumepanel]]></string>
     <string name="dont_allow">Invalid Licence</string>
@@ -240,16 +236,28 @@
     <string name="design_preset_summary">Choose your base layout then customise your panel colours in the \"Design\" section.</string>
     <string name="recent_changes">Recent Changes</string>
     <string name="change_log" translatable="false"><![CDATA[
-    <b>V11.81 Beta:</b>
+    <b>V11.97:</b>
+        <br/>\u2022 UI Changes & re-organisation.
+    <br/><br/>
+    <b>V11.95:</b>
+        <br/>\u2022 Allow volume adjustment on trigger long press and slide.
+        <br/>\u2022 Fix initial shortcuts not showing in collapsed view.
+        <br/>\u2022 Panel Scale and border improvements.
+        <br/>\u2022 Translation Updates.
+        <br/>\u2022 Bug Fixes.
+        <br/><br/>
+    <b>V11.93:</b>
+        <br/>\u2022 Split screen shortcut Android 7+.
+    	<br/>\u2022 Add Chzech translation - thanks Jakub.
+        <br/>\u2022 Horizontal slider size & scale adjustments.
+        <br/>\u2022 Make trigger swipe inwards optional.
         <br/>\u2022 Hide call panel mute microphone button with settings icons.
         <br/>\u2022 Add Mute Microphone shortcut.
         <br/>\u2022 Reorganise settings layout.
         <br/>\u2022 Do not fire panel close when seek bar is tracking.
         <br/>\u2022 Panel scaling corrections.
-        <br/>\u2022 Do not move panel position when expanding with 2 shortcut rows.
         <br/>\u2022 Correct scaled corner radius in merged & horizontal panels.
         <br/>\u2022 Split merged panel shortcuts into 2 rows.
-        <br/>\u2022 Scale merged panel borders with solid slider fill width.
         <br/><br/>
     <b>V11.79:</b>
         <br/>\u2022 Android 6 Crash fix.
@@ -360,4 +368,12 @@
     <string name="design_solid_sliders">Customise Solid Sliders</string>
     <string name="design_borders">Customise Panel Borders</string>
     <string name="mute_shortcut">Mute Microphone Shortcut</string>
+    <string name="swipe_in">Enable Swipe Inwards</string>
+    <string name="design_layout">Panel Design &amp; Layout</string>
+    <string name="select_panels">Select Panels &amp; Shortcuts</string>
+    <string name="trigger_sets">Trigger Settings</string>
+    <string name="behaviour_sets">Behaviour Settings</string>
+    <string name="merge_icons_colour">Merged Icon Colour</string>
+    <string name="merge_text">Merge Level Labels</string>
+    <string name="fill_level">Slider Fill Level = %1$d%%</string>
 </resources>

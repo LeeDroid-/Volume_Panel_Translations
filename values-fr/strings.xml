@@ -2,10 +2,7 @@
 <resources>
     <string name="about"><![CDATA[<b>Volume Panel:</b><br/>\u2022Remplacement pratique du contr\u00f4le de volume syst\u00e8me.<br/><br/><b>Con\u00e7u &amp; d\u00e9velopp\u00e9 par:</b><br/>\u2022 Lee Bailey (alias @LeeDrOiD)<br/> Remerciements :<br/>\u2022 Les cr\u00e9ateurs de App Intro.<br/>\u2022 Ereza for Custom Activity On Crash.<br/>\u2022 D-Max for Spots Dialog.<br/>Traductions par:<br/>\u2022 Linar10 - Polonais<br/>\u2022 Fatih Firinci - Turque<br/>\u2022 guillerag - Espagnol<br/>\u2022 Nuno Nebeker - Portugais<br/>\u2022 \u0418\u0433\u043e\u0440\u044c \u0418\u0440\u0438\u043d\u0438\u043d - Russe<br/>\u2022 Sylm - Fran\u00e7ais<br/>\u2022 Emad Ayad - Arabe<br/>\u2022 VM - Allemand<br/>\u2022 Alpert7 - Chinois<br/>\u2022 Nguy\u1ec5n Lam - Vietnamien <br/><br/>N\'h\u00e9sitez pas \u00e0 me contacter via \"Retour par Email\" &amp; n\'oubliez de laissez une appr\u00e9ciation &#128512;]]></string>
     <string name="about_title">A Propos</string>
-    <string name="accessibility_description"><u>Accessibilité</u>
-\n\nCette permission permet de détecter lorsque les boutons volume +\\- sont utilisés.
-\n\nAucun autre événement n\'est capturé.
-\n\nSur certains appareils il est nécessaire de redémarrer pour valider la permission.</string>
+    <string name="accessibility_description"><u>Accessibilit\u00e9</u>\n\n\nCette permission permet de d\u00e9tecter lorsque les boutons volume +\\- sont utilis\u00e9s.\n\n\nAucun autre \u00e9v\u00e9nement n\'est captur\u00e9.\n\n\nSur certains appareils il est n\u00e9cessaire de red\u00e9marrer pour valider la permission.</string>
     <string name="action">Action Immédiate</string>
     <string name="add_border">Activer les options Contour</string>
     <string name="add_shortcut">Raccourci Accueil</string>
@@ -20,7 +17,6 @@
 <br/><br/>Aucun des service de Volume Panel ne fait un usage intensif de la batterie, mais désactiver l’optimisation améliore la fiabilité.
 <br/><br/>\"Fermer\" pour le mode optimisé ou \"Action Immédiate\" puis \"Toutes les Apps\"  et désactiver Optimisation Batterie pour Volume Panel.
 <br/><br/>Si vous constatez que le système continue à fermer le service, essayez d\'activer l\'option \"Forcer Garder Service Actif\".]]></string>
-    <string name="behaviour">Comportement</string>
     <string name="block_vold_lp">Bloquer appui long sur Volume bas</string>
     <string name="block_vold_lp_sum">Corrige les probl\u00e8mes de capture d\'\u00e9cran Volume + Allumage</string>
     <string name="border_colour">Couleur des contours</string>
@@ -76,7 +72,6 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="latest">Merci de vérifier que vous utilisez la dernière version.</string>
     <string name="launch">Afficher Volume Panel</string>
     <string name="launch_opts">Options de démarrage</string>
-    <string name="layout">Disposition</string>
     <string name="loading_apps">Chargement des applications</string>
     <string name="lock_ring_vol">Verrouiller le curseur de la sonnerie sur Vibreur/Silencieux</string>
     <string name="long_press"><![CDATA[Presser long & déplacer les panneaux]]></string>
@@ -144,7 +139,6 @@ http://www.dontkillmyapp.com/]]></string>
 <br/><br/>C\'est très certainement du au fait que votre système ferme le service Accessibilité Volume Panel, si cela se produit, vérifier que l\'optimisation batterie et mémoire et désactivée pour cette application, utiliser \"Déclencheur Glisse Haut/Bas\" peut aussi aider.
 <br/>Pour plus d\'informations, consulter: http://www.dontkillmyapp.com/]]></string>
     <string name="transparency">Transparence</string>
-    <string name="trigger_cat">Déclencheur</string>
     <string name="trigger_colour">Couleur déclencheur</string>
     <string name="trigger_scale_tx">Echelle X déclencheur  = %1$d%%</string>
     <string name="trigger_scale_ts">Echelle déclencheur</string>
@@ -180,9 +174,7 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="hide">Cacher</string>
     <string name="skip">Passer</string>
     <string name="app_sign">Cette application a été modifiée et ne fonctionne plus, redirection vers Play Store</string>
-    <string name="fill_vertically">Remplir verticalement</string>
     <string name="horizontal">Curseurs horizontaux</string>
-    <string name="fill_horizontal">Remplir horizontalement</string>
     <string name="bottom">Position bas</string>
     <string name="dont_allow">Licence non valide</string>
     <string name="text_colour">Couleur du texte</string>
@@ -212,7 +204,15 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="show_split">Raccourci partage d\'écran</string>
     <string name="show_orient">Raccourci Rotation automatique</string>
     <string name="round_top_solid_sliders">Barre de progrès arrondie</string>
-    <string name="design_solid_sliders">Customise Solid Sliders</string>
-    <string name="design_borders">Customise Panel Borders</string>
-    <string name="mute_shortcut">Mute Microphone Shortcut</string>
+    <string name="design_solid_sliders">Personnaliser les curseurs pleins</string>
+    <string name="design_borders">Personnaliser les bordures des panneaux</string>
+    <string name="mute_shortcut">Raccourci micro coupé</string>
+    <string name="swipe_in">Activer glisser intérieur</string>
+    <string name="design_layout">Panel Design &amp; Layout</string>
+    <string name="select_panels">Select Panels &amp; Shortcuts</string>
+    <string name="trigger_sets">Trigger Settings</string>
+    <string name="behaviour_sets">Behaviour Settings</string>
+    <string name="merge_icons_colour">Merged Icon Colour</string>
+    <string name="merge_text">Merge Level Labels</string>
+    <string name="fill_level">Slider Fill Level = %1$d%%</string>
 </resources>

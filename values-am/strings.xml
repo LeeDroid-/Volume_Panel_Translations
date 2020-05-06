@@ -42,7 +42,6 @@
         <br/><br/>None of the services in Volume Panel are battery intensive, but disabling optimisation will improve reliability.
         <br/><br/>Click \"Close\" to run optimised or click \"Action Now\" followed by \"All Apps\" then disable Battery Optimisation for Volume Panel.
         <br/><br/>If you find that the service is still being killed by the system, try enabling the "Force Keep Services Alive" Option.]]></string>
-    <string name="behaviour">ባህሪይ</string>
     <string name="block_vold_lp">ድምጽን ወደ ታች ረጅሙ ፕሬስ አግድ</string>
     <string name="block_vold_lp_sum">\ u2022 ድምጽን + ጥራትን + የኃይል ቅጽበታዊ ገጽ እይታዎችን ያስተካክላል።</string>
     <string name="border_colour">የድንበር ቀለም</string>
@@ -101,7 +100,6 @@
     <string name="latest">እባክዎ የቅርብ ጊዜውን ስሪት እየተጠቀሙ መሆንዎን ያረጋግጡ።</string>
     <string name="launch">የድምፅ ፓነል አሳይ</string>
     <string name="launch_opts">አማራጮች አስጀምር</string>
-    <string name="layout">አቀማመጥ</string>
     <string name="loading_apps">መተግበሪያዎችን በመጫን ላይ</string>
     <string name="lock_ring_vol">የመቆለፊያ ቀለበት ተንሸራታች በንዝረት / ፀጥታ</string>
     <string name="long_press"><![CDATA[ፓነል-ተስተካክሎ እንዲሠራ ለማድረግ ፓነሎችን በረጅም ተጭነው ይጫኑት ፡፡]]></string>
@@ -178,7 +176,6 @@
         <br/><br/>It\'s highly likely that your system is killing the Volume Panel accessibility service, if this happens, please make sure battery & memory optimisation is disabled for the app, enabling the \"Swipe Up/Down Trigger\" may help too.
         <br/>For more information visit: http://www.dontkillmyapp.com/]]></string>
     <string name="transparency">ግልጽነት</string>
-    <string name="trigger_cat">ትሪገር</string>
     <string name="trigger_colour">ቀስቅሴ ቀለም</string>
     <string name="trigger_scale_tx">ትራይገር ልኬት X =%1$d%%</string>
     <string name="trigger_scale_ts">ቀስቅሴ ልኬት</string>
@@ -215,9 +212,7 @@
     <string name="hide">ደብቅልኝ</string>
     <string name="skip">ዝለል</string>
     <string name="app_sign">ይህ መተግበሪያ ተለው hasል ፣ እና ወደ መጫወቻው ቦታ በመሄድ አይሄድም</string>
-    <string name="fill_vertically">በአቀባዊ ይሙሉ</string>
     <string name="horizontal">አግድም ተንሸራታቾች</string>
-    <string name="fill_horizontal">በአግድመት ሙላ</string>
     <string name="bottom">የሥራ መደቡ ታች</string>
     <string name="dont_allow">ልክ ያልሆነ ፈቃድ</string>
     <string name="text_colour">የጽሑፍ ቀለም</string>
@@ -250,4 +245,12 @@
     <string name="design_solid_sliders">Customise Solid Sliders</string>
     <string name="design_borders">Customise Panel Borders</string>
     <string name="mute_shortcut">Mute Microphone Shortcut</string>
+    <string name="swipe_in">Enable Swipe Inwards</string>
+    <string name="design_layout">Panel Design &amp; Layout</string>
+    <string name="select_panels">Select Panels &amp; Shortcuts</string>
+    <string name="trigger_sets">Trigger Settings</string>
+    <string name="behaviour_sets">Behaviour Settings</string>
+    <string name="merge_icons_colour">Merged Icon Colour</string>
+    <string name="merge_text">Merge Level Labels</string>
+    <string name="fill_level">Slider Fill Level = %1$d%%</string>
 </resources>
