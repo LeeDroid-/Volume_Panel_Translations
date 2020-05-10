@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resources>
-    <string name="about"><![CDATA[<b>Volume Panel:</b>
-    <br/>\u2022A flexible replacement for your system volume controls.
-        <br/><br/><b>Designed &amp; Developed By:</b>
+    <string name="about"><![CDATA[<b>ቮልዩም ፓናል:</b>
+    <br/>\u2022 ለስልክዎ ሲስተም የድምፅ ወዘወሪያ ታዛዥ የሆነ የሲስተም ቮልዩም ፓናል ወተኪያ A flexible replacement for your system volume controls.
+        <br/><br/><b>አናፂ እና አበልፃጊ :</b>
         <br/>\u2022 Lee Bailey (AKA @LeeDrOiD)
         <br/> Additional Thanks:
         <br/>\u2022 The creators of App Intro.
         <br/>\u2022 Ereza for Custom Activity On Crash.
         <br/>\u2022 D-Max for Spots Dialog.
-        <br/>Translations By:
+        <br/>ትርጉም በ:
         <br/>\u2022 Linar10 - Polish
         <br/>\u2022 Fatih Firinci - Turkish
         <br/>\u2022 guillerag - Spanish
@@ -19,14 +19,14 @@
 	    <br/>\u2022 VM - German
 	    <br/>\u2022 Alpert7 - Chinese
 	    <br/>\u2022 Nguy\u1ec5n Lam - Vietnamese
-	   <br/>\u2022 Michael Bekele(AKA Mikesew1320) - Amharic
-        <br/><br/>Feel free to contact me via the \"Email Feedback\" option &amp; don\'t forget to leave a review &#128512;]]></string>
+	   <br/>\u2022 ሚካኤል በቀለ(AKA Mikesew1320) - አማርኛ
+        <br/><br/>`\የኢ-ሜይል ምላሽ\" በሚለው አማራጭ በመጠቀም እኔን ለማግኘት ሙሉ ባፃነት አለዎት! ስለ መተግበሀዳው ያለዎትን አስተያየት መስጠት እንደዳይረሱ!&#128512;]]></string>
     <string name="about_title">ስለ</string>
     <string name="accessibility_description">
-        <u>Accessibility Access</u>
-        \n\nThis permission allows us to detect volume +\\- key presses.
-        \n\nNo other content is captured.
-        \n\nSome devices may require a reboot to start the service.</string>
+        <u>የግንኙነት መመስረቻ</u>
+        \n\nይሄ ፍቃድ የድምፅ መጨመሪያ እና መቀነሻ ቁልፉች በሚነኩበት ጊዜ ቮልዩም ፓናል እንዲነቃ ያደርጋል፡፡
+        \n\nሌላ ይዘት ያለው ነገር አንወስድም።
+        \n\nአንዳንድ ስልኮች አገልግሎቱን ለመጀመር ዳግም መነሳት ሊፈልጉ ይችላሉ!</string>
     <string name="action">እርምጃ አሁን</string>
     <string name="add_border">የፓነል ድንበሮችን ያንቁ</string>
     <string name="add_shortcut">ማስጀመሪያ አቋራጭ</string>
@@ -34,21 +34,21 @@
     <string name="alert">የማመቻቸት ማንቂያ</string>
     <string name="anim_duration">የእነማ ቆይታ =%.2fs</string>
     <string name="anim_durations">የእነማ ቆይታ</string>
-    <string name="app_name">Volume Panel</string>
-    <string name="auto_dark_sum">\u2022 Follow system Dark/Light mode.
-        \n\u2022 Manufacturer support required.</string>
+    <string name="app_name">የድምፅ ፓነል</string>
+    <string name="auto_dark_sum">\u2022 የሲስተሙን ጥቁር/ነጭ መሆን ተከተል!
+        \n\u20229 የስልክ አምራቹ እርዳታ ይፈለጋል፡፡</string>
     <string name="background_colour">የበስተጀርባ ቀለም</string>
-    <string name="bat_opt"><![CDATA[<b>Volume Panel is being optimised by the system &amp; may be killed in the background</b>.
-        <br/><br/>None of the services in Volume Panel are battery intensive, but disabling optimisation will improve reliability.
-        <br/><br/>Click \"Close\" to run optimised or click \"Action Now\" followed by \"All Apps\" then disable Battery Optimisation for Volume Panel.
-        <br/><br/>If you find that the service is still being killed by the system, try enabling the "Force Keep Services Alive" Option.]]></string>
+    <string name="bat_opt"><![CDATA[<b>ቮልዩም ፓናል በሲስተሙ እየታሰሰ ነው! የኋላ ቆይታው ሊያበቃ ስለሚችል ይጠንቀቁ!</b>.
+        <br/><br/>ቮልዩም ፓናል ለይ ያሉ እነዚህ አገልግሎቶች ውስጥ የትኛውም የስልክዎን ባትሪ አይጨርስም፤ ግን አሰሳን ማጥፉት አስተማማኝነትን ይጨምራል፡፡
+        <br/><br/>\"ዝጋ\" የሚለዉን ማሻሻል ወይም ማሮጥ ሲፈልጉ ፬ ወይም \"አሁኑኑ ተግብር\" የሚለውን ይንኩ በመቀጠል\"ሁሉም መተግበሪያዎች\" የሚለውን ነክተው የባትሪ ማሻሻያ የሚለውን ለቮልዩም ፓናል ያጥፉ፡፡
+        <br/><br/>አገልግሎቱ በሲስተም በተደጋጋሚ እየተገደለ ከመሰሎዎ፤, "Force Keep Services Alive" Option.]]></string>
     <string name="block_vold_lp">ድምጽን ወደ ታች ረጅሙ ፕሬስ አግድ</string>
     <string name="block_vold_lp_sum">\ u2022 ድምጽን + ጥራትን + የኃይል ቅጽበታዊ ገጽ እይታዎችን ያስተካክላል።</string>
     <string name="border_colour">የድንበር ቀለም</string>
     <string name="border_thickness">የድንበር ውፍረት =%1$d dp</string>
     <string name="bright_calibrate">
-        <b>i</b>: Recalibrate Maximum Brightness:
-        \n\u2022 Set your screen brightness to Max then long press here.</string>
+        <b>i</b>: እንደገና ከፍተኛው የስክሪን ብርሀን መጠን አስስ
+        \n\u2022 የስልክዎን ስክሪን ብርሀን መጠን መጨረሻ ላይ ያርጉና ከዛም እዚህ ጋር ጫን ይበሉ!</string>
     <string name="cancel">ይቅር</string>
     <string name="cast">የ Cast ድምጽን ይቆጣጠሩ</string>
     <string name="click_out">ለመዝጋት ውጪ ጠቅ ያድርጉ</string>
@@ -56,7 +56,7 @@
     <string name="close">ገጠመ</string>
     <string name="corner_scale">የማዕዘን ራዲየስ =%1$d%%</string>
     <string name="corner_scales">ማዕዘን ራዲየስ</string>
-    <string name="cp_head">ለማረጋገጥ CENTER ን መታ ያድርጉ</string>
+    <string name="cp_head">ለማረጋገጥ መሀሉን መታ ያድርጉ</string>
     <string name="dark_mode">ጨለማ ሁኔታ</string>
     <string name="default_to_ring_volume">ነባሪው የደወል ድምጽ ለማሰማት</string>
     <string name="design">ዲዛይን</string>
@@ -65,13 +65,13 @@
     <string name="disable_notif">እባክዎን የአሰራር መግለጫዎችን ያባብሱ</string>
     <string name="dismiss">አሰናብት</string>
     <string name="dnd_access">
-        <u>Do Not Disturb Access</u>
-        \n\nThis permission allows us to modify Do Not Disturb Settings.
+        <u>የአትረብሸኝ እገልግሎት</u>
+        \n\nይህ አገልግሎት የአትረብሸኝ እገልግሎትን ለመቀየር ይረዳናል::
         \n\n</string>
     <string name="do_not_kill">አገልግሎቶች እንዲቀጥሉ ያስገድዱ</string>
-    <string name="do_not_kill_desc"><![CDATA[<b>Only use this option if volume panel keeps stopping.
-        </b><br/><br/>Some devices are too aggressive when freeing up memory and kill important services, applications with Admin rights are rarely killed.
-        <br/><br/>Enabling basic Admin rights for Volume Panel will keep our services alive.
+    <string name="do_not_kill_desc"><![CDATA[<b>ይህን አማራጭ ቮልዩም ፓናል በተደጋጋሚ እየቆመ ካስቸገርዎ ብቻ ነው!
+        </b><br/><br/>አንዳንድ ስልኮች በማይ ጉልበተኛ የሆነ ነፃ ቦታ የማስለቀቅ ሂደት ያካሂዱና አስፈላ የሆኑ አገልግሎቶችን ሊዘጉ ይችላሉ፤የገዥ ፍቃድ ያላቸው መተግበሪያዎች ግን ብዙውን ጊዜ በቀላሉ አይገደሉም።
+        <br/><br/>መሰረታዊ የሆነ የገዥ መብት ለ ቮልዩም ፓናል መስጠት አገልግሎቱ ዘለቄታዊ እንዲሆን ይረዳል።
         <br/><br/>You will have to disable this option if you ever need to uninstall the app.]]></string>
     <string name="done">ተጠናቅቋል</string>
     <string name="email_feedback">የኢሜል ግብረመልስ</string>
@@ -141,12 +141,12 @@
     <string name="press_back">አንዴ እንደ ተጠናቀቀ ወደ መተግበሪያው ለመመለስ ተመለስን ተጫን።</string>
     <string name="preview"><![CDATA[የቅድመ እይታ ሞድ: የጥሪ እና የመውጫ ፓነሎች አስፈላጊ ሲሆኑ ሲታዩ ብቻ ነው]]></string>
     <string name="pro">ወደ ድምጽ ፓነል Pro ያሻሽሉ!</string>
-    <string name="pro_only">- Pro ብቻ</string>
+    <string name="pro_only">- ፕሮቪን</string>
     <string name="pro_un">ማስታወቂያውን ያስወግዱ &amp; ሁሉንም ገጽታዎች ይክፈቱ።</string>
     <string name="proceed">ይቀጥሉ</string>
     <string name="rate_app">መተግበሪያን ደረጃ ይስጡ</string>
-    <string name="rate_it"><![CDATA[<p style="text-align:center"><b>Enjoying Volume Panel.
-        </b><br/><br/>Please leave a review in the play store!
+    <string name="rate_it"><![CDATA[<p style="text-align:center"><b>በቮልዩም ፓናል ይዝናኑ!
+        </b><br/><br/>ፕሌይ ስቶር ላይ አስተያየትዎን መስጠት እንዳይረሱ!
         <br/><br/>\u2b50\u2b50\u2b50\u2b50\u2b50</p>]]></string>
     <string name="reenable">ድጋሚ አንቃ</string>
     <string name="ring">ደውል</string>
@@ -160,9 +160,7 @@
     <string name="show_notif">የማሳወቂያ ፓነል አሳይ</string>
     <string name="show_ring_panel">የቀለበት ፓነል አሳይ</string>
     <string name="silent">ፀጥታ</string>
-    <string name="slide_heightx">የፓነል ልኬት X =%1$d%%</string>
     <string name="slide_heights">የፓነል ሚዛን</string>
-    <string name="slide_heighty">የፓነል ልኬት Y =%1$d%%</string>
     <string name="slider_colour">የተንሸራታች ቀለም</string>
     <string name="start_collapsed">መሰባበር ይጀምሩ</string>
     <string name="suspend">ተንጠልጠል</string>
@@ -183,7 +181,7 @@
     <string name="up_launch">በድምጽ + ላይ ያስጀምሩ</string>
     <string name="up_launch_sum">\ u2022 ፓነል የሚጀምረው ድምጽ + ሲጫን ብቻ ነው።</string>
     <string name="usage_access">
-        <u>Usage Access</u>
+        <u>የአጠቃቀም ፈቃድ</u>
         \n\nThis permission allows us to detect the application currently in use via package usage stats &amp; check if you have excluded it.
         \n\nIf you wish to run without excluding applications, feel free to skip this permission.
         \n\n</string>
@@ -220,37 +218,39 @@
     <string name="merge_panels">ፓነሎችን ያዋህዱ</string>
     <string name="select">ይምረጡ</string>
     <string name="design_preset">የዲዛይን ቅድመ-ቅምጦች</string>
-    <string name="design_preset_summary">አቀማመጥዎን ይምረጡ ከዚያ በ \ "ንድፍ \" ክፍሉ ውስጥ የፓነል ቀለሞችዎን ያበጁ።</string>
-    <string name="recent_changes">የቅርብ ጊዜ ለውጦች</string>
+   <string name="recent_changes">የቅርብ ጊዜ ለውጦች</string>
     <string name="block_back_touch">የጀርባ አሻንጉሊቶችን አግድ</string>
     <string name="backup">ወደ ውጪ ላክ ውቅር</string>
-    <string name="shortcutter_permissions_storage">የማጠራቀሚያ ፈቃዶች ያስፈልጋሉ</string>
+    <string name="permissions_storage">የማጠራቀሚያ ፈቃዶች ያስፈልጋሉ</string>
     <string name="restore">ውቅር አስመጣ</string>
     <string name="enter_name">የመጠባበቂያ ፋይል ስም</string>
-    <string name="trigger_acc"><b>Tip:</b> Click here to enable Volume Panel accessibility services, this will allow the floating trigger &amp; volume panel to be used in the lock screen.</string>
-    <string name="overwrite">This will overwrite your current layout, press proceed to continue.</string>
-    <string name="merge_icons">Merge Icons</string>
-    <string name="shortcuts_below">Place Shortcuts Below</string>
-    <string name="flip_icons">Flip Icon Position</string>
-    <string name="save">Save</string>
-    <string name="change_path">New Directory</string>
-    <string name="dim_amount">Dim Amount = %1$d%%</string>
-    <string name="dim_behind">Dim Behind Panel</string>
-    <string name="access_error">Access error, please try a different directory.</string>
-    <string name="thumb">Thumb Colour</string>
-    <string name="show_lock_short">Screen Lock Shortcut</string>
-    <string name="show_split">Split Screen Shortcut</string>
-    <string name="show_orient">Auto Rotate Shortcut</string>
-    <string name="round_top_solid_sliders">Rounded Progress Bar</string>
-    <string name="design_solid_sliders">Customise Solid Sliders</string>
-    <string name="design_borders">Customise Panel Borders</string>
-    <string name="mute_shortcut">Mute Microphone Shortcut</string>
+    <string name="trigger_acc"><b>ጠቃሚ ምክር: </b> የድምፅ ፓነል ተደራሽነት አገልግሎቶችን ለማንቃት እዚህ ጠቅ ያድርጉ ፣ ይህ ተንሳፋፊው ተንሳፋፊ &amp; በመቆለፊያ ማያ ገጹ ውስጥ የሚያገለግል የድምፅ ፓነል።</string>
+    <string name="overwrite">ይህ የአሁኑን አቀማመጥዎን ይተካዋል ፣ ለመቀጠል ቀጥልን ይጫኑ።</string>
+    <string name="merge_icons">አዶዎችን አዋህድ</string>
+    <string name="shortcuts_below">አቋራጮችን ከዚህ በታች አስቀምጥ</string>
+    <string name="flip_icons">የተንሸራታች አዶ አቀማመጥ</string>
+    <string name="save">አስቀምጥ</string>
+    <string name="change_path">አዲስ ማውጫ</string>
+    <string name="dim_amount">መጠን ድምር =%1$d%%</string>
+    <string name="dim_behind">ከኋላ ፓነል</string>
+    <string name="access_error">የመዳረሻ ስህተት ፣ እባክዎ የተለየ ማውጫ ይሞክሩ።</string>
+    <string name="thumb">አውራ ጣት ቀለም</string>
+    <string name="show_lock_short">የማያ ገጽ መቆለፊያ አቋራጭ</string>
+    <string name="show_split">የማያ ገጽ አቋራጭ</string>
+    <string name="show_orient">ራስ-ሰር አቋራጭ</string>
+    <string name="round_top_solid_sliders">የተጠጋጋ የሂደት አሞሌ</string>
+    <string name="design_solid_sliders">ጠንካራ ተንሸራታቾችን ያብጁ</string>
+    <string name="design_borders">የፓነል ጠርዞችን ያብጁ</string>
+    <string name="mute_shortcut">የማይክሮፎን አቋራጭ ድምጸ-ከል አድርግ</string>
     <string name="swipe_in">Enable Swipe Inwards</string>
-    <string name="design_layout">Panel Design &amp; Layout</string>
+    <string name="design_layout">Enable Swipe Inwards</string>
     <string name="select_panels">Select Panels &amp; Shortcuts</string>
     <string name="trigger_sets">Trigger Settings</string>
     <string name="behaviour_sets">Behaviour Settings</string>
     <string name="merge_icons_colour">Merged Icon Colour</string>
     <string name="merge_text">Merge Level Labels</string>
     <string name="fill_level">Slider Fill Level = %1$d%%</string>
+    <string name="wallpaper">Primary Wallpaper Colours</string>
+    <string name="icon_scale">Icon &amp; Shortcut Scale = %1$d%%</string>
+    <string name="slider_length">Slider Length = %1$d%%</string>
 </resources>

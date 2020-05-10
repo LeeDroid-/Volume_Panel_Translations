@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resources>
-    <string name="about"><![CDATA[<b>Volume Panel:</b>\n    <br/>\u2022Flexibiln\u00ed n\u00e1hrada syst\u00e9mov\u00e9ho ovl\u00e1d\u00e1n\u00ed hlasitosti.\n        <br/><br/><b>N\u00e1vrh &amp; v\u00fdvoj:</b>\n        <br/>\u2022 Lee Bailey (AKA @LeeDrOiD)\n        <br/> Dal\u0161\u00ed pod\u011bkov\u00e1n\u00ed:\n        <br/>\u2022 The Great Dane - AKA Bo.\n        <br/>\u2022 V\u00fdvoj\u00e1\u0159i App Intro.\n        <br/>\u2022 Ereza za Custom Activity On Crash.\n        <br/>\u2022 D-Max za Spots Dialog.\n        <br/>P\u0159eklady:\n        <br/>\u2022 Linar10 - Polish\n        <br/>\u2022 Fatih Firinci - Turkish\n        <br/>\u2022 guillerag - Spanish\n        <br/>\u2022 Nuno Nebeker - Portuguese\n        <br/>\u2022 \u0418\u0433\u043e\u0440\u044c \u0418\u0440\u0438\u043d\u0438\u043d - Russian\n        <br/>\u2022 Sylm - Fran\u00e7ais\n\t    <br/>\u2022 Emad Ayad - Arabic\n\t    <br/>\u2022 VM - German\n\t    <br/>\u2022 Alpert7 - Chinese\n\t    <br/>\u2022 Nguy\u1ec5n Lam - Vietnamese\n        <br/><br/Nev\u00e1hejte mne kontaktovat p\u0159es \"Napi\u0161te n\u00e1m\" &amp; nezapome\u0148te aplikaci ohodnotit &#128512;]]></string>
+    <string name="about"><![CDATA[<b>Volume Panel:</b>\n    <br/>\u2022Flexibiln\u00ed n\u00e1hrada syst\u00e9mov\u00e9ho ovl\u00e1d\u00e1n\u00ed hlasitosti.\n        <br/><br/><b>N\u00e1vrh &amp; v\u00fdvoj:</b>\n        <br/>\u2022 Lee Bailey (AKA @LeeDrOiD)\n        <br/> Dal\u0161\u00ed pod\u011bkov\u00e1n\u00ed:\n        <br/>\u2022 The Great Dane - AKA Bo.\n        <br/>\u2022 V\u00fdvoj\u00e1\u0159i App Intro.\n        <br/>\u2022 Ereza za Custom Activity On Crash.\n        <br/>\u2022 D-Max za Spots Dialog.\n        <br/>P\u0159eklady:\n        <br/>\u2022 Linar10 - Polish\n        <br/>\u2022 Fatih Firinci - Turkish\n        <br/>\u2022 guillerag - Spanish\n        <br/>\u2022 Nuno Nebeker - Portuguese\n        <br/>\u2022 \u0418\u0433\u043e\u0440\u044c \u0418\u0440\u0438\u043d\u0438\u043d - Russian\n        <br/>\u2022 Sylm - Fran\u00e7ais    <br/>\u2022 Emad Ayad - Arabic    <br/>\u2022 VM - German    <br/>\u2022 Alpert7 - Chinese    <br/>\u2022 Nguy\u1ec5n Lam - Vietnamese\n        <br/><br/Nev\u00e1hejte mne kontaktovat p\u0159es \"Napi\u0161te n\u00e1m\" &amp; nezapome\u0148te aplikaci ohodnotit &#128512;]]></string>
     <string name="about_title">O aplikaci</string>
-    <string name="accessibility_description"><u>Usnadn\u011bn\u00ed p\u0159\u00edstupu</u>\n        \n\nToto nastaven\u00ed n\u00e1m umo\u017en\u00ed detekovat zm\u00e1\u010dknut\u00ed tla\u010d\u00edtek hlasitosti +\\- .\n        \n\nNic jin\u00e9ho nebude sledov\u00e1no.\n        \n\nN\u011bkter\u00e1 za\u0159\u00edzen\u00ed vy\u017eaduj\u00ed restart syst\u00e9mu, pro spr\u00e1vnou funkci.</string>
+    <string name="accessibility_description"><u>Usnadn\u011bn\u00ed p\u0159\u00edstupu</u>\n\nToto nastaven\u00ed n\u00e1m umo\u017en\u00ed detekovat zm\u00e1\u010dknut\u00ed tla\u010d\u00edtek hlasitosti +\\- .\n\nNic jin\u00e9ho nebude sledov\u00e1no.\n\nN\u011bkter\u00e1 za\u0159\u00edzen\u00ed vy\u017eaduj\u00ed restart syst\u00e9mu, pro spr\u00e1vnou funkci.</string>
     <string name="action">Provést teď</string>
     <string name="add_border">Rámeček panelu</string>
     <string name="add_shortcut">Zástupce na plochu</string>
@@ -88,7 +88,7 @@
     <string name="mute_media">Ztlumit média</string>
     <string name="need_dnd">Požadované oprávnění pro režim nerušit</string>
     <string name="not_found">Žádná aktivita nezjištěna, prosím přidělte práva v nastavení ručně</string>
-    <string name="notif_access"><u>P\u0159\u00edstup k notifikac\u00edm</u>\n        \n\n\u2022 Tato funkce n\u00e1m umo\u017en\u00ed sledovat jestli je Casting nebo Streaming aktivn\u00ed.\n        \n\u2022 Pokud nechcete ovl\u00e1dat Casting/Streaming, m\u016f\u017eete toto nastaven\u00ed p\u0159esko\u010dit.\n        \n\n\u017d\u00e1dn\u00e9 notifikace nebudou zaznamen\u00e1v\u00e1ny.\n        \n\n</string>
+    <string name="notif_access"><u>P\u0159\u00edstup k notifikac\u00edm</u>\n\n\u2022 Tato funkce n\u00e1m umo\u017en\u00ed sledovat jestli je Casting nebo Streaming aktivn\u00ed.\n        \n\u2022 Pokud nechcete ovl\u00e1dat Casting/Streaming, m\u016f\u017eete toto nastaven\u00ed p\u0159esko\u010dit.\n\n\u017d\u00e1dn\u00e9 notifikace nebudou zaznamen\u00e1v\u00e1ny.\n\n</string>
     <string name="notif_panel"><![CDATA[Ne všichni výrobci umožňují rozdělení ovládaní hlasitosti pro notifikace, vyzvánění a zvuky systému.
 <br/><br/>Pokud se oba posuvníky posouvají najednou, je to způsobené nastavením systému a aplikace Volume Panel s tím nemůže nic udělat.]]></string>
     <string name="notification_listener">Volume Panel sledování notifikací</string>
@@ -123,9 +123,7 @@
     <string name="show_notif">Hlasitost notifikací</string>
     <string name="show_ring_panel">Hlasitost zvonění</string>
     <string name="silent">Tichý</string>
-    <string name="slide_heightx">Měřítko panelu X = %1$d%%</string>
     <string name="slide_heights">Měřítko panelu</string>
-    <string name="slide_heighty">Velikost panelu Y = %1$d%%</string>
     <string name="slider_colour">Barvy posuvníku</string>
     <string name="start_collapsed">Zobraz sbalené</string>
     <string name="suspend">Pozastavit</string>
@@ -182,11 +180,10 @@
     <string name="merge_panels">Sloučit panely</string>
     <string name="select">Vybrat</string>
     <string name="design_preset">Přednastavené vzhledy</string>
-    <string name="design_preset_summary">Vyberte si zde, váš základní vzhled ovládání hlasitosti.</string>
     <string name="recent_changes">Seznam změn</string>
     <string name="block_back_touch">Ignorovat doteky mimo panel</string>
     <string name="backup">Exportovat nastavení</string>
-    <string name="shortcutter_permissions_storage">Vyžadován přístup k úložišti</string>
+    <string name="permissions_storage">Vyžadován přístup k úložišti</string>
     <string name="restore">Importovat nastavení</string>
     <string name="enter_name">Jméno souboru zálohy</string>
     <string name="trigger_acc"><b>Tip:</b> Klikněte sem pro zapnutí Volume Panel služby usnadnění, tím povolíte plovoucí lištu &amp; volume panel budete moc používat na uzamčené obrazovce.</string>
@@ -215,4 +212,7 @@
     <string name="merge_icons_colour">Merged Icon Colour</string>
     <string name="merge_text">Merge Level Labels</string>
     <string name="fill_level">Slider Fill Level = %1$d%%</string>
+    <string name="wallpaper">Primary Wallpaper Colours</string>
+    <string name="icon_scale">Icon &amp; Shortcut Scale = %1$d%%</string>
+    <string name="slider_length">Slider Length = %1$d%%</string>
 </resources>

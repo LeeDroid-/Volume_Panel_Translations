@@ -2,7 +2,7 @@
 <resources>
     <string name="about"><![CDATA[<b>Volume Panel:</b><br/>\u2022Sistem ses kontrolleriniz i\u00e7in esnek bir de\u011fi\u015ftirme.<br/><br/><b>Tasarlayan &amp; Geli\u015ftiren:</b><br/>\u2022 Lee Bailey (AKA @LeeDrOiD)<br/> Ekstra Te\u015fekk\u00fcrler:<br/>\u2022 App Intro\'nun yap\u0131mc\u0131lar\u0131na.<br/>\u2022 Custom Activity On Crash i\u00e7in Ereza\'ya.<br/>\u2022 Spots Dialog i\u00e7in D-Max\'e.<br/>\u00c7eviriler:<br/>\u2022 Linar10 - Polish<br/>\u2022 Fatih F\u0131r\u0131nc\u0131 - Turkish<br/>\u2022 guillerag - Spanish<br/>\u2022 Nuno Nebeker - Portuguese<br/>\u2022 \u0418\u0433\u043e\u0440\u044c \u0418\u0440\u0438\u043d\u0438\u043d - Russian<br/>\u2022 Sylm - Fran\u00e7ais\n    <br/>\u2022 Emad Ayad - Arabic\n    <br/>\u2022 VM - German\n    <br/>\u2022 Alpert7 - Chinese<br/><br/>\"Geri Bildirim G\u00f6nder\" se\u00e7ene\u011fi ile benimle ileti\u015fime ge\u00e7mekten \u00e7ekinmeyin &amp; bir inceleme b\u0131rakmay\u0131 unutmay\u0131n &#128512;]]></string>
     <string name="about_title">Hakkında</string>
-    <string name="accessibility_description"><u>Eri\u015filebilirlik Eri\u015fimi</u>\n        \n\n\u2022 Ses a\u00e7ma k\u0131sma tu\u015flar\u0131na basmay\u0131 alg\u0131lama.\n        \n\u2022 Hari\u00e7 tutulan uygulamalar\u0131n ne zaman kullan\u0131ld\u0131\u011f\u0131n\u0131 alg\u0131lama.\n        \n\nBa\u015fka hi\u00e7bir tu\u015fa bas\u0131lmaz.\n        \n\nHizmeti ba\u015flatmak i\u00e7in baz\u0131 cihazlar\u0131n yeniden ba\u015flat\u0131lmas\u0131 gerekebilir.</string>
+    <string name="accessibility_description"><u>Eri\u015filebilirlik Eri\u015fimi</u>\n\n\u2022 Ses a\u00e7ma k\u0131sma tu\u015flar\u0131na basmay\u0131 alg\u0131lama.\n        \n\u2022 Hari\u00e7 tutulan uygulamalar\u0131n ne zaman kullan\u0131ld\u0131\u011f\u0131n\u0131 alg\u0131lama.\n\nBa\u015fka hi\u00e7bir tu\u015fa bas\u0131lmaz.\n\nHizmeti ba\u015flatmak i\u00e7in baz\u0131 cihazlar\u0131n yeniden ba\u015flat\u0131lmas\u0131 gerekebilir.</string>
     <string name="action">Şimdi Yap</string>
     <string name="add_border">Panel Kenarlıklarını Etkinleştir</string>
     <string name="add_shortcut">Başlatıcı Kısayolunu Etkinleştir</string>
@@ -88,7 +88,7 @@
     <string name="mute_media">Medyayı Kıs</string>
     <string name="need_dnd">Rahatsız Etmeyin İzni Gerekli</string>
     <string name="not_found">Etkinlik bulunamadı, lütfen Ayarlar\'a gidin ve elle izin verin</string>
-    <string name="notif_access"><u>Bildirim Eri\u015fimi</u>\n        \n\n\u2022 Bu izin, aktif Yay\u0131n veya Ak\u0131\u015f\u0131 tespit etmemize izin verir.\n        \n\u2022 Yay\u0131n ak\u0131\u015flar\u0131n\u0131 kontrol etmeden \u00e7al\u0131\u015ft\u0131rmak isterseniz, bu izni atlamaktan \u00e7ekinmeyin.\n        \n\nHi\u00e7bir bildirim i\u00e7eri\u011fi yakalanmaz.\n        \n\n</string>
+    <string name="notif_access"><u>Bildirim Eri\u015fimi</u>\n\n\u2022 Bu izin, aktif Yay\u0131n veya Ak\u0131\u015f\u0131 tespit etmemize izin verir.\n        \n\u2022 Yay\u0131n ak\u0131\u015flar\u0131n\u0131 kontrol etmeden \u00e7al\u0131\u015ft\u0131rmak isterseniz, bu izni atlamaktan \u00e7ekinmeyin.\n\nHi\u00e7bir bildirim i\u00e7eri\u011fi yakalanmaz.\n\n</string>
     <string name="notif_panel"><![CDATA[Tüm cihazlar, Bildirim & Zil sesinin bölünmesini desteklemez.
         <br/><br/>Her iki akış birlikte değişirse, bunun nedeni sistem yapılandırmanızdır ve Volume Panel ile ilgisi yoktur.]]></string>
     <string name="notification_listener">Volume Panel Bildirim Dinleyici</string>
@@ -123,9 +123,7 @@
     <string name="show_notif">Bildirim Sesi Paneli</string>
     <string name="show_ring_panel">Zil Sesi Paneli</string>
     <string name="silent">Sessiz</string>
-    <string name="slide_heightx">Panel Ölçeği X = %1$d%%</string>
     <string name="slide_heights">Panel Ölçeği</string>
-    <string name="slide_heighty">Panel Ölçeği Y = %1$d%%</string>
     <string name="slider_colour">Kaydırıcı Renkleri</string>
     <string name="start_collapsed">Daraltılmış Başlat</string>
     <string name="suspend">Askıya Al</string>
@@ -182,11 +180,10 @@
     <string name="merge_panels">Panelleri Birleştir</string>
     <string name="select">Seç</string>
     <string name="design_preset">Tasarım Hazır Ayarları</string>
-    <string name="design_preset_summary">Temel düzeninizi seçin ve \"Tasarım\" bölümünden panel renklerinizi özelleştirin.</string>
     <string name="recent_changes">Son Değişiklikler</string>
     <string name="block_back_touch">Arka Plan Dokunuşlarını Engelle</string>
     <string name="backup">Yapılandırmayı Dışa Aktar</string>
-    <string name="shortcutter_permissions_storage">Depolama İzinleri Gerekli</string>
+    <string name="permissions_storage">Depolama İzinleri Gerekli</string>
     <string name="restore">Yapılandırmayı İçe Aktar</string>
     <string name="enter_name">Yedek Dosya Adı</string>
     <string name="trigger_acc"><b>İpucu:</b> Volume Panel erişilebilirlik hizmetlerini etkinleştirmek için buraya tıklayın, bu, yüzen tetikleyici &amp; ses panelinin kilit ekranında kullanılmasına izin verecektir.</string>
@@ -208,11 +205,14 @@
     <string name="design_borders">Panel Kenarlıklarını Özelleştir</string>
     <string name="mute_shortcut">Mikrofonu Kapatma Kısayolu</string>
     <string name="swipe_in">İçe Doğru Kaydırmayı Etkinleştir</string>
-    <string name="design_layout">Panel Design &amp; Layout</string>
-    <string name="select_panels">Select Panels &amp; Shortcuts</string>
-    <string name="trigger_sets">Trigger Settings</string>
-    <string name="behaviour_sets">Behaviour Settings</string>
-    <string name="merge_icons_colour">Merged Icon Colour</string>
-    <string name="merge_text">Merge Level Labels</string>
-    <string name="fill_level">Slider Fill Level = %1$d%%</string>
+    <string name="design_layout">Panel Tasarımı &amp; Düzeni</string>
+    <string name="select_panels">Panelleri &amp; Kısayolları Seç</string>
+    <string name="trigger_sets">Tetikleyici Ayarları</string>
+    <string name="behaviour_sets">Davranış Ayarları</string>
+    <string name="merge_icons_colour">Birleştirilmiş Simge Rengi</string>
+    <string name="merge_text">Seviye Etiketlerini Birleştir</string>
+    <string name="fill_level">Kaydırıcı Dolum Seviyesi = %1$d%%</string>
+    <string name="wallpaper">Primary Wallpaper Colours</string>
+    <string name="icon_scale">Icon &amp; Shortcut Scale = %1$d%%</string>
+    <string name="slider_length">Slider Length = %1$d%%</string>
 </resources>

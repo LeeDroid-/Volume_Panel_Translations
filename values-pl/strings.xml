@@ -154,9 +154,7 @@
     <string name="show_notif">Pokaż Panel Powiadomień</string>
     <string name="show_ring_panel">Pokaż Panel Dzwonka</string>
     <string name="silent">Cichy</string>
-    <string name="slide_heightx">Skalowanie Panela X = %1$d%%</string>
     <string name="slide_heights">Skalowanie Panel</string>
-    <string name="slide_heighty">Skalowanie Panela Y = %1$d%%</string>
     <string name="slider_colour">Kolor Suwaka</string>
     <string name="start_collapsed">Rozpocznij Zwinięty</string>
     <string name="suspend">Pauza</string>
@@ -211,13 +209,12 @@
     <string name="merge_panels">Panele łączone</string>
     <string name="select">Wybierz</string>
     <string name="design_preset">Wzornictwo Ustawienia wstępne</string>
-    <string name="design_preset_summary">Wybierz swój układ, a następnie dostosuj kolory paneli w sekcji \"Design\".</string>
     <string name="block_back_touch">Blokuj tło Dotknij</string>
     <string name="trigger_acc"><b>Wskazówka:</b> Kliknij tutaj, aby włączyć Ułatwień Dostępu do panelu głośności, co pozwoli na korzystanie z panelu głośności na ekranie blokady.</string>
     <string name="overwrite">Spowoduje to nadpisanie aktualnego układu, naciśnij przycisk kontynuuj, aby kontynuować.</string>
     <string name="enter_name">Nazwa pliku kopii zapasowej</string>
     <string name="restore">Konfiguracja importu</string>
-    <string name="shortcutter_permissions_storage">Wymagane pozwolenie na składowanie</string>
+    <string name="permissions_storage">Wymagane pozwolenie na składowanie</string>
     <string name="backup">Konfiguracja eksportu</string>
     <string name="force_english">Używaj języka angielskiego</string>
     <string name="recent_changes">Ostatnie zmiany</string>
@@ -238,11 +235,14 @@
     <string name="design_borders">Regulacja granic panelu</string>
     <string name="mute_shortcut">Wyciszenie Skrót do mikrofonu</string>
     <string name="swipe_in">Przesuń w lewo/prawo</string>
-    <string name="design_layout">Panel Design &amp; Layout</string>
-    <string name="select_panels">Select Panels &amp; Shortcuts</string>
-    <string name="trigger_sets">Trigger Settings</string>
-    <string name="behaviour_sets">Behaviour Settings</string>
-    <string name="merge_icons_colour">Merged Icon Colour</string>
-    <string name="merge_text">Merge Level Labels</string>
-    <string name="fill_level">Slider Fill Level = %1$d%%</string>
+    <string name="design_layout">Projekt i układ paneli</string>
+    <string name="select_panels">Wybór Panele i skróty</string>
+    <string name="trigger_sets">Ustawienia wyzwalacza</string>
+    <string name="behaviour_sets">Ustawienia zachowań</string>
+    <string name="merge_icons_colour">Połączony kolor ikon</string>
+    <string name="merge_text">Etykiety poziomu łączenia</string>
+    <string name="fill_level">Poziom wypełnienia suwaka = %1$d%%</string>
+    <string name="wallpaper">Primary Wallpaper Colours</string>
+    <string name="icon_scale">Icon &amp; Shortcut Scale = %1$d%%</string>
+    <string name="slider_length">Slider Length = %1$d%%</string>
 </resources>

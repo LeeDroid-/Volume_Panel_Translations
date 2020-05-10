@@ -2,26 +2,27 @@
 <resources>
     <string name="about"><![CDATA[<b>Volume Panel:</b>
     <br/>\u2022A flexible replacement for your system volume controls.
-        <br/><br/><b>Designed &amp; Developed By:</b>
-        <br/>\u2022 Lee Bailey (AKA @LeeDrOiD)
-        <br/> Additional Thanks:
-        <br/>\u2022 The Great Dane - AKA Bo.
-        <br/>\u2022 The creators of App Intro.
-        <br/>\u2022 Ereza for Custom Activity On Crash.
-        <br/>\u2022 D-Max for Spots Dialog.
-        <br/>Translations By:
-        <br/>\u2022 Linar10 - Polish
-        <br/>\u2022 Fatih Firinci - Turkish
-        <br/>\u2022 guillerag - Spanish
-        <br/>\u2022 Nuno Nebeker - Portuguese
-        <br/>\u2022 Игорь Иринин - Russian
-        <br/>\u2022 Sylm - Français
+    <br/><br/><b>Designed &amp; Developed By:</b>
+    <br/>\u2022 Lee Bailey (AKA @LeeDrOiD)
+    <br/> Additional Thanks:
+    <br/>\u2022 The Great Dane - AKA Bo.
+    <br/>\u2022 The creators of App Intro.
+    <br/>\u2022 Ereza for Custom Activity On Crash.
+    <br/>\u2022 D-Max for Spots Dialog.
+    <br/>Translations By:
+    <br/>\u2022 Linar10 - Polish
+    <br/>\u2022 Fatih Firinci - Turkish
+    <br/>\u2022 guillerag - Spanish
+    <br/>\u2022 Nuno Nebeker - Portuguese
+    <br/>\u2022 Игорь Иринин - Russian
+    <br/>\u2022 Sylm - Français
 	<br/>\u2022 Emad Ayad - Arabic
 	<br/>\u2022 VM - German
 	<br/>\u2022 Alpert7 - Chinese
 	<br/>\u2022 Nguy\u1ec5n Lam - Vietnamese
 	<br/>\u2022 Jakub - Chzech
-        <br/><br/>Feel free to contact me via the \"Email Feedback\" option &amp; don\'t forget to leave a review &#128512;]]></string>
+	<br/>\u2022 Aramaic - Mikesew1320
+    <br/><br/>Feel free to contact me via the \"Email Feedback\" option &amp; don\'t forget to leave a review &#128512;]]></string>
     <string name="about_title">About</string>
     <string name="accessibility_description">
         <u>Accessibility Access</u>
@@ -103,7 +104,7 @@
         http://www.dontkillmyapp.com/]]></string>
     <string name="latest">Please make sure you are using the latest version.</string>
     <string name="launch">Show Volume Panel</string>
-    <string name="launch_opts">Launch Options</string>
+    <string name="launch_opts"><u>Launch Options</u></string>
     <string name="loading_apps">Loading Applications</string>
     <string name="lock_ring_vol">Lock Ring Slider In Vibrate/Silent</string>
     <string name="long_press"><![CDATA[Long press & drag panels to rearrange.]]></string>
@@ -164,9 +165,7 @@
     <string name="show_notif">Notification Volume Panel</string>
     <string name="show_ring_panel">Ring Volume Panel</string>
     <string name="silent">Silent</string>
-    <string name="slide_heightx">Panel Scale X = %1$d%%</string>
     <string name="slide_heights">Panel Scale</string>
-    <string name="slide_heighty">Panel Scale Y = %1$d%%</string>
     <string name="slider_colour">Slider Colours</string>
     <string name="start_collapsed">Start Collapsed</string>
     <string name="suspend">Suspend</string>
@@ -233,11 +232,32 @@
     <string name="merge_panels">Merge Panels</string>
     <string name="select">Select</string>
     <string name="design_preset">Design Presets</string>
-    <string name="design_preset_summary">Choose your base layout then customise your panel colours in the \"Design\" section.</string>
     <string name="recent_changes">Recent Changes</string>
     <string name="change_log" translatable="false"><![CDATA[
-    <b>V11.97:</b>
-        <br/>\u2022 UI Changes & re-organisation.
+    <b>V20.10:</b>
+        <br/>\u2022 Change panel scale labels to slider length and icon scale.
+        <br/>\u2022 Fix crash in panel start with first click enabled.
+        <br/>\u2022 Translation Updates.
+    <br/><br/>
+    <b>V20.09:</b>
+        <br/>\u2022 Disable audible feedback if media active.
+        <br/>\u2022 Fix preview button background.
+        <br/>\u2022 Merge footer colour with background.
+        <br/>\u2022 Change nav & status icons to match activity.
+        <br/>\u2022 Additional measures to keep accessibility services alive.
+        <br/>\u2022 Remove delay from first click changes.
+        <br/>\u2022 Handler & close logic adjustments.
+        <br/>\u2022 Bug fixes.
+    <br/><br/>
+    <b>V20.04:</b>
+        <br/>\u2022 App UI Overhaul.
+        <br/>\u2022 New Design Presets.
+        <br/>\u2022 Launcher Icon corrections.
+        <br/>\u2022 Colour Picker adjustments.
+        <br/>\u2022 Add Wallpaper colour pallet to colour picker (where available).
+        <br/>\u2022 Panel margin/spacing corrections.
+        <br/>\u2022 Reduce panel elevation (shadows clipped).
+        <br/>\u2022 Add shadow layer to text labels.
     <br/><br/>
     <b>V11.95:</b>
         <br/>\u2022 Allow volume adjustment on trigger long press and slide.
@@ -345,7 +365,7 @@
     </string>
     <string name="block_back_touch">Block Background Touches</string>
     <string name="backup">Export Configuration</string>
-    <string name="shortcutter_permissions_storage">Storage Permissions Required</string>
+    <string name="permissions_storage">Storage Permissions Required</string>
     <string name="restore">Import Configuration</string>
     <string name="file_name" translatable="false">Volume_Panel_Backup</string>
     <string name="enter_name">Backup File Name</string>
@@ -369,11 +389,14 @@
     <string name="design_borders">Customise Panel Borders</string>
     <string name="mute_shortcut">Mute Microphone Shortcut</string>
     <string name="swipe_in">Enable Swipe Inwards</string>
-    <string name="design_layout">Panel Design &amp; Layout</string>
+    <string name="design_layout">Enable Swipe Inwards</string>
     <string name="select_panels">Select Panels &amp; Shortcuts</string>
     <string name="trigger_sets">Trigger Settings</string>
     <string name="behaviour_sets">Behaviour Settings</string>
     <string name="merge_icons_colour">Merged Icon Colour</string>
     <string name="merge_text">Merge Level Labels</string>
     <string name="fill_level">Slider Fill Level = %1$d%%</string>
+    <string name="wallpaper">Primary Wallpaper Colours</string>
+    <string name="icon_scale">Icon &amp; Shortcut Scale = %1$d%%</string>
+    <string name="slider_length">Slider Length = %1$d%%</string>
 </resources>

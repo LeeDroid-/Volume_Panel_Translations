@@ -153,9 +153,7 @@
     <string name="show_notif">أظهر لوحة الإشعارات</string>
     <string name="show_ring_panel">أظهر لوحة نغمة الرنين</string>
     <string name="silent">صامت </string>
-    <string name="slide_heightx"> %1$d%% = X مقياس لوحة التحكم = </string>
     <string name="slide_heights">مقياس لوحة التحكم </string>
-    <string name="slide_heighty">%1$d%% = Y مقياس لوحة التحكم = </string>
     <string name="slider_colour">لون الشريط  </string>
     <string name="start_collapsed">أبدأ مصغر </string>
     <string name="suspend">تعليق</string>
@@ -212,13 +210,12 @@
     <string name="merge_panels">دمج اللوحات</string>
     <string name="select">تحديد</string>
     <string name="design_preset">إعدادات التصميم المسبقة</string>
-    <string name="design_preset_summary">اختر التخطيط ثم قم بتخصيص ألوان اللوحة في قسم "التصميم".</string>
     <string name="block_back_touch">منع اللمسات الخلفية</string>
     <string name="trigger_acc"><b>ملحوظة:</b> انقر هنا لتمكين خدمات إمكانية الوصول ، وهذا سيسمح باستخدام المشغل العائم ولوحة الصوت في شاشة القفل.</string>
     <string name="overwrite">سيؤدي هذا إلى استبدال التخطيط الحالي الخاص بك ، اضغط على متابعة للمتابعة.</string>
     <string name="enter_name">اسم ملف النسخ الاحتياطي</string>
     <string name="restore">تكوين الاستيراد</string>
-    <string name="shortcutter_permissions_storage">أذونات التخزين مطلوبة</string>
+    <string name="permissions_storage">أذونات التخزين مطلوبة</string>
     <string name="backup">تكوينات التصدير</string>
     <string name="recent_changes">التغييرات الأخيرة</string>
     <string name="force_english">استخدم الإنجليزية</string>
@@ -239,11 +236,14 @@
     <string name="design_borders">تخصيص حدود اللوحة</string>
     <string name="mute_shortcut">كتم اختصار الميكروفون</string>
     <string name="swipe_in">تمكين التمرير إلى الداخل</string>
-    <string name="design_layout">Panel Design &amp; Layout</string>
-    <string name="select_panels">Select Panels &amp; Shortcuts</string>
-    <string name="trigger_sets">Trigger Settings</string>
-    <string name="behaviour_sets">Behaviour Settings</string>
-    <string name="merge_icons_colour">Merged Icon Colour</string>
-    <string name="merge_text">Merge Level Labels</string>
-    <string name="fill_level">Slider Fill Level = %1$d%%</string>
+    <string name="design_layout">تصميم وتخطيط اللوحة</string>
+    <string name="select_panels">حدد اللوحات والاختصارات</string>
+    <string name="trigger_sets">إعدادات الزناد</string>
+    <string name="behaviour_sets">إعدادات السلوك</string>
+    <string name="merge_icons_colour">لون الرمز المتكامل</string>
+    <string name="merge_text">دمج تسميات المستوى</string>
+    <string name="fill_level">مستوى تعبئة الشريحة = %1$d%%</string>
+    <string name="wallpaper">Primary Wallpaper Colours</string>
+    <string name="icon_scale">Icon &amp; Shortcut Scale = %1$d%%</string>
+    <string name="slider_length">Slider Length = %1$d%%</string>
 </resources>

@@ -156,9 +156,7 @@
     <string name="show_notif">Benachrichtigungs-Feld anzeigen</string>
     <string name="show_ring_panel">Klingelton-Feld anzeigen</string>
     <string name="silent">Lautlos</string>
-    <string name="slide_heightx">Feld-Größe X = %1$d%%</string>
     <string name="slide_heights">Feld-Größe</string>
-    <string name="slide_heighty">Feld-Größe Y = %1$d%%</string>
     <string name="slider_colour">Regler-Farbe</string>
     <string name="start_collapsed">Bei Start zusammengeklappt</string>
     <string name="suspend">Ruhezustand</string>
@@ -215,13 +213,12 @@
     <string name="merge_panels">Tafeln Zusammenführen</string>
     <string name="select">Wählen Sie</string>
     <string name="design_preset">Design-Voreinstellungen</string>
-    <string name="design_preset_summary">Wählen Sie Ihr Layout aus und passen Sie dann Ihre Panel-Farben im Abschnitt \"Design\" an.</string>
     <string name="block_back_touch">Block-Hintergrundberührungen</string>
     <string name="trigger_acc"><b>Tipp:</b> Klicken Sie hier um Volume Panel die Nutzung der Bediehungshilfen zu erlauben. Dies ermöglicht die Verwendung des Floating Trigger &amp; durch das Volume Panel im Sperrbildschirm.</string>
     <string name="overwrite">Dadurch wird Ihr aktuelles Layout überschrieben, drücken Sie auf Weiter, um fortzufahren.</string>
     <string name="enter_name">Name der Sicherungsdatei</string>
     <string name="restore">Konfiguration Importieren</string>
-    <string name="shortcutter_permissions_storage">Speichererlaubnis erforderlich</string>
+    <string name="permissions_storage">Speichererlaubnis erforderlich</string>
     <string name="backup">Konfiguration Exportieren</string>
     <string name="force_english">Englisch erzwingen</string>
     <string name="recent_changes">Neue Funktionen:</string>
@@ -242,11 +239,14 @@
     <string name="design_borders">Panel-Rand anpassen</string>
     <string name="mute_shortcut">Mikrophon stumm schalten</string>
     <string name="swipe_in">Einwärts streichen</string>
-    <string name="design_layout">Panel Design &amp; Layout</string>
-    <string name="select_panels">Select Panels &amp; Shortcuts</string>
-    <string name="trigger_sets">Trigger Settings</string>
-    <string name="behaviour_sets">Behaviour Settings</string>
-    <string name="merge_icons_colour">Merged Icon Colour</string>
-    <string name="merge_text">Merge Level Labels</string>
-    <string name="fill_level">Slider Fill Level = %1$d%%</string>
+    <string name="design_layout">Schalttafel-Design und -Layout</string>
+    <string name="select_panels">Panels und Verknüpfungen auswählen</string>
+    <string name="trigger_sets">Trigger-Einstellungen</string>
+    <string name="behaviour_sets">Verhalten-Einstellungen</string>
+    <string name="merge_icons_colour">Zusammengeführte Icon-Farbe</string>
+    <string name="merge_text">Beschriftungen auf Zusammenführungsebene</string>
+    <string name="fill_level">Schieberegler-Füllstand = %1$d%%</string>
+    <string name="wallpaper">Primary Wallpaper Colours</string>
+    <string name="icon_scale">Icon &amp; Shortcut Scale = %1$d%%</string>
+    <string name="slider_length">Slider Length = %1$d%%</string>
 </resources>
