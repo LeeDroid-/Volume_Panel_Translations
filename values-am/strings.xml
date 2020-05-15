@@ -34,7 +34,7 @@
     <string name="alert">የማመቻቸት ማንቂያ</string>
     <string name="anim_duration">የእነማ ቆይታ =%.2fs</string>
     <string name="anim_durations">የእነማ ቆይታ</string>
-    <string name="app_name">የድምፅ ፓነል</string>
+    <string name="app_name">Volume Panel</string>
     <string name="auto_dark_sum">\u2022 የሲስተሙን ጥቁር/ነጭ መሆን ተከተል!
         \n\u20229 የስልክ አምራቹ እርዳታ ይፈለጋል፡፡</string>
     <string name="background_colour">የበስተጀርባ ቀለም</string>
@@ -218,7 +218,7 @@
     <string name="merge_panels">ፓነሎችን ያዋህዱ</string>
     <string name="select">ይምረጡ</string>
     <string name="design_preset">የዲዛይን ቅድመ-ቅምጦች</string>
-   <string name="recent_changes">የቅርብ ጊዜ ለውጦች</string>
+    <string name="recent_changes">የቅርብ ጊዜ ለውጦች</string>
     <string name="block_back_touch">የጀርባ አሻንጉሊቶችን አግድ</string>
     <string name="backup">ወደ ውጪ ላክ ውቅር</string>
     <string name="permissions_storage">የማጠራቀሚያ ፈቃዶች ያስፈልጋሉ</string>
@@ -243,7 +243,7 @@
     <string name="design_borders">የፓነል ጠርዞችን ያብጁ</string>
     <string name="mute_shortcut">የማይክሮፎን አቋራጭ ድምጸ-ከል አድርግ</string>
     <string name="swipe_in">Enable Swipe Inwards</string>
-    <string name="design_layout">Enable Swipe Inwards</string>
+    <string name="design_layout">Panel Design &amp; Layout</string>
     <string name="select_panels">Select Panels &amp; Shortcuts</string>
     <string name="trigger_sets">Trigger Settings</string>
     <string name="behaviour_sets">Behaviour Settings</string>
@@ -253,4 +253,9 @@
     <string name="wallpaper">Primary Wallpaper Colours</string>
     <string name="icon_scale">Icon &amp; Shortcut Scale = %1$d%%</string>
     <string name="slider_length">Slider Length = %1$d%%</string>
+    <string name="fill_colour">Fill Colour</string>
+    <string name="long_press_trig">ድምጹን ለመቀየር ተጭነው ይቆዩ</string>
+    <string name="order_shorts">Change Shortcut Order</string>
+    <string name="ad_click">Click Ad</string>
+    <string name="ad_click_message">Please click the full screen advertisement to temporarily unlock this option.</string>
 </resources>

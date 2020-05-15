@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resources>
-    <string name="about"><![CDATA[<b>Volume Panel:</b>\n    <br/>\u2022Flexibiln\u00ed n\u00e1hrada syst\u00e9mov\u00e9ho ovl\u00e1d\u00e1n\u00ed hlasitosti.\n        <br/><br/><b>N\u00e1vrh &amp; v\u00fdvoj:</b>\n        <br/>\u2022 Lee Bailey (AKA @LeeDrOiD)\n        <br/> Dal\u0161\u00ed pod\u011bkov\u00e1n\u00ed:\n        <br/>\u2022 The Great Dane - AKA Bo.\n        <br/>\u2022 V\u00fdvoj\u00e1\u0159i App Intro.\n        <br/>\u2022 Ereza za Custom Activity On Crash.\n        <br/>\u2022 D-Max za Spots Dialog.\n        <br/>P\u0159eklady:\n        <br/>\u2022 Linar10 - Polish\n        <br/>\u2022 Fatih Firinci - Turkish\n        <br/>\u2022 guillerag - Spanish\n        <br/>\u2022 Nuno Nebeker - Portuguese\n        <br/>\u2022 \u0418\u0433\u043e\u0440\u044c \u0418\u0440\u0438\u043d\u0438\u043d - Russian\n        <br/>\u2022 Sylm - Fran\u00e7ais    <br/>\u2022 Emad Ayad - Arabic    <br/>\u2022 VM - German    <br/>\u2022 Alpert7 - Chinese    <br/>\u2022 Nguy\u1ec5n Lam - Vietnamese\n        <br/><br/Nev\u00e1hejte mne kontaktovat p\u0159es \"Napi\u0161te n\u00e1m\" &amp; nezapome\u0148te aplikaci ohodnotit &#128512;]]></string>
+    <string name="about"><![CDATA[<b>Volume Panel:</b><br/>\u2022Flexibiln\u00ed n\u00e1hrada syst\u00e9mov\u00e9ho ovl\u00e1d\u00e1n\u00ed hlasitosti.<br/><br/><b>N\u00e1vrh &amp; v\u00fdvoj:</b><br/>\u2022 Lee Bailey (AKA @LeeDrOiD)<br/> Dal\u0161\u00ed pod\u011bkov\u00e1n\u00ed:<br/>\u2022 The Great Dane - AKA Bo.<br/>\u2022 V\u00fdvoj\u00e1\u0159i App Intro.<br/>\u2022 Ereza za Custom Activity On Crash.<br/>\u2022 D-Max za Spots Dialog.<br/>P\u0159eklady:<br/>\u2022 Linar10 - Polish<br/>\u2022 Fatih Firinci - Turkish<br/>\u2022 guillerag - Spanish<br/>\u2022 Nuno Nebeker - Portuguese<br/>\u2022 \u0418\u0433\u043e\u0440\u044c \u0418\u0440\u0438\u043d\u0438\u043d - Russian<br/>\u2022 Sylm - Fran\u00e7ais    <br/>\u2022 Emad Ayad - Arabic    <br/>\u2022 VM - German    <br/>\u2022 Alpert7 - Chinese    <br/>\u2022 Nguy\u1ec5n Lam - Vietnamese<br/><br/Nev\u00e1hejte mne kontaktovat p\u0159es \"Napi\u0161te n\u00e1m\" &amp; nezapome\u0148te aplikaci ohodnotit &#128512;]]></string>
     <string name="about_title">O aplikaci</string>
-    <string name="accessibility_description"><u>Usnadn\u011bn\u00ed p\u0159\u00edstupu</u>\n\nToto nastaven\u00ed n\u00e1m umo\u017en\u00ed detekovat zm\u00e1\u010dknut\u00ed tla\u010d\u00edtek hlasitosti +\\- .\n\nNic jin\u00e9ho nebude sledov\u00e1no.\n\nN\u011bkter\u00e1 za\u0159\u00edzen\u00ed vy\u017eaduj\u00ed restart syst\u00e9mu, pro spr\u00e1vnou funkci.</string>
+    <string name="accessibility_description"><u>Usnadn\u011bn\u00ed p\u0159\u00edstupu</u>\n\nToto nastaven\u00ed n\u00e1m umo\u017en\u00ed:\n\u2022 Detekovat zm\u00e1\u010dknut\u00ed tla\u010d\u00edtek hlasitosti +\\- .\n\u2022 Zobrazit panel na zamknut\u00e9 obrazovce.\n\n\u2022 Zp\u0159\u00edstupnit dal\u0161\u00ed z\u00e1stupce.\n\nNic jin\u00e9ho nebude sledov\u00e1no.\n\nN\u011bkter\u00e1 za\u0159\u00edzen\u00ed vy\u017eaduj\u00ed restart syst\u00e9mu, pro spr\u00e1vnou funkci.</string>
     <string name="action">Provést teď</string>
     <string name="add_border">Rámeček panelu</string>
     <string name="add_shortcut">Zástupce na plochu</string>
@@ -110,7 +110,7 @@
     <string name="pro_un">Odstranit reklamy a Odemknout všechny funkce</string>
     <string name="proceed">Pokračovat</string>
     <string name="rate_app">Ohodnotit aplikaci</string>
-    <string name="rate_it"><![CDATA[<p style="text-align:center"><b>L\u00edb\u00ed se v\u00e1m Volume Panel?\n        </b><br/><br/>Pros\u00edm napi\u0161te recenzi v obchod\u011b Play.\n        <br/><br/>\u2b50\u2b50\u2b50\u2b50\u2b50</p>]]></string>
+    <string name="rate_it"><![CDATA[<p style="text-align:center"><b>L\u00edb\u00ed se v\u00e1m Volume Panel?\n        </b><br/><br/>Pros\u00edm napi\u0161te recenzi v obchod\u011b Play.<br/><br/>\u2b50\u2b50\u2b50\u2b50\u2b50</p>]]></string>
     <string name="reenable">Znovu povolit</string>
     <string name="ring">Vyzvánění</string>
     <string name="ring_mode">Vyzváněcí režim</string>
@@ -196,7 +196,7 @@
     <string name="save">Uložit</string>
     <string name="flip_icons">Přesun ikony dolů</string>
     <string name="access_error">Přístup odepřen, zkuste jiný adresář.</string>
-    <string name="thumb">Thumb Colour</string>
+    <string name="thumb">Barva náhledu</string>
     <string name="show_lock_short">Zástupce pro uzamknutí obrazovky</string>
     <string name="show_split">Zástupce pro rozdělení obrazovky</string>
     <string name="show_orient">Automaticky otočit zástupce</string>
@@ -205,14 +205,19 @@
     <string name="design_borders">Přizpůsobte ohraničení panelů</string>
     <string name="mute_shortcut">Zástupce pro ztlumení mikrofonu</string>
     <string name="swipe_in">Zapnout potáhnutí dovnitř</string>
-    <string name="design_layout">Panel Design &amp; Layout</string>
-    <string name="select_panels">Select Panels &amp; Shortcuts</string>
-    <string name="trigger_sets">Trigger Settings</string>
-    <string name="behaviour_sets">Behaviour Settings</string>
-    <string name="merge_icons_colour">Merged Icon Colour</string>
-    <string name="merge_text">Merge Level Labels</string>
-    <string name="fill_level">Slider Fill Level = %1$d%%</string>
-    <string name="wallpaper">Primary Wallpaper Colours</string>
-    <string name="icon_scale">Icon &amp; Shortcut Scale = %1$d%%</string>
-    <string name="slider_length">Slider Length = %1$d%%</string>
+    <string name="design_layout">Vzhled a rozložení posuvníků</string>
+    <string name="select_panels">Vybrat posuvníky a zástupce</string>
+    <string name="trigger_sets">Nastavení lišty</string>
+    <string name="behaviour_sets">Nastavení chování</string>
+    <string name="merge_icons_colour">Sloučené barvy ikon</string>
+    <string name="merge_text">Sloučené úrovně posuníků</string>
+    <string name="fill_level">Úroveň vyplnění posuvníku = %1$d%%</string>
+    <string name="wallpaper">Výchozí barvy pozadí</string>
+    <string name="icon_scale">Velikost ikon a zástupců = %1$d%%</string>
+    <string name="slider_length">Délka posuvníků = %1$d%%</string>
+    <string name="fill_colour">Vyplnit barvou</string>
+    <string name="long_press_trig">Dlouhý stistk pro změnu hlasitosti</string>
+    <string name="order_shorts">Change Shortcut Order</string>
+    <string name="ad_click">Click Ad</string>
+    <string name="ad_click_message">Please click the full screen advertisement to temporarily unlock this option.</string>
 </resources>

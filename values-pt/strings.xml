@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resources>
-    <string name="about"><![CDATA[<b>Volume Panel:</b><br/>\u2022Um substituto flex\u00edvel para o controlo de volume do sistema.<br/><br/><b>Desenhado &amp; Desenvolvido Por:</b><br/>\u2022 Lee Bailey (AKA @LeeDrOiD)<br/> Agradecimentos Adicionais a:<br/>\u2022 Os criadores de App Intro.<br/>\u2022 Ereza por Custom Activity On Crash.<br/>\u2022 D-Max por Spots Dialog.<br/>Tradu\u00e7\u00f5es Por:<br/>\u2022 Linar10 - Polaco<br/>\u2022 Fatih Firinci - Turco<br/>\u2022 guillerag - Espanhol<br/>\u2022 Nuno Nebeker - Portugu\u00eas<br/>\u2022 \u0418\u0433\u043e\u0440\u044c \u0418\u0440\u0438\u043d\u0438\u043d - Russo<br/>\u2022 Sylm - Franc\u00eas\n<br/>\u2022 Emad Ayad - \u00c1rabe<br/>\u2022 VM - Alem\u00e3o<br/>\u2022 Alpert7 - Chin\u00eas<br/>\u2022 Nguy\u1ec5n Lam - Vietnamita <br/><br/>Pode entrar em contacto comigo pela op\u00e7\u00e3o \"Dar Feedback por Email\" &amp; n\u00e3o se esque\u00e7a de deixar uma cr\u00edtica &#128512;]]></string>
+    <string name="about"><![CDATA[<b>Volume Panel:</b><br/>\u2022Um substituto flex\u00edvel para o controlo de volume do sistema.<br/><br/><b>Desenhado &amp; Desenvolvido Por:</b><br/>\u2022 Lee Bailey (AKA @LeeDrOiD)<br/> Agradecimentos Adicionais a:<br/>\u2022 Os criadores de App Intro.<br/>\u2022 Ereza por Custom Activity On Crash.<br/>\u2022 D-Max por Spots Dialog.<br/>Tradu\u00e7\u00f5es Por:<br/>\u2022 Linar10 - Polaco<br/>\u2022 Fatih Firinci - Turco<br/>\u2022 guillerag - Espanhol<br/>\u2022 Nuno Nebeker - Portugu\u00eas<br/>\u2022 \u0418\u0433\u043e\u0440\u044c \u0418\u0440\u0438\u043d\u0438\u043d - Russo<br/>\u2022 Sylm - Franc\u00eas<br/>\u2022 Emad Ayad - \u00c1rabe<br/>\u2022 VM - Alem\u00e3o<br/>\u2022 Alpert7 - Chin\u00eas<br/>\u2022 Nguy\u1ec5n Lam - Vietnamita <br/><br/>Pode entrar em contacto comigo pela op\u00e7\u00e3o \"Dar Feedback por Email\" &amp; n\u00e3o se esque\u00e7a de deixar uma cr\u00edtica &#128512;]]></string>
     <string name="about_title">Sobre</string>
     <string name="accessibility_description"><u>Acesso a Acessibilidade</u>\n\nEsta permiss\u00e3o permite:\n\u2022 Detetar a utiliza\u00e7\u00e3o das teclas de volume.\n\u2022 Mostrar a aplica\u00e7\u00e3o no ecr\u00e3 de bloqueio.\n\u2022 Ofrerecer atalhos adicionais.\n\nN\u00e3o \u00e9 detetado qualquer outro conte\u00fado.\n\nPode ser necess\u00e1rio reiniciar alguns aparelhos para iniciar este servi\u00e7o.</string>
     <string name="action">Ação Agora</string>
@@ -74,7 +74,7 @@
     <string name="launch_opts"><u>Opções de Arranque</u></string>
     <string name="loading_apps">A carregar Aplicações</string>
     <string name="lock_ring_vol">Bloquear Deslizador de Alerta em Vibrar/Silêncio</string>
-    <string name="long_press"><![CDATA[Toque sem largar & arraste para reordenar.]]></string>
+    <string name="long_press"><![CDATA[Toque sem largar & arraste ítens para reordenar.]]></string>
     <string name="mapper">Possível Interferência</string>
     <string name="mapper_detail">Detetamos uma aplicação de remapeamento de botões.
         \n\nRemapeadores de botões usam serviços de acessibilidade para detetar cliques em botões.
@@ -213,6 +213,9 @@
     <string name="merge_text">Juntar Etiquetas de Níveis</string>
     <string name="fill_level">Nível de Preenchimento de Barra = %1$d%%</string>
     <string name="wallpaper">Cores Principais do Fundo de Ambiente de Trabalho</string>
-    <string name="icon_scale">Icon &amp; Shortcut Scale = %1$d%%</string>
-    <string name="slider_length">Slider Length = %1$d%%</string>
+    <string name="icon_scale">Escala de Ícones &amp; Atalhos = %1$d%%</string>
+    <string name="slider_length">Comprimento de Barras = %1$d%%</string>
+    <string name="fill_colour">Cor de Preenchimento</string>
+    <string name="long_press_trig">Tocar e Segurar Para Mudar Volume</string>
+    <string name="order_shorts">Alterar Ordem de Atalhos</string>
 </resources>

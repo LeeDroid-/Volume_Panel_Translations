@@ -213,6 +213,11 @@
     <string name="merge_text">Объединить уровни меток</string>
     <string name="fill_level">Уровень заливки ползунка = %1$d%%</string>
     <string name="wallpaper">Основные цвета обоев</string>
-    <string name="icon_scale">Icon &amp; Shortcut Scale = %1$d%%</string>
-    <string name="slider_length">Slider Length = %1$d%%</string>
+    <string name="icon_scale">Масштаб значка и ярлыка = %1$d%%</string>
+    <string name="slider_length">Длина ползунка = %1$d%%</string>
+    <string name="fill_colour">Цвет заливки</string>
+    <string name="long_press_trig">Длинное нажатие для изменения громкости</string>
+    <string name="order_shorts">Change Shortcut Order</string>
+    <string name="ad_click">Click Ad</string>
+    <string name="ad_click_message">Please click the full screen advertisement to temporarily unlock this option.</string>
 </resources>

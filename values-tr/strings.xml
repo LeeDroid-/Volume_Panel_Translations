@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resources>
-    <string name="about"><![CDATA[<b>Volume Panel:</b><br/>\u2022Sistem ses kontrolleriniz i\u00e7in esnek bir de\u011fi\u015ftirme.<br/><br/><b>Tasarlayan &amp; Geli\u015ftiren:</b><br/>\u2022 Lee Bailey (AKA @LeeDrOiD)<br/> Ekstra Te\u015fekk\u00fcrler:<br/>\u2022 App Intro\'nun yap\u0131mc\u0131lar\u0131na.<br/>\u2022 Custom Activity On Crash i\u00e7in Ereza\'ya.<br/>\u2022 Spots Dialog i\u00e7in D-Max\'e.<br/>\u00c7eviriler:<br/>\u2022 Linar10 - Polish<br/>\u2022 Fatih F\u0131r\u0131nc\u0131 - Turkish<br/>\u2022 guillerag - Spanish<br/>\u2022 Nuno Nebeker - Portuguese<br/>\u2022 \u0418\u0433\u043e\u0440\u044c \u0418\u0440\u0438\u043d\u0438\u043d - Russian<br/>\u2022 Sylm - Fran\u00e7ais\n    <br/>\u2022 Emad Ayad - Arabic\n    <br/>\u2022 VM - German\n    <br/>\u2022 Alpert7 - Chinese<br/><br/>\"Geri Bildirim G\u00f6nder\" se\u00e7ene\u011fi ile benimle ileti\u015fime ge\u00e7mekten \u00e7ekinmeyin &amp; bir inceleme b\u0131rakmay\u0131 unutmay\u0131n &#128512;]]></string>
+    <string name="about"><![CDATA[<b>Volume Panel:</b><br/>\u2022Sistem ses kontrolleriniz i\u00e7in esnek bir de\u011fi\u015ftirme.<br/><br/><b>Tasarlayan &amp; Geli\u015ftiren:</b><br/>\u2022 Lee Bailey (AKA @LeeDrOiD)<br/> Ekstra Te\u015fekk\u00fcrler:<br/>\u2022 App Intro\'nun yap\u0131mc\u0131lar\u0131na.<br/>\u2022 Custom Activity On Crash i\u00e7in Ereza\'ya.<br/>\u2022 Spots Dialog i\u00e7in D-Max\'e.<br/>\u00c7eviriler:<br/>\u2022 Linar10 - Polish<br/>\u2022 Fatih F\u0131r\u0131nc\u0131 - Turkish<br/>\u2022 guillerag - Spanish<br/>\u2022 Nuno Nebeker - Portuguese<br/>\u2022 \u0418\u0433\u043e\u0440\u044c \u0418\u0440\u0438\u043d\u0438\u043d - Russian<br/>\u2022 Sylm - Fran\u00e7ais<br/>\u2022 Emad Ayad - Arabic<br/>\u2022 VM - German<br/>\u2022 Alpert7 - Chinese<br/><br/>\"Geri Bildirim G\u00f6nder\" se\u00e7ene\u011fi ile benimle ileti\u015fime ge\u00e7mekten \u00e7ekinmeyin &amp; bir inceleme b\u0131rakmay\u0131 unutmay\u0131n &#128512;]]></string>
     <string name="about_title">Hakkında</string>
-    <string name="accessibility_description"><u>Eri\u015filebilirlik Eri\u015fimi</u>\n\n\u2022 Ses a\u00e7ma k\u0131sma tu\u015flar\u0131na basmay\u0131 alg\u0131lama.\n        \n\u2022 Hari\u00e7 tutulan uygulamalar\u0131n ne zaman kullan\u0131ld\u0131\u011f\u0131n\u0131 alg\u0131lama.\n\nBa\u015fka hi\u00e7bir tu\u015fa bas\u0131lmaz.\n\nHizmeti ba\u015flatmak i\u00e7in baz\u0131 cihazlar\u0131n yeniden ba\u015flat\u0131lmas\u0131 gerekebilir.</string>
+    <string name="accessibility_description"><u>Eri\u015filebilirlik Eri\u015fimi</u>\n\nBu izin \u015funlara izin verir:\n\u2022 Ses a\u00e7ma/k\u0131sma tu\u015flar\u0131na basmay\u0131 alg\u0131lama.\n\u2022 Kilit ekran\u0131nda g\u00f6r\u00fcnt\u00fcleme.\n\u2022 Ek k\u0131sayollar sa\u011flama.\n\nBa\u015fka hi\u00e7bir i\u00e7erik yakalanmaz.\n\nHizmeti ba\u015flatmak i\u00e7in baz\u0131 cihazlar\u0131n yeniden ba\u015flat\u0131lmas\u0131 gerekebilir.</string>
     <string name="action">Şimdi Yap</string>
     <string name="add_border">Panel Kenarlıklarını Etkinleştir</string>
     <string name="add_shortcut">Başlatıcı Kısayolunu Etkinleştir</string>
@@ -212,7 +212,12 @@
     <string name="merge_icons_colour">Birleştirilmiş Simge Rengi</string>
     <string name="merge_text">Seviye Etiketlerini Birleştir</string>
     <string name="fill_level">Kaydırıcı Dolum Seviyesi = %1$d%%</string>
-    <string name="wallpaper">Primary Wallpaper Colours</string>
-    <string name="icon_scale">Icon &amp; Shortcut Scale = %1$d%%</string>
-    <string name="slider_length">Slider Length = %1$d%%</string>
+    <string name="wallpaper">Birincil Duvar Kağıdı Renkleri</string>
+    <string name="icon_scale">Simge &amp; Kısayol Ölçeği = %1$d%%</string>
+    <string name="slider_length">Kaydırıcı Uzunluğu = %1$d%%</string>
+    <string name="fill_colour">Dolgu Rengi</string>
+    <string name="long_press_trig">Sesi Değiştirmek İçin Uzun Bas</string>
+    <string name="order_shorts">Change Shortcut Order</string>
+    <string name="ad_click">Click Ad</string>
+    <string name="ad_click_message">Please click the full screen advertisement to temporarily unlock this option.</string>
 </resources>

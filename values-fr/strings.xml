@@ -74,7 +74,7 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="launch_opts"><u>Options de démarrage</u></string>
     <string name="loading_apps">Chargement des applications</string>
     <string name="lock_ring_vol">Verrouiller le curseur de la sonnerie sur Vibreur/Silencieux</string>
-    <string name="long_press"><![CDATA[Appui long & déplacer les panneaux pour réorganiser.]]></string>
+    <string name="long_press"><![CDATA[Appui long & déplacer les objets pour réorganiser.]]></string>
     <string name="mapper">Interférence possible</string>
     <string name="mapper_detail">Détection probable d\'une application de réaffectation des touches.
 \n\nLes réaffectations de touche utilisent les services d’accessibilité pour détecter l\'utilisation des touches.
@@ -110,7 +110,7 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="pro_un">Supprimer les pubs &amp; débloquer toutes les fonctions.</string>
     <string name="proceed">Continuer</string>
     <string name="rate_app">Noter l\'application</string>
-    <string name="rate_it"><![CDATA[<p style="text-align:center"><b>Vous appr\u00e9ciez Volume Panel\n</b><br/><br/>Merci de laisser un avis sur le play store!\n<br/><br/>\u2b50\u2b50\u2b50\u2b50\u2b50</p>]]></string>
+    <string name="rate_it"><![CDATA[<p style="text-align:center"><b>Vous appr\u00e9ciez Volume Panel\n</b><br/><br/>Merci de laisser un avis sur le play store!<br/><br/>\u2b50\u2b50\u2b50\u2b50\u2b50</p>]]></string>
     <string name="reenable">Re-Autoriser</string>
     <string name="ring">Sonnerie</string>
     <string name="ring_mode">Mode sonnerie</string>
@@ -213,6 +213,8 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="merge_text">Libellés des niveaux fusionnés</string>
     <string name="fill_level">Niveau remplissage Curseur =  %1$d%%</string>
     <string name="wallpaper">Couleurs du fond principal</string>
-    <string name="icon_scale">Icon &amp; Shortcut Scale = %1$d%%</string>
-    <string name="slider_length">Slider Length = %1$d%%</string>
+    <string name="icon_scale">Echelle Icone &amp; Raccourci = %1$d%%</string>
+    <string name="slider_length">Largeur curseur = %1$d%%</string>
+    <string name="fill_colour">Couleur de remplissage</string>
+    <string name="long_press_trig">Appui long pour changer le volume</string>
 </resources>

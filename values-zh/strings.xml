@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resources>
-    <string name="about"><![CDATA[<b>\u97f3\u91cf\u9762\u677f\uff1a\n</b><br/>\u2022\u53ef\u81ea\u5b9a\u4e49\u7684\u97f3\u91cf\u9762\u677f\u5e94\u7528\uff0c\u53ef\u66ff\u4ee3\u7cfb\u7edf\u97f3\u91cf\u9762\u677f\u3002\n<br/><br/><b>\u8bbe\u8ba1 &amp; \u5f00\u53d1\uff1a</b><br/>\u2022 Lee Bailey (AKA @LeeDrOiD)\n<br/> \u611f\u8c22\uff1a<br/>\u2022 \u4e3a\u5e94\u7528\u8bbe\u8ba1\u7b80\u4ecb\u7684\u8bbe\u8ba1\u5e08\u4eec\n<br/>\u2022 Ereza for Custom Activity On Crash.\n<br/>\u2022 D-Max for Spots Dialog.\n<br/>\u7ffb\u8bd1\uff1a\n<br/>\u2022 Linar10 - Polish\n<br/>\u2022 Fatih Firinci - Turkish\n<br/>\u2022 guillerag - Spanish\n<br/>\u2022 Nuno Nebeker - Portuguese\n<br/>\u2022 \u0418\u0433\u043e\u0440\u044c \u0418\u0440\u0438\u043d\u0438\u043d - Russian\n<br/>\u2022 Sylm - Fran\u00e7ais\n<br/>\u2022 Emad Ayad - Arabic\n<br/>\u2022 VM - German\n<br/>\u2022 Alpert7 - \u7b80\u4f53\u4e2d\u6587\n<br/>\u2022 Nguy\u1ec5n Lam - Vietnamese\n<br/>\u2022 Jakub - Chzech\n<br/><br/>\u5982\u6709\u7591\u95ee\u6b22\u8fce\u901a\u8fc7 \"\u7535\u90ae\u53cd\u9988\" \u6765\u8054\u7cfb\u6211 &amp; \u559c\u6b22\u7684\u8bdd\u522b\u5fd8\u4e86\u5728Play\u5546\u5e97\u91cc\u7ed9\u4e0e\u597d\u8bc4 &#128512;]]></string>
+    <string name="about"><![CDATA[<b>\u97f3\u91cf\u9762\u677f\uff1a\n</b><br/>\u2022\u53ef\u81ea\u5b9a\u4e49\u7684\u97f3\u91cf\u9762\u677f\u5e94\u7528\uff0c\u53ef\u66ff\u4ee3\u7cfb\u7edf\u97f3\u91cf\u9762\u677f\u3002<br/><br/><b>\u8bbe\u8ba1 &amp; \u5f00\u53d1\uff1a</b><br/>\u2022 Lee Bailey (AKA @LeeDrOiD)<br/> \u611f\u8c22\uff1a<br/>\u2022 The Great Dane - AKA Bo.<br/>\u2022 The creators of App Intro.<br/>\u2022 Ereza for Custom Activity On Crash.<br/>\u2022 D-Max for Spots Dialog.<br/>\u7ffb\u8bd1\uff1a<br/>\u2022 Linar10 - Polish<br/>\u2022 Fatih Firinci - Turkish<br/>\u2022 guillerag - Spanish<br/>\u2022 Nuno Nebeker - Portuguese<br/>\u2022 \u0418\u0433\u043e\u0440\u044c \u0418\u0440\u0438\u043d\u0438\u043d - Russian<br/>\u2022 Sylm - Fran\u00e7ais<br/>\u2022 Emad Ayad - Arabic<br/>\u2022 VM - German<br/>\u2022 Alpert7 - \u7b80\u4f53\u4e2d\u6587<br/>\u2022 Nguy\u1ec5n Lam - Vietnamese<br/>\u2022 Jakub - Chzech<br/>\u2022 Aramaic - Mikesew1320<br/><br/>\u5982\u6709\u7591\u95ee\u6b22\u8fce\u901a\u8fc7 \"\u7535\u90ae\u53cd\u9988\" \u6765\u8054\u7cfb\u6211 &amp; \u559c\u6b22\u7684\u8bdd\u522b\u5fd8\u4e86\u5728Play\u5546\u5e97\u91cc\u7ed9\u4e0e\u597d\u8bc4 &#128512;]]></string>
     <string name="about_title">关于</string>
     <string name="accessibility_description"><u>\u65e0\u969c\u788d\u9009\u9879</u>\n\n\u6b64\u9009\u9879\u88ab\u7528\u4e8e\u68c0\u6d4b\u97f3\u91cf\u4e0a\u4e0b\u952e\u7684\u6309\u538b\u3002\n\n\u7edd\u4e0d\u4f1a\u6536\u96c6\u5176\u4ed6\u4fe1\u606f\u3002\n\n\u67d0\u4e9b\u8bbe\u5907\u53ef\u80fd\u9700\u8981\u91cd\u65b0\u542f\u52a8\u4ee5\u542f\u7528\u6b64\u9009\u9879\u3002</string>
     <string name="action">现在操作</string>
@@ -74,7 +74,7 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="launch_opts"><u>启动选项</u></string>
     <string name="loading_apps">正在加载应用</string>
     <string name="lock_ring_vol">在震动和静音模式中锁定铃声滑条</string>
-    <string name="long_press"><![CDATA[长按并拖动面板以重新排布。]]></string>
+    <string name="long_press"><![CDATA[长按并拖动物件以重新排布。]]></string>
     <string name="mapper">可能的冲突</string>
     <string name="mapper_detail">我们检测到一个按键重设应用。
 \n\n按键重设应用使用无障碍选项检测按键按压。
@@ -212,7 +212,10 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="merge_icons_colour">融合图标颜色</string>
     <string name="merge_text">融合级数标签</string>
     <string name="fill_level">滑条填充 = %1$d%%</string>
-    <string name="wallpaper">Primary Wallpaper Colours</string>
-    <string name="icon_scale">Icon &amp; Shortcut Scale = %1$d%%</string>
-    <string name="slider_length">Slider Length = %1$d%%</string>
+    <string name="wallpaper">主要壁纸颜色</string>
+    <string name="icon_scale">图标与快捷方式比例 = %1$d%%</string>
+    <string name="slider_length">滑条长度 = %1$d%%</string>
+    <string name="fill_colour">填充颜色</string>
+    <string name="long_press_trig">长按以调整音量</string>
+    <string name="order_shorts">调整快捷方式顺序</string>
 </resources>

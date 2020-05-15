@@ -157,7 +157,7 @@
     <string name="show_ring_panel">Klingelton-Feld anzeigen</string>
     <string name="silent">Lautlos</string>
     <string name="slide_heights">Feld-Größe</string>
-    <string name="slider_colour">Regler-Farbe</string>
+    <string name="slider_colour">Regler-Farbeinstellungen</string>
     <string name="start_collapsed">Bei Start zusammengeklappt</string>
     <string name="suspend">Ruhezustand</string>
     <string name="switch_theme">Thema wechseln</string>
@@ -205,8 +205,8 @@
     <string name="blue">Blau</string>
     <string name="hide">Ausblenden</string>
     <string name="skip">überspringen</string>
-    <string name="app_sign">Diese Anwendung wurde modifiziert und wird nicht ausgeführt.</string>
-    <string name="horizontal">Horizontale Schieberegler</string>
+    <string name="app_sign">Diese Anwendung wurde modifiziert und kann nicht ausgeführt werden.</string>
+    <string name="horizontal">Horizontale Regler</string>
     <string name="bottom">Unterseite Stellung</string>
     <string name="dont_allow">Ungültige Lizenz</string>
     <string name="text_colour">Textfarbe</string>
@@ -214,7 +214,7 @@
     <string name="select">Wählen Sie</string>
     <string name="design_preset">Design-Voreinstellungen</string>
     <string name="block_back_touch">Block-Hintergrundberührungen</string>
-    <string name="trigger_acc"><b>Tipp:</b> Klicken Sie hier um Volume Panel die Nutzung der Bediehungshilfen zu erlauben. Dies ermöglicht die Verwendung des Floating Trigger &amp; durch das Volume Panel im Sperrbildschirm.</string>
+    <string name="trigger_acc"><b>Tipp:</b> Klicken Sie hier um Volume Panel die Nutzung der Bediehnungshilfen zu erlauben. Dies ermöglicht die Verwendung des Floating Trigger &amp; durch das Volume Panel im Sperrbildschirm.</string>
     <string name="overwrite">Dadurch wird Ihr aktuelles Layout überschrieben, drücken Sie auf Weiter, um fortzufahren.</string>
     <string name="enter_name">Name der Sicherungsdatei</string>
     <string name="restore">Konfiguration Importieren</string>
@@ -230,12 +230,12 @@
     <string name="dim_amount">Verdunkelungsgrad = %1$d%%</string>
     <string name="dim_behind">Hintergrund verdunkeln</string>
     <string name="access_error">Zugriffsfehler, bitte versuchen Sie ein anderes Verzeichnis.</string>
-    <string name="thumb">Daumen Farbe</string>
+    <string name="thumb">Zeiger Farbe</string>
     <string name="round_top_solid_sliders">Abgerundeter Fortschrittsbalken</string>
     <string name="show_orient">Auto Rotate Shortcut</string>
     <string name="show_split">Verknüpfung zum geteilten Bildschirm</string>
     <string name="show_lock_short">Verknüpfung zur Bildschirmsperre</string>
-    <string name="design_solid_sliders">Solide Schieber anpassen</string>
+    <string name="design_solid_sliders">Solide Regler anpassen</string>
     <string name="design_borders">Panel-Rand anpassen</string>
     <string name="mute_shortcut">Mikrophon stumm schalten</string>
     <string name="swipe_in">Einwärts streichen</string>
@@ -245,8 +245,14 @@
     <string name="behaviour_sets">Verhalten-Einstellungen</string>
     <string name="merge_icons_colour">Zusammengeführte Icon-Farbe</string>
     <string name="merge_text">Beschriftungen auf Zusammenführungsebene</string>
-    <string name="fill_level">Schieberegler-Füllstand = %1$d%%</string>
+    <string name="fill_level">Schieberegler-Breite = %1$d%%</string>
     <string name="wallpaper">Primary Wallpaper Colours</string>
     <string name="icon_scale">Icon &amp; Shortcut Scale = %1$d%%</string>
     <string name="slider_length">Slider Length = %1$d%%</string>
+    <string name="fill_colour">Schieberegler-Farbe</string>
+    <string name="order_shorts">Verknüpfungen neu anordnen</string>
+    <string name="long_press_trig">Lange drücken, um die Lautstärke zu ändern</string>
+    <string name="ad_click">Click Ad</string>
+    <string name="ad_click_message">Please click the full screen advertisement to temporarily unlock this option.</string>
+
 </resources>

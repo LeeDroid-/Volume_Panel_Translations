@@ -242,7 +242,12 @@
     <string name="merge_icons_colour">Połączony kolor ikon</string>
     <string name="merge_text">Etykiety poziomu łączenia</string>
     <string name="fill_level">Poziom wypełnienia suwaka = %1$d%%</string>
-    <string name="wallpaper">Primary Wallpaper Colours</string>
-    <string name="icon_scale">Icon &amp; Shortcut Scale = %1$d%%</string>
-    <string name="slider_length">Slider Length = %1$d%%</string>
+    <string name="wallpaper">Basic colors of wallpapers</string>
+    <string name="icon_scale">Skala Ikony i skrótów = %1$d%%</string>
+    <string name="slider_length">Długość suwaka = %1$d%%</string>
+    <string name="fill_colour">Kolor wypełnienia</string>
+    <string name="long_press_trig">Długie naciśnięcie w celu zmiany głośności</string>
+    <string name="order_shorts">Change Shortcut Order</string>
+    <string name="ad_click">Click Ad</string>
+    <string name="ad_click_message">Please click the full screen advertisement to temporarily unlock this option.</string>
 </resources>

@@ -243,7 +243,12 @@
     <string name="merge_icons_colour">لون الرمز المتكامل</string>
     <string name="merge_text">دمج تسميات المستوى</string>
     <string name="fill_level">مستوى تعبئة الشريحة = %1$d%%</string>
-    <string name="wallpaper">Primary Wallpaper Colours</string>
-    <string name="icon_scale">Icon &amp; Shortcut Scale = %1$d%%</string>
-    <string name="slider_length">Slider Length = %1$d%%</string>
+    <string name="wallpaper">ألوان الخلفية الأساسية</string>
+    <string name="icon_scale">مقياس الاختصار = %1$d%%</string>
+    <string name="slider_length">طول شريط التمرير = %1$d%%</string>
+    <string name="fill_colour">لون التعبئة</string>
+    <string name="long_press_trig">اضغط لفترة طويلة لتغيير مستوى الصوت</string>
+    <string name="order_shorts">Change Shortcut Order</string>
+    <string name="ad_click">Click Ad</string>
+    <string name="ad_click_message">Please click the full screen advertisement to temporarily unlock this option.</string>
 </resources>

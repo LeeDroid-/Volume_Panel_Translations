@@ -107,7 +107,7 @@
     <string name="launch_opts"><u>Launch Options</u></string>
     <string name="loading_apps">Loading Applications</string>
     <string name="lock_ring_vol">Lock Ring Slider In Vibrate/Silent</string>
-    <string name="long_press"><![CDATA[Long press & drag panels to rearrange.]]></string>
+    <string name="long_press"><![CDATA[Long press & drag items to rearrange.]]></string>
     <string name="mapper">Possible Interference</string>
     <string name="mapper_detail">We may have detected a Button Remapping application.
         \n\nButton Remappers use accessibility services to detect button clicks.
@@ -226,6 +226,8 @@
     <string name="horizontal">Horizontal Sliders</string>
     <string name="bottom">Position Bottom</string>
     <string name="telegram" translatable="false"><![CDATA[<br/><br/><br/><b>Volume Panel @Telegram:<b/> http://www.t.me/volumepanel]]></string>
+    <string name="telegram_presets" translatable="false"><![CDATA[<br/><br/><br/><b>Design Presets @Telegram:<b/> https://t.me/VPPresets]]></string>
+    <string name="my_site_tips" translatable="false"><![CDATA[<br/><br/><br/><b>LeeDrOiD Home:<b/> https://www.LeeDrOiD.co.uk]]></string>
     <string name="dont_allow">Invalid Licence</string>
     <string name="text_colour">Text Colour</string>
     <string name="force_english">Force English</string>
@@ -234,10 +236,40 @@
     <string name="design_preset">Design Presets</string>
     <string name="recent_changes">Recent Changes</string>
     <string name="change_log" translatable="false"><![CDATA[
-    <b>V20.10:</b>
+    <b>V20.24:</b>
+        <br/>\u2022 Override animation duration on shortcut click.
+        <br/>\u2022 Fix orientation shortcut not showing without accessibility.
+        <br/>\u2022 Improve trigger refresh method.
+        <br/>\u2022 Fix crash on app update/restart.
+        <br/>\u2022 Only show trigger preview mode (blue) when trigger settings expanded.
+        <br/>\u2022 Add panel preview button to dialogs.
+        <br/>\u2022 Translation updates.
+        <br/>\u2022 Design presets layout adjustments.
+        <br/>\u2022 Fix panel intermittently not closing.
+        <br/>\u2022 Add option to rearrange shortcuts.
+        <br/>\u2022 Only show enabled panels and shortcuts in reorder activities.
+        <br/><br/>
+    <b>V20.17:</b>
+        <br/>\u2022 Faster fragment switching.
+        <br/>\u2022 Scroll design presets vertically.
+        <br/>\u2022 Fix memory leak in accessibility.
+        <br/>\u2022 Restart services if accessibility is interrupted.
+        <br/>\u2022 Rewrite trigger logic & adjust sensitivity.
+        <br/>\u2022 Trigger long press to change volume improvements.
+        <br/>\u2022 Make long press trigger optional.
+    <br/><br/>
+    <b>V20.14:</b>
+        <br/>\u2022 Make help text scrollable & add links.
+        <br/>\u2022 Fix media icon with BT connected.
+        <br/>\u2022 Fix disabling usage access.
         <br/>\u2022 Change panel scale labels to slider length and icon scale.
         <br/>\u2022 Fix crash in panel start with first click enabled.
+        <br/>\u2022 Panel border layout corrections.
+        <br/>\u2022 Display individual slider colours in dialog.
+        <br/>\u2022 New dialog animations.
+        <br/>\u2022 Fix colour picker scaling on low res devices.
         <br/>\u2022 Translation Updates.
+        <br/>\u2022 Bug fixes.
     <br/><br/>
     <b>V20.09:</b>
         <br/>\u2022 Disable audible feedback if media active.
@@ -389,7 +421,7 @@
     <string name="design_borders">Customise Panel Borders</string>
     <string name="mute_shortcut">Mute Microphone Shortcut</string>
     <string name="swipe_in">Enable Swipe Inwards</string>
-    <string name="design_layout">Enable Swipe Inwards</string>
+    <string name="design_layout">Panel Design &amp; Layout</string>
     <string name="select_panels">Select Panels &amp; Shortcuts</string>
     <string name="trigger_sets">Trigger Settings</string>
     <string name="behaviour_sets">Behaviour Settings</string>
@@ -399,4 +431,9 @@
     <string name="wallpaper">Primary Wallpaper Colours</string>
     <string name="icon_scale">Icon &amp; Shortcut Scale = %1$d%%</string>
     <string name="slider_length">Slider Length = %1$d%%</string>
+    <string name="fill_colour">Fill Colour</string>
+    <string name="long_press_trig">Long Press To Change Volume</string>
+    <string name="order_shorts">Change Shortcut Order</string>
+    <string name="ad_click">Click Ad</string>
+    <string name="ad_click_message">Please click the full screen advertisement to temporarily unlock this option.</string>
 </resources>

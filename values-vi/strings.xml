@@ -10,7 +10,7 @@
     <string name="alert">Cảnh báo tối ưu hóa</string>
     <string name="anim_duration">Thời lượng hoạt ảnh = %.2fs</string>
     <string name="anim_durations">Thời lượng hoạt ảnh</string>
-    <string name="app_name">Điều khiển Âm thanh</string>
+    <string name="app_name">Volume Panel</string>
     <string name="auto_dark_sum">\u2022 Th\u1ef1c hi\u1ec7n theo h\u1ec7 th\u1ed1ng Ch\u1ebf \u0111\u1ed9 t\u1ed1i/s\u00e1ng.\n\n\u2022 Y\u00eau c\u1ea7u h\u1ed7 tr\u1ee3 nh\u00e0 s\u1ea3n xu\u1ea5t.</string>
     <string name="background_colour">Màu nền</string>
     <string name="bat_opt"><![CDATA[<b>Điều khiển Âm lượng đã được hệ thống tối ưu hóa &amp; và có thể bị đóng dưới nền </b>.
@@ -215,6 +215,11 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="merge_text">Hợp nhất nhãn cấp độ</string>
     <string name="fill_level">Cấp độ đầy thanh trượt = %1$d%%</string>
     <string name="wallpaper">Màu hình nền chính</string>
-    <string name="icon_scale">Icon &amp; Shortcut Scale = %1$d%%</string>
-    <string name="slider_length">Slider Length = %1$d%%</string>
+    <string name="icon_scale">Biểu tượng &amp; Căn chỉnh lối tắt = %1$d%%</string>
+    <string name="slider_length">Độ dài thanh trượt = %1$d%%</string>
+    <string name="fill_colour">Tô màu</string>
+    <string name="long_press_trig">Nhấn và giữ để thay đổi âm lượng</string>
+    <string name="order_shorts">Change Shortcut Order</string>
+    <string name="ad_click">Click Ad</string>
+    <string name="ad_click_message">Please click the full screen advertisement to temporarily unlock this option.</string>
 </resources>
