@@ -146,7 +146,7 @@
     <string name="press_back">Once complete, press back to return to the app.</string>
     <string name="preview"><![CDATA[Preview Mode: Call & Cast panels will only show when needed.]]></string>
     <string name="pro">Upgrade To Volume Panel Pro!</string>
-    <string name="pro_only"> - Pro Only</string>
+    <string name="pro_only">\ - Pro Only</string>
     <string name="pro_un">Remove Advertising &amp; Unlock All Features.</string>
     <string name="proceed">Proceed</string>
     <string name="rate_app">Rate App</string>
@@ -236,7 +236,15 @@
     <string name="design_preset">Design Presets</string>
     <string name="recent_changes">Recent Changes</string>
     <string name="change_log" translatable="false"><![CDATA[
-    <b>V20.24:</b>
+    <b>V20.31:</b>
+    	<br/>\u2022 Add Power Menu Shortcut.
+    	<br/>\u2022 Change Ring Volume restoration logic.
+    	<br/>\u2022 Improve shortcut row split logic.
+    	<br/>\u2022 Clean up app blacklist screen.
+    	<br/>\u2022 Translation Updates.
+        <br/><br/>
+    <b>V20.27:</b>
+    	<br/>\u2022 Fix panel not being removed on close.
         <br/>\u2022 Override animation duration on shortcut click.
         <br/>\u2022 Fix orientation shortcut not showing without accessibility.
         <br/>\u2022 Improve trigger refresh method.
@@ -434,6 +442,9 @@
     <string name="fill_colour">Fill Colour</string>
     <string name="long_press_trig">Long Press To Change Volume</string>
     <string name="order_shorts">Change Shortcut Order</string>
-    <string name="ad_click">Click Ad</string>
-    <string name="ad_click_message">Please click the full screen advertisement to temporarily unlock this option.</string>
+    <string name="ad_click">Watch Ad</string>
+    <string name="ad_watch_message">Please watch the following full screen advertisement to temporarily unlock this option.</string>
+    <string name="power_shortcut">Power Menu Shortcut</string>
+    <string name="ad">Ad!</string>
+    <string name="loading_ad">Loading Ad</string>
 </resources>

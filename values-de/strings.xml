@@ -252,7 +252,9 @@
     <string name="fill_colour">Schieberegler-Farbe</string>
     <string name="order_shorts">Verknüpfungen neu anordnen</string>
     <string name="long_press_trig">Lange drücken, um die Lautstärke zu ändern</string>
-    <string name="ad_click">Click Ad</string>
-    <string name="ad_click_message">Please click the full screen advertisement to temporarily unlock this option.</string>
-
+    <string name="ad_click">Watch Ad</string>
+    <string name="ad_watch_message">Please watch the following full screen advertisement to temporarily unlock this option.</string>
+    <string name="power_shortcut">Power Menu Shortcut</string>
+    <string name="ad">Ad!</string>
+    <string name="loading_ad">Loading Ad</string>
 </resources>

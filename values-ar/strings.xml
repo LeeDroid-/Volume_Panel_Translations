@@ -249,6 +249,9 @@
     <string name="fill_colour">لون التعبئة</string>
     <string name="long_press_trig">اضغط لفترة طويلة لتغيير مستوى الصوت</string>
     <string name="order_shorts">Change Shortcut Order</string>
-    <string name="ad_click">Click Ad</string>
-    <string name="ad_click_message">Please click the full screen advertisement to temporarily unlock this option.</string>
+    <string name="ad_click">Watch Ad</string>
+    <string name="ad_watch_message">Please watch the following full screen advertisement to temporarily unlock this option.</string>
+    <string name="power_shortcut">Power Menu Shortcut</string>
+    <string name="ad">Ad!</string>
+    <string name="loading_ad">Loading Ad</string>
 </resources>

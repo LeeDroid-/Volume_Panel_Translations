@@ -217,7 +217,10 @@
     <string name="slider_length">Délka posuvníků = %1$d%%</string>
     <string name="fill_colour">Vyplnit barvou</string>
     <string name="long_press_trig">Dlouhý stistk pro změnu hlasitosti</string>
-    <string name="order_shorts">Change Shortcut Order</string>
-    <string name="ad_click">Click Ad</string>
-    <string name="ad_click_message">Please click the full screen advertisement to temporarily unlock this option.</string>
+    <string name="order_shorts">Změna pořadí odkazů</string>
+    <string name="ad_click">Shlédni reklamu</string>
+    <string name="ad_watch_message">Prosím shlédněte reklamu, pro dočasné odemknutí této funkce.</string>
+    <string name="power_shortcut">Power Menu Shortcut</string>
+    <string name="ad">Ad!</string>
+    <string name="loading_ad">Loading Ad</string>
 </resources>
