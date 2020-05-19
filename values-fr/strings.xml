@@ -106,7 +106,7 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="press_back">Une fois terminé, utilisez Retour pour revenir à l\'application.</string>
     <string name="preview"><![CDATA[Mode Prévisualisation: Les panneaux Appel & Cast ne s\'affichent que si nécessaire.]]></string>
     <string name="pro">Passez à Volume Panel Pro!</string>
-    <string name="pro_only">- Pro seulement</string>
+    <string name="pro_only">\ - Pro seulement</string>
     <string name="pro_un">Supprimer les pubs &amp; débloquer toutes les fonctions.</string>
     <string name="proceed">Continuer</string>
     <string name="rate_app">Noter l\'application</string>
@@ -218,9 +218,16 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="fill_colour">Couleur de remplissage</string>
     <string name="long_press_trig">Appui long pour changer le volume</string>
     <string name="order_shorts">Changer l\'ordre raccourci</string>
-    <string name="ad_click">Watch Ad</string>
-    <string name="ad_watch_message">Please watch the following full screen advertisement to temporarily unlock this option.</string>
-    <string name="power_shortcut">Power Menu Shortcut</string>
-    <string name="ad">Ad!</string>
-    <string name="loading_ad">Loading Ad</string>
+    <string name="ad_click">Regarder Pub</string>
+    <string name="ad_watch_message">Merci de regarder intégralement la publicité pour activer temporairement cette option.</string>
+    <string name="power_shortcut">Raccourci Menu Alimentation</string>
+    <string name="ad">Pub</string>
+    <string name="loading_ad">Chargement Pub</string>
+    <string name="use_gradient">Gradient Sliders</string>
+    <string name="use_gradient_border">Gradient Borders</string>
+    <string name="gradient_bakground">Gradient Background</string>
+    <string name="lp_reset_grad">Long press start, center or end to clear.</string>
+    <string name="center">Center</string>
+    <string name="start">Start</string>
+    <string name="end">End</string>
 </resources>

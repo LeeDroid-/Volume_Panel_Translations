@@ -106,7 +106,7 @@
     <string name="press_back">Tamamlandığında, uygulamaya geri dönmek için geriye basın.</string>
     <string name="preview"><![CDATA[Önizleme Modu: Çağrı ve Yayın panelleri yalnızca gerektiğinde gösterilir.]]></string>
     <string name="pro">Volume Panel Pro\'ya Yükselt!</string>
-    <string name="pro_only">- Yalnızca Pro</string>
+    <string name="pro_only">\ - Yalnızca Pro</string>
     <string name="pro_un">Reklamları Kaldır &amp; Tüm Özelliklerin Kilidini Aç.</string>
     <string name="proceed">Devam et</string>
     <string name="rate_app">Uygulamayı Oyla</string>
@@ -218,9 +218,16 @@
     <string name="fill_colour">Dolgu Rengi</string>
     <string name="long_press_trig">Sesi Değiştirmek İçin Uzun Bas</string>
     <string name="order_shorts">Kısayol Sırasını Değiştir</string>
-    <string name="ad_click">Watch Ad</string>
+    <string name="ad_click">Reklama Tıkla</string>
     <string name="ad_watch_message">Bu seçeneğin kilidini geçici olarak açmak için lütfen aşağıdaki tam ekran reklamı izleyin.</string>
-    <string name="power_shortcut">Power Menu Shortcut</string>
-    <string name="ad">Ad!</string>
-    <string name="loading_ad">Loading Ad</string>
+    <string name="power_shortcut">Güç Menüsü Kısayolu</string>
+    <string name="ad">Reklam</string>
+    <string name="loading_ad">Reklam Yükleniyor</string>
+    <string name="use_gradient">Gradyan Kaydırıcılar</string>
+    <string name="use_gradient_border">Gradyan Kenarlıklar</string>
+    <string name="end">Bitiş</string>
+    <string name="center">Merkez</string>
+    <string name="start">Başlangıç</string>
+    <string name="lp_reset_grad">Temizlemek için başlangıç, merkez veya bitiş tuşlarına uzun basın.</string>
+    <string name="gradient_bakground">Gradyan Arka Plan</string>
 </resources>

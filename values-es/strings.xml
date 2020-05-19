@@ -105,7 +105,7 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="press_back">Una vez completado, presiona atrás para volver a la aplicación.</string>
     <string name="preview"><![CDATA[Vista Previa: Los paneles de llamada y Cast solo se mostrarán cuando sean necesarios.]]></string>
     <string name="pro">¡Actualiza a Volume Panel Pro!</string>
-    <string name="pro_only">- Solo Pro</string>
+    <string name="pro_only">\ - Solo Pro</string>
     <string name="pro_un">Elimina la publicidad y desbloquea todas las funciones.</string>
     <string name="proceed">Proceder</string>
     <string name="rate_app">Valora la aplicación</string>
@@ -216,10 +216,17 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="slider_length">Tamaño del deslizador = %1$d%%</string>
     <string name="fill_colour">Color de relleno</string>
     <string name="long_press_trig">Pulsación larga para cambiar el volumen</string>
-    <string name="order_shorts">Change Shortcut Order</string>
-    <string name="ad_click">Watch Ad</string>
-    <string name="ad_watch_message">Please watch the following full screen advertisement to temporarily unlock this option.</string>
-    <string name="power_shortcut">Power Menu Shortcut</string>
-    <string name="ad">Ad!</string>
-    <string name="loading_ad">Loading Ad</string>
+    <string name="order_shorts">Cambiar orden de los accesos directos</string>
+    <string name="ad_click">Ver publicidad</string>
+    <string name="ad_watch_message">Por favor, ver la publicidad que se muestra a pantalla completa para desbloquear temporalmente esta opción.</string>
+    <string name="power_shortcut">Acceso directo al menú de apagado</string>
+    <string name="ad">¡Publicidad</string>
+    <string name="loading_ad">Cargando publicidad</string>
+    <string name="use_gradient">Deslizadores gradientes</string>
+    <string name="use_gradient_border">Bordes gradientes</string>
+    <string name="end">Fin</string>
+    <string name="center">Centro</string>
+    <string name="start">Inicio</string>
+    <string name="lp_reset_grad">Mantén pulsado el inicio, centro o fin para eliminar.</string>
+    <string name="gradient_bakground">Fondo gradiente</string>
 </resources>

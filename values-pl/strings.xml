@@ -135,7 +135,7 @@
     <string name="press_back">Po zakończeniu naciśnij przycisk Wstecz, aby wrócić do aplikacji.</string>
     <string name="preview"><![CDATA[Tryb Podglądu: Połączenie & Panele Cast będą pokazywane tylko w razie potrzeby.]]></string>
     <string name="pro">Uaktualnij Do Volume Panel Pro!</string>
-    <string name="pro_only"> - Tylko Dla Pro</string>
+    <string name="pro_only">\ - Tylko Dla Pro</string>
     <string name="pro_un">Usuń Reklamy &amp; Odblokuj Wszystkie Funkcje.</string>
     <string name="proceed">Kontynuuj</string>
     <string name="rate_app">Oceń Aplikację</string>
@@ -229,7 +229,7 @@
     <string name="thumb">Kolor kciuka</string>
     <string name="show_lock_short">Skrót do blokady ekranu</string>
     <string name="show_split">"Podzielony ekran Skrót "</string>
-    <string name="show_orient">Auto Rotate Shortcut</string>
+    <string name="show_orient">Skrót do zamka orientacyjnego</string>
     <string name="round_top_solid_sliders">Zaokrąglony pasek postępu</string>
     <string name="design_solid_sliders">Wyregulować suwaki stałe</string>
     <string name="design_borders">Regulacja granic panelu</string>
@@ -241,16 +241,23 @@
     <string name="behaviour_sets">Ustawienia zachowań</string>
     <string name="merge_icons_colour">Połączony kolor ikon</string>
     <string name="merge_text">Etykiety poziomu łączenia</string>
-    <string name="fill_level">Poziom wypełnienia suwaka = %1$d%%</string>
-    <string name="wallpaper">Basic colors of wallpapers</string>
+    <string name="fill_level">Poziom Wypełnienia Suwaka = %1$d%%</string>
+    <string name="wallpaper">Kolory tapet</string>
     <string name="icon_scale">Skala Ikony i skrótów = %1$d%%</string>
-    <string name="slider_length">Długość suwaka = %1$d%%</string>
-    <string name="fill_colour">Kolor wypełnienia</string>
+    <string name="slider_length">Długość Suwaka = %1$d%%</string>
+    <string name="fill_colour">Kolor Wypełnienia</string>
     <string name="long_press_trig">Długie naciśnięcie w celu zmiany głośności</string>
-    <string name="order_shorts">Change Shortcut Order</string>
-    <string name="ad_click">Watch Ad</string>
-    <string name="ad_watch_message">Please watch the following full screen advertisement to temporarily unlock this option.</string>
-    <string name="power_shortcut">Power Menu Shortcut</string>
-    <string name="ad">Ad!</string>
-    <string name="loading_ad">Loading Ad</string>
+    <string name="order_shorts">Zmiana Kolejności Skrótów</string>
+    <string name="ad_click">Reklama Zegarkowa</string>
+    <string name="ad_watch_message">Aby tymczasowo odblokować tę opcję, proszę obejrzeć poniższą reklamę na pełnym ekranie.</string>
+    <string name="power_shortcut">Skrót Do Menu Zasilania</string>
+    <string name="ad">Reklama</string>
+    <string name="loading_ad">Załadunek Reklama</string>
+    <string name="use_gradient">Gradient Sliders</string>
+    <string name="use_gradient_border">Gradient Borders</string>
+    <string name="end">End</string>
+    <string name="center">Center</string>
+    <string name="start">Start</string>
+    <string name="lp_reset_grad">Long press start, center or end to clear.</string>
+    <string name="gradient_bakground">Gradient Background</string>
 </resources>

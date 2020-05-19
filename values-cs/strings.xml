@@ -106,7 +106,7 @@
     <string name="press_back">Jakmile budete hotovi, klikněte zpět pro návrat do aplikace.</string>
     <string name="preview"><![CDATA[Režim náhledu: posuvníky pro Volání a Vysílání médií se zobrazí jen v případě nutnosti.]]></string>
     <string name="pro">Zakoupit Volume Panel Pro!</string>
-    <string name="pro_only">- Pouze ve verzi Pro</string>
+    <string name="pro_only">\ - Pouze ve verzi Pro</string>
     <string name="pro_un">Odstranit reklamy a Odemknout všechny funkce</string>
     <string name="proceed">Pokračovat</string>
     <string name="rate_app">Ohodnotit aplikaci</string>
@@ -220,7 +220,14 @@
     <string name="order_shorts">Změna pořadí odkazů</string>
     <string name="ad_click">Shlédni reklamu</string>
     <string name="ad_watch_message">Prosím shlédněte reklamu, pro dočasné odemknutí této funkce.</string>
-    <string name="power_shortcut">Power Menu Shortcut</string>
-    <string name="ad">Ad!</string>
-    <string name="loading_ad">Loading Ad</string>
+    <string name="power_shortcut">Zástupce vypnutí</string>
+    <string name="ad">Reklama</string>
+    <string name="loading_ad">Načítání reklamy</string>
+    <string name="use_gradient">Gradient Sliders</string>
+    <string name="use_gradient_border">Gradient Borders</string>
+    <string name="end">End</string>
+    <string name="center">Center</string>
+    <string name="start">Start</string>
+    <string name="lp_reset_grad">Long press start, center or end to clear.</string>
+    <string name="gradient_bakground">Gradient Background</string>
 </resources>

@@ -141,7 +141,7 @@
     <string name="press_back">አንዴ እንደ ተጠናቀቀ ወደ መተግበሪያው ለመመለስ ተመለስን ተጫን።</string>
     <string name="preview"><![CDATA[የቅድመ እይታ ሞድ: የጥሪ እና የመውጫ ፓነሎች አስፈላጊ ሲሆኑ ሲታዩ ብቻ ነው]]></string>
     <string name="pro">ወደ ድምጽ ፓነል Pro ያሻሽሉ!</string>
-    <string name="pro_only">- ፕሮቪን</string>
+    <string name="pro_only">\ - ፕሮቪን</string>
     <string name="pro_un">ማስታወቂያውን ያስወግዱ &amp; ሁሉንም ገጽታዎች ይክፈቱ።</string>
     <string name="proceed">ይቀጥሉ</string>
     <string name="rate_app">መተግበሪያን ደረጃ ይስጡ</string>
@@ -259,6 +259,13 @@
     <string name="ad_click">Watch Ad</string>
     <string name="ad_watch_message">Please watch the following full screen advertisement to temporarily unlock this option.</string>
     <string name="power_shortcut">Power Menu Shortcut</string>
-    <string name="ad">Ad!</string>
+    <string name="ad">Ad</string>
     <string name="loading_ad">Loading Ad</string>
+    <string name="use_gradient">Gradient Sliders</string>
+    <string name="use_gradient_border">Gradient Borders</string>
+    <string name="end">End</string>
+    <string name="center">Center</string>
+    <string name="start">Start</string>
+    <string name="lp_reset_grad">Long press start, center or end to clear.</string>
+    <string name="gradient_bakground">Gradient Background</string>
 </resources>

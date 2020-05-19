@@ -106,7 +106,7 @@
     <string name="press_back">De seguida, prima voltar para regressar à aplicação.</string>
     <string name="preview"><![CDATA[Modo de Pré-visuzação: Painéis de Chamada & Transmissão só serão mostrados quando necessário.]]></string>
     <string name="pro">Obter Volume Panel Pro!</string>
-    <string name="pro_only">- Só Pro</string>
+    <string name="pro_only">\ - Só Pro</string>
     <string name="pro_un">Remover Publicidade &amp; Desbloquear Todas as Funcionalidades.</string>
     <string name="proceed">Avançar</string>
     <string name="rate_app">Classificar Aplicação</string>
@@ -218,9 +218,16 @@
     <string name="fill_colour">Cor de Preenchimento</string>
     <string name="long_press_trig">Tocar e Segurar Para Mudar Volume</string>
     <string name="order_shorts">Alterar Ordem de Atalhos</string>
-    <string name="ad_click">Watch Ad</string>
-    <string name="ad_watch_message">Please watch the following full screen advertisement to temporarily unlock this option.</string>
-    <string name="power_shortcut">Power Menu Shortcut</string>
-    <string name="ad">Ad!</string>
-    <string name="loading_ad">Loading Ad</string>
+    <string name="ad_click">Ver Anúncio</string>
+    <string name="ad_watch_message">Por favor veja este anúncio de ecrã inteiro para desbloquear temporariamente esta opção.</string>
+    <string name="power_shortcut">Atalho Menu Ligar/Desligar</string>
+    <string name="ad">Anúncio</string>
+    <string name="loading_ad">A Carregar Anúncio</string>
+    <string name="use_gradient">Gradientes nas Barras</string>
+    <string name="use_gradient_border">Contornos de Gradientes</string>
+    <string name="end">Fim</string>
+    <string name="center">Centro</string>
+    <string name="start">Início</string>
+    <string name="lp_reset_grad">Toque e segure em início, centro ou fim para limpar.</string>
+    <string name="gradient_bakground">Fundo Gradiente</string>
 </resources>

@@ -137,7 +137,7 @@
     <string name="press_back">Wenn fertig, auf "\Back\" klicken um zur App zurückzukehren.</string>
     <string name="preview"><![CDATA[Vorschau-Modus: Anruf & Cast Felder werden nur bei Bedarf angezeigt.]]></string>
     <string name="pro">Upgrade auf Volume Panel Pro!</string>
-    <string name="pro_only"> - Pro Only</string>
+    <string name="pro_only">\ - Pro Only</string>
     <string name="pro_un">Werbung entfernen &amp; alle Features freischalten.</string>
     <string name="proceed">Weiter</string>
     <string name="rate_app">App bewerten</string>
@@ -252,9 +252,16 @@
     <string name="fill_colour">Schieberegler-Farbe</string>
     <string name="order_shorts">Verknüpfungen neu anordnen</string>
     <string name="long_press_trig">Lange drücken, um die Lautstärke zu ändern</string>
-    <string name="ad_click">Watch Ad</string>
-    <string name="ad_watch_message">Please watch the following full screen advertisement to temporarily unlock this option.</string>
-    <string name="power_shortcut">Power Menu Shortcut</string>
-    <string name="ad">Ad!</string>
-    <string name="loading_ad">Loading Ad</string>
+    <string name="ad_click">Anzeige ansehen</string>
+    <string name="ad_watch_message">Bitte sehen Sie sich die folgende Vollbildanzeige an, um diese Option vorübergehend freizuschalten.</string>
+    <string name="power_shortcut">Shortcut zum Power-Menü</string>
+    <string name="ad">Werbung</string>
+    <string name="loading_ad">Laden von Werbung</string>
+    <string name="use_gradient">Gradient Sliders</string>
+    <string name="use_gradient_border">Gradient Borders</string>
+    <string name="end">End</string>
+    <string name="center">Center</string>
+    <string name="start">Start</string>
+    <string name="lp_reset_grad">Long press start, center or end to clear.</string>
+    <string name="gradient_bakground">Gradient Background</string>
 </resources>

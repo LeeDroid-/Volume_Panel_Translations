@@ -106,7 +106,7 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="press_back">如果完成，请点按返回按钮</string>
     <string name="preview"><![CDATA[预览模式：通话与投屏面板仅在被使用的时候显示。]]></string>
     <string name="pro">升级至高级版！</string>
-    <string name="pro_only">- 限高级版</string>
+    <string name="pro_only">\ - 限高级版</string>
     <string name="pro_un">去除广告和解锁所有功能。</string>
     <string name="proceed">继续</string>
     <string name="rate_app">评价本应用</string>
@@ -218,9 +218,16 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="fill_colour">填充颜色</string>
     <string name="long_press_trig">长按以调整音量</string>
     <string name="order_shorts">调整快捷方式顺序</string>
-    <string name="ad_click">Watch Ad</string>
-    <string name="ad_watch_message">Please watch the following full screen advertisement to temporarily unlock this option.</string>
-    <string name="power_shortcut">Power Menu Shortcut</string>
-    <string name="ad">Ad!</string>
-    <string name="loading_ad">Loading Ad</string>
+    <string name="ad_click">观看广告</string>
+    <string name="ad_watch_message">请观看稍后的全屏广告以临时解锁此选项。</string>
+    <string name="power_shortcut">电源菜单快捷方式</string>
+    <string name="ad">广告</string>
+    <string name="loading_ad">广告加载中</string>
+    <string name="use_gradient">渐变色滑条</string>
+    <string name="use_gradient_border">渐变色边框</string>
+    <string name="end">结束</string>
+    <string name="center">中心</string>
+    <string name="start">开始</string>
+    <string name="lp_reset_grad">长按开始、居中、或结束来清除。</string>
+    <string name="gradient_bakground">渐变颜色背景</string>
 </resources>

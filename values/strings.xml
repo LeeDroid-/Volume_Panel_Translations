@@ -21,7 +21,7 @@
 	<br/>\u2022 Alpert7 - Chinese
 	<br/>\u2022 Nguy\u1ec5n Lam - Vietnamese
 	<br/>\u2022 Jakub - Chzech
-	<br/>\u2022 Aramaic - Mikesew1320
+	<br/>\u2022 Amharic - Mikesew1320
     <br/><br/>Feel free to contact me via the \"Email Feedback\" option &amp; don\'t forget to leave a review &#128512;]]></string>
     <string name="about_title">About</string>
     <string name="accessibility_description">
@@ -236,7 +236,14 @@
     <string name="design_preset">Design Presets</string>
     <string name="recent_changes">Recent Changes</string>
     <string name="change_log" translatable="false"><![CDATA[
-    <b>V20.31:</b>
+    <b>V20.38:</b>
+    	<br/>\u2022 Add gradient slider colours.
+    	<br/>\u2022 Add gradient border colours.
+    	<br/>\u2022 Hungarian translation test.
+    	<br/>\u2022 Block outside touches in sort dialogs.
+    	<br/>\u2022 Adjust icon padding with borders.
+        <br/><br/>
+    <b>V20.34:</b>
     	<br/>\u2022 Add Power Menu Shortcut.
     	<br/>\u2022 Change Ring Volume restoration logic.
     	<br/>\u2022 Improve shortcut row split logic.
@@ -445,6 +452,13 @@
     <string name="ad_click">Watch Ad</string>
     <string name="ad_watch_message">Please watch the following full screen advertisement to temporarily unlock this option.</string>
     <string name="power_shortcut">Power Menu Shortcut</string>
-    <string name="ad">Ad!</string>
+    <string name="ad">Ad</string>
     <string name="loading_ad">Loading Ad</string>
+    <string name="use_gradient">Gradient Sliders</string>
+    <string name="use_gradient_border">Gradient Borders</string>
+    <string name="end">End</string>
+    <string name="center">Center</string>
+    <string name="start">Start</string>
+    <string name="lp_reset_grad">Long press start, center or end to clear.</string>
+    <string name="gradient_bakground">Gradient Background</string>
 </resources>

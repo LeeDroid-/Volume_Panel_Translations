@@ -106,7 +106,7 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="press_back">Sau khi hoàn thành, nhấn trở lại để trở lại ứng dụng.</string>
     <string name="preview"><![CDATA[Chế độ xem trước: Bảng gọi & Truyền sẽ chỉ hiển thị khi cần.]]></string>
     <string name="pro">Nâng cấp lên Bảng điều khiển Âm lượng Pro!</string>
-    <string name="pro_only">- Chỉ dành cho Pro</string>
+    <string name="pro_only">\ - Chỉ dành cho Pro</string>
     <string name="pro_un">Xóa quảng cáo và mở khóa tất cả các tính năng.</string>
     <string name="proceed">Tiến hành</string>
     <string name="rate_app">Đánh giá ứng dụng</string>
@@ -219,10 +219,17 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="slider_length">Độ dài thanh trượt = %1$d%%</string>
     <string name="fill_colour">Tô màu</string>
     <string name="long_press_trig">Nhấn và giữ để thay đổi âm lượng</string>
-    <string name="order_shorts">Change Shortcut Order</string>
-    <string name="ad_click">Watch Ad</string>
-    <string name="ad_watch_message">Please watch the following full screen advertisement to temporarily unlock this option.</string>
-    <string name="power_shortcut">Power Menu Shortcut</string>
-    <string name="ad">Ad!</string>
-    <string name="loading_ad">Loading Ad</string>
+    <string name="order_shorts">Thay đổi thứ tự lối tắt</string>
+    <string name="ad_click">Xem Quảng cáo</string>
+    <string name="ad_watch_message">Vui lòng xem quảng cáo toàn màn hình sau đây để tạm thời mở khóa tùy chọn này..</string>
+    <string name="power_shortcut">Lối tắt Menu nguồn</string>
+    <string name="ad">Quảng cáo</string>
+    <string name="loading_ad">Đang tải Quảng cáo</string>
+    <string name="use_gradient">Gradient Sliders</string>
+    <string name="use_gradient_border">Gradient Borders</string>
+    <string name="end">End</string>
+    <string name="center">Center</string>
+    <string name="start">Start</string>
+    <string name="lp_reset_grad">Long press start, center or end to clear.</string>
+    <string name="gradient_bakground">Gradient Background</string>
 </resources>

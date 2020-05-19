@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="about"><![CDATA[<b>Hanger\u0151 panel:</b> <br/>\u2022A rendszer hanger\u0151szab\u00e1lyz\u00f3j\u00e1nak rugalmasan kezelhet\u0151 alternat\u00edv\u00e1ja. <br/><br/><b>Formaterv \u00e9s fejleszt\u00e9s:</b> <br/>\u2022 Lee Bailey (AKA @LeeDrOiD) <br/> Tov\u00e1bbi k\u00f6sz\u00f6net: <br/>\u2022 Az alkalmaz\u00e1s bemutat\u00f3 k\u00e9sz\u00edt\u0151inek. <br/>\u2022 Ereza, az \u00f6sszeoml\u00e1sokn\u00e1l ny\u00fajtott egy\u00e9ni seg\u00edts\u00e9g\u00e9\u00e9rt. <br/>\u2022 D-Max, a p\u00e1rbesz\u00e9dablakok jav\u00edt\u00e1s\u00e1ban. <br/>Ford\u00edt\u00f3k: <br/>\u2022 Istv\u00e1n Krisk\u00f3 - Magyar <br/>\u2022 Linar10 - Polish <br/>\u2022 Fatih Firinci - Turkish <br/>\u2022 guillerag - Spanish <br/>\u2022 Nuno Nebeker - Portuguese <br/>\u2022 \u0418\u0433\u043e\u0440\u044c \u0418\u0440\u0438\u043d\u0438\u043d - Russian <br/>\u2022 Sylm - Fran\u00e7ais <br/>\u2022 Emad Ayad - Arabic <br/>\u2022 VM - German <br/>\u2022 Alpert7 - Chinese <br/>\u2022 Nguy\u1ec5n Lam - Vietnamese <br/>\u2022 Jakub - Chzech <br/>\u2022 Aramaic - Mikesew1320 <br/><br/>Nyugodtan l\u00e9pjen velem kapcsolatba a \"Visszajelz\u00e9s emailben\" lehet\u0151s\u00e9gen kereszt\u00fcl \u00e9s ne felejtsen el \u00e9rt\u00e9kel\u00e9st adni &amp;#128512;]]></string>
+    <string name="about_title">Névjegy</string>
+    <string name="accessibility_description"><u>Kiseg\u00edt\u0151 lehet\u0151s\u00e9gek hozz\u00e1f\u00e9r\u00e9se</u>\n\n\nEz az enged\u00e9ly lehet\u0151v\u00e9 teszi sz\u00e1munkra:\n\n\u2022 Felismerni a hanger\u0151 +\\- gombok lenyom\u00e1s\u00e1t.\n\n\u2022 Z\u00e1rtk\u00e9perny\u0151s szolg\u00e1ltat\u00e1sok biztos\u00edt\u00e1s\u00e1t.\n\n\u2022 Kieg\u00e9sz\u00edt\u0151 parancsikonok haszn\u00e1lat\u00e1t.\n\n\nM\u00e1s tartalom nem ker\u00fcl r\u00f6gz\u00edt\u00e9sre\n\n\nEgyes k\u00e9sz\u00fcl\u00e9kekn\u00e9l sz\u00fcks\u00e9g lehet a rendszer \u00fajraind\u00edt\u00e1s\u00e1ra a szolg\u00e1ltat\u00e1s m\u0171k\u00f6d\u00e9s\u00e9hez.</string>
+    <string name="action">Művelet most</string>
+    <string name="add_border">Panelszegélyek engedélyezése</string>
+    <string name="add_shortcut">Főképernyő parancsikon</string>
+    <string name="additonal_perms_req">További engedélyek szükségesek</string>
+    <string name="alert">Optimalizált riasztás</string>
+    <string name="anim_duration">Animáció időtartama =%.2fs</string>
+    <string name="anim_durations">Animáció időtartama</string>
+    <string name="app_name">Hangerő panel</string>
+    <string name="auto_dark_sum">\u2022 Igazodjon a rendszer s\u00f6t\u00e9t/vil\u00e1gos t\u00e9m\u00e1j\u00e1hoz\n\n\u2022 Gy\u00e1rt\u00f3i t\u00e1mogat\u00e1s sz\u00fcks\u00e9ges hozz\u00e1</string>
+    <string name="background_colour">Háttér színe</string>
+    <string name="bat_opt"><![CDATA[<b>A Hangerő panelt a rendszer optimalizálhatja, így előfordulhat, hogy a háttérbeli futását megöli</b>.
+<br/><br/>A Hangerő panel egyik szolgáltatása sem igényel akkumulátorhasználatot, de az optimalizálás letiltása javítja a megbízhatóságát.
+<br/><br/>Kattintson a \"Bezárás\" gombra az optimalizáláshoz, vagy kattintson a \"Művelet most\" gombra, majd válassza az \"Összes alkalmazás\" lehetőséget, hogy letiltsa az akkumulátor optimalizálást a hangerőpanel részére.
+<br/><br/>Ha úgy találja, hogy a rendszer még mindig megöli a szolgáltatást, akkor engedélyezze a \'Szolgáltatás kényszerített futása\' opciót.]]></string>
+    <string name="block_vold_lp">Zárolja a Hangerő-LE gomb hosszan nyomást</string>
+    <string name="block_vold_lp_sum">\u2022 Jav\u00edtja a Vol + Power k\u00e9perny\u0151k\u00e9p hib\u00e1t</string>
+    <string name="border_colour">Szegély színe</string>
+    <string name="border_thickness">Szegély vastagsága =%1$d dp</string>
+    <string name="bright_calibrate"><b>i</b>: Maxim\u00e1lis f\u00e9nyer\u0151 \u00fajrakalibr\u00e1l\u00e1s:\n\n\u2022 \u00c1ll\u00edtsa a k\u00e9perny\u0151 f\u00e9nyerej\u00e9t Max \u00e9rt\u00e9kre, majd nyomja ezt itt hosszan.</string>
+    <string name="cancel">Mégse</string>
+    <string name="cast">Műsorszórás hangerejének vezérlése</string>
+    <string name="click_out">Kattintson a panelen kívülre a bezáráshoz</string>
+    <string name="click_out_sum">\u2022 Ha enged\u00e9lyezve van, \u00fctk\u00f6zhet m\u00e1s alkalmaz\u00e1sok m\u0171k\u00f6d\u00e9s\u00e9vel.</string>
+    <string name="close">Bezárás</string>
+    <string name="corner_scale">Sarok sugara =%1$d%%</string>
+    <string name="corner_scales">Sarok sugara</string>
+    <string name="cp_head">Érintse meg középen a megerősítéshez</string>
+    <string name="dark_mode">Sötét mód</string>
+    <string name="default_to_ring_volume">Alapértelmezett legyen a csengetés hangereje</string>
+    <string name="design">Megjelenés</string>
+    <string name="detect_keys">Érzékelje a gomb megnyomását a megnyitáshoz</string>
+    <string name="disable">Letiltás</string>
+    <string name="disable_notif">KÉRJÜK TILTSA LE AZ ÉRTESÍTÉSI HOZZÁFÉRÉST</string>
+    <string name="dismiss">Elvetés</string>
+    <string name="dnd_access"><u>Ne zavarjanak hozzáférés</u>
+\n\nEz az engedély lehetővé teszi számunkra, hogy módosítsuk a \"Ne zavarjanak\" beállításokat.
+\n\n</string>
+    <string name="do_not_kill">Szolgáltatás kényszerített futása</string>
+    <string name="do_not_kill_desc"><![CDATA[<b>Csak akkor használja ezt az opciót, ha a Hangerő panel ismételten leáll.
+</b><br/><br/>Egyes eszközök túl agresszívek a memória felszabadításában és a fontos szolgáltatások leállításában. A rendszergazdai jogokkal rendelkező alkalmazások ritkán állnak le. <br/><br/>Az alapvető rendszergazdai jogok engedélyezése a Hangerő panel számára a szolgáltatást életben tartja.
+<br/><br/>Ezt a jogot vissza kell vonni, ha el kell távolítania az alkalmazást.]]></string>
+    <string name="done">Kész</string>
+    <string name="email_feedback">Visszajelzés emailben</string>
+    <string name="enable_blacklist">Alkalmazások kizárásának engedélyezése</string>
+    <string name="enable_volume_panel">Hangerő gomb felülbírálása</string>
+    <string name="exclude_applications">Alkalmazások kizárása</string>
+    <string name="exclude_applications_sum">\u2022 A hanger\u0151szab\u00e1lyz\u00f3 panel nem ny\u00edlik meg ezekben az alkalmaz\u00e1sokban.</string>
+    <string name="excluded">Hangerő panel: Alkalmazás kizárások</string>
+    <string name="failed_window_add">Az ablak hozzáadása nem sikerült, nyissa meg az alkalmazást, és ellenőrizze, hogy a megjelenítés más alkalmazások felett engedély meg van-e adva.</string>
+    <string name="fill_style">Használjon széles csúszkákat</string>
+    <string name="flash_light">Zseblámpa gomb</string>
+    <string name="floating_trigger">Képernyőszél gesztus</string>
+    <string name="force_close">Párbeszédek kényszerített bezárása</string>
+    <string name="free">Tiltsa le az ingyenes verziót</string>
+    <string name="free_installed">Az ingyenes Hangerő panel jelenleg felülbírálja a rendszer hangerejét. Kérjük, tiltsa le a konfliktusok elkerülése érdekében.</string>
+    <string name="google_assistant">Google Asszisztens gomb</string>
+    <string name="grant">Engedély megadás</string>
+    <string name="hide_full">Ne jelenjen meg teljes képernyőn</string>
+    <string name="hide_settings">Beállítások parancsikon elrejtése</string>
+    <string name="icon_colour">Ikon színe</string>
+    <string name="invert_buttons">Hangerő gombok felcserélése</string>
+    <string name="killed">A Hangerő panel kisegítő lehetőségek szolgáltatását a rendszer leállította vagy eltávolította.
+\n\nHa ez nem szándékos volt, akkor próbálkozzon a \"Szolgáltatás kényszerített futása\" opcióval az alkalmazásban, és győződjön meg arról, hogy az akkumulátor optimalizálása le van-e tiltva a Hangerő panelnél.</string>
+    <string name="killer_info"><![CDATA[További információ:<br/>
+http://www.dontkillmyapp.com/]]></string>
+    <string name="latest">Kérjük, ellenőrizze, hogy a legújabb verziót használja-e.</string>
+    <string name="launch">Mutassa a Hangerő panelt</string>
+    <string name="launch_opts">Indítási lehetőségek</string>
+    <string name="loading_apps">Alkalmazások betöltése</string>
+    <string name="lock_ring_vol">Rögzítse a csengetés csúszkáját rezgő/csendes módban</string>
+    <string name="long_press"><![CDATA[Hosszan érintse meg és húzza a paneleket az átrendezéshez.]]></string>
+    <string name="mapper">Alkalmazás ütközés lehetséges</string>
+    <string name="mapper_detail">Lehet, hogy észleltünk egy gombokat átkonfiguráló alkalmazást.
+\n\nA gomb átkonfiguráló alkalmazások a kisegítő lehetőségek szolgáltatást használják a gomb lenyomások észlelésére.
+\n\nEgyéb, kisegítő lehetőségek szolgáltatást használó alkalmazások, amelyek érzékelik/testreszabják a hangerő gombok kattintásait, akadályozzák a Hangerő panel képességét a hangerő gombok érzékelésére.
+\n\nKérjük, fontolja meg a hangerőszabályzó gombok testreszabásának letiltását ezen alkalmazások esetén.
+\n\nAlternatív megoldásként engedélyezze a \"Hangerő panel\" főképernyő parancsikonját, és nyissa meg azt az újakonfiguráláshoz!</string>
+    <string name="mapper_sum">\u2022 Kattintson ide tov\u00e1bbi inform\u00e1ci\u00f3\u00e9rt</string>
+    <string name="margin">Panel margó = %1$d dp</string>
+    <string name="margins">Panel margó</string>
+    <string name="media">Média hangerő =</string>
+    <string name="mute_media">Média némítás</string>
+    <string name="need_dnd">Ne zavarjanak engedély szükséges</string>
+    <string name="not_found">A tevékenység nem található, kérjük menjen a beállításokhoz és manuálisan adja meg az engedélyt</string>
+    <string name="notif_access"><u>\u00c9rtes\u00edt\u00e9si hozz\u00e1f\u00e9r\u00e9s</u>\n\n\n\u2022 Ez az enged\u00e9ly lehet\u0151v\u00e9 teszi sz\u00e1munkra az akt\u00edv m\u0171sorsz\u00f3r\u00e1s vagy adatfolyam \u00e9szlel\u00e9s\u00e9t.\n\n\u2022 Ha a sug\u00e1rzott adatfolyam hangerej\u00e9t nem szeretn\u00e9 szab\u00e1lyozni, nyugodtan hagyja ki ezt az enged\u00e9lyt.\n\n\nNincs \u00e9rtes\u00edt\u00e9si tartalom r\u00f6gz\u00edtve.\n\n</string>
+    <string name="notif_panel"><![CDATA[Nem minden eszköz támogatja az Értesítés és a Csengetés hangerejének külön kezelését. <br/><br/>Ha mindkét csúszka együtt változik, ez a rendszer konfiguráció miatt van, nincs köze a Hangerő panelhez.]]></string>
+    <string name="notification_listener">Hangerő panel értesítés figyelő</string>
+    <string name="oops_error">Hoppá … Úgy tűnik, hogy valami rosszul sikerült és a Hangerő panel összeomlott. Kérjük, nyomja meg az alábbi \"Jelentés küldése\" gombot, hogy tudassa velünk a hibát.</string>
+    <string name="order">Panel sorrend módosítása</string>
+    <string name="overlay_needed"><u>Megjelenítés legfelül</u>
+\n\nErre az engedélyre azért van szükség, hogy a Hangerő panelt meg tudjuk jeleníteni más alkalmazások felett.</string>
+    <string name="perms"><u>Engedélyek szükségesek</u>
+\n\nA rendszer Hangerő panel felülbírálásához több engedélyre van szükség.
+\n\nMost megmutatunk néhány képernyőt, melyeken részletezzük ezeket az engedélyeket, azok használatát és egy gombot, hogy engedélyezhesse őket.
+\n\n</string>
+    <string name="play_sound">Változtatáskor hangjelzés</string>
+    <string name="position_left">Balkezes</string>
+    <string name="position_left_land">Balkezes, fekvő módban</string>
+    <string name="press_back">Ha kész, nyomja meg a Vissza gombot, hogy visszatérjen az alkalmazásba.</string>
+    <string name="preview"><![CDATA[Előnézet mód: A Hívás és Műsorszórás panelek csak akkor jelennek meg, ha szükséges.]]></string>
+    <string name="pro">Frissítsen a Hangerő panel Pro alkalmazásra!</string>
+    <string name="pro_only">\ - Csak Pro</string>
+    <string name="pro_un">Távolítsa el a hirdetéseket és oldja fel az összes funkciót.</string>
+    <string name="proceed">Folytatás</string>
+    <string name="rate_app">Értékelje az alkalmazást</string>
+    <string name="rate_it"><![CDATA[<p style="text-align:center"><b>\u00c9lvezze a Hanger\u0151 panelt.\n</b><br/><br/>K\u00e9rj\u00fck, \u00edrjon v\u00e9lem\u00e9nyt a Play \u00e1ruh\u00e1zban!\n<br/><br/>\u2b50\u2b50\u2b50\u2b50\u2b50</p>]]></string>
+    <string name="reenable">Újra engedélyezés</string>
+    <string name="ring">Csengőhang</string>
+    <string name="ring_mode">Csengés módja</string>
+    <string name="screen_shot">Képernyőkép rögzítés gomb</string>
+    <string name="select_apps">Válasszon alkalmazásokat</string>
+    <string name="send_report">Jelentés küldése</string>
+    <string name="show_alarm_panel">Riasztási hang panel</string>
+    <string name="show_bright_panel">Képernyő fényerő panel</string>
+    <string name="show_lock">Mutassa a zártképernyőn</string>
+    <string name="show_notif">Értesítési hang panel</string>
+    <string name="show_ring_panel">Csengőhang panel</string>
+    <string name="silent">Néma</string>
+    <string name="slide_heights">Panel mérete</string>
+    <string name="slider_colour">Csúszka színe</string>
+    <string name="start_collapsed">Megjelenítés összecsukva</string>
+    <string name="suspend">Felfüggesztés</string>
+    <string name="switch_theme">Téma váltás</string>
+    <string name="system_perms_message">A Hangerő panelnek hozzáférést kell biztosítani a rendszerbeállítások írásához. Ehhez a művelethez nyomja meg a folytatás gombot.\n</string>
+    <string name="system_warn">Bármely kisegítő lehetőségek szolgáltatás engedélyezésekor egy általános Android rendszer figyelmeztetést kap. Nyugodjon meg, a hangerőszabályzó panel nem rögzít semmilyen tartalmat, vagy billentyűleütést, nem rendelkezik internet hozzáféréssel és nem is kér ahhoz engedélyt.</string>
+    <string name="tips"><![CDATA[<b>Tippek:</b>
+<br/><br/><b>A hangerő nem módosul bizonyos alkalmazásoknál:<br/>
+</b><br/>Egyes alkalmazások, például az Instagram és a Snapchat, teljes hangfókuszt készítenek és megpróbálják az hangerő gombokat maguknak lefoglalni. Ha ilyen problémát tapasztal, használja az \"Alkalmazások kizárása\" lehetőséget és adja hozzá a kívánt alkalmazásokat a listához.
+<br/><br/><b>A rendszer audio panel folyamatosan visszatér:</B>
+<br/><br/>Nagyon valószínű, hogy rendszere megöli a Hangerő panel kisegítő lehetőségek szolgáltatását. Ha ez megtörténik, kérjük, ellenőrizze, hogy le van-e tiltva az alkalmazás  számára az akkumulátor és a memória optimalizálása. Engedélyezze a \"Csúsztatás Fel/Le kapcsoló\"-t, ami lehet hogy szintén segít.
+<br/>További információkért látogasson el a következő oldalra: http://www.dontkillmyapp.com/]]></string>
+    <string name="transparency">Átlátszóság</string>
+    <string name="trigger_colour">Fogópont színe</string>
+    <string name="trigger_scale_tx">Fogópont X mérete =%1$d%%</string>
+    <string name="trigger_scale_ts">Fogópont méretezése</string>
+    <string name="trigger_scale_ty">Fogópont Y mérete =%1$d%%</string>
+    <string name="up_launch">Megjelenés csak Hangerő + gombra</string>
+    <string name="up_launch_sum">\u2022 A panel csak akkor jelenik meg, ha megnyomja a Hanger\u0151 + gombot.</string>
+    <string name="usage_access"><u> Használathoz való hozzáférés </u>
+\n\nEz az engedély lehetővé teszi számunkra, hogy a csomaghasználati statisztikák segítségével felismerjük a jelenleg használt alkalmazást és ellenőrizzük, hogy kizárta-e azt.
+\n\nHa az alkalmazást kizárása nélkül szeretné futtatni, hagyja ki ezt az engedélyt.
+\n\n</string>
+    <string name="use_system">Automatikus sötét/világos mód</string>
+    <string name="ver_pos">Függőleges helyzet =%1$d%%</string>
+    <string name="ver_poss">Függőleges helyzet</string>
+    <string name="vibe_duration">Rezgés időtartama =%.2fs</string>
+    <string name="vibe_durations">Rezgés időtartama</string>
+    <string name="vibrate">Rezgés</string>
+    <string name="vol_timeouts">Panel láthatósági ideje</string>
+    <string name="vol_timeout">Panel láthatósági ideje = %1$ds</string>
+    <string name="volumeui">Hangerő panel kinézete</string>
+    <string name="show_call">Mindig mutassa a hívás hangerejét</string>
+    <string name="show_bluetooth">Bluetooth gomb</string>
+    <string name="block_vold_up_lp">Zárolja a Hangerő-FEL hosszan nyomást</string>
+    <string name="show_media">Médiavezérlők megjelenítése</string>
+    <string name="change_first_click">Hangerő módosítása az első érintésre</string>
+    <string name="show_system">Rendszer hangerő panel</string>
+    <string name="show_levels">Mutassa a szint értékeket</string>
+    <string name="when_notif">Csak ha az értesítés aktív</string>
+    <string name="volume_plus">Hangerő +</string>
+    <string name="volume_minus">Hangerő -</string>
+    <string name="red">Vörös</string>
+    <string name="green">Zöld</string>
+    <string name="blue">Kék</string>
+    <string name="hide">Rejtsen el</string>
+    <string name="skip">Kihagy</string>
+    <string name="app_sign">Ez az alkalmazás módosult és nem fog futni. Átirányítottuk a Play Áruházba</string>
+    <string name="horizontal">Vízszintes csúszkák</string>
+    <string name="bottom">Pozíció alul</string>
+    <string name="dont_allow">Érvénytelen licenc</string>
+    <string name="text_colour">Szöveg színe</string>
+    <string name="force_english">Mindenképpen angol</string>
+    <string name="merge_panels">Panelek egybeolvasztása</string>
+    <string name="select">Választ</string>
+    <string name="design_preset">Meglévő sablonok</string>
+    <string name="recent_changes">Legutóbbi változások</string>
+    <string name="block_back_touch">Blokkolja a háttérbeni érintéseket</string>
+    <string name="backup">Konfiguráció exportálása</string>
+    <string name="permissions_storage">Tárhely használati engedély szükséges</string>
+    <string name="restore">Konfiguráció importálás</string>
+    <string name="enter_name">Mentési fájl neve</string>
+    <string name="trigger_acc"><b>Tipp:</b> Kattintson ide a Hangerő panel kisegítő lehetőségek szolgáltatás engedélyezéséhez. Ez lehetővé teszi a képernyőszél gesztus és a hangerőpanel használatát a zártképernyőn.</string>
+    <string name="overwrite">Ez felülírja a jelenlegi elrendezést. A folytatáshoz nyomja meg a Folytatás gombot.</string>
+    <string name="merge_icons">Ikonok egybeolvasztása</string>
+    <string name="shortcuts_below">Helyezze a gombokat alulra</string>
+    <string name="dim_behind">Panelháttér sötétítés</string>
+    <string name="dim_amount">Sötétítés mértéke = %1$d%%</string>
+    <string name="change_path">Új mappa</string>
+    <string name="save">Mentés</string>
+    <string name="flip_icons">Ikon pozíció</string>
+    <string name="access_error">Hozzáférési hiba, próbáljon meg egy másik könyvtárat.</string>
+    <string name="thumb">Pozíciójelző színe</string>
+    <string name="show_lock_short">Zártképernyő gombok</string>
+    <string name="show_split">Osztott képernyő gomb</string>
+    <string name="show_orient">Automatikus elforgatás gomb</string>
+    <string name="round_top_solid_sliders">Lekerekített folyamatsáv</string>
+    <string name="design_solid_sliders">Csúszka vastagság testreszabása</string>
+    <string name="design_borders">Panelszegélyek testreszabása</string>
+    <string name="mute_shortcut">Mikrofon némítás gomb</string>
+    <string name="swipe_in">Befelé csúsztatás engedélyezése</string>
+    <string name="design_layout">Panel kinézet és elrendezés</string>
+    <string name="select_panels">Válasszon paneleket és gombokat</string>
+    <string name="trigger_sets">Gesztus fogópont beállítások</string>
+    <string name="behaviour_sets">Viselkedési beállítások</string>
+    <string name="merge_icons_colour">Egybeolvasztott ikonok színe</string>
+    <string name="merge_text">Szintek értékeinek egybeolvasztása</string>
+    <string name="fill_level">Csúszka kitöltés mértéke = %1$d%%</string>
+    <string name="wallpaper">Elsődleges háttérszín</string>
+    <string name="icon_scale">Ikon és Gomb méret = %1$d%%</string>
+    <string name="slider_length">Csúszka hossza = %1$d%%</string>
+    <string name="fill_colour">Kitőltés színe</string>
+    <string name="long_press_trig">Hosszan nyomja a hangerő módosításhoz</string>
+    <string name="order_shorts">Ikon sorrend módosítása</string>
+    <string name="ad_click">Klikk a hirdetésre</string>
+    <string name="ad_watch_message">Kérjük, nézze meg a következő teljes képernyős hirdetést, ennek a funkciónak az ideiglenes feloldásához.</string>
+    <string name="power_shortcut">Kikapcsoló menü gomb</string>
+    <string name="ad">Hirdetés</string>
+    <string name="loading_ad">Hirdetés betöltése</string>
+    <string name="use_gradient">Gradient Sliders</string>
+    <string name="use_gradient_border">Gradient Borders</string>
+    <string name="end">End</string>
+    <string name="center">Center</string>
+    <string name="start">Start</string>
+    <string name="lp_reset_grad">Long press start, center or end to clear.</string>
+    <string name="gradient_bakground">Gradient Background</string>
+</resources>
