@@ -86,7 +86,7 @@
     <string name="exclude_applications_sum">\u2022 Volume panel will not open in these applications.</string>
     <string name="excluded">Volume Panel: Application Excluded</string>
     <string name="failed_window_add">Failed to add window, please open the app and make sure Screen Overlay permissions have been granted</string>
-    <string name="fill_style">Use Solid Sliders</string>
+    <string name="fill_style">Solid Style Sliders</string>
     <string name="flash_light">Flashlight Shortcut</string>
     <string name="floating_trigger">Swipe Up/Down Trigger</string>
     <string name="force_close">Force Close Dialogs</string>
@@ -213,7 +213,7 @@
     <string name="show_media">Show Media Controls</string>
     <string name="change_first_click">Change Volume On First Click</string>
     <string name="show_system">System Volume Panel</string>
-    <string name="show_levels">Show Level Labels</string>
+    <string name="show_levels">Enable Level Labels</string>
     <string name="when_notif">Only When Notification Active</string>
     <string name="volume_plus">Volume +</string>
     <string name="volume_minus">Volume -</string>
@@ -223,7 +223,7 @@
     <string name="hide">Hide Me</string>
     <string name="skip">Skip</string>
     <string name="app_sign">This application has been modified and will not run, re-directing to the play store</string>
-    <string name="horizontal">Horizontal Sliders</string>
+    <string name="horizontal">Horizontal Volume Panel</string>
     <string name="bottom">Position Bottom</string>
     <string name="telegram" translatable="false"><![CDATA[<br/><br/><br/><b>Volume Panel @Telegram:<b/> http://www.t.me/volumepanel]]></string>
     <string name="telegram_presets" translatable="false"><![CDATA[<br/><br/><br/><b>Design Presets @Telegram:<b/> https://t.me/VPPresets]]></string>
@@ -231,17 +231,24 @@
     <string name="dont_allow">Invalid Licence</string>
     <string name="text_colour">Text Colour</string>
     <string name="force_english">Force English</string>
-    <string name="merge_panels">Merge Panels</string>
+    <string name="merge_panels">Merge Panel Backgrounds</string>
     <string name="select">Select</string>
     <string name="design_preset">Design Presets</string>
     <string name="recent_changes">Recent Changes</string>
     <string name="change_log" translatable="false"><![CDATA[
-    <b>V20.38:</b>
+    <b>V20.48:</b>
+        <br/>\u2022 UI animation improvements.
+        <br/>\u2022 Panel performance optimisations.
+        <br/>\u2022 Make merge icons & merge labels independent.
+        <br/>\u2022 Re-design merged vertical sliders.
+        <br/>\u2022 Re-write panel item spacing logic.
     	<br/>\u2022 Add gradient slider colours.
     	<br/>\u2022 Add gradient border colours.
     	<br/>\u2022 Hungarian translation test.
     	<br/>\u2022 Block outside touches in sort dialogs.
     	<br/>\u2022 Adjust icon padding with borders.
+    	<br/>\u2022 Colour picker corrections.
+    	<br/>\u2022 Layout adjustments.
         <br/><br/>
     <b>V20.34:</b>
     	<br/>\u2022 Add Power Menu Shortcut.

@@ -222,12 +222,12 @@
     <string name="power_shortcut">Ярлык меню питания</string>
     <string name="ad">Реклама</string>
     <string name="loading_ad">Загрузка рекламы</string>
-    <string name="ad_click">Смотреть рекламу</string>
-    <string name="use_gradient">Gradient Sliders</string>
-    <string name="use_gradient_border">Gradient Borders</string>
-    <string name="end">End</string>
-    <string name="center">Center</string>
-    <string name="start">Start</string>
-    <string name="lp_reset_grad">Long press start, center or end to clear.</string>
-    <string name="gradient_bakground">Gradient Background</string>
+    <string name="use_gradient">Градиент (ползунки)</string>
+    <string name="use_gradient_border">Градиент (границы)</string>
+    <string name="end">В конце</string>
+    <string name="center">По середине</string>
+    <string name="start">В начале</string>
+    <string name="lp_reset_grad">Длинное нажатие для сброса</string>
+    <string name="gradient_bakground">Фон градиента</string>
+    <string name="ad_click">Watch Ad</string>
 </resources>

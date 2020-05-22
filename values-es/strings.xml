@@ -222,11 +222,11 @@ http://www.dontkillmyapp.com/]]></string>
     <string name="power_shortcut">Acceso directo al menú de apagado</string>
     <string name="ad">¡Publicidad</string>
     <string name="loading_ad">Cargando publicidad</string>
-    <string name="use_gradient">Deslizadores gradientes</string>
+    <string name="use_gradient">Deslizador gradiente</string>
     <string name="use_gradient_border">Bordes gradientes</string>
     <string name="end">Fin</string>
     <string name="center">Centro</string>
     <string name="start">Inicio</string>
-    <string name="lp_reset_grad">Mantén pulsado el inicio, centro o fin para eliminar.</string>
+    <string name="lp_reset_grad">Mantén pulsado inicio, centro o fin para eliminar.</string>
     <string name="gradient_bakground">Fondo gradiente</string>
 </resources>
