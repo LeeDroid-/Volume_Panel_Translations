@@ -252,12 +252,12 @@
     <string name="ad_watch_message">Aby tymczasowo odblokować tę opcję, proszę obejrzeć poniższą reklamę na pełnym ekranie.</string>
     <string name="power_shortcut">Skrót Do Menu Zasilania</string>
     <string name="ad">Reklama</string>
-    <string name="loading_ad">Załadunek Reklama</string>
-    <string name="use_gradient">Gradient Sliders</string>
-    <string name="use_gradient_border">Gradient Borders</string>
-    <string name="end">End</string>
-    <string name="center">Center</string>
+    <string name="loading_ad">Załaduj Reklamę</string>
+    <string name="use_gradient">Wypełnienie Suwaka</string>
+    <string name="use_gradient_border">Wypełnienie Granicy</string>
+    <string name="end">Koniec</string>
+    <string name="center">Środek</string>
     <string name="start">Start</string>
-    <string name="lp_reset_grad">Long press start, center or end to clear.</string>
-    <string name="gradient_bakground">Gradient Background</string>
+    <string name="lp_reset_grad">Naciśnij i przytrzymaj przycisk start, środek lub koniec, aby usunąć.</string>
+    <string name="gradient_bakground">Wypełnienie Tła</string>
 </resources>
